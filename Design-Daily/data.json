@@ -1,53 +1,176 @@
 {
-  "updatedAt": "2026-09-15T10:48:30.962983+08:00",
+  "updatedAt": "2026-09-15T11:04:59.103742+08:00",
   "sources": [
     {
       "name": "Dezeen",
+      "label": "德泽恩",
       "url": "https://www.dezeen.com/feed/",
+      "category": "工业设计",
       "ok": true,
-      "count": 16
+      "count": 50,
+      "latestPublishedAt": "2026-09-14T17:00:25+00:00"
     },
     {
       "name": "designboom",
+      "label": "设计邦",
       "url": "https://www.designboom.com/feed/",
+      "category": "空间设计",
       "ok": true,
-      "count": 10
+      "count": 10,
+      "latestPublishedAt": "2026-09-15T02:10:32+00:00"
     },
     {
       "name": "Yanko Design",
+      "label": "扬科设计",
       "url": "https://www.yankodesign.com/feed/",
+      "category": "工业设计",
       "ok": true,
-      "count": 10
+      "count": 10,
+      "latestPublishedAt": "2026-09-15T01:45:35+00:00"
     },
     {
       "name": "Smashing Magazine",
+      "label": "设计与开发杂志",
       "url": "https://www.smashingmagazine.com/feed/",
+      "category": "界面设计",
       "ok": true,
-      "count": 16
+      "count": 40,
+      "latestPublishedAt": "2026-09-11T13:00:00+00:00"
     },
     {
       "name": "Nielsen Norman Group",
+      "label": "尼尔森诺曼集团",
       "url": "https://www.nngroup.com/feed/rss/",
+      "category": "用户体验设计",
       "ok": true,
-      "count": 16
+      "count": 20,
+      "latestPublishedAt": "2026-09-11T17:00:00+00:00"
     },
     {
       "name": "Motionographer",
+      "label": "动态设计观察",
       "url": "https://motionographer.com/feed/",
+      "category": "动态设计",
       "ok": true,
-      "count": 10
+      "count": 10,
+      "latestPublishedAt": "2026-09-10T22:28:41+00:00"
     },
     {
       "name": "Core77",
+      "label": "工业设计网",
       "url": "https://feeds.feedburner.com/core77/blog",
+      "category": "工业设计",
       "ok": true,
-      "count": 15
+      "count": 15,
+      "latestPublishedAt": "2026-09-14T15:00:00+00:00"
     },
     {
       "name": "Creative Bloq",
+      "label": "创意视界",
       "url": "https://www.creativebloq.com/feeds/all",
+      "category": "视觉设计",
       "ok": true,
-      "count": 16
+      "count": 25,
+      "latestPublishedAt": "2026-09-14T20:04:41+00:00"
+    },
+    {
+      "name": "UX Collective",
+      "label": "用户体验集刊",
+      "url": "https://uxdesign.cc/feed",
+      "category": "用户体验设计",
+      "ok": true,
+      "count": 10,
+      "latestPublishedAt": "2026-09-14T18:52:50+00:00"
+    },
+    {
+      "name": "UX Planet",
+      "label": "用户体验星球",
+      "url": "https://uxplanet.org/feed",
+      "category": "用户体验设计",
+      "ok": true,
+      "count": 10,
+      "latestPublishedAt": "2026-09-14T12:30:52+00:00"
+    },
+    {
+      "name": "Codrops",
+      "label": "网页交互实验室",
+      "url": "https://tympanus.net/codrops/feed/",
+      "category": "动效设计",
+      "ok": true,
+      "count": 10,
+      "latestPublishedAt": "2026-09-14T11:30:10+00:00"
+    },
+    {
+      "name": "Awwwards",
+      "label": "网页设计奖",
+      "url": "https://www.awwwards.com/blog/feed/",
+      "category": "界面设计",
+      "ok": true,
+      "count": 30,
+      "latestPublishedAt": "2026-08-31T14:39:00+00:00"
+    },
+    {
+      "name": "Design Milk",
+      "label": "设计牛奶",
+      "url": "https://design-milk.com/feed/",
+      "category": "家具设计",
+      "ok": true,
+      "count": 12,
+      "latestPublishedAt": "2026-09-14T19:57:31+00:00"
+    },
+    {
+      "name": "Creative Boom",
+      "label": "创意浪潮",
+      "url": "https://www.creativeboom.com/feed/",
+      "category": "视觉设计",
+      "ok": true,
+      "count": 20,
+      "latestPublishedAt": "2026-09-14T05:45:00+00:00"
+    },
+    {
+      "name": "Car Body Design",
+      "label": "汽车车身设计",
+      "url": "https://www.carbodydesign.com/feed/",
+      "category": "交通工具设计",
+      "ok": true,
+      "count": 10,
+      "latestPublishedAt": "2026-04-04T13:25:18+00:00"
+    },
+    {
+      "name": "Stash",
+      "label": "动态影像精选",
+      "url": "https://www.stashmedia.tv/feed/",
+      "category": "动态设计",
+      "ok": true,
+      "count": 6,
+      "latestPublishedAt": "2026-09-14T09:23:07+00:00"
+    },
+    {
+      "name": "Art of VFX",
+      "label": "视觉特效艺术",
+      "url": "https://www.artofvfx.com/feed/",
+      "category": "动态设计",
+      "ok": true,
+      "count": 20,
+      "latestPublishedAt": "2026-09-14T18:00:00+00:00"
+    },
+    {
+      "name": "Blender",
+      "label": "三维创作社区",
+      "url": "https://www.blender.org/feed/",
+      "category": "动态设计",
+      "ok": true,
+      "count": 9,
+      "latestPublishedAt": "2026-07-14T15:48:17+00:00"
+    },
+    {
+      "name": "Hugging Face",
+      "label": "开源人工智能社区",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "category": "人工智能设计",
+      "ok": true,
+      "count": 60,
+      "latestPublishedAt": "2026-09-10T00:00:00+00:00"
     }
   ],
   "articles": [
@@ -62,7 +185,7 @@
       "publishedAt": "2026-09-14T22:30:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 98,
+      "score": 96,
       "titleZh": "十四平方米的三角小屋：把居住缩减到一间房",
       "summaryZh": "波兰迷你住宅工作室将经典三角屋顶转为拖车小屋，用整面前窗连接景观。",
       "reading": {
@@ -94,7 +217,7 @@
       "publishedAt": "2026-09-14T21:30:26+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 97,
+      "score": 95,
       "titleZh": "灯罩坏了，为什么要扔掉整盏灯？",
       "summaryZh": "路易斯·弗雷的毕业灯具以可替换纸面和折叠钢架，把维修纳入结构设计。",
       "reading": {
@@ -126,7 +249,7 @@
       "publishedAt": "2026-09-14T20:35:18+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 96,
+      "score": 94,
       "titleZh": "拉合尔的光之树：灯光装置也能成为孩子的聚会场所",
       "summaryZh": "拉扎·扎希德工作室以金属枝干、发光球体和大理石座台，连接图书馆外的阅读与交流。",
       "reading": {
@@ -158,7 +281,7 @@
       "publishedAt": "2026-09-14T20:30:28+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 96,
+      "score": 94,
       "titleZh": "用积木搭一座装饰艺术酒店",
       "summaryZh": "爱好者以迈阿密建筑和复古配色为灵感，创作可展开内部空间的积木酒店。",
       "reading": {
@@ -190,7 +313,7 @@
       "publishedAt": "2026-09-14T19:20:55+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 95,
+      "score": 93,
       "titleZh": "让鞋底成为主角：迪奥系带靴的比例实验",
       "summaryZh": "迪奥将夸张的圆柱感橡胶鞋底与粗花呢、绒面材料组合，重新分配鞋履的视觉重心。",
       "reading": {
@@ -222,7 +345,7 @@
       "publishedAt": "2026-09-14T18:46:41+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 94,
+      "score": 93,
       "titleZh": "七十米巨浪，铺向梵蒂冈图书馆外墙",
       "summaryZh": "法国艺术家以黑白洪水图像介入历史立面，让知识保存的脆弱性变得可见。",
       "reading": {
@@ -254,7 +377,7 @@
       "publishedAt": "2026-09-14T18:20:50+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 94,
+      "score": 92,
       "titleZh": "把手机送上空中：学生设计的自拍无人机概念",
       "summaryZh": "广州美术学院学生提出搭载手机的四旋翼方案，让拍摄者也能留在合照里。",
       "reading": {
@@ -286,7 +409,7 @@
       "publishedAt": "2026-09-14T18:10:39+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 94,
+      "score": 92,
       "titleZh": "和纸、蓝染与炭化杉木，进入当代音箱设计",
       "summaryZh": "东京团队以三种日本传统工艺打造音箱系列，将材料痕迹与声音产品结合。",
       "reading": {
@@ -318,7 +441,7 @@
       "publishedAt": "2026-09-14T17:20:13+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 93,
+      "score": 92,
       "titleZh": "花器般的闹钟，让清晨少一点屏幕感",
       "summaryZh": "陶器造型的概念闹钟结合植物枝条、鸟鸣和轻拍手势，探索卧室里的温和交互。",
       "reading": {
@@ -350,7 +473,7 @@
       "publishedAt": "2026-09-14T17:00:25+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 93,
+      "score": 91,
       "titleZh": "厚墙与透光屏风之间：阿根廷混凝土住宅",
       "summaryZh": "住宅以庭院、遮阳屏风和绿色屋顶调节室内外关系，让光影进入日常动线。",
       "reading": {
@@ -382,7 +505,7 @@
       "publishedAt": "2026-09-14T16:03:11+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 92,
+      "score": 91,
       "titleZh": "十三平方米占地，向上长成一座家",
       "summaryZh": "亚速尔群岛的一座储物建筑通过垂直扩展，形成约三十五平方米的紧凑住宅。",
       "reading": {
@@ -414,7 +537,7 @@
       "publishedAt": "2026-09-14T15:00:41+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 91,
+      "score": 90,
       "titleZh": "从马背播种到适应洪水的室内：学生项目合集",
       "summaryZh": "西班牙大学学生以生态修复、医疗环境和洪水适应为线索，提出跨尺度设计方案。",
       "reading": {
@@ -446,7 +569,7 @@
       "publishedAt": "2026-09-14T15:00:00+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 91,
+      "score": 90,
       "titleZh": "从圆柱到八角：让研磨器告诉你该转哪里",
       "summaryZh": "康斯坦丁·格尔契奇为阿莱西设计铝制研磨器，用八角轮廓与喷砂表面提示握持和旋转。",
       "reading": {
@@ -478,7 +601,7 @@
       "publishedAt": "2026-09-14T14:25:36+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 91,
+      "score": 90,
       "titleZh": "旧温室变成音乐节里的发光小屋",
       "summaryZh": "设计工作室改造回收温室，用半透明围护和工业灯具建立聚会场所。",
       "reading": {
@@ -510,7 +633,7 @@
       "publishedAt": "2026-09-14T14:20:22+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 91,
+      "score": 89,
       "titleZh": "钢索悬起木片，让落地灯看起来大、用起来轻",
       "summaryZh": "克里斯蒂安·博格以张拉结构组织木制灯罩，将连接方式转化为灯光语言。",
       "reading": {
@@ -542,7 +665,7 @@
       "publishedAt": "2026-09-14T13:20:19+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 90,
+      "score": 89,
       "titleZh": "三维打印花器，为什么看起来像编织物？",
       "summaryZh": "波兰工作室把打印路径、色带和起伏表面结合，让纹样成为花器结构。",
       "reading": {
@@ -574,7 +697,7 @@
       "publishedAt": "2026-09-14T13:00:00+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 90,
+      "score": 89,
       "titleZh": "从方块改成球体：钛制冷却球的形态调整",
       "summaryZh": "一款饮品冷却用品改用圆球外壳，尝试降低棱角与精细杯壁接触的问题。",
       "reading": {
@@ -606,7 +729,7 @@
       "publishedAt": "2026-09-14T10:43:25+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 88,
+      "score": 87,
       "titleZh": "巴黎设计周的临时工作室：把谈话与手作放在一起",
       "summaryZh": "设计邦在玛黑区以播客、聚会和纸型印花工作坊，将报道空间变成交流现场。",
       "reading": {
@@ -638,7 +761,7 @@
       "publishedAt": "2026-09-14T10:30:54+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 88,
+      "score": 87,
       "titleZh": "梯形从入口延伸到住宅：东京混凝土公寓",
       "summaryZh": "佐佐木龙一建筑事务所用梯形构件、透光楼梯和三翼布局组织十一套住宅。",
       "reading": {
@@ -670,7 +793,7 @@
       "publishedAt": "2026-09-14T10:15:29+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 88,
+      "score": 87,
       "titleZh": "竹壳与两种盾：伦敦设计节的穿山甲展亭",
       "summaryZh": "萨尔工作室以竹网壳叠加警用盾和编织雨盾，讨论保护与历史之间的关系。",
       "reading": {
@@ -702,7 +825,7 @@
       "publishedAt": "2026-09-14T10:00:39+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 88,
+      "score": 87,
       "titleZh": "用头发做材料、让洗手盆溶解：学生重新想象浴室",
       "summaryZh": "埃因霍温设计学院与卡德维通过八项学生项目，讨论资源紧缺时的浴室与循环行为。",
       "reading": {
@@ -734,7 +857,7 @@
       "publishedAt": "2026-09-14T09:30:03+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 88,
+      "score": 86,
       "titleZh": "悬浮靠背与连续铝框：维普旋转椅的新轮廓",
       "summaryZh": "维普以环绕扶手和靠背的铝制框架，打造面向会议室与家庭办公的旋转座椅。",
       "reading": {
@@ -768,7 +891,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "居住方式：空间如何塑造我们的日常",
       "summaryZh": "从工作、休息到与人相遇，设计邦重新审视居住空间如何参与日常生活。",
-      "score": 87,
+      "score": 86,
       "reading": {
         "sections": [
           {
@@ -811,7 +934,7 @@
       "publishedAt": "2026-09-14T09:00:44+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 87,
+      "score": 86,
       "titleZh": "设计展只能看不能碰？触摸也是理解作品的方式",
       "summaryZh": "记者爱丽丝·费舍尔讨论展览体验，呼吁让观众有机会坐下、触摸并真正使用设计。",
       "reading": {
@@ -843,7 +966,7 @@
       "publishedAt": "2026-09-14T08:15:33+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-14",
-      "score": 87,
+      "score": 85,
       "titleZh": "把笔记移到手机背面：背屏笔记装置的另一种屏幕思路",
       "summaryZh": "当手机正面被应用与信息占满，背屏笔记装置把随手记录放到背面，探索更直接的笔记体验。",
       "reading": {
@@ -872,7 +995,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "伦敦设计节开幕，城市为什么还要投资设计？",
       "summaryZh": "德泽恩对话伦敦市长萨迪克·汗，讨论设计节、城市创意生态与今年值得关注的内容。",
-      "score": 87,
+      "score": 85,
       "reading": {
         "sections": [
           {
@@ -899,7 +1022,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "让三维场景动起来：动画制作的几种路径",
       "summaryZh": "创意视界梳理三维动画的主要制作方式，从手工控制到规则驱动，理解运动是如何被构建的。",
-      "score": 87,
+      "score": 85,
       "reading": {
         "sections": [
           {
@@ -926,7 +1049,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "从工地泥土到车站墙砖：甜蜜地形的材料循环",
       "summaryZh": "设计师回收老橡树公地车站施工挖出的黏土，借传统饼干模具制作具有纹理的墙砖。",
-      "score": 86,
+      "score": 85,
       "reading": {
         "sections": [
           {
@@ -953,7 +1076,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "不用墙来分房间：雅典公寓的木作重组",
       "summaryZh": "这座建于上世纪七十年代的公寓通过一系列木作构件组织空间，以关系代替封闭的房间划分。",
-      "score": 71,
+      "score": 70,
       "reading": {
         "sections": [
           {
@@ -980,7 +1103,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "面向山林的住宅与工作室：阿莫纳之家",
       "summaryZh": "墨西哥住宅以白色石灰墙框景，兼顾工作、多代同住与未来户型调整。",
-      "score": 85,
+      "score": 84,
       "reading": {
         "sections": [
           {
@@ -1005,7 +1128,7 @@
       "publishedAt": "2026-09-13T22:30:06+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-14",
-      "score": 81,
+      "score": 80,
       "titleZh": "从小米标志出发，想象一辆圆角多用途汽车",
       "summaryZh": "卢卡斯·安杰洛的小米地平线概念车将圆角方形延伸到轮毂与尾灯。这是设计师独立概念，并非小米官方发布。",
       "reading": {
@@ -1034,7 +1157,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "走进欧姬芙画中的房屋、建筑与风景",
       "summaryZh": "底特律展览通过近四十幅绘画，追溯乔治亚·欧姬芙如何观看并表现建筑环境。",
-      "score": 80,
+      "score": 79,
       "reading": {
         "sections": [
           {
@@ -1059,7 +1182,7 @@
       "publishedAt": "2026-09-13T19:15:20+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-14",
-      "score": 80,
+      "score": 79,
       "titleZh": "赛车驶入客厅：狂热座椅的碳纤维语言",
       "summaryZh": "油渍实验室将碳纤维壳体与数控加工铝框架带入座椅设计，把赛车材料转化为日常家具。",
       "reading": {
@@ -1086,7 +1209,7 @@
       "publishedAt": "2026-09-13T17:20:49+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-14",
-      "score": 79,
+      "score": 78,
       "titleZh": "一件九十年历史的工具，塑造现代豪华旅行跑车",
       "summaryZh": "报道聚焦英式轮压机金属成形工艺，观察传统手工技术如何继续参与汽车造型。",
       "reading": {
@@ -1113,7 +1236,7 @@
       "publishedAt": "2026-09-13T15:20:55+00:00",
       "date": "2026-09-13",
       "firstSeen": "2026-09-14",
-      "score": 78,
+      "score": 77,
       "titleZh": "巴厘岛的偏心镜片装置，重新组织观看风景的方式",
       "summaryZh": "这件雕塑装置为熟悉的旅行场景引入新的观看角度，探索空间、风景与拍摄之间的关系。",
       "reading": {
@@ -1140,7 +1263,7 @@
       "publishedAt": "2026-09-13T14:15:28+00:00",
       "date": "2026-09-13",
       "firstSeen": "2026-09-14",
-      "score": 62,
+      "score": 61,
       "titleZh": "拆除废料的新生命：德黑兰的废墟展亭",
       "summaryZh": "回收混凝土与再生铝构成展亭，反射表面模糊建筑、残片与周围环境的边界。",
       "reading": {
@@ -1169,7 +1292,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "奇幻书封的战斗场面，如何建立戏剧张力？",
       "summaryZh": "插画师安德烈亚·皮帕罗分享绘画过程与视觉构思，解析一幅奇幻封面的制作。",
-      "score": 77,
+      "score": 76,
       "reading": {
         "sections": [
           {
@@ -1194,7 +1317,7 @@
       "publishedAt": "2026-09-13T13:20:25+00:00",
       "date": "2026-09-13",
       "firstSeen": "2026-09-14",
-      "score": 77,
+      "score": 76,
       "titleZh": "玻璃小屋：重新思考小尺度居住",
       "summaryZh": "玻璃小屋以大面积玻璃重新组织小屋与环境的关系，为紧凑居住提供另一种空间表达。",
       "reading": {
@@ -1223,7 +1346,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "《猫武士》动画幕后：电脑生成角色也能拥有细腻表情",
       "summaryZh": "幕后美术展示角色造型与表情设计，观察动画如何把书中的猫转化为银幕形象。",
-      "score": 62,
+      "score": 61,
       "reading": {
         "sections": [
           {
@@ -1248,7 +1371,7 @@
       "publishedAt": "2026-09-13T11:40:22+00:00",
       "date": "2026-09-13",
       "firstSeen": "2026-09-14",
-      "score": 76,
+      "score": 75,
       "titleZh": "177 颗微型发光二极管，让手机背面的标志发光",
       "summaryZh": "传音旗下品牌与托尼诺·兰博基尼的手机设计把灯光融入背板，探索品牌符号与硬件外观的结合。",
       "reading": {
@@ -1277,7 +1400,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "保持开放与好奇：与汤姆·墨菲的五个问题",
       "summaryZh": "威迈创意负责人谈创作习惯、追逐相关性的风险，以及工作之外对创意的滋养。",
-      "score": 76,
+      "score": 75,
       "reading": {
         "sections": [
           {
@@ -1358,7 +1481,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "七个把台球桌融入生活的室内空间",
       "summaryZh": "从酒吧、酒店到私人住宅，德泽恩汇集台球活动与室内布局相结合的案例。",
-      "score": 75,
+      "score": 74,
       "reading": {
         "sections": [
           {
@@ -1385,7 +1508,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "面团里的气孔，变成一家烘焙店的品牌语言",
       "summaryZh": "这套视觉识别从面包内部的不规则结构出发，让产品自身的特征成为品牌图形。",
-      "score": 60,
+      "score": 59,
       "reading": {
         "sections": [
           {
@@ -1412,7 +1535,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "赫尔辛基的新地标，用极简标志建立识别",
       "summaryZh": "由哈桑及合伙人创作的品牌设计，展示简洁造型如何保留辨识度与表达空间。",
-      "score": 60,
+      "score": 59,
       "reading": {
         "sections": [
           {
@@ -1464,7 +1587,7 @@
       "publishedAt": "2026-09-13T07:00:00+00:00",
       "date": "2026-09-13",
       "firstSeen": "2026-09-15",
-      "score": 59,
+      "score": 58,
       "titleZh": "从整理照片到图层编辑：佐纳工作室软件评测",
       "summaryZh": "创意视界评测一款集合照片管理、原始图像处理、图层编辑与视频功能的软件。",
       "reading": {
@@ -1577,7 +1700,7 @@
       "publishedAt": "2026-09-12T14:15:38+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-14",
-      "score": 69,
+      "score": 68,
       "titleZh": "金属网格与半透明表面，构成法国咖啡馆",
       "summaryZh": "工业材料、雕塑感不锈钢与一体化照明共同组织顾客动线，建立精确又轻盈的空间感。",
       "reading": {
@@ -1604,7 +1727,7 @@
       "publishedAt": "2026-09-12T11:00:00+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-14",
-      "score": 68,
+      "score": 67,
       "titleZh": "三维创作软件场景中的巨蛇：如何表现尺度与重量？",
       "summaryZh": "沃伊泰克·富斯分享大型场景的创作过程，讨论如何在强烈动势中保留清晰的视觉焦点。",
       "reading": {
@@ -1712,7 +1835,7 @@
       "publishedAt": "2026-09-12T08:00:00+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-14",
-      "score": 67,
+      "score": 66,
       "titleZh": "四十年后依然有效：澳大利亚制造标志的生命力",
       "summaryZh": "这枚绿金色袋鼠标志自 1986 年用于产品识别，文章分析其长期保持辨识度的原因。",
       "reading": {
@@ -1739,7 +1862,7 @@
       "publishedAt": "2026-09-12T07:45:05+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-14",
-      "score": 67,
+      "score": 66,
       "titleZh": "住在地下为什么让人觉得陌生？",
       "summaryZh": "地下住宅带来庇护与稳定环境，也引出人对地面世界的心理依赖。",
       "reading": {
@@ -1766,7 +1889,7 @@
       "publishedAt": "2026-09-12T05:00:59+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-14",
-      "score": 66,
+      "score": 65,
       "titleZh": "伦敦的石材高层：让外骨骼成为结构",
       "summaryZh": "德泽恩周报聚焦协作建筑事务所与韦布·耶茨的佩特拉高地项目，观察石材结构在高层建筑中的应用。",
       "reading": {
@@ -1820,7 +1943,7 @@
       "publishedAt": "2026-09-11T20:35:57+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-14",
-      "score": 64,
+      "score": 63,
       "titleZh": "白色展厅背后，藏着砖红色的博物馆房间",
       "summaryZh": "迪拜画廊通过退离玻璃立面的墙体组织视线，让展览空间保持连续性。",
       "reading": {
@@ -1903,7 +2026,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "夹具式胶带座：一个好想法，还需要哪些改进？",
       "summaryZh": "工业设计网评析夹具式胶带座，把夹紧结构与胶带分配组合，关注创意落地后的使用细节。",
-      "score": 63,
+      "score": 62,
       "reading": {
         "sections": [
           {
@@ -2009,7 +2132,7 @@
       "publishedAt": "2026-09-11T10:30:01+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-14",
-      "score": 62,
+      "score": 61,
       "titleZh": "芦泽启治的八岳住宅，以炭化杉木包裹折面",
       "summaryZh": "度假住宅通过有角度的体量回应景观，同时照顾居住者的私密性。",
       "reading": {
@@ -2036,7 +2159,7 @@
       "publishedAt": "2026-09-11T09:42:22+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-14",
-      "score": 62,
+      "score": 61,
       "titleZh": "在伦敦做设计，创作者如何维持生活？",
       "summaryZh": "设计节前夕，德泽恩与五位本地设计师讨论高生活成本下的工作与生存。",
       "reading": {
@@ -2063,7 +2186,7 @@
       "publishedAt": "2026-09-11T09:30:06+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-14",
-      "score": 62,
+      "score": 61,
       "titleZh": "牧牛扶手椅：澳大利亚乡野里的工业线索",
       "summaryZh": "吉布森·卡洛从乡村筒仓等金属结构获得灵感，为设计品牌设计带有粗犷气质的座椅。",
       "reading": {
@@ -2092,7 +2215,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "动态设计观察二十周年，重启创意招聘平台",
       "summaryZh": "平台以周年活动连接动态设计行业的工作机会，报道介绍新一轮招聘发布安排。",
-      "score": 60,
+      "score": 59,
       "reading": {
         "sections": [
           {
@@ -2308,7 +2431,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "翻转公共座椅：把空座位变成更灵活的空间",
       "summaryZh": "想象工业设计事务所的概念座椅可以翻转，并展开底部小桌，让候坐空间适应不同需求。",
-      "score": 55,
+      "score": 54,
       "reading": {
         "sections": [
           {
@@ -3253,7 +3376,7 @@
         "fbca73a44ab5fce5",
         "ad754e61731b8e86"
       ],
-      "updatedAt": "2026-09-15T10:48:30.962983+08:00"
+      "updatedAt": "2026-09-15T11:04:59.103742+08:00"
     }
   ],
   "rankingNote": "热度为本站关注指数：时效最高70分、配图15分、摘要完整度15分；不是全网阅读量或点赞量。",

@@ -1,7 +1,7 @@
 'use strict';
 const $ = id => document.getElementById(id);
 const SOURCE_LABELS = {"Dezeen": "德泽恩", "designboom": "设计邦", "Yanko Design": "扬科设计", "Smashing Magazine": "设计与开发杂志", "Nielsen Norman Group": "尼尔森诺曼集团", "Motionographer": "动态设计观察", "Core77": "工业设计网", "Creative Bloq": "创意视界"};
-const sourceName = name => SOURCE_LABELS[name] || '设计媒体';
+const sourceName = name => SOURCE_LABELS[name] || data?.sources?.find(s=>s.name===name)?.label || '设计媒体';
 const CATEGORIES = ['全部','工业设计','用户体验设计','界面设计','人工智能设计','动效设计','动态设计','家具设计','交通工具设计','空间设计','视觉设计'];
 let data, category='全部', sort='hot', selectedDate='', limit=11;
 let activeArticle=null;
@@ -37,7 +37,7 @@ function render(){
 }
 function changeDate(value){selectedDate=value;limit=11;activeArticle=null;showListing();render();syncListURL()}
 function archives(){showInfo('每一天，都值得翻阅。',`<p>按采集日期归档，文章卡片保留原始发布日期。</p>${[...data.issues].sort((a,b)=>b.date.localeCompare(a.date)).map(i=>`<button class="archive-day" data-date="${i.date}">${fmtDate(i.date)}<span>${i.articleIds.length} 条资讯 ↗</span></button>`).join('')}`)}
-function sources(){showInfo('资讯来源',`<p>读取设计媒体公开资讯源，保留摘要与原文入口。图片与文章版权属于原作者及来源媒体。</p><ul class="source-list">${data.sources.map(s=>`<li class="source-row"><a href="${safeURL(s.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(sourceName(s.name))} ↗</a><small>${s.ok?`${s.count} 条已采集`:'本次未连接'}</small></li>`).join('')}</ul><p>最后采集：${new Date(data.updatedAt).toLocaleString('zh-CN',{timeZone:'Asia/Shanghai',hour12:false})}（北京时间）。所有资讯标题和简介均经中文整理，未完成翻译的条目不会展示。来源使用中文译名或中文描述，原站名称以链接为准。</p>`)}
+function sources(){showInfo('资讯来源',`<p>现接入 ${data.sources.length} 个公开资讯源，覆盖设计媒体、专业社区与工具官方动态。保留中文整理与原文入口。图片与文章版权属于原作者及来源媒体。</p><ul class="source-list">${data.sources.map(s=>`<li class="source-row"><a href="${safeURL(s.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(sourceName(s.name))} ↗</a><small>${s.ok?`${s.count} 条候选已采集`:'本次未连接'}${s.latestPublishedAt?' · 最近发布 '+fmtDate(new Date(s.latestPublishedAt).toLocaleDateString('en-CA',{timeZone:'Asia/Shanghai'})):''}</small></li>`).join('')}</ul><p>最后采集：${new Date(data.updatedAt).toLocaleString('zh-CN',{timeZone:'Asia/Shanghai',hour12:false})}（北京时间）。所有资讯标题和简介均经中文整理，未完成翻译的条目不会展示。来源使用中文译名或中文描述，原站名称以链接为准。</p>`)}
 function delivery(){showInfo('你的每日设计简报',`<div class="schedule-block">09:00 <small>北京时间 · 每天</small></div><p>${data.schedule?.active?'每日采集与简报任务已启用。更新后，会在当前应用任务里发送当期摘要与网站链接。':'每日采集与推送尚未启用。启用后，会在当前应用任务里发送当期摘要与网站链接。'}</p><p>内容覆盖工业设计、用户体验、界面、人工智能、动效、动态影像、家具与交通工具设计。没有新资讯时会如实说明；采集失败时保留上一期。</p><p>这是当前应用任务的定时通知；执行时需要电脑开机并保持本应用运行。</p>`)}
 $('closeDialog').onclick=()=>$('infoDialog').close();$('infoDialog').addEventListener('click',e=>{if(e.target===$('infoDialog')){const b=e.target.getBoundingClientRect();if(e.clientX<b.left||e.clientX>b.right||e.clientY<b.top||e.clientY>b.bottom)e.target.close()}});
 $('dialogBody').addEventListener('click',e=>{const b=e.target.closest('[data-date]');if(b){changeDate(b.dataset.date);$('infoDialog').close()}});
