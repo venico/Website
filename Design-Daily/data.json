@@ -335,6 +335,38 @@
       }
     },
     {
+      "id": "51d9a609d3a30698",
+      "url": "https://uxdesign.cc/the-ux-double-diamond-is-dead-and-in-ai-only-one-survives-for-software-heres-how-to-adapt-f63b57c524ed",
+      "title": "The UX Double Diamond is dead, and in AI only one survives for software",
+      "summary": "Two diamonds drawn for a world where the second one cost real money. Both the double diamond and design thinking priced building as the risky step, and that price collapsed. What’s left is a one-page brief and a wider generation step. The Design Council launched the Double Diamond model in 2004 : two diamonds, problem then…",
+      "source": "UX Collective",
+      "category": "人工智能设计",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*euuE3WVu4wLT_et8GeAE-g.png",
+      "publishedAt": "2026-09-14T18:52:50+00:00",
+      "date": "2026-09-15",
+      "firstSeen": "2026-09-15",
+      "score": 93,
+      "titleZh": "人工智能改变制作成本后，双钻流程该怎样调整？",
+      "summaryZh": "一篇设计评论重新讨论问题探索与方案生成的分工，认为快速生成正在改变传统流程的成本结构。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "关于流程变化的一种观点",
+            "paragraphs": [
+              "作者从双钻模型的问题探索和方案开发两部分出发，提出当制作成本下降时，团队应重新安排设计投入。这是作者观点，并非双钻模型已被行业废弃的事实。当前整理依据公开摘要。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "生成更快不意味着问题已经定义清楚。团队仍需要说明为谁解决什么任务，以及如何验证结果；流程可以调整，但研究与评估的责任不会随生成速度自动消失。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "844ed02fbc2c3dd3",
       "url": "https://www.designboom.com/art/jr-sends-giant-wave-across-vatican-apostolic-library-facade-with-diluvium/",
       "title": "JR sends giant wave across vatican apostolic library facade with ‘diluvium’",
@@ -713,6 +745,70 @@
             "heading": "设计解读",
             "paragraphs": [
               "形状调整涉及杯口、滚动、清洗与接触面的共同变化。冷却效果和材料适用性应依正式说明判断，圆润造型本身不能证明所有使用问题都已解决。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "6760c9020004c014",
+      "url": "https://uxplanet.org/i-tried-to-make-claude-code-stop-producing-ai-slop-fa594f6b5981",
+      "title": "I Tried to Make Claude Code Stop Producing AI Slop",
+      "summary": "AI can generate a polished interface in seconds. But the problem is that most of the time, you can easily tell that AI generated",
+      "source": "UX Planet",
+      "category": "人工智能设计",
+      "image": "https://cdn-images-1.medium.com/max/1280/1*TpvXRAdzG49BeVbXBfNJ2Q.png",
+      "publishedAt": "2026-09-14T12:30:52+00:00",
+      "date": "2026-09-14",
+      "firstSeen": "2026-09-15",
+      "score": 88,
+      "titleZh": "人工智能生成的界面，为什么总有相似的味道？",
+      "summaryZh": "用户体验星球的作者尝试减少生成界面的模板感，讨论视觉质量与快速生成之间的差距。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "从能生成到值得使用",
+            "paragraphs": [
+              "公开摘要指出，工具能够快速生成看似完整的界面，但结果仍可能带有容易辨认的模板化特征。文章以作者的实践为线索，讨论如何面对这一问题；本条依据公开摘要整理。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "评估时可以分别检查信息层级、排版、间距与组件一致性。可运行和有设计质量是两项不同要求，设计约束越具体，反馈就越容易落实到可观察的改进。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "c8566f6a69ddc280",
+      "url": "https://tympanus.net/codrops/2026/09/14/inside-resns-digital-experiences/",
+      "title": "Making the Internet a Bit Less Sh*t: Inside Resn’s Digital Experiences",
+      "summary": "A look at how Resn combines brand, content, technology and a healthy disregard for boring websites to create digital experiences people actually want to",
+      "source": "Codrops",
+      "category": "动效设计",
+      "image": null,
+      "publishedAt": "2026-09-14T11:30:10+00:00",
+      "date": "2026-09-14",
+      "firstSeen": "2026-09-15",
+      "score": 73,
+      "titleZh": "让网站值得探索：独立创意团队的数字体验实践",
+      "summaryZh": "网页交互实验室介绍一家独立工作室如何结合品牌、内容与技术，创造有个性的互动体验。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "把团队经验放回作品",
+            "paragraphs": [
+              "工作室回顾自身从早期网络创作到跨地域协作的实践，强调品牌表达、内容和数字体验之间的联系，并以近期项目说明创作方向。这是一篇团队自述，应结合实际作品理解其方法。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "动效的价值可以从它是否帮助发现内容、形成反馈或建立记忆来判断。惊喜与清楚并不冲突，关键在于让用户理解互动结果，而不是只展示技术能力。"
             ]
           }
         ]
@@ -1388,6 +1484,38 @@
       }
     },
     {
+      "id": "6ac95cc8a8f36222",
+      "url": "https://tympanus.net/codrops/2026/09/13/building-depth-designing-and-developing-a-3d-renderer-inside-figma/",
+      "title": "Building Depth: Designing and Developing a 3D Renderer Inside Figma",
+      "summary": "A look at how Depth came together, from building a 3D renderer inside Figma to designing a website that explores what it can",
+      "source": "Codrops",
+      "category": "界面设计",
+      "image": null,
+      "publishedAt": "2026-09-13T11:34:39+00:00",
+      "date": "2026-09-13",
+      "firstSeen": "2026-09-15",
+      "score": 60,
+      "titleZh": "把三维渲染放进设计画布：减少原型中的工具切换",
+      "summaryZh": "设计师开发画布内三维渲染工具，让模型、镜头与光线调整融入网页设计流程。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "从真实工作中的阻碍出发",
+            "paragraphs": [
+              "作者在产品网站设计中需要反复测试三维图像，却不希望每次都切换到独立三维软件。工具因此围绕载入模型、调整镜头与灯光、将图像放回画布的流程展开，早期重点验证响应速度与控制面板的易用性。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "这个案例关注设计阶段的判断效率，而非替代最终视觉制作。把必要控制留在当前任务中，可以减少切换，但也需要避免让轻量工具变成另一个复杂编辑器。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "695394f8cec7b57e",
       "url": "https://www.creativebloq.com/professional-development/creative-careers/im-conscious-of-remaining-open-and-curious-and-uncynical-5-questions-with-tom-murphy",
       "title": "'I'm conscious of remaining open and curious and uncynical': 5 questions with Tom Murphy",
@@ -1825,6 +1953,38 @@
       }
     },
     {
+      "id": "e5b60107e6763277",
+      "url": "https://tympanus.net/codrops/2026/09/12/yestalgia-bringing-decathlons-90s-spirit-to-life-through-a-playful-digital-experience/",
+      "title": "Yestalgia: Bringing Decathlon’s ’90s Spirit to Life Through a Playful Digital Experience",
+      "summary": "A closer look at how Yestalgia brings Decathlon’s ’90s-inspired vision to the web through art direction, interaction, animation, and creative",
+      "source": "Codrops",
+      "category": "界面设计",
+      "image": null,
+      "publishedAt": "2026-09-12T08:40:31+00:00",
+      "date": "2026-09-12",
+      "firstSeen": "2026-09-15",
+      "score": 51,
+      "titleZh": "迪卡侬的九十年代记忆，怎样变成网页体验？",
+      "summaryZh": "品牌以鲜明插画、表现性文字和大幅产品图，构建带有怀旧气质的线上发布体验。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "从美术方向到浏览结构",
+            "paragraphs": [
+              "项目围绕迪卡侬限量系列展开，把重新演绎的档案单品与九十年代视觉参考结合。页面采用偏编辑式的图文段落，让产品图成为主体，界面元素保持克制，试图在表现力与浏览效率之间取得平衡。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "怀旧主题不必只靠旧式按钮或装饰符号表达。配色、文字节奏和图像编排可以共同建立氛围，而导航仍需让用户迅速理解当前位置和下一步操作。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "fbce8929339ce430",
       "url": "https://www.creativebloq.com/design/logos-icons/this-logo-just-turned-40-but-it-could-have-been-made-yesterday",
       "title": "This logo just turned 40, but it could have been made yesterday",
@@ -2014,6 +2174,38 @@
       }
     },
     {
+      "id": "61ac68885996e3f1",
+      "url": "https://www.stashmedia.tv/altspace-gets-under-the-skin-of-the-aston-martin-valhalla/",
+      "title": "AltSpace Gets Under the Skin of the Aston Martin Valhalla",
+      "summary": "In their latest work for Aston Martin, AltSpace CDs Igor Voloschuk and Dmitry Egorov build out 26 immaculate CG films revealing the intense engineering underneath the sleek exterior of the marque's mid-engine PHEV hybrid supercar.",
+      "source": "Stash",
+      "category": "动态设计",
+      "image": null,
+      "publishedAt": "2026-09-11T14:32:01+00:00",
+      "date": "2026-09-11",
+      "firstSeen": "2026-09-15",
+      "score": 47,
+      "titleZh": "用二十六部数字短片，拆解超级跑车的内部结构",
+      "summaryZh": "动态影像团队为阿斯顿·马丁打造系列电脑生成影片，将车身内部的工程结构转化为可观看的内容。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "产品内部也能成为影像主题",
+            "paragraphs": [
+              "公开摘要介绍了二十六部电脑生成短片，主题是混合动力超级跑车外壳之下的工程设计。本条不据此推断实车性能或影片具体制作软件，完整作品保留原文观看入口。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "产品动画可以帮助观众理解照片难以展示的内部关系。清晰的拆解顺序、尺度参照与镜头停留时间，比单纯增加视觉复杂度更能支持理解。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "ae23a87f177ad2e7",
       "url": "https://www.core77.com/posts/145325/A-Great-Design-in-Need-of-Basic-Improvement-This-Clamp-Based-Tape-Dispenser",
       "title": "A Great Design in Need of Basic Improvement: This Clamp-Based Tape Dispenser",
@@ -2122,6 +2314,38 @@
       }
     },
     {
+      "id": "493d36d2d4e35757",
+      "url": "https://www.artofvfx.com/hope/",
+      "title": "Hope",
+      "summary": "Go behind the scenes of Hope! This new making-of takes us onto the set and reveals Michael Fassbender and Alicia Vikander in motion capture suits, performing the mysterious creatures at the heart of the film. Set in a remote harbor town, the film follows its residents as they struggle to survive after a mysterious discovery",
+      "source": "Art of VFX",
+      "category": "动态设计",
+      "image": null,
+      "publishedAt": "2026-09-11T12:00:00+00:00",
+      "date": "2026-09-11",
+      "firstSeen": "2026-09-15",
+      "score": 47,
+      "titleZh": "动作捕捉如何进入角色表演：电影幕后片段",
+      "summaryZh": "视觉特效艺术收录电影幕后内容，展示演员穿着动作捕捉服参与生物角色表演。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "从演员动作到银幕角色",
+            "paragraphs": [
+              "公开摘要提到迈克尔·法斯宾德与艾丽西亚·维坎德穿着动作捕捉服在片场表演。它为观察演员动作与虚拟角色之间的联系提供入口；后续技术流程仍需以完整幕后资料为准。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "动作捕捉并不等于自动得到最终角色。观看时可以关注姿态、节奏与互动关系，再结合制作说明理解哪些部分来自表演、哪些经过动画调整。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "9eff85e1447b6644",
       "url": "https://www.dezeen.com/2026/09/11/keiji-ashizawa-house-yatsugatake/",
       "title": "Keiji Ashizawa clads House in Yatsugatake in charred cedar",
@@ -2200,6 +2424,70 @@
           }
         ],
         "basis": "feed"
+      }
+    },
+    {
+      "id": "9747d561e8d8b6a6",
+      "url": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0",
+      "title": "8 voice AIUX patterns",
+      "summary": "8 voice AI UX patterns Mapping emerging Voice AI UX patterns, perceived agent roles, key design decisions and limitations Radio Rex (1922) was the first voice-activated toy ever sold. Rex the dog lived in a little doghouse held shut by an electromagnet. When you said “Rex,” the sound energy of the letter “x,” around 500 Hz,…",
+      "source": "UX Collective",
+      "category": "用户体验设计",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*yoggBwjdzBWtH9OpJjrZ9g.jpeg",
+      "publishedAt": "2026-09-10T22:40:55+00:00",
+      "date": "2026-09-11",
+      "firstSeen": "2026-09-15",
+      "score": 59,
+      "titleZh": "语音人工智能的八种体验模式",
+      "summaryZh": "作者梳理新兴语音交互模式，讨论用户理解的助手角色、设计决策与能力限制。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "先明确系统扮演什么角色",
+            "paragraphs": [
+              "公开摘要说明文章比较八种语音体验模式，并关注用户对智能体角色的感知、设计中的关键选择与限制。这里保留其研究方向，不依据摘要补写未公开的完整模式清单。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "语音交互需要让倾听、处理和回应状态可感知。用户能否打断、纠正或退出，同样影响控制感；这些问题可以成为阅读原文与审视产品时的观察维度。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "ce73c3036da56a70",
+      "url": "https://uxdesign.cc/how-authentication-friction-frustrates-users-and-how-to-stop-it-552635e50a77",
+      "title": "How authentication friction frustrates users — and how to stop it",
+      "summary": "We’ve been doing authentication all wrong. Here’s how to fix",
+      "source": "UX Collective",
+      "category": "用户体验设计",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*YkgbdIzcyt4bGcE0",
+      "publishedAt": "2026-09-10T22:39:57+00:00",
+      "date": "2026-09-11",
+      "firstSeen": "2026-09-15",
+      "score": 44,
+      "titleZh": "登录验证里的阻力，为什么让用户放弃？",
+      "summaryZh": "一篇用户体验评论聚焦身份验证流程中的挫败感，讨论如何减少不必要的操作负担。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "把验证放回任务上下文",
+            "paragraphs": [
+              "公开摘要将身份验证中的摩擦作为核心问题，提出重新审视现有做法。摘要未提供完整方法或测试数据，因此不把具体改进结论归于作者。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "设计审视可以从错误提示、恢复路径与重复输入入手。减少负担应同时保持必要的身份保护，并让用户知道操作失败的原因及下一步可以做什么。"
+            ]
+          }
+        ]
       }
     },
     {
@@ -2524,6 +2812,38 @@
           }
         ],
         "basis": "feed"
+      }
+    },
+    {
+      "id": "d1168f0321589327",
+      "url": "https://tympanus.net/codrops/2026/09/08/building-an-infinite-liquid-glass-grid-with-three-js-webgpu-and-tsl/",
+      "title": "Building an Infinite Liquid Glass Grid with Three.js, WebGPU, and TSL",
+      "summary": "An exploration of infinite grids, liquid glass, and video refraction using Three.js, WebGPU, TSL, and custom",
+      "source": "Codrops",
+      "category": "动效设计",
+      "image": null,
+      "publishedAt": "2026-09-08T13:09:48+00:00",
+      "date": "2026-09-08",
+      "firstSeen": "2026-09-15",
+      "score": 37,
+      "titleZh": "会折射视频的无限玻璃网格",
+      "summaryZh": "创意开发者以浏览器图形技术制作可拖动的玻璃视频卡片，将材质与运动结合。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "用材质模拟几何厚度",
+            "paragraphs": [
+              "实验将卡片建立在细分平面上，通过材质计算呈现圆角、倒角与折射感，而不是为每块玻璃建立厚实体。视频成为卡片纹理，拖动弹性与循环网格共同组织观看体验。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "这种做法展示了视觉效果与渲染成本之间的取舍。用于正式界面时，还需评估设备性能、文字可读性和减少动态效果的偏好，避免材质表现干扰内容。"
+            ]
+          }
+        ]
       }
     },
     {
@@ -3356,6 +3676,7 @@
         "2baad6c0a8f65b4e",
         "2f80d8c1b51e898b",
         "49ac2bc355d460dd",
+        "51d9a609d3a30698",
         "844ed02fbc2c3dd3",
         "e52d4922aa913da6",
         "e90674004b1199ac",
@@ -3368,13 +3689,22 @@
         "f5eb7de20cf4d26c",
         "406925f9859db759",
         "1db1e07eeaa12c99",
+        "6760c9020004c014",
+        "c8566f6a69ddc280",
         "5c36b8a804875a4d",
         "acf7966643fd66cb",
         "f5002839cb1c7d9d",
         "6584fb84fa9b06c6",
         "1e208278c184e214",
         "fbca73a44ab5fce5",
-        "ad754e61731b8e86"
+        "6ac95cc8a8f36222",
+        "ad754e61731b8e86",
+        "e5b60107e6763277",
+        "61ac68885996e3f1",
+        "493d36d2d4e35757",
+        "9747d561e8d8b6a6",
+        "ce73c3036da56a70",
+        "d1168f0321589327"
       ],
       "updatedAt": "2026-09-15T11:04:59.103742+08:00"
     }
