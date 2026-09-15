@@ -10,3 +10,7 @@
 .brand-mark{flex-shrink:0;color:#000}.brand-mark .dd-symbol{display:block;width:80%;height:auto;overflow:visible;transform:translateX(1px)}
 
 .reading-section{margin:34px 0}.reading-section h2{font-size:22px;line-height:1.6;margin:0 0 16px}.reading-section p{font-size:18px;line-height:2.05;margin:0 0 18px;max-width:42em;overflow-wrap:anywhere}.detail-lead{font-weight:500}.reading-original{display:inline-block;font-size:15px;border-bottom:1px solid currentColor;padding:6px 0;margin-top:10px}.reading-original:hover{opacity:.65}@media(max-width:760px){.reading-section{margin:28px 0}.reading-section h2{font-size:21px}.reading-section p{font-size:17px;line-height:2}}
+
+/* Reserve the top row for one label on image fallbacks. */
+.story.featured .story-image.no-image:after{content:none}
+.story-image.no-image .featured-label{color:var(--ink);line-height:1.4;font-size:11px;letter-spacing:1px}
