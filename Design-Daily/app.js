@@ -58,14 +58,41 @@ function render(){
  $('articleCount').textContent=`${items.length} 条资讯 · ${new Set(items.map(a=>a.source)).size} 个来源`;
  $('categories').innerHTML=CATEGORIES.map(c=>`<button data-category="${c}" class="${category===c?'active':''}" aria-pressed="${category===c}">${categoryLabel(c)}<small>${c==='全部'?issue.length:issue.filter(a=>a.category===c).length}</small></button>`).join('');
  $('sortHot').classList.toggle('selected',sort==='hot');$('sortNew').classList.toggle('selected',sort==='new');$('sortHot').setAttribute('aria-pressed',sort==='hot');$('sortNew').setAttribute('aria-pressed',sort==='new');
- if(!items.length){$('news').innerHTML=`<div class="empty-state"><span class="eyebrow">给好奇心一点留白</span><h2>${currentIssue()?'这一期，暂时没有这个领域的资讯。':'这一天还没有日报。'}</h2><p>只收录已采集的内容。可以切换设计领域，或回到最近一期。</p><button id="resetFilters">查看最近一期 · 全部设计</button></div>`;$('resetFilters').onclick=()=>{category='全部';selectedDate=dates.at(-1);limit=11;render()};$('moreButton').hidden=true;return}
+ if(!items.length){$('news').innerHTML=`<div class="empty-state"><span class="eyebrow">给好奇心一点留白</span><h2>${currentIssue()?'这一期，暂时没有这个领域的资讯。':'这一天还没有日报。'}</h2><p>只收录已采集的内容。可以切换设计领域，或回到最近一期。</p><button id="resetFilters">查看最近一期 · 全部设计</button></div>`;$('resetFilters').onclick=()=>{category='全部';selectedDate=dates.at(-1);limit=11;render()};$('loadMoreStatus').hidden=true;return}
  const ranked=[...issue].sort((a,b)=>b.score-a.score).slice(0,5);
  const featured=`<div class="feature-grid">${story(items[0],0,'featured')}${items[1]?`<div class="feature-secondary">${story(items[1],1,'secondary')}</div>`:''}<aside class="hot-panel" aria-label="本期热度榜"><h2 class="section-title">本期热度榜 <span>趋势观察 ↗</span></h2>${ranked.map((a,i)=>`<a class="hot-item" href="?article=${a.id}" data-article="${a.id}"><span class="hot-rank">${String(i+1).padStart(2,'0')}</span><div><h3>${escapeHTML(a.titleZh||'设计资讯')}</h3><p>${escapeHTML(categoryLabel(a.category))} · 关注指数 ${a.score}</p></div></a>`).join('')}</aside></div>`;
  const rest=items.slice(2,limit);
  $('news').innerHTML=featured+(rest.length?`<div class="feed-heading"><h2>继续发现<span>更多设计发现</span></h2><span>${category==='全部'?'跨越领域的设计视角':categoryLabel(category)}</span></div><div class="news-grid">${rest.map((a,i)=>story(a,i+2)).join('')}</div>`:'');
- document.querySelectorAll('.story-image img').forEach(img=>img.addEventListener('error',()=>{const holder=img.parentElement;holder.classList.add('no-image');const label=img.closest('.story').querySelector('.category-name').textContent;img.remove();holder.querySelector('.image-credit')?.remove();holder.insertAdjacentHTML('afterbegin',collage({id:holder.closest('.story').querySelector('[data-article]').dataset.article}))},{once:true}));
- $('moreButton').hidden=items.length<=limit;$('moreButton').innerHTML=`继续阅读 <span>↓</span> <small>${Math.max(0,items.length-limit)} 条</small>`;
+ bindCoverFallbacks($('news'));
+ updateLoadStatus(items.length);
 }
+
+function bindCoverFallbacks(root){
+ root.querySelectorAll('.story-image img').forEach(img=>img.addEventListener('error',()=>{const holder=img.parentElement;holder.classList.add('no-image');const label=img.closest('.story').querySelector('.category-name').textContent;img.remove();holder.querySelector('.image-credit')?.remove();holder.insertAdjacentHTML('afterbegin',collage({id:holder.closest('.story').querySelector('[data-article]').dataset.article}))},{once:true}));
+}
+function updateLoadStatus(total){
+ const status=$('loadMoreStatus');
+ status.hidden=total===0;
+ status.textContent=limit<total?'上滑自动加载 20 条':'本期资讯已全部加载';
+}
+function loadNextPage(){
+ if(!data||$('listingPage').hidden)return;
+ const items=ordered(issueArticles().filter(a=>category==='全部'||a.category===category));
+ if(limit>=items.length)return;
+ const grid=$('news').querySelector('.news-grid');
+ if(!grid)return;
+ const start=limit;limit=Math.min(limit+20,items.length);
+ const fragment=document.createElement('div');
+ fragment.innerHTML=items.slice(start,limit).map((a,i)=>story(a,start+i)).join('');
+ bindCoverFallbacks(fragment);
+ grid.append(...fragment.children);
+ updateLoadStatus(items.length);
+}
+const loadObserver=new IntersectionObserver(entries=>{
+ if(entries.some(entry=>entry.isIntersecting))loadNextPage();
+},{rootMargin:'0px 0px 200px 0px'});
+loadObserver.observe($('loadMoreStatus'));
+
 function changeDate(value){selectedDate=value;limit=11;activeArticle=null;showListing();render();syncListURL()}
 function archives(){showInfo('每一天，都值得翻阅。',`<p>按采集日期归档，文章卡片保留原始发布日期。</p>${[...data.issues].sort((a,b)=>b.date.localeCompare(a.date)).map(i=>`<button class="archive-day" data-date="${i.date}">${fmtDate(i.date)}<span>${i.articleIds.length} 条资讯 ↗</span></button>`).join('')}`)}
 function sources(scope=null){
@@ -93,7 +120,7 @@ $('categories').addEventListener('click',e=>{const b=e.target.closest('[data-cat
 $('datePicker').onchange=e=>{if(e.target.value)changeDate(e.target.value)};
 $('previousDay').onclick=()=>{const d=data.issues.map(i=>i.date).filter(d=>d<selectedDate).sort().at(-1);if(d)changeDate(d)};
 $('nextDay').onclick=()=>{const d=data.issues.map(i=>i.date).filter(d=>d>selectedDate).sort()[0];if(d)changeDate(d)};
-$('sortHot').onclick=()=>{sort='hot';render();syncListURL()};$('sortNew').onclick=()=>{sort='new';render();syncListURL()};$('moreButton').onclick=()=>{limit+=9;render()};
+$('sortHot').onclick=()=>{sort='hot';render();syncListURL()};$('sortNew').onclick=()=>{sort='new';render();syncListURL()};
 $('todayButton').onclick=()=>{category='全部';changeDate(data.issues.map(i=>i.date).sort().at(-1))};$('archiveButton').onclick=archives;$('sourcesButton').onclick=()=>sources();$('articleCount').onclick=()=>sources(category);
 $('aboutButton').onclick=()=>showInfo('设计，每天发生。','<p>设计博物馆 是一份跨领域的设计资讯日报。从工业产品到交互界面，从动态影像到家具与出行，每天整理设计的新动向。</p><p>首页浏览简介，详情页阅读中文整理与设计解读，也可前往原文深入了解。日报按采集日期归档，各条资讯标注原始发布日期。</p><p>人工智能设计栏目收录人工智能工具、生成式创作与相关设计实践。动效关注交互与界面运动，动态设计关注影像、动画与视觉叙事。</p>');
 $('rankingButton').onclick=()=>showInfo('热度，有据可循。',`<p>${escapeHTML(data.rankingNote)}</p><ul><li>时效：70 ÷（1 + 发布天数 ÷ 3）</li><li>配图：有配图加 15 分</li><li>摘要：超过 80 个字符加 15 分</li></ul><p>这是便于浏览的估算排序，不代表真实的社交讨论热度。可切换「按时间」阅读最新发布的文章。</p>`);
