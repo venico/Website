@@ -24,7 +24,31 @@ function story(a,index,kind=''){
  return `<article class="story ${kind}"><a href="?article=${a.id}" data-article="${a.id}" aria-label="查看详情：${escapeHTML(title)}"><div class="story-image ${a.image?'':'no-image'}">${a.image?`<img src="${safeURL(a.image)}" alt="${escapeHTML(title)}" ${index>1?'loading="lazy"':'fetchpriority="high"'} decoding="async">`:collage(a)}${a.video?'<span class="video-label"><span aria-hidden="true">▶</span><span>播放视频</span></span>':''}${kind==='featured'?'<span class="featured-label">本期关注</span>':''}${a.image?`<span class="image-credit">图源 ${escapeHTML(sourceName(a.source))}</span>`:''}</div><div class="story-category"><span class="category-name">${escapeHTML(categoryLabel(a.category))}</span>${heat(a)}</div><${kind?'h2':'h3'}>${escapeHTML(title)}</${kind?'h2':'h3'}><p class="summary">${escapeHTML(a.summaryZh||'前往来源网站阅读全文。')}</p><div class="story-meta"><span class="source">${escapeHTML(sourceName(a.source))} <span class="source-arrow">↗</span></span><time datetime="${escapeHTML(a.publishedAt)}">${fmtDate(a.date)} 发布</time></div></a></article>`;
 }
 function showInfo(title,body){$('dialogTitle').textContent=title;$('dialogBody').innerHTML=body;if(!$('infoDialog').open)$('infoDialog').showModal()}
+const DAILY_LINES=[
+ ['设计，','每天发生。','从屏幕到日常物件，保持对好设计的好奇。'],
+ ['换个角度，','看见日常。','一把椅子，一次点击，都藏着重新思考的可能。'],
+ ['好设计，','值得停留。','放慢一点，看看形态、材料与体验之间的关系。'],
+ ['灵感，','就在身边。','从一个细节出发，发现生活还有多少种解法。'],
+ ['让想法，','走进生活。','连接数字与实体，观察创意如何成为真实体验。'],
+ ['少一点，','想深一点。','去掉多余的表达，让真正重要的体验浮现。'],
+ ['从细节，','读懂设计。','留意那些不显眼的决定，它们常常改变整体。'],
+ ['保持好奇，','继续发现。','今天的新作品，也许会打开明天的新思路。'],
+ ['日常之中，','另有可能。','把熟悉的事物再看一遍，让问题带来新的方向。'],
+ ['形式之外，','还有体验。','不止看它是什么样，也关心它如何被使用。'],
+ ['让创意，','有迹可循。','沿着作品寻找过程，看见每一次选择的理由。'],
+ ['在变化中，','寻找秩序。','从界面到空间，观察设计怎样回应新的生活。'],
+ ['把目光，','交给细节。','一处转角，一段动效，都能成为今天的灵感。'],
+ ['设计未完，','探索继续。','收集值得思考的作品，让好问题不断生长。']
+];
+function renderDailyLines(){
+ const day=Math.floor(Date.parse(selectedDate+'T00:00:00Z')/86400000);
+ const line=DAILY_LINES[((day%DAILY_LINES.length)+DAILY_LINES.length)%DAILY_LINES.length];
+ const copy=currentIssue()?.masthead;
+ $('site-title').innerHTML=escapeHTML(copy?.lead||line[0])+'<span>'+escapeHTML(copy?.title||line[1])+'</span><i aria-hidden="true">✳</i>';
+ document.querySelector('.masthead p').textContent=copy?.subtitle||line[2];
+}
 function render(){
+ renderDailyLines();
  const issue=issueArticles(), dates=data.issues.map(i=>i.date).sort();
  const items=ordered(issue.filter(a=>category==='全部'||a.category===category));
  $('datePicker').value=selectedDate;$('datePicker').min=dates[0];$('datePicker').max=dates.at(-1);
