@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T09:02:15.032028+08:00",
+  "updatedAt": "2026-09-15T10:48:30.962983+08:00",
   "sources": [
     {
       "name": "Dezeen",
@@ -52,6 +52,70 @@
   ],
   "articles": [
     {
+      "id": "ebf39d3b4844e71d",
+      "url": "https://www.yankodesign.com/2026/09/14/the-mini-brda-classic-is-the-tiniest-a-frame-you-can-actually-live-in/?utm_source=rss&utm_medium=rss&utm_campaign=the-mini-brda-classic-is-the-tiniest-a-frame-you-can-actually-live-in",
+      "title": "The Mini Brda Classic Is the Tiniest A-Frame You Can Actually Live In",
+      "summary": "The Mini Brda Classic Is the Tiniest A-Frame You Can Actually Live In The A-frame has always been an honest form. Its steep pitch, its triangular silhouette cutting against the sky. There’s nothing decorative about it. Every",
+      "source": "Yanko Design",
+      "category": "空间设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/mini-brda-classic/mini_brda_yanko_design_01.jpg",
+      "publishedAt": "2026-09-14T22:30:00+00:00",
+      "date": "2026-09-15",
+      "firstSeen": "2026-09-15",
+      "score": 98,
+      "titleZh": "十四平方米的三角小屋：把居住缩减到一间房",
+      "summaryZh": "波兰迷你住宅工作室将经典三角屋顶转为拖车小屋，用整面前窗连接景观。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "紧凑而直接的空间组织",
+            "paragraphs": [
+              "报道介绍的小屋长约四点八米，室内约十四平方米，采用无隔断、无夹层的单间布局，可配置床与小厨房。双轴拖车使它具备迁移的可能，大面积前窗则成为主要的采光与观景界面。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "小屋没有通过叠加活动机构追求功能数量，而是接受有限面积带来的取舍。实际居住仍应结合卫浴、供水和停放条件判断，不能仅凭外观把它当成完整住宅的替代品。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b4abe2cbd7d1ba24",
+      "url": "https://www.yankodesign.com/2026/09/14/nobody-designs-lamps-you-can-repair-this-one-finally-does/?utm_source=rss&utm_medium=rss&utm_campaign=nobody-designs-lamps-you-can-repair-this-one-finally-does",
+      "title": "Nobody Designs Lamps You Can Repair. This One Finally Does",
+      "summary": "Nobody Designs Lamps You Can Repair. This One Finally Does I have lost count of how many lamps I have tossed simply because one piece failed. A shade cracked, a joint snapped, a cord",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/nobody-designs-lamps-you-can-repair-this-one-finally-does/ori-lamp-00.jpg",
+      "publishedAt": "2026-09-14T21:30:26+00:00",
+      "date": "2026-09-15",
+      "firstSeen": "2026-09-15",
+      "score": 97,
+      "titleZh": "灯罩坏了，为什么要扔掉整盏灯？",
+      "summaryZh": "路易斯·弗雷的毕业灯具以可替换纸面和折叠钢架，把维修纳入结构设计。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "让不同寿命的部件分别更换",
+            "paragraphs": [
+              "该灯具是设计师在慕尼黑完成的毕业项目，将手工马尼拉麻纸灯罩与不锈钢框架组合。纸面可单独替换，钢架可以折平，分解展示也让灯座、线材和连接件的关系更容易理解。目前报道将其描述为展览中的毕业作品。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "维修性既与拆卸方式有关，也依赖几年后能否取得合适配件。这个方案的启发是将易损表面与长期使用的骨架分开，而不是让一个部件损坏决定整个产品的寿命。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "2baad6c0a8f65b4e",
       "url": "https://www.designboom.com/design/luminous-globes-branched-metal-tree-installation-pakistan-raza-zahid-atelier/",
       "title": "luminous globes extend from branched metal tree installation in pakistan",
@@ -78,6 +142,134 @@
             "heading": "设计解读",
             "paragraphs": [
               "这个案例把照明与停留放在一起设计。相比单纯增加亮度，座位的位置、不同方向的可达性，以及日常与节庆两种使用节奏，更能解释装置怎样参与公共生活。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "2f80d8c1b51e898b",
+      "url": "https://www.yankodesign.com/2026/09/14/delightfully-retro-lego-art-deco-hotel-celebrates-vice-city-with-gta-6-right-around-the-corner/?utm_source=rss&utm_medium=rss&utm_campaign=delightfully-retro-lego-art-deco-hotel-celebrates-vice-city-with-gta-6-right-around-the-corner",
+      "title": "Delightfully Retro LEGO Art Deco Hotel Celebrates Vice City with GTA 6 Right Around The Corner",
+      "summary": "Delightfully Retro LEGO Art Deco Hotel Celebrates Vice City with GTA 6 Right Around The Corner Here’s a fun bit of trivia to drop at your next party and watch people’s eyes glaze over: LEGO made its own version of",
+      "source": "Yanko Design",
+      "category": "视觉设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/lego_ideas_art_deco_hotel_1.jpeg",
+      "publishedAt": "2026-09-14T20:30:28+00:00",
+      "date": "2026-09-15",
+      "firstSeen": "2026-09-15",
+      "score": 96,
+      "titleZh": "用积木搭一座装饰艺术酒店",
+      "summaryZh": "爱好者以迈阿密建筑和复古配色为灵感，创作可展开内部空间的积木酒店。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "建筑识别与微型叙事",
+            "paragraphs": [
+              "这是一项乐高创意平台上的爱好者提案，约由两千六百块积木组成，并非已经上市的官方套装。模型以竖向酒店招牌、粉色和青绿色细节建立识别，立面可展开，内部包含接待区、客房与屋顶休闲空间。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "将建筑缩小成模型，需要选择最有识别力的比例、颜色和细节。可展开结构则让外观展示与内部叙事同时成立，适合观察玩具如何组织探索路径。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "49ac2bc355d460dd",
+      "url": "https://www.yankodesign.com/2026/09/14/diors-roadie-boots-turn-an-overlooked-sole-into-the-main-design-event/?utm_source=rss&utm_medium=rss&utm_campaign=diors-roadie-boots-turn-an-overlooked-sole-into-the-main-design-event",
+      "title": "Dior’s Roadie Boots Turn an Overlooked Sole Into the Main Design Event",
+      "summary": "Dior’s Roadie Boots Turn an Overlooked Sole Into the Main Design Event Shoes are usually designed from the top down. The leather, the laces, the silhouette, and the recognizable details tend to receive all the attention,",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/diors-roadie-boots-turn-an-overlooked-sole-into-the-main-design-event/dior_roadie_2.jpeg",
+      "publishedAt": "2026-09-14T19:20:55+00:00",
+      "date": "2026-09-15",
+      "firstSeen": "2026-09-15",
+      "score": 95,
+      "titleZh": "让鞋底成为主角：迪奥系带靴的比例实验",
+      "summaryZh": "迪奥将夸张的圆柱感橡胶鞋底与粗花呢、绒面材料组合，重新分配鞋履的视觉重心。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "从支撑部件到设计特征",
+            "paragraphs": [
+              "报道介绍的靴款来自品牌冬季男装系列，突出外扩的橡胶鞋底轮廓。鞋面结合传统粗花呢、羊毛与绒面牛皮，底部纹样也参与品牌表达，形成柔软材料与厚重基座之间的对照。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "这个案例将通常被忽略的下部结构变成视觉中心。造型判断和穿着判断应分开，重量、弯折和地面适应性仍需要实际试穿确认。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "844ed02fbc2c3dd3",
+      "url": "https://www.designboom.com/art/jr-sends-giant-wave-across-vatican-apostolic-library-facade-with-diluvium/",
+      "title": "JR sends giant wave across vatican apostolic library facade with ‘diluvium’",
+      "summary": "JR's 70 meter-wide wave sweeps across the facade of the vatican's library, turning its deepest conservation fear into a monumental",
+      "source": "designboom",
+      "category": "视觉设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/09/JR-wave-vatican-designboom-02-1.jpg",
+      "publishedAt": "2026-09-14T18:46:41+00:00",
+      "date": "2026-09-15",
+      "firstSeen": "2026-09-15",
+      "score": 94,
+      "titleZh": "七十米巨浪，铺向梵蒂冈图书馆外墙",
+      "summaryZh": "法国艺术家以黑白洪水图像介入历史立面，让知识保存的脆弱性变得可见。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "历史图像进入建筑尺度",
+            "paragraphs": [
+              "装置于九月十四日揭幕，横跨图书馆约七十米的立面，图像取自古斯塔夫·多雷十九世纪的洪水插画。它为围绕水展开的展览揭幕，将洪水对纸本记忆的威胁放大为院落中的视觉事件。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "作品依靠尺度变化与场所含义建立张力。图像并不只是被放大，还因为落在保存知识的建筑上而获得新的解释空间。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "e52d4922aa913da6",
+      "url": "https://www.yankodesign.com/2026/09/14/magsafe-drone-lets-you-attach-an-iphone-for-perfect-hands-free-selfies-and-videos/?utm_source=rss&utm_medium=rss&utm_campaign=magsafe-drone-lets-you-attach-an-iphone-for-perfect-hands-free-selfies-and-videos",
+      "title": "MagSafe Drone Lets You Attach An iPhone For Perfect Hands-free Selfies And Videos",
+      "summary": "MagSafe Drone Lets You Attach An iPhone For Perfect Hands-free Selfies And Videos Google’s Add Me is one of the stranger things a phone has ever done. Introduced on the Pixel 9, it takes a photo of",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/648219/flying_gimbal_1.jpg",
+      "publishedAt": "2026-09-14T18:20:50+00:00",
+      "date": "2026-09-15",
+      "firstSeen": "2026-09-15",
+      "score": 94,
+      "titleZh": "把手机送上空中：学生设计的自拍无人机概念",
+      "summaryZh": "广州美术学院学生提出搭载手机的四旋翼方案，让拍摄者也能留在合照里。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "飞行平台与相机分工",
+            "paragraphs": [
+              "这项概念由刘开源及同学提出，以封闭桨叶结构承载手机，通过磁吸连接与机械支架辅助固定。构想让飞行平台负责移动，手机负责成像。报道同时指出载重、悬挂稳定性与续航仍是需要验证的问题。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "方案从合照中缺少拍摄者这一场景出发，重新分配设备任务。它目前应作为设计概念阅读，不能把效果图当作飞行可靠性或安全性已经得到验证的证据。"
             ]
           }
         ]
@@ -116,6 +308,134 @@
       }
     },
     {
+      "id": "cccb7b890ee99173",
+      "url": "https://www.yankodesign.com/2026/09/14/alarm-clocks-buzz-and-glow-kodo-holds-a-plant-and-greets-the-dawn/?utm_source=rss&utm_medium=rss&utm_campaign=alarm-clocks-buzz-and-glow-kodo-holds-a-plant-and-greets-the-dawn",
+      "title": "Alarm Clocks Buzz and Glow, Kodo Holds a Plant and Greets the Dawn",
+      "summary": "Alarm Clocks Buzz and Glow, Kodo Holds a Plant and Greets the Dawn Waking up shouldn’t require staring at another glowing rectangle before your eyes even adjust to the room. Kodo, a conceptual smart alarm clock, rejects",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/alarm-clocks-buzz-and-glow-kodo-holds-a-plant-and-greets-the-dawn/kodo-smart-alarm-clock-concept-00.jpg",
+      "publishedAt": "2026-09-14T17:20:13+00:00",
+      "date": "2026-09-15",
+      "firstSeen": "2026-09-15",
+      "score": 93,
+      "titleZh": "花器般的闹钟，让清晨少一点屏幕感",
+      "summaryZh": "陶器造型的概念闹钟结合植物枝条、鸟鸣和轻拍手势，探索卧室里的温和交互。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "把时间融入日常仪式",
+            "paragraphs": [
+              "该概念以圆润器皿为形态，细长开口可以容纳植物枝条。设计设想通过日出节律与鸟鸣唤醒，轻拍表面即可止声，晚间再结合渐暗的灯光。以上属于概念功能，并非经过长期使用验证的成品表现。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "它把闹钟从一个提醒器扩展为早晚生活的参与者。实际落地时，需要让轻拍、时间读取和唤醒设置足够明确，不能为了安静的外观牺牲基本控制。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "8d087ce2d2f16017",
+      "url": "https://www.dezeen.com/2026/09/14/gonzalo-bardach-casa-jr-argentina/",
+      "title": "Gonzalo Bardach balances \"thick walls and filtering planes\" at Casa JR in Argentina",
+      "summary": "Local studio Gonzalo Bardach Architecture has created a concrete house with shading screens and green roofs for \"atmospheres that support everyday inhabitation with calm and depth\" in Argentina. The screens and filtration take on a central role for the house, both conceptually and in terms of light and privacy. \"Casa JR was…",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static.dezeen.com/uploads/2026/07/bardach-casa-jr-argentina_dezeen_2364_sq-852x852.jpg",
+      "publishedAt": "2026-09-14T17:00:25+00:00",
+      "date": "2026-09-15",
+      "firstSeen": "2026-09-15",
+      "score": 93,
+      "titleZh": "厚墙与透光屏风之间：阿根廷混凝土住宅",
+      "summaryZh": "住宅以庭院、遮阳屏风和绿色屋顶调节室内外关系，让光影进入日常动线。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "实墙与空隙交替",
+            "paragraphs": [
+              "约一百四十平方米的住宅位于圣伊西德罗。封闭房间与楼梯庭院、半遮蔽门廊和上层露台相接，底层起居空间通过滑动玻璃门通向庭院。不同表面肌理的暖色混凝土共同构成材料表达。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "项目适合从停留与过渡空间来阅读：遮阳、私密和通风不是由某一面墙单独完成，而是在一系列边界之间被逐步调节。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "adfe3b35d50085d9",
+      "url": "https://www.designboom.com/architecture/so-arquitetura-tiny-azores-home-mini-atalhada-portugal/",
+      "title": "SO arquitetura stacks tiny azores home onto 13 square-meter footprint",
+      "summary": "built upward from a tiny footprint, the compact home orients its brightest living spaces toward the",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/09/SO-arquitecura-mini-atalhada-portugal-designboom-01.jpg",
+      "publishedAt": "2026-09-14T16:03:11+00:00",
+      "date": "2026-09-15",
+      "firstSeen": "2026-09-15",
+      "score": 92,
+      "titleZh": "十三平方米占地，向上长成一座家",
+      "summaryZh": "亚速尔群岛的一座储物建筑通过垂直扩展，形成约三十五平方米的紧凑住宅。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "把最明亮的一层留给生活",
+            "paragraphs": [
+              "设计将入口和辅助功能安排在下部，睡眠区域位于中间，厨房、起居与工作空间靠近顶层的光线和海景。穿孔金属楼梯配木踏步，让楼层之间保持透光和视线联系，内置家具吸收储物需求。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "在小面积住宅中，楼梯既消耗面积，也决定不同功能之间的关系。这个案例强调垂直组织的收益，同时也提醒我们考虑频繁上下楼对不同居住者的影响。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "880539c4e4929b78",
+      "url": "https://www.dezeen.com/2026/09/14/horse-mounted-ecological-regeneration-system-ie-university-schoolshows/",
+      "title": "Horse-mounted ecological regeneration system among projects by IE University",
+      "summary": "Dezeen School Shows: a portable structure made from natural materials that disperses native seed types from horseback is among projects by IE University students. Also featured is a hospital interior scheme informed by greenhouses and a concept for a flood-adaptive interior layer that can be added to homes in flood-risk areas.…",
+      "source": "Dezeen",
+      "category": "工业设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/ie-university-master-interior-design-schoolshow_dezeen_2364_col_3-copy-1-852x852.jpg",
+      "publishedAt": "2026-09-14T15:00:41+00:00",
+      "date": "2026-09-14",
+      "firstSeen": "2026-09-15",
+      "score": 91,
+      "titleZh": "从马背播种到适应洪水的室内：学生项目合集",
+      "summaryZh": "西班牙大学学生以生态修复、医疗环境和洪水适应为线索，提出跨尺度设计方案。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "从环境问题定义任务",
+            "paragraphs": [
+              "学校项目展示包含以天然材料制作、可随骑行播撒本地种子的便携结构，也介绍了受温室启发的医院室内方案，以及面向易受洪水影响住宅的附加室内层概念。这些内容属于学生设计探索。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "这组题目将产品、室内和生态过程连接起来。阅读时应进一步区分项目提出的问题、模型展示的机制与尚未验证的实际效果，避免把概念方案视为成熟解决办法。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "4c5de556ee620a4f",
       "url": "https://www.core77.com/posts/145353/Konstantin-Grcics-Industrial-Looking-Grinder-for-Alessi",
       "title": "Konstantin Grcic's Industrial-Looking Grinder for Alessi",
@@ -142,6 +462,230 @@
             "heading": "设计解读",
             "paragraphs": [
               "这件产品把操作提示放入几何形态与触感中。评价时可以检查湿手握持、不同握力与补充调料的过程，判断造型上的提示是否在实际使用中成立。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "fc2da142440eaaa5",
+      "url": "https://www.designboom.com/art/greenhouse-inhabitable-light-installation-music-festival-uk-kren-shed/",
+      "title": "greenhouse converts into inhabitable light installation for music festival in the UK",
+      "summary": "sprayed yellow aluminum, black PVC and off-the-shelf fixings transform this domestic garden structure into a glowing beacon and gathering",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/468040/2026-09-12/kren-adapt-greenhouse-into-an-inhabitable-light-installation-for-loud-places-festival-1-6aa547c10565d.jpg",
+      "publishedAt": "2026-09-14T14:25:36+00:00",
+      "date": "2026-09-14",
+      "firstSeen": "2026-09-15",
+      "score": 91,
+      "titleZh": "旧温室变成音乐节里的发光小屋",
+      "summaryZh": "设计工作室改造回收温室，用半透明围护和工业灯具建立聚会场所。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "白天的骨架，夜间的光幕",
+            "paragraphs": [
+              "装置保留温室的基本框架，移除原有玻璃围护，以黄色铝框、半透明材料和改造灯具重新组织空间。白天它是草地中的集合点，夜间内部光线透过表面，使人的剪影成为装置的一部分。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "再利用并不只等于保留材料，也可以改变原物件的使用逻辑。温室从培养植物转向容纳相遇，原有结构因此获得了新的日常意义。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "f5eb7de20cf4d26c",
+      "url": "https://www.yankodesign.com/2026/09/14/a-wooden-floor-lamp-that-refuses-to-weigh-you-down/?utm_source=rss&utm_medium=rss&utm_campaign=a-wooden-floor-lamp-that-refuses-to-weigh-you-down",
+      "title": "A Wooden Floor Lamp That Refuses to Weigh You Down",
+      "summary": "A Wooden Floor Lamp That Refuses to Weigh You Down Statement lighting has a dirty secret. The taller and more sculptural a floor lamp gets, the heavier it usually becomes, and the harder it",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/a-wooden-floor-lamp-that-refuses-to-weigh-you-down/ultra-light-00.jpg",
+      "publishedAt": "2026-09-14T14:20:22+00:00",
+      "date": "2026-09-14",
+      "firstSeen": "2026-09-15",
+      "score": 91,
+      "titleZh": "钢索悬起木片，让落地灯看起来大、用起来轻",
+      "summaryZh": "克里斯蒂安·博格以张拉结构组织木制灯罩，将连接方式转化为灯光语言。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "让结构与光线共同分层",
+            "paragraphs": [
+              "落地灯属于设计师的超轻研究系列，由逐层变化的木片和细钢索组织成竖向形态。木片之间的缝隙让光分层溢出，外露钢索与调节件也让支撑关系成为外观的一部分。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "结构减重不只是替换轻材料，还可以改变承力方式。评价这类作品时，应把移动便利性与底部稳定性、线材布置和日常维护一起考虑。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "406925f9859db759",
+      "url": "https://www.yankodesign.com/2026/09/14/the-3d-printed-vases-that-actually-look-hand-woven/?utm_source=rss&utm_medium=rss&utm_campaign=the-3d-printed-vases-that-actually-look-hand-woven",
+      "title": "The 3D-Printed Vases That Actually Look Hand-Woven",
+      "summary": "The 3D-Printed Vases That Actually Look Hand-Woven I don’t need a lot of vases in my house since I rarely get flowers or other decorations that would need a vessel like",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/the-3d-printed-vases-that-actually-look-hand-woven/vases-00.jpg",
+      "publishedAt": "2026-09-14T13:20:19+00:00",
+      "date": "2026-09-14",
+      "firstSeen": "2026-09-15",
+      "score": 90,
+      "titleZh": "三维打印花器，为什么看起来像编织物？",
+      "summaryZh": "波兰工作室把打印路径、色带和起伏表面结合，让纹样成为花器结构。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "把喷嘴当作织造工具",
+            "paragraphs": [
+              "这些花器采用聚乳酸材料打印，设计以传统纺织图案为灵感，形成棋盘格、折线和条带。颜色和纹理随逐层制造进入表面，而非完成后再印上去；局部褶皱又增强了织物般的感受。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "这个案例把制造路径转化为表达工具。材料的可堆肥属性依赖处理条件，不能直接等同于自然环境中可降解；作为花器的实际使用也应核对盛水方式。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "1db1e07eeaa12c99",
+      "url": "https://www.core77.com/posts/145345/An-Ice-Cube-Alternative-Frozen-Titanium-Spheres",
+      "title": "An Ice Cube Alternative: Frozen Titanium Spheres",
+      "summary": "This is another of those products that archaeologists will wonder about, when they dig them up in the distant future. Chinese company Xuzhou Herui Outdoor Products Co. sells these Frost Titan Core Balls , an ice cube alternative made out of titanium. Sealed inside are water and glycerin, the cooling agent. The idea here is that…",
+      "source": "Core77",
+      "category": "工业设计",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1849746_lead_400_145345_.png",
+      "publishedAt": "2026-09-14T13:00:00+00:00",
+      "date": "2026-09-14",
+      "firstSeen": "2026-09-15",
+      "score": 90,
+      "titleZh": "从方块改成球体：钛制冷却球的形态调整",
+      "summaryZh": "一款饮品冷却用品改用圆球外壳，尝试降低棱角与精细杯壁接触的问题。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "同一任务中的几何取舍",
+            "paragraphs": [
+              "产品以钛外壳封装水和甘油等冷却介质，用于冷却饮品而不让融水进入杯中。报道指出，厂商从早期近似方块的形状转为球体，是为了减少边角可能带来的细小刮痕。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "形状调整涉及杯口、滚动、清洗与接触面的共同变化。冷却效果和材料适用性应依正式说明判断，圆润造型本身不能证明所有使用问题都已解决。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5c36b8a804875a4d",
+      "url": "https://www.designboom.com/design/designboom-paris-design-week-conversations-gatherings-people-marais-indxglobal-clarks-originals-topologie/",
+      "title": "designboom.paris: a week of conversations, gatherings, and making in the marais",
+      "summary": "the first stop of our new travelling series brought together designers, architects, collaborators, and friends for a week of conversations, gatherings, and hands-on activities in the",
+      "source": "designboom",
+      "category": "视觉设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/09/designboom-paris-design-week-conversations-gatherings-people-marais-indxglobal-clarks-originals-topologie-designboom-04.jpg",
+      "publishedAt": "2026-09-14T10:43:25+00:00",
+      "date": "2026-09-14",
+      "firstSeen": "2026-09-15",
+      "score": 88,
+      "titleZh": "巴黎设计周的临时工作室：把谈话与手作放在一起",
+      "summaryZh": "设计邦在玛黑区以播客、聚会和纸型印花工作坊，将报道空间变成交流现场。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "同一空间切换不同参与方式",
+            "paragraphs": [
+              "临时工作室在设计周期间承接访谈录制、非正式交流和定制工作坊。手作环节借鉴日本纸型工艺，让参与者选择图案与颜色，在鞋面和包袋上完成不同形式的个性化表达。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "这种活动的价值不只来自展示成品，也来自参与者对过程的介入。空间安排是否允许观看、交谈和动手自然切换，是理解其体验的线索。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "acf7966643fd66cb",
+      "url": "https://www.dezeen.com/2026/09/14/ryuichi-sasaki-architecture-shin-nakano-trapezoidal/",
+      "title": "Ryuichi Sasaki Architecture uses trapezoid motifs for concrete housing in Tokyo",
+      "summary": "Trapezoidal motifs appear throughout this concrete condominium block in Tokyo, designed by Japanese studio Ryuichi Sasaki Architecture. Named Shin Nakano Trapezoidal, the five-storey block of 11 residential units was designed for local developer Real Partners. According to Ryuichi Sasaki Architecture, the angular, trapezoidal…",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/ryuichi-sasaki-architecture-shin-nakano-trapezoidal-condominiums-tokyo-sq_dezeen_2364_col_0-852x852.jpg",
+      "publishedAt": "2026-09-14T10:30:54+00:00",
+      "date": "2026-09-14",
+      "firstSeen": "2026-09-15",
+      "score": 88,
+      "titleZh": "梯形从入口延伸到住宅：东京混凝土公寓",
+      "summaryZh": "佐佐木龙一建筑事务所用梯形构件、透光楼梯和三翼布局组织十一套住宅。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "几何母题与实际空间结合",
+            "paragraphs": [
+              "五层公寓将梯形用于入口立柱和地砖，门厅与楼梯间分出三个住宅翼。金属格栅踏步使日光进入交通空间，住宅面向南侧街道和北侧公园，并通过大面积可开启窗组织通风。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "几何母题是否有效，需要看它如何参与入口辨识、采光和房间关系。统一造型语言之外，住宅仍应提供清晰的动线与可用的室内尺度。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "f5002839cb1c7d9d",
+      "url": "https://www.dezeen.com/2026/09/14/studio-saar-atelier-one-pangolin-shield-bamboo-pavilion/",
+      "title": "Studio Saar tops LDF pavilion with police and rain shields",
+      "summary": "This year's London Design Festival landmark project, The Pangolin Shield, explores Britain and India's colonial history through a bamboo-grid pavilion covered with shields used both for protection and aggression. Named after, and baring a resemblance to, a pangolin – a scaly mammal – the pavilion is located on the newly…",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/studio-saar-atelier-one-pangolin-shield-bamboo-pavilion-1_dezeen_2364_sq_3-852x852.jpg",
+      "publishedAt": "2026-09-14T10:15:29+00:00",
+      "date": "2026-09-14",
+      "firstSeen": "2026-09-15",
+      "score": 88,
+      "titleZh": "竹壳与两种盾：伦敦设计节的穿山甲展亭",
+      "summaryZh": "萨尔工作室以竹网壳叠加警用盾和编织雨盾，讨论保护与历史之间的关系。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "材料同时承载结构与含义",
+            "paragraphs": [
+              "展亭位于萨默塞特宫外，竹网壳通过钢连接件加强，上覆竹制警盾和印度东北部农民使用的编织雨盾。不同盾的用途，使遮蔽空间同时成为讨论英国与印度历史关系的载体。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "这类公共装置将构造、材料来源和场所背景放在一起。阅读时可分别观察身体获得的庇护与符号引出的历史含义，理解它们如何相互补充。"
             ]
           }
         ]
@@ -907,6 +1451,38 @@
           }
         ],
         "basis": "feed"
+      }
+    },
+    {
+      "id": "ad754e61731b8e86",
+      "url": "https://www.creativebloq.com/photography/photo-editing-software/zoner-studio-2026-review-all-in-one-image-editing-with-a-splash-of-video-too",
+      "title": "Zoner Studio (2026) review: all-in-one image editing with a splash of video too",
+      "summary": "An all-in-one image-editing",
+      "source": "Creative Bloq",
+      "category": "视觉设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZT94xGvyyqMA2pMQGJtZt-1280-80.jpg",
+      "publishedAt": "2026-09-13T07:00:00+00:00",
+      "date": "2026-09-13",
+      "firstSeen": "2026-09-15",
+      "score": 59,
+      "titleZh": "从整理照片到图层编辑：佐纳工作室软件评测",
+      "summaryZh": "创意视界评测一款集合照片管理、原始图像处理、图层编辑与视频功能的软件。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "一体化流程的便利与复杂度",
+            "paragraphs": [
+              "评测介绍该软件在视窗系统上的照片整理和编辑流程，并讨论图层工具、视频编辑与在线服务的组合。作者认为功能覆盖面较广，但功能集中也带来学习复杂度。这是媒体评测观点，不代表所有创作者的体验。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "挑选创作工具时，可以先验证常用素材导入、调整、导出是否顺畅，再考虑附加功能。订阅价格与版本能力可能变化，应在官方页面核对当前条件。"
+            ]
+          }
+        ]
       }
     },
     {
@@ -2652,14 +3228,32 @@
     {
       "date": "2026-09-15",
       "articleIds": [
+        "ebf39d3b4844e71d",
+        "b4abe2cbd7d1ba24",
         "2baad6c0a8f65b4e",
+        "2f80d8c1b51e898b",
+        "49ac2bc355d460dd",
+        "844ed02fbc2c3dd3",
+        "e52d4922aa913da6",
         "e90674004b1199ac",
+        "cccb7b890ee99173",
+        "8d087ce2d2f16017",
+        "adfe3b35d50085d9",
+        "880539c4e4929b78",
         "4c5de556ee620a4f",
+        "fc2da142440eaaa5",
+        "f5eb7de20cf4d26c",
+        "406925f9859db759",
+        "1db1e07eeaa12c99",
+        "5c36b8a804875a4d",
+        "acf7966643fd66cb",
+        "f5002839cb1c7d9d",
         "6584fb84fa9b06c6",
         "1e208278c184e214",
-        "fbca73a44ab5fce5"
+        "fbca73a44ab5fce5",
+        "ad754e61731b8e86"
       ],
-      "updatedAt": "2026-09-15T09:02:15.032028+08:00"
+      "updatedAt": "2026-09-15T10:48:30.962983+08:00"
     }
   ],
   "rankingNote": "热度为本站关注指数：时效最高70分、配图15分、摘要完整度15分；不是全网阅读量或点赞量。",
