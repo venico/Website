@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T11:04:59.103742+08:00",
+  "updatedAt": "2026-09-15T12:41:28.380241+08:00",
   "sources": [
     {
       "name": "Dezeen",
@@ -2120,6 +2120,38 @@
       }
     },
     {
+      "id": "b10791846bc09a65",
+      "url": "https://design-milk.com/awechair-accessible-lift-chair-design/",
+      "title": "The AWEchair Makes a Case for More Beautiful Accessible Design",
+      "summary": "After struggling to find a lift chair for her aging parents that didn’t look like medical equipment, Janet Feldman spent a decade developing a more considered",
+      "source": "Design Milk",
+      "category": "家具设计",
+      "image": "https://design-milk.com/images/2026/09/20250908-AWEchair-317-1500x1000.jpg",
+      "publishedAt": "2026-09-11T17:36:53+00:00",
+      "date": "2026-09-12",
+      "firstSeen": "2026-09-15",
+      "score": 63,
+      "titleZh": "升降扶手椅，也可以摆进好看的客厅",
+      "summaryZh": "一款辅助起身的座椅，尝试让适老功能与日常家居审美共同成立。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "资讯要点",
+            "paragraphs": [
+              "设计者因难以为年迈父母找到不带医疗器械感的升降椅，花了十年开发这款产品。公开摘要把关注点放在辅助功能与家具外观的结合。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "适老家具的价值同时存在于身体支持与使用者的尊严。选型时应把起身路径、扶手支撑和室内搭配放在同一张评估清单里。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "adb49abafd3ab06a",
       "url": "https://www.nngroup.com/articles/test-earlier-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "title": "Test Complex Interactions Earlier with AI Prototyping",
@@ -2373,6 +2405,38 @@
       }
     },
     {
+      "id": "a0dce9e4b2d4e621",
+      "url": "https://uxplanet.org/design-critique-with-claude-code-7628e74f95a1",
+      "title": "Design Critique with Claude Code",
+      "summary": "Claude Code can be used not only to create product prototypes but also to critique design. In this article, I will share everything",
+      "source": "UX Planet",
+      "category": "人工智能设计",
+      "image": "https://cdn-images-1.medium.com/max/1280/1*lJxKaqbIOlNStxxDkllKBw.png",
+      "publishedAt": "2026-09-11T10:11:50+00:00",
+      "date": "2026-09-11",
+      "firstSeen": "2026-09-15",
+      "score": 61,
+      "titleZh": "让智能工具参与设计评审，而不只生成原型",
+      "summaryZh": "一篇工作流分享把智能助手从制作环节引入设计批评与反馈环节。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "资讯要点",
+            "paragraphs": [
+              "作者在公开摘要中提出，智能编程助手除了制作产品原型，也可以用于设计评审。本文属于作者的实践分享，具体步骤请通过原文入口阅读。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "有效的智能评审需要明确用户、任务和约束。把反馈转成可检验的问题，再由设计师判断是否采纳，比直接接受笼统的美观评分更有价值。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "2fd608a6590044ee",
       "url": "https://www.dezeen.com/2026/09/11/london-designers-making-it-work/",
       "title": "How London designers are making it work",
@@ -2599,6 +2663,70 @@
       }
     },
     {
+      "id": "9808552eaffac655",
+      "url": "https://www.dezeen.com/2026/09/10/lozi-modular-plywood-furniture-compact-bedrooms/",
+      "title": "Lozi designs modular plywood furniture to make the most of compact bedrooms",
+      "summary": "During this year's London Design Festival, plywood furniture specialist Lozi will debut a modular system, including clean-lined wardrobes and a fold-down bed, that aims to offer an affordable alternative to bespoke cabinetry. The idea for the collection emerged towards the end of the Covid-19 pandemic, when Lozi founder Soroush…",
+      "source": "Dezeen",
+      "category": "家具设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/lozi-plywood-furniture-london-design-festival-modular-system-sq-852x852.jpg",
+      "publishedAt": "2026-09-10T05:00:44+00:00",
+      "date": "2026-09-10",
+      "firstSeen": "2026-09-15",
+      "score": 57,
+      "titleZh": "用模块化胶合板家具，重新安排紧凑卧室",
+      "summaryZh": "折叠床与衣柜组成模块系统，为小卧室提供定制柜体之外的选择。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "资讯要点",
+            "paragraphs": [
+              "伦敦设计节期间，家具品牌将展示包含衣柜与折叠床的胶合板模块系统。其目标是提供价格更易接近的定制家具替代方案。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "小空间设计需要考虑一天内的功能切换。值得观察的是床收起后腾出的活动范围，以及模块在搬家或房间用途改变后是否仍可使用。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "21c53a4a25549fbd",
+      "url": "https://tympanus.net/codrops/2026/09/09/turning-names-into-digital-architecture-with-three-js/",
+      "title": "Turning Names Into Digital Architecture with Three.js",
+      "summary": "For the Three.js Conference in Paris, BL/S® created an interactive experiment that transforms your name into a dynamic 3D",
+      "source": "Codrops",
+      "category": "动效设计",
+      "image": null,
+      "publishedAt": "2026-09-09T17:55:00+00:00",
+      "date": "2026-09-10",
+      "firstSeen": "2026-09-15",
+      "score": 40,
+      "titleZh": "把名字变成一座动态数字建筑",
+      "summaryZh": "交互实验把输入的名字转化为动态三维形态，让文字成为空间生成的起点。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "资讯要点",
+            "paragraphs": [
+              "这个为巴黎三维网页技术会议创作的实验，将用户名字转成动态三维结构。公开摘要展示了文本输入与实时视觉反馈之间的联系。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "输入的含义与形态变化建立联系，能让参与者理解自己的操作造成了什么。动效在这里承担解释和反馈的作用，而不只是背景装饰。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "8b7591b74f2b619a",
       "url": "https://www.core77.com/posts/145296/Kitchen-Scissors-Designed-Specifically-to-Deal-with-Three-Aspects-of-Sauce-Packets",
       "title": "Kitchen Scissors Designed Specifically to Deal with Three Aspects of Sauce Packets",
@@ -2623,6 +2751,38 @@
           }
         ],
         "basis": "feed"
+      }
+    },
+    {
+      "id": "bc8ba308858d5285",
+      "url": "https://www.artofvfx.com/mortal-kombat-ii-inside-the-vfx-of-outworld-with-future-associate/",
+      "title": "Mortal Kombat II: Inside the VFX of Outworld with Future Associate",
+      "summary": "Step into Outworld! Australian studio Future Associate breaks down its work on Mortal Kombat II, from the Blue Portal post-viz and Kung Lao’s razor hat to Jade’s CG staff, the Red Throne Room, Tarkatan sequences and Netherworld environments. Future Associate’s work began with the Blue Portal sequence, extending the partial LED…",
+      "source": "Art of VFX",
+      "category": "动态设计",
+      "image": null,
+      "publishedAt": "2026-09-09T15:00:00+00:00",
+      "date": "2026-09-09",
+      "firstSeen": "2026-09-15",
+      "score": 40,
+      "titleZh": "从传送门到异世界：电影特效制作拆解",
+      "summaryZh": "特效团队分享传送门、数字道具与环境的制作，展示实拍素材如何延伸为奇幻场景。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "资讯要点",
+            "paragraphs": [
+              "《真人快打》续作的幕后介绍涵盖蓝色传送门、帽子与长杖等数字道具，以及多个异世界环境。公开摘要提到团队对局部发光屏幕场景进行延展。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "观看分解镜头时，可以重点比较实拍和数字场景的光线、尺度与运动衔接。这些关系决定了复杂特效能否融入故事空间。"
+            ]
+          }
+        ]
       }
     },
     {
@@ -2898,6 +3058,38 @@
           }
         ],
         "basis": "feed"
+      }
+    },
+    {
+      "id": "0c402b1ac982dacd",
+      "url": "https://uxplanet.org/how-to-audit-and-extend-your-design-system-with-claude-code-28be5c059d49",
+      "title": "How to Audit and Extend Your Figma Design System with Claude Code",
+      "summary": "Claude Code recently got a new plugin /design that lets you craft designs right in Claude Code. I’ve described the entire process",
+      "source": "UX Planet",
+      "category": "界面设计",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*_JOwo6BtunhWs4quuwBQCQ.png",
+      "publishedAt": "2026-09-03T13:20:56+00:00",
+      "date": "2026-09-03",
+      "firstSeen": "2026-09-15",
+      "score": 44,
+      "titleZh": "用智能助手审查和扩展界面设计系统",
+      "summaryZh": "设计系统工作流分享，将关注点从单页生成转向组件与规范的维护。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "资讯要点",
+            "paragraphs": [
+              "文章讨论如何借助智能助手审查并扩展界面设计系统。公开摘要提到设计插件与设计制作流程，详细操作需阅读原文。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "界面系统维护应先检查组件重复、状态缺失和样式不一致，再决定新增什么。自动化可以辅助梳理，但新增组件仍需要遵守产品已有的交互规范。"
+            ]
+          }
+        ]
       }
     },
     {
@@ -3574,6 +3766,105 @@
         ],
         "basis": "feed"
       }
+    },
+    {
+      "id": "c0695b68accf90f0",
+      "url": "https://www.ied.edu/news/ied-turin-at-salone-auto-torino-2026-concept-cars-and-creativity-in-action",
+      "title": "都灵车展上的学生概念车：两种未来出行想象",
+      "summary": "欧洲设计学院以学生概念车和现场手绘，展示汽车设计教学与品牌合作。",
+      "source": "欧洲设计学院",
+      "category": "交通工具设计",
+      "image": null,
+      "publishedAt": "2026-09-08T00:00:00+08:00",
+      "date": "2026-09-08",
+      "firstSeen": "2026-09-15",
+      "score": 55,
+      "publishedPrecision": "day",
+      "titleZh": "都灵车展上的学生概念车：两种未来出行想象",
+      "summaryZh": "欧洲设计学院以学生概念车和现场手绘，展示汽车设计教学与品牌合作。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "资讯要点",
+            "paragraphs": [
+              "学院公告介绍了与帕加尼合作的双座超跑概念，以及与特斯拉合作、探索车内时间体验的自动驾驶概念。它们参加了九月十一日至十三日的都灵车展。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "概念车可以同时讨论外部造型与乘坐行为。对设计学习而言，将同一个概念重新解释为量产车辆，有助于训练尺寸、用途与用户之间的取舍。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "244e42a63b3cb735",
+      "url": "https://www.euroncap.com/press-media/euro-ncap-tests-show-car-makers-continue-to-drive-for-safety/",
+      "title": "汽车安全评测，也在检验屏幕与实体按键的取舍",
+      "summary": "新一轮评测除了碰撞保护，也关注关键操作、儿童遗留提醒与驾驶辅助。",
+      "source": "欧洲新车安全评鉴协会",
+      "category": "交通工具设计",
+      "image": null,
+      "publishedAt": "2026-09-02T00:00:00+08:00",
+      "date": "2026-09-02",
+      "firstSeen": "2026-09-15",
+      "score": 55,
+      "publishedPrecision": "day",
+      "titleZh": "汽车安全评测，也在检验屏幕与实体按键的取舍",
+      "summaryZh": "新一轮评测除了碰撞保护，也关注关键操作、儿童遗留提醒与驾驶辅助。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "资讯要点",
+            "paragraphs": [
+              "官方公布三款中国品牌车型获得五星。另一款欧洲车型标准配置为四星，选装安全包后为五星。报告同时指出部分车辆关键操作过度依赖中央屏幕。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "车内交互不能只按视觉整洁来判断。驾驶中能否快速定位关键功能，值得与界面层级、触觉反馈和操作负担一起评估。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "dff6a77062b0568c",
+      "url": "https://www.volkswagen-newsroom.com/en/press-releases/mission-efficiency-volkswagen-presents-the-worlds-most-efficient-near-production-electric-car-20691",
+      "title": "大众效率概念车：让气流决定车身形态",
+      "summary": "泪滴形车身、后轮覆盖与平整底盘，组成以降低风阻为目标的设计。",
+      "source": "大众汽车新闻中心",
+      "category": "交通工具设计",
+      "image": null,
+      "publishedAt": "2026-09-14T00:00:00+08:00",
+      "date": "2026-09-14",
+      "firstSeen": "2026-09-15",
+      "score": 55,
+      "publishedPrecision": "day",
+      "titleZh": "大众效率概念车：让气流决定车身形态",
+      "summaryZh": "泪滴形车身、后轮覆盖与平整底盘，组成以降低风阻为目标的设计。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "资讯要点",
+            "paragraphs": [
+              "大众九月十四日发布效率研究原型，公布风阻系数为零点一五八。车身采用小迎风面积、主动进气控制和后轮覆盖等设计；该车是概念原型，并非在售车型。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "当效率成为明确目标，车身比例与细节可以用同一标准来推敲。值得进一步观察低车身和收窄的尾部如何影响乘员空间与日常使用。"
+            ]
+          }
+        ]
+      }
     }
   ],
   "issues": [
@@ -3700,13 +3991,22 @@
         "6ac95cc8a8f36222",
         "ad754e61731b8e86",
         "e5b60107e6763277",
+        "b10791846bc09a65",
         "61ac68885996e3f1",
         "493d36d2d4e35757",
+        "a0dce9e4b2d4e621",
         "9747d561e8d8b6a6",
         "ce73c3036da56a70",
-        "d1168f0321589327"
+        "9808552eaffac655",
+        "21c53a4a25549fbd",
+        "bc8ba308858d5285",
+        "d1168f0321589327",
+        "0c402b1ac982dacd",
+        "c0695b68accf90f0",
+        "244e42a63b3cb735",
+        "dff6a77062b0568c"
       ],
-      "updatedAt": "2026-09-15T11:04:59.103742+08:00"
+      "updatedAt": "2026-09-15T12:41:28.380241+08:00"
     }
   ],
   "rankingNote": "热度为本站关注指数：时效最高70分、配图15分、摘要完整度15分；不是全网阅读量或点赞量。",
