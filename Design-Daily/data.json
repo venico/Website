@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T12:41:28.380241+08:00",
+  "updatedAt": "2026-09-15T15:48:27.012422+08:00",
   "sources": [
     {
       "name": "Dezeen",
@@ -26,7 +26,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-09-15T01:45:35+00:00"
+      "latestPublishedAt": "2026-09-15T07:01:33+00:00"
     },
     {
       "name": "Smashing Magazine",
@@ -71,7 +71,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 25,
-      "latestPublishedAt": "2026-09-14T20:04:41+00:00"
+      "latestPublishedAt": "2026-09-15T07:00:00+00:00"
     },
     {
       "name": "UX Collective",
@@ -80,7 +80,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-09-14T18:52:50+00:00"
+      "latestPublishedAt": "2026-09-15T05:04:14+00:00"
     },
     {
       "name": "UX Planet",
@@ -94,11 +94,11 @@
     {
       "name": "Codrops",
       "label": "网页交互实验室",
-      "url": "https://tympanus.net/codrops/feed/",
       "category": "动效设计",
-      "ok": true,
-      "count": 10,
-      "latestPublishedAt": "2026-09-14T11:30:10+00:00"
+      "url": "https://tympanus.net/codrops/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 410: Gone"
     },
     {
       "name": "Awwwards",
@@ -125,7 +125,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-09-14T05:45:00+00:00"
+      "latestPublishedAt": "2026-09-15T05:00:00+00:00"
     },
     {
       "name": "Car Body Design",
@@ -171,6 +171,456 @@
       "ok": true,
       "count": 60,
       "latestPublishedAt": "2026-09-10T00:00:00+00:00"
+    },
+    {
+      "name": "UISDC",
+      "label": "优设",
+      "url": "https://www.uisdc.com/archives",
+      "homepage": "https://www.uisdc.com/archives",
+      "categories": [
+        "界面设计",
+        "用户体验设计",
+        "人工智能设计"
+      ],
+      "category": "界面设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "ZCOOL",
+      "label": "站酷",
+      "url": "https://www.zcool.com.cn/",
+      "homepage": "https://www.zcool.com.cn/",
+      "categories": [
+        "视觉设计",
+        "界面设计",
+        "动态设计",
+        "人工智能设计"
+      ],
+      "category": "视觉设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "UI China",
+      "label": "UI中国",
+      "url": "https://www.ui.cn/",
+      "homepage": "https://www.ui.cn/",
+      "categories": [
+        "界面设计",
+        "用户体验设计"
+      ],
+      "category": "界面设计",
+      "mode": "curated",
+      "access": "restricted",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "Puxiang",
+      "label": "普象",
+      "url": "https://www.puxiang.com/",
+      "homepage": "https://www.puxiang.com/",
+      "categories": [
+        "工业设计",
+        "家具设计",
+        "交通工具设计"
+      ],
+      "category": "工业设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "Digitaling",
+      "label": "数英",
+      "url": "https://www.digitaling.com/",
+      "homepage": "https://www.digitaling.com/",
+      "categories": [
+        "视觉设计",
+        "动态设计"
+      ],
+      "category": "视觉设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "Shejipi",
+      "label": "设计癖",
+      "url": "https://www.shejipi.com/",
+      "homepage": "https://www.shejipi.com/",
+      "categories": [
+        "工业设计",
+        "家具设计"
+      ],
+      "category": "工业设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "gooood",
+      "label": "谷德设计网",
+      "url": "https://www.gooood.cn/",
+      "homepage": "https://www.gooood.cn/",
+      "categories": [
+        "建筑设计",
+        "空间设计"
+      ],
+      "category": "建筑设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "TOPYS",
+      "label": "顶尖创意",
+      "url": "https://www.topys.cn/",
+      "homepage": "https://www.topys.cn/",
+      "categories": [
+        "视觉设计",
+        "空间设计"
+      ],
+      "category": "视觉设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "ArchDaily",
+      "label": "建筑日报中文版",
+      "url": "https://www.archdaily.com/cn/feed",
+      "category": "建筑设计",
+      "ok": true,
+      "count": 24,
+      "latestPublishedAt": "2026-09-15T03:00:00+00:00"
+    },
+    {
+      "name": "Wallpaper",
+      "label": "设计生活杂志",
+      "url": "https://www.wallpaper.com/feeds.xml",
+      "category": "家具设计",
+      "ok": true,
+      "count": 50,
+      "latestPublishedAt": "2026-09-14T14:21:57+00:00"
+    },
+    {
+      "name": "Its Nice That",
+      "label": "创意设计观察",
+      "url": "http://feeds2.feedburner.com/itsnicethat/SlXC",
+      "category": "视觉设计",
+      "ok": true,
+      "count": 20,
+      "latestPublishedAt": "2026-09-14T08:00:00+00:00"
+    },
+    {
+      "name": "Design Week",
+      "label": "设计周刊",
+      "url": "https://www.designweek.co.uk/",
+      "homepage": "https://www.designweek.co.uk/",
+      "categories": [
+        "视觉设计",
+        "工业设计"
+      ],
+      "category": "视觉设计",
+      "mode": "curated",
+      "access": "restricted",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "PRINT",
+      "label": "印刷与视觉设计杂志",
+      "category": "视觉设计",
+      "url": "https://www.printmag.com/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Brand New",
+      "label": "品牌更新观察",
+      "url": "https://www.underconsideration.com/brandnew/feed/thefollowup",
+      "category": "视觉设计",
+      "ok": true,
+      "count": 60,
+      "latestPublishedAt": "2024-07-23T17:16:13+00:00"
+    },
+    {
+      "name": "Domus",
+      "label": "建筑与设计杂志",
+      "url": "https://www.domusweb.it/en.html",
+      "homepage": "https://www.domusweb.it/en.html",
+      "categories": [
+        "建筑设计",
+        "家具设计",
+        "空间设计"
+      ],
+      "category": "建筑设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "FRAME",
+      "label": "空间设计杂志",
+      "url": "https://frameweb.com/",
+      "homepage": "https://frameweb.com/",
+      "categories": [
+        "空间设计"
+      ],
+      "category": "空间设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "Car Design News",
+      "label": "汽车设计新闻",
+      "url": "https://www.cardesignnews.com/",
+      "homepage": "https://www.cardesignnews.com/",
+      "categories": [
+        "交通工具设计"
+      ],
+      "category": "交通工具设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "Dribbble",
+      "label": "设计作品社区",
+      "url": "https://dribbble.com/",
+      "homepage": "https://dribbble.com/",
+      "categories": [
+        "界面设计",
+        "视觉设计",
+        "动效设计"
+      ],
+      "category": "界面设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "Behance",
+      "label": "创意作品平台",
+      "url": "http://feeds.feedburner.com/behance/vorr",
+      "category": "视觉设计",
+      "ok": true,
+      "count": 36,
+      "latestPublishedAt": "2026-09-15T01:30:05+00:00"
+    },
+    {
+      "name": "Figma",
+      "label": "界面设计工具官方博客",
+      "url": "https://www.figma.com/blog/feed/atom.xml",
+      "category": "界面设计",
+      "ok": true,
+      "count": 60,
+      "latestPublishedAt": "2026-09-11T15:25:00+00:00"
+    },
+    {
+      "name": "Adobe",
+      "label": "奥多比官方博客",
+      "url": "https://blog.adobe.com/",
+      "homepage": "https://blog.adobe.com/",
+      "categories": [
+        "人工智能设计",
+        "视觉设计",
+        "动态设计"
+      ],
+      "category": "人工智能设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "Runway",
+      "label": "智能影像创作官方动态",
+      "url": "https://runway.com/news",
+      "homepage": "https://runway.com/news",
+      "categories": [
+        "人工智能设计",
+        "动态设计"
+      ],
+      "category": "人工智能设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "Archiposition",
+      "label": "有方",
+      "url": "https://www.archiposition.com/",
+      "homepage": "https://www.archiposition.com/",
+      "categories": [
+        "建筑设计"
+      ],
+      "category": "建筑设计",
+      "mode": "curated",
+      "access": "restricted",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "ArchCollege",
+      "label": "建筑学院",
+      "url": "https://www.archcollege.com/",
+      "homepage": "https://www.archcollege.com/",
+      "categories": [
+        "建筑设计"
+      ],
+      "category": "建筑设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "Architectural Record",
+      "label": "建筑实录",
+      "url": "https://www.architecturalrecord.com/",
+      "homepage": "https://www.architecturalrecord.com/",
+      "categories": [
+        "建筑设计",
+        "空间设计"
+      ],
+      "category": "建筑设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "Architectural Review",
+      "label": "建筑评论",
+      "url": "https://www.architectural-review.com/feed",
+      "category": "建筑设计",
+      "ok": true,
+      "count": 10,
+      "latestPublishedAt": "2026-09-14T05:00:50+00:00"
+    },
+    {
+      "name": "Architects Newspaper",
+      "label": "建筑师报",
+      "url": "https://www.archpaper.com/feed/",
+      "category": "建筑设计",
+      "ok": true,
+      "count": 10,
+      "latestPublishedAt": "2026-09-14T20:51:43+00:00"
+    },
+    {
+      "name": "Dieline",
+      "label": "包装设计媒体",
+      "url": "https://thedieline.com/feed/",
+      "category": "视觉设计",
+      "ok": true,
+      "count": 10,
+      "latestPublishedAt": "2026-09-14T20:03:12+00:00"
+    },
+    {
+      "name": "Packaging of the World",
+      "label": "世界包装设计",
+      "url": "https://packagingoftheworld.com/",
+      "homepage": "https://packagingoftheworld.com/",
+      "categories": [
+        "视觉设计"
+      ],
+      "category": "视觉设计",
+      "mode": "curated",
+      "access": "restricted",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "Communication Arts",
+      "label": "传播艺术杂志",
+      "url": "https://www.commarts.com/",
+      "homepage": "https://www.commarts.com/",
+      "categories": [
+        "视觉设计"
+      ],
+      "category": "视觉设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "Wrap",
+      "label": "插画与创意杂志",
+      "url": "https://wrapmagazine.com/",
+      "homepage": "https://wrapmagazine.com/",
+      "categories": [
+        "视觉设计"
+      ],
+      "category": "视觉设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "Interior Design",
+      "label": "室内设计杂志",
+      "url": "https://interiordesign.net/",
+      "homepage": "https://interiordesign.net/",
+      "categories": [
+        "空间设计"
+      ],
+      "category": "空间设计",
+      "mode": "curated",
+      "access": "public",
+      "ok": false,
+      "count": 0,
+      "status": "curated"
+    },
+    {
+      "name": "EXHIBITOR",
+      "label": "展览展示专业杂志",
+      "url": "http://www.exhibitoronline.com/r630/ExhibitorNewsNetwork.xml",
+      "category": "空间设计",
+      "ok": false,
+      "count": 0,
+      "latestPublishedAt": null
     }
   ],
   "articles": [
@@ -180,12 +630,12 @@
       "title": "The Mini Brda Classic Is the Tiniest A-Frame You Can Actually Live In",
       "summary": "The Mini Brda Classic Is the Tiniest A-Frame You Can Actually Live In The A-frame has always been an honest form. Its steep pitch, its triangular silhouette cutting against the sky. There’s nothing decorative about it. Every",
       "source": "Yanko Design",
-      "category": "空间设计",
+      "category": "建筑设计",
       "image": "https://www.yankodesign.com/images/design_news/2026/09/mini-brda-classic/mini_brda_yanko_design_01.jpg",
       "publishedAt": "2026-09-14T22:30:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 96,
+      "score": 92,
       "titleZh": "十四平方米的三角小屋：把居住缩减到一间房",
       "summaryZh": "波兰迷你住宅工作室将经典三角屋顶转为拖车小屋，用整面前窗连接景观。",
       "reading": {
@@ -217,7 +667,7 @@
       "publishedAt": "2026-09-14T21:30:26+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 95,
+      "score": 91,
       "titleZh": "灯罩坏了，为什么要扔掉整盏灯？",
       "summaryZh": "路易斯·弗雷的毕业灯具以可替换纸面和折叠钢架，把维修纳入结构设计。",
       "reading": {
@@ -249,7 +699,7 @@
       "publishedAt": "2026-09-14T20:35:18+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 94,
+      "score": 91,
       "titleZh": "拉合尔的光之树：灯光装置也能成为孩子的聚会场所",
       "summaryZh": "拉扎·扎希德工作室以金属枝干、发光球体和大理石座台，连接图书馆外的阅读与交流。",
       "reading": {
@@ -281,7 +731,7 @@
       "publishedAt": "2026-09-14T20:30:28+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 94,
+      "score": 91,
       "titleZh": "用积木搭一座装饰艺术酒店",
       "summaryZh": "爱好者以迈阿密建筑和复古配色为灵感，创作可展开内部空间的积木酒店。",
       "reading": {
@@ -313,7 +763,7 @@
       "publishedAt": "2026-09-14T19:20:55+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 93,
+      "score": 90,
       "titleZh": "让鞋底成为主角：迪奥系带靴的比例实验",
       "summaryZh": "迪奥将夸张的圆柱感橡胶鞋底与粗花呢、绒面材料组合，重新分配鞋履的视觉重心。",
       "reading": {
@@ -345,7 +795,7 @@
       "publishedAt": "2026-09-14T18:52:50+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 93,
+      "score": 89,
       "titleZh": "人工智能改变制作成本后，双钻流程该怎样调整？",
       "summaryZh": "一篇设计评论重新讨论问题探索与方案生成的分工，认为快速生成正在改变传统流程的成本结构。",
       "reading": {
@@ -377,7 +827,7 @@
       "publishedAt": "2026-09-14T18:46:41+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 93,
+      "score": 89,
       "titleZh": "七十米巨浪，铺向梵蒂冈图书馆外墙",
       "summaryZh": "法国艺术家以黑白洪水图像介入历史立面，让知识保存的脆弱性变得可见。",
       "reading": {
@@ -409,7 +859,7 @@
       "publishedAt": "2026-09-14T18:20:50+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 92,
+      "score": 89,
       "titleZh": "把手机送上空中：学生设计的自拍无人机概念",
       "summaryZh": "广州美术学院学生提出搭载手机的四旋翼方案，让拍摄者也能留在合照里。",
       "reading": {
@@ -441,7 +891,7 @@
       "publishedAt": "2026-09-14T18:10:39+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 92,
+      "score": 89,
       "titleZh": "和纸、蓝染与炭化杉木，进入当代音箱设计",
       "summaryZh": "东京团队以三种日本传统工艺打造音箱系列，将材料痕迹与声音产品结合。",
       "reading": {
@@ -473,7 +923,7 @@
       "publishedAt": "2026-09-14T17:20:13+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 92,
+      "score": 88,
       "titleZh": "花器般的闹钟，让清晨少一点屏幕感",
       "summaryZh": "陶器造型的概念闹钟结合植物枝条、鸟鸣和轻拍手势，探索卧室里的温和交互。",
       "reading": {
@@ -500,12 +950,12 @@
       "title": "Gonzalo Bardach balances \"thick walls and filtering planes\" at Casa JR in Argentina",
       "summary": "Local studio Gonzalo Bardach Architecture has created a concrete house with shading screens and green roofs for \"atmospheres that support everyday inhabitation with calm and depth\" in Argentina. The screens and filtration take on a central role for the house, both conceptually and in terms of light and privacy. \"Casa JR was…",
       "source": "Dezeen",
-      "category": "空间设计",
+      "category": "建筑设计",
       "image": "https://static.dezeen.com/uploads/2026/07/bardach-casa-jr-argentina_dezeen_2364_sq-852x852.jpg",
       "publishedAt": "2026-09-14T17:00:25+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 91,
+      "score": 88,
       "titleZh": "厚墙与透光屏风之间：阿根廷混凝土住宅",
       "summaryZh": "住宅以庭院、遮阳屏风和绿色屋顶调节室内外关系，让光影进入日常动线。",
       "reading": {
@@ -532,12 +982,12 @@
       "title": "SO arquitetura stacks tiny azores home onto 13 square-meter footprint",
       "summary": "built upward from a tiny footprint, the compact home orients its brightest living spaces toward the",
       "source": "designboom",
-      "category": "空间设计",
+      "category": "建筑设计",
       "image": "https://www.designboom.com/wp-content/uploads/2026/09/SO-arquitecura-mini-atalhada-portugal-designboom-01.jpg",
       "publishedAt": "2026-09-14T16:03:11+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-15",
-      "score": 91,
+      "score": 87,
       "titleZh": "十三平方米占地，向上长成一座家",
       "summaryZh": "亚速尔群岛的一座储物建筑通过垂直扩展，形成约三十五平方米的紧凑住宅。",
       "reading": {
@@ -569,7 +1019,7 @@
       "publishedAt": "2026-09-14T15:00:41+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 90,
+      "score": 87,
       "titleZh": "从马背播种到适应洪水的室内：学生项目合集",
       "summaryZh": "西班牙大学学生以生态修复、医疗环境和洪水适应为线索，提出跨尺度设计方案。",
       "reading": {
@@ -601,7 +1051,7 @@
       "publishedAt": "2026-09-14T15:00:00+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 90,
+      "score": 87,
       "titleZh": "从圆柱到八角：让研磨器告诉你该转哪里",
       "summaryZh": "康斯坦丁·格尔契奇为阿莱西设计铝制研磨器，用八角轮廓与喷砂表面提示握持和旋转。",
       "reading": {
@@ -633,7 +1083,7 @@
       "publishedAt": "2026-09-14T14:25:36+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 90,
+      "score": 86,
       "titleZh": "旧温室变成音乐节里的发光小屋",
       "summaryZh": "设计工作室改造回收温室，用半透明围护和工业灯具建立聚会场所。",
       "reading": {
@@ -665,7 +1115,7 @@
       "publishedAt": "2026-09-14T14:20:22+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 89,
+      "score": 86,
       "titleZh": "钢索悬起木片，让落地灯看起来大、用起来轻",
       "summaryZh": "克里斯蒂安·博格以张拉结构组织木制灯罩，将连接方式转化为灯光语言。",
       "reading": {
@@ -697,7 +1147,7 @@
       "publishedAt": "2026-09-14T13:20:19+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 89,
+      "score": 86,
       "titleZh": "三维打印花器，为什么看起来像编织物？",
       "summaryZh": "波兰工作室把打印路径、色带和起伏表面结合，让纹样成为花器结构。",
       "reading": {
@@ -729,7 +1179,7 @@
       "publishedAt": "2026-09-14T13:00:00+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 89,
+      "score": 86,
       "titleZh": "从方块改成球体：钛制冷却球的形态调整",
       "summaryZh": "一款饮品冷却用品改用圆球外壳，尝试降低棱角与精细杯壁接触的问题。",
       "reading": {
@@ -761,7 +1211,7 @@
       "publishedAt": "2026-09-14T12:30:52+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 88,
+      "score": 85,
       "titleZh": "人工智能生成的界面，为什么总有相似的味道？",
       "summaryZh": "用户体验星球的作者尝试减少生成界面的模板感，讨论视觉质量与快速生成之间的差距。",
       "reading": {
@@ -793,7 +1243,7 @@
       "publishedAt": "2026-09-14T11:30:10+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 73,
+      "score": 85,
       "titleZh": "让网站值得探索：独立创意团队的数字体验实践",
       "summaryZh": "网页交互实验室介绍一家独立工作室如何结合品牌、内容与技术，创造有个性的互动体验。",
       "reading": {
@@ -825,7 +1275,7 @@
       "publishedAt": "2026-09-14T10:43:25+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 87,
+      "score": 84,
       "titleZh": "巴黎设计周的临时工作室：把谈话与手作放在一起",
       "summaryZh": "设计邦在玛黑区以播客、聚会和纸型印花工作坊，将报道空间变成交流现场。",
       "reading": {
@@ -852,12 +1302,12 @@
       "title": "Ryuichi Sasaki Architecture uses trapezoid motifs for concrete housing in Tokyo",
       "summary": "Trapezoidal motifs appear throughout this concrete condominium block in Tokyo, designed by Japanese studio Ryuichi Sasaki Architecture. Named Shin Nakano Trapezoidal, the five-storey block of 11 residential units was designed for local developer Real Partners. According to Ryuichi Sasaki Architecture, the angular, trapezoidal…",
       "source": "Dezeen",
-      "category": "空间设计",
+      "category": "建筑设计",
       "image": "https://static.dezeen.com/uploads/2026/09/ryuichi-sasaki-architecture-shin-nakano-trapezoidal-condominiums-tokyo-sq_dezeen_2364_col_0-852x852.jpg",
       "publishedAt": "2026-09-14T10:30:54+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 87,
+      "score": 84,
       "titleZh": "梯形从入口延伸到住宅：东京混凝土公寓",
       "summaryZh": "佐佐木龙一建筑事务所用梯形构件、透光楼梯和三翼布局组织十一套住宅。",
       "reading": {
@@ -889,7 +1339,7 @@
       "publishedAt": "2026-09-14T10:15:29+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 87,
+      "score": 84,
       "titleZh": "竹壳与两种盾：伦敦设计节的穿山甲展亭",
       "summaryZh": "萨尔工作室以竹网壳叠加警用盾和编织雨盾，讨论保护与历史之间的关系。",
       "reading": {
@@ -921,7 +1371,7 @@
       "publishedAt": "2026-09-14T10:00:39+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 87,
+      "score": 84,
       "titleZh": "用头发做材料、让洗手盆溶解：学生重新想象浴室",
       "summaryZh": "埃因霍温设计学院与卡德维通过八项学生项目，讨论资源紧缺时的浴室与循环行为。",
       "reading": {
@@ -953,7 +1403,7 @@
       "publishedAt": "2026-09-14T09:30:03+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 86,
+      "score": 83,
       "titleZh": "悬浮靠背与连续铝框：维普旋转椅的新轮廓",
       "summaryZh": "维普以环绕扶手和靠背的铝制框架，打造面向会议室与家庭办公的旋转座椅。",
       "reading": {
@@ -987,7 +1437,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "居住方式：空间如何塑造我们的日常",
       "summaryZh": "从工作、休息到与人相遇，设计邦重新审视居住空间如何参与日常生活。",
-      "score": 86,
+      "score": 83,
       "reading": {
         "sections": [
           {
@@ -1030,7 +1480,7 @@
       "publishedAt": "2026-09-14T09:00:44+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-15",
-      "score": 86,
+      "score": 83,
       "titleZh": "设计展只能看不能碰？触摸也是理解作品的方式",
       "summaryZh": "记者爱丽丝·费舍尔讨论展览体验，呼吁让观众有机会坐下、触摸并真正使用设计。",
       "reading": {
@@ -1062,7 +1512,7 @@
       "publishedAt": "2026-09-14T08:15:33+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-14",
-      "score": 85,
+      "score": 83,
       "titleZh": "把笔记移到手机背面：背屏笔记装置的另一种屏幕思路",
       "summaryZh": "当手机正面被应用与信息占满，背屏笔记装置把随手记录放到背面，探索更直接的笔记体验。",
       "reading": {
@@ -1091,7 +1541,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "伦敦设计节开幕，城市为什么还要投资设计？",
       "summaryZh": "德泽恩对话伦敦市长萨迪克·汗，讨论设计节、城市创意生态与今年值得关注的内容。",
-      "score": 85,
+      "score": 83,
       "reading": {
         "sections": [
           {
@@ -1118,7 +1568,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "让三维场景动起来：动画制作的几种路径",
       "summaryZh": "创意视界梳理三维动画的主要制作方式，从手工控制到规则驱动，理解运动是如何被构建的。",
-      "score": 85,
+      "score": 83,
       "reading": {
         "sections": [
           {
@@ -1145,7 +1595,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "从工地泥土到车站墙砖：甜蜜地形的材料循环",
       "summaryZh": "设计师回收老橡树公地车站施工挖出的黏土，借传统饼干模具制作具有纹理的墙砖。",
-      "score": 85,
+      "score": 82,
       "reading": {
         "sections": [
           {
@@ -1172,7 +1622,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "不用墙来分房间：雅典公寓的木作重组",
       "summaryZh": "这座建于上世纪七十年代的公寓通过一系列木作构件组织空间，以关系代替封闭的房间划分。",
-      "score": 70,
+      "score": 67,
       "reading": {
         "sections": [
           {
@@ -1199,7 +1649,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "面向山林的住宅与工作室：阿莫纳之家",
       "summaryZh": "墨西哥住宅以白色石灰墙框景，兼顾工作、多代同住与未来户型调整。",
-      "score": 84,
+      "score": 81,
       "reading": {
         "sections": [
           {
@@ -1214,6 +1664,39 @@
       }
     },
     {
+      "id": "dff6a77062b0568c",
+      "url": "https://www.volkswagen-newsroom.com/en/press-releases/mission-efficiency-volkswagen-presents-the-worlds-most-efficient-near-production-electric-car-20691",
+      "title": "大众效率概念车：让气流决定车身形态",
+      "summary": "泪滴形车身、后轮覆盖与平整底盘，组成以降低风阻为目标的设计。",
+      "source": "大众汽车新闻中心",
+      "category": "交通工具设计",
+      "image": "https://uploads.vw-mms.de/system/production/images/vwn/088/602/images/6bbad4db65128abad2997fb4800415cd65086d86/DB2026AU00680_web_1600.jpg?1789043279",
+      "publishedAt": "2026-09-14T00:00:00+08:00",
+      "date": "2026-09-14",
+      "firstSeen": "2026-09-15",
+      "score": 60,
+      "publishedPrecision": "day",
+      "titleZh": "大众效率概念车：让气流决定车身形态",
+      "summaryZh": "泪滴形车身、后轮覆盖与平整底盘，组成以降低风阻为目标的设计。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "资讯要点",
+            "paragraphs": [
+              "大众九月十四日发布效率研究原型，公布风阻系数为零点一五八。车身采用小迎风面积、主动进气控制和后轮覆盖等设计；该车是概念原型，并非在售车型。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "当效率成为明确目标，车身比例与细节可以用同一标准来推敲。值得进一步观察低车身和收窄的尾部如何影响乘员空间与日常使用。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "31846f1f941f8aeb",
       "url": "https://www.yankodesign.com/2026/09/13/a-designer-turned-xiaomis-logo-into-a-multi-utility-vehicle-concept/?utm_source=rss&utm_medium=rss&utm_campaign=a-designer-turned-xiaomis-logo-into-a-multi-utility-vehicle-concept",
       "title": "A Designer turned Xiaomi’s Logo into a Multi-Utility Vehicle Concept",
@@ -1224,7 +1707,7 @@
       "publishedAt": "2026-09-13T22:30:06+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-14",
-      "score": 80,
+      "score": 78,
       "titleZh": "从小米标志出发，想象一辆圆角多用途汽车",
       "summaryZh": "卢卡斯·安杰洛的小米地平线概念车将圆角方形延伸到轮毂与尾灯。这是设计师独立概念，并非小米官方发布。",
       "reading": {
@@ -1253,7 +1736,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "走进欧姬芙画中的房屋、建筑与风景",
       "summaryZh": "底特律展览通过近四十幅绘画，追溯乔治亚·欧姬芙如何观看并表现建筑环境。",
-      "score": 79,
+      "score": 77,
       "reading": {
         "sections": [
           {
@@ -1278,7 +1761,7 @@
       "publishedAt": "2026-09-13T19:15:20+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-14",
-      "score": 79,
+      "score": 76,
       "titleZh": "赛车驶入客厅：狂热座椅的碳纤维语言",
       "summaryZh": "油渍实验室将碳纤维壳体与数控加工铝框架带入座椅设计，把赛车材料转化为日常家具。",
       "reading": {
@@ -1305,7 +1788,7 @@
       "publishedAt": "2026-09-13T17:20:49+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-14",
-      "score": 78,
+      "score": 76,
       "titleZh": "一件九十年历史的工具，塑造现代豪华旅行跑车",
       "summaryZh": "报道聚焦英式轮压机金属成形工艺，观察传统手工技术如何继续参与汽车造型。",
       "reading": {
@@ -1332,7 +1815,7 @@
       "publishedAt": "2026-09-13T15:20:55+00:00",
       "date": "2026-09-13",
       "firstSeen": "2026-09-14",
-      "score": 77,
+      "score": 75,
       "titleZh": "巴厘岛的偏心镜片装置，重新组织观看风景的方式",
       "summaryZh": "这件雕塑装置为熟悉的旅行场景引入新的观看角度，探索空间、风景与拍摄之间的关系。",
       "reading": {
@@ -1359,7 +1842,7 @@
       "publishedAt": "2026-09-13T14:15:28+00:00",
       "date": "2026-09-13",
       "firstSeen": "2026-09-14",
-      "score": 61,
+      "score": 59,
       "titleZh": "拆除废料的新生命：德黑兰的废墟展亭",
       "summaryZh": "回收混凝土与再生铝构成展亭，反射表面模糊建筑、残片与周围环境的边界。",
       "reading": {
@@ -1388,7 +1871,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "奇幻书封的战斗场面，如何建立戏剧张力？",
       "summaryZh": "插画师安德烈亚·皮帕罗分享绘画过程与视觉构思，解析一幅奇幻封面的制作。",
-      "score": 76,
+      "score": 74,
       "reading": {
         "sections": [
           {
@@ -1413,7 +1896,7 @@
       "publishedAt": "2026-09-13T13:20:25+00:00",
       "date": "2026-09-13",
       "firstSeen": "2026-09-14",
-      "score": 76,
+      "score": 74,
       "titleZh": "玻璃小屋：重新思考小尺度居住",
       "summaryZh": "玻璃小屋以大面积玻璃重新组织小屋与环境的关系，为紧凑居住提供另一种空间表达。",
       "reading": {
@@ -1442,7 +1925,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "《猫武士》动画幕后：电脑生成角色也能拥有细腻表情",
       "summaryZh": "幕后美术展示角色造型与表情设计，观察动画如何把书中的猫转化为银幕形象。",
-      "score": 61,
+      "score": 59,
       "reading": {
         "sections": [
           {
@@ -1467,7 +1950,7 @@
       "publishedAt": "2026-09-13T11:40:22+00:00",
       "date": "2026-09-13",
       "firstSeen": "2026-09-14",
-      "score": 75,
+      "score": 73,
       "titleZh": "177 颗微型发光二极管，让手机背面的标志发光",
       "summaryZh": "传音旗下品牌与托尼诺·兰博基尼的手机设计把灯光融入背板，探索品牌符号与硬件外观的结合。",
       "reading": {
@@ -1494,7 +1977,7 @@
       "publishedAt": "2026-09-13T11:34:39+00:00",
       "date": "2026-09-13",
       "firstSeen": "2026-09-15",
-      "score": 60,
+      "score": 73,
       "titleZh": "把三维渲染放进设计画布：减少原型中的工具切换",
       "summaryZh": "设计师开发画布内三维渲染工具，让模型、镜头与光线调整融入网页设计流程。",
       "reading": {
@@ -1528,7 +2011,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "保持开放与好奇：与汤姆·墨菲的五个问题",
       "summaryZh": "威迈创意负责人谈创作习惯、追逐相关性的风险，以及工作之外对创意的滋养。",
-      "score": 75,
+      "score": 73,
       "reading": {
         "sections": [
           {
@@ -1555,7 +2038,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "十字形平面伸入林地：瑞典松林之家",
       "summaryZh": "约翰·松德伯格建筑事务所以向四周延展的木屋平面，让度假住宅与森林地形相接。",
-      "score": 75,
+      "score": 73,
       "reading": {
         "sections": [
           {
@@ -1582,7 +2065,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "用人工智能海报宣传艺术课，会传达怎样的创作立场？",
       "summaryZh": "创意视界从一张艺术课程宣传单切入，讨论生成式图像与艺术教育之间的张力。",
-      "score": 60,
+      "score": 58,
       "reading": {
         "sections": [
           {
@@ -1609,7 +2092,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "七个把台球桌融入生活的室内空间",
       "summaryZh": "从酒吧、酒店到私人住宅，德泽恩汇集台球活动与室内布局相结合的案例。",
-      "score": 74,
+      "score": 72,
       "reading": {
         "sections": [
           {
@@ -1636,7 +2119,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "面团里的气孔，变成一家烘焙店的品牌语言",
       "summaryZh": "这套视觉识别从面包内部的不规则结构出发，让产品自身的特征成为品牌图形。",
-      "score": 59,
+      "score": 57,
       "reading": {
         "sections": [
           {
@@ -1663,7 +2146,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "赫尔辛基的新地标，用极简标志建立识别",
       "summaryZh": "由哈桑及合伙人创作的品牌设计，展示简洁造型如何保留辨识度与表达空间。",
-      "score": 59,
+      "score": 57,
       "reading": {
         "sections": [
           {
@@ -1688,7 +2171,7 @@
       "publishedAt": "2026-09-13T07:45:47+00:00",
       "date": "2026-09-13",
       "firstSeen": "2026-09-14",
-      "score": 74,
+      "score": 72,
       "titleZh": "家务劳动，如何被写进现代住宅的平面图？",
       "summaryZh": "从走廊的出现出发，文章追溯动线分离如何持续影响今天的住宅组织。",
       "reading": {
@@ -1715,7 +2198,7 @@
       "publishedAt": "2026-09-13T07:00:00+00:00",
       "date": "2026-09-13",
       "firstSeen": "2026-09-15",
-      "score": 58,
+      "score": 57,
       "titleZh": "从整理照片到图层编辑：佐纳工作室软件评测",
       "summaryZh": "创意视界评测一款集合照片管理、原始图像处理、图层编辑与视频功能的软件。",
       "reading": {
@@ -1749,7 +2232,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "红色折线外立面，包裹捷克冰球馆",
       "summaryZh": "奇比克与克里斯托夫事务所设计的伊赫拉瓦市政体育馆将醒目立面、屋顶跑道与城市公共功能结合。",
-      "score": 73,
+      "score": 71,
       "reading": {
         "sections": [
           {
@@ -1774,7 +2257,7 @@
       "publishedAt": "2026-09-12T20:35:32+00:00",
       "date": "2026-09-13",
       "firstSeen": "2026-09-14",
-      "score": 70,
+      "score": 68,
       "titleZh": "超级工作室的十二座理想城市，追问完美生活的代价",
       "summaryZh": "回看 1971 年的激进设想：当建筑与技术能够安排生活的每个细节，人还拥有什么？",
       "reading": {
@@ -1803,7 +2286,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "海边住宅里的「屋中屋」：布鲁克林事务所的采光策略",
       "summaryZh": "纽约海滨住宅通过错位山墙、切口与凹进空间，将自然光引入室内。",
-      "score": 69,
+      "score": 67,
       "reading": {
         "sections": [
           {
@@ -1828,7 +2311,7 @@
       "publishedAt": "2026-09-12T14:15:38+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-14",
-      "score": 68,
+      "score": 67,
       "titleZh": "金属网格与半透明表面，构成法国咖啡馆",
       "summaryZh": "工业材料、雕塑感不锈钢与一体化照明共同组织顾客动线，建立精确又轻盈的空间感。",
       "reading": {
@@ -1855,7 +2338,7 @@
       "publishedAt": "2026-09-12T11:00:00+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-14",
-      "score": 67,
+      "score": 66,
       "titleZh": "三维创作软件场景中的巨蛇：如何表现尺度与重量？",
       "summaryZh": "沃伊泰克·富斯分享大型场景的创作过程，讨论如何在强烈动势中保留清晰的视觉焦点。",
       "reading": {
@@ -1884,7 +2367,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "把屋顶交给苔藓，把小屋交给沐浴",
       "summaryZh": "建造事务所在东萨塞克斯林地打造沐浴者小屋，以炭化落叶松和种植屋顶回应森林环境。",
-      "score": 67,
+      "score": 66,
       "reading": {
         "sections": [
           {
@@ -1909,7 +2392,7 @@
       "publishedAt": "2026-09-12T10:00:00+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-14",
-      "score": 52,
+      "score": 51,
       "titleZh": "一次啤酒品牌改版，为何遭遇反对？",
       "summaryZh": "创意视界评论蒂莫西·泰勒的品牌更新，讨论熟悉感与视觉焕新之间的平衡。",
       "reading": {
@@ -1938,7 +2421,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "戴森的跨品类设计：哪些突破成功，哪些没有？",
       "summaryZh": "随着新款牙刷进入视野，德泽恩回顾戴森在不同产品类型中的创新尝试。",
-      "score": 67,
+      "score": 65,
       "reading": {
         "sections": [
           {
@@ -1963,7 +2446,7 @@
       "publishedAt": "2026-09-12T08:40:31+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-15",
-      "score": 51,
+      "score": 65,
       "titleZh": "迪卡侬的九十年代记忆，怎样变成网页体验？",
       "summaryZh": "品牌以鲜明插画、表现性文字和大幅产品图，构建带有怀旧气质的线上发布体验。",
       "reading": {
@@ -1995,7 +2478,7 @@
       "publishedAt": "2026-09-12T08:00:00+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-14",
-      "score": 66,
+      "score": 65,
       "titleZh": "四十年后依然有效：澳大利亚制造标志的生命力",
       "summaryZh": "这枚绿金色袋鼠标志自 1986 年用于产品识别，文章分析其长期保持辨识度的原因。",
       "reading": {
@@ -2022,7 +2505,7 @@
       "publishedAt": "2026-09-12T07:45:05+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-14",
-      "score": 66,
+      "score": 65,
       "titleZh": "住在地下为什么让人觉得陌生？",
       "summaryZh": "地下住宅带来庇护与稳定环境，也引出人对地面世界的心理依赖。",
       "reading": {
@@ -2049,7 +2532,7 @@
       "publishedAt": "2026-09-12T05:00:59+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-14",
-      "score": 65,
+      "score": 64,
       "titleZh": "伦敦的石材高层：让外骨骼成为结构",
       "summaryZh": "德泽恩周报聚焦协作建筑事务所与韦布·耶茨的佩特拉高地项目，观察石材结构在高层建筑中的应用。",
       "reading": {
@@ -2076,7 +2559,7 @@
       "publishedAt": "2026-09-12T02:10:05+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-14",
-      "score": 65,
+      "score": 64,
       "titleZh": "修剪下来的树枝，搭成模块化生物多样性展亭",
       "summaryZh": "项目建筑师在意大利以林地枝条构筑展亭，为人与其他生物提供共享空间。",
       "reading": {
@@ -2103,7 +2586,7 @@
       "publishedAt": "2026-09-11T20:35:57+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-14",
-      "score": 63,
+      "score": 62,
       "titleZh": "白色展厅背后，藏着砖红色的博物馆房间",
       "summaryZh": "迪拜画廊通过退离玻璃立面的墙体组织视线，让展览空间保持连续性。",
       "reading": {
@@ -2130,7 +2613,7 @@
       "publishedAt": "2026-09-11T17:36:53+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-15",
-      "score": 63,
+      "score": 62,
       "titleZh": "升降扶手椅，也可以摆进好看的客厅",
       "summaryZh": "一款辅助起身的座椅，尝试让适老功能与日常家居审美共同成立。",
       "reading": {
@@ -2164,7 +2647,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "用人工智能原型，把复杂交互的测试提前",
       "summaryZh": "尼尔森诺曼集团讨论如何构建可操作的复杂界面原型，让用户验证更早进入设计流程。",
-      "score": 48,
+      "score": 47,
       "reading": {
         "sections": [
           {
@@ -2191,7 +2674,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "人工智能可以协助写作，但编辑责任仍属于人",
       "summaryZh": "尼尔森诺曼集团分享将人工智能用于表达、格式与批评的方式，同时保留人的判断与内容责任。",
-      "score": 48,
+      "score": 47,
       "reading": {
         "sections": [
           {
@@ -2216,7 +2699,7 @@
       "publishedAt": "2026-09-11T14:32:01+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-15",
-      "score": 47,
+      "score": 46,
       "video": {
         "provider": "vimeo",
         "id": "1225185081"
@@ -2254,7 +2737,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "夹具式胶带座：一个好想法，还需要哪些改进？",
       "summaryZh": "工业设计网评析夹具式胶带座，把夹紧结构与胶带分配组合，关注创意落地后的使用细节。",
-      "score": 62,
+      "score": 61,
       "reading": {
         "sections": [
           {
@@ -2279,7 +2762,7 @@
       "publishedAt": "2026-09-11T13:00:26+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-14",
-      "score": 62,
+      "score": 61,
       "titleZh": "六种收纳家具，藏起杂物也表达个性",
       "summaryZh": "德泽恩设计展厅汇集不同品牌的收纳产品，比较低调融入与醒目造型两种路径。",
       "reading": {
@@ -2308,7 +2791,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "让用户体验投资回报的论证，经得起管理层追问",
       "summaryZh": "亚历克斯·威廉姆斯以具体案例说明如何定义业务价值、计算成本与检验因果关系。",
-      "score": 47,
+      "score": 46,
       "reading": {
         "sections": [
           {
@@ -2335,7 +2818,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "世家电动内六角工具：让拇指接管旋拧",
       "summaryZh": "可切换角度的头部、双向按钮与通用接口充电，重新安排小型手工具的操作方式。",
-      "score": 62,
+      "score": 61,
       "reading": {
         "sections": [
           {
@@ -2360,7 +2843,7 @@
       "publishedAt": "2026-09-11T12:00:00+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-15",
-      "score": 47,
+      "score": 46,
       "titleZh": "动作捕捉如何进入角色表演：电影幕后片段",
       "summaryZh": "视觉特效艺术收录电影幕后内容，展示演员穿着动作捕捉服参与生物角色表演。",
       "reading": {
@@ -2392,7 +2875,7 @@
       "publishedAt": "2026-09-11T10:30:01+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-14",
-      "score": 61,
+      "score": 60,
       "titleZh": "芦泽启治的八岳住宅，以炭化杉木包裹折面",
       "summaryZh": "度假住宅通过有角度的体量回应景观，同时照顾居住者的私密性。",
       "reading": {
@@ -2419,7 +2902,7 @@
       "publishedAt": "2026-09-11T10:11:50+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-15",
-      "score": 61,
+      "score": 60,
       "titleZh": "让智能工具参与设计评审，而不只生成原型",
       "summaryZh": "一篇工作流分享把智能助手从制作环节引入设计批评与反馈环节。",
       "reading": {
@@ -2451,7 +2934,7 @@
       "publishedAt": "2026-09-11T09:42:22+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-14",
-      "score": 61,
+      "score": 60,
       "titleZh": "在伦敦做设计，创作者如何维持生活？",
       "summaryZh": "设计节前夕，德泽恩与五位本地设计师讨论高生活成本下的工作与生存。",
       "reading": {
@@ -2478,7 +2961,7 @@
       "publishedAt": "2026-09-11T09:30:06+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-14",
-      "score": 61,
+      "score": 60,
       "titleZh": "牧牛扶手椅：澳大利亚乡野里的工业线索",
       "summaryZh": "吉布森·卡洛从乡村筒仓等金属结构获得灵感，为设计品牌设计带有粗犷气质的座椅。",
       "reading": {
@@ -2505,7 +2988,7 @@
       "publishedAt": "2026-09-10T22:40:55+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-15",
-      "score": 59,
+      "score": 58,
       "titleZh": "语音人工智能的八种体验模式",
       "summaryZh": "作者梳理新兴语音交互模式，讨论用户理解的助手角色、设计决策与能力限制。",
       "reading": {
@@ -2537,7 +3020,7 @@
       "publishedAt": "2026-09-10T22:39:57+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-15",
-      "score": 44,
+      "score": 43,
       "titleZh": "登录验证里的阻力，为什么让用户放弃？",
       "summaryZh": "一篇用户体验评论聚焦身份验证流程中的挫败感，讨论如何减少不必要的操作负担。",
       "reading": {
@@ -2571,7 +3054,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "动态设计观察二十周年，重启创意招聘平台",
       "summaryZh": "平台以周年活动连接动态设计行业的工作机会，报道介绍新一轮招聘发布安排。",
-      "score": 59,
+      "score": 58,
       "reading": {
         "sections": [
           {
@@ -2598,7 +3081,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "从超跑到座椅：工业设计网评析狂热座椅",
       "summaryZh": "工业设计网从材料角度观察油渍实验室的家具尝试，讨论碳纤维如何改变熟悉的椅子轮廓。",
-      "score": 58,
+      "score": 57,
       "reading": {
         "sections": [
           {
@@ -2625,7 +3108,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "脑腐：懒惰方块工作室的动态作品",
       "summaryZh": "动态设计观察收录懒惰方块工作室的作品脑腐，可前往原文观看完整影像。",
-      "score": 43,
+      "score": 42,
       "reading": {
         "sections": [
           {
@@ -2652,7 +3135,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "斗牛犬紧固器：重新设计重物运输的紧固工具",
       "summaryZh": "围绕拖车运输中的链条张紧，工业设计网讨论棘轮紧固器的结构与操作改进。",
-      "score": 58,
+      "score": 57,
       "reading": {
         "sections": [
           {
@@ -2677,7 +3160,7 @@
       "publishedAt": "2026-09-10T05:00:44+00:00",
       "date": "2026-09-10",
       "firstSeen": "2026-09-15",
-      "score": 57,
+      "score": 56,
       "titleZh": "用模块化胶合板家具，重新安排紧凑卧室",
       "summaryZh": "折叠床与衣柜组成模块系统，为小卧室提供定制柜体之外的选择。",
       "reading": {
@@ -2709,7 +3192,7 @@
       "publishedAt": "2026-09-09T17:55:00+00:00",
       "date": "2026-09-10",
       "firstSeen": "2026-09-15",
-      "score": 40,
+      "score": 54,
       "titleZh": "把名字变成一座动态数字建筑",
       "summaryZh": "交互实验把输入的名字转化为动态三维形态，让文字成为空间生成的起点。",
       "reading": {
@@ -2743,7 +3226,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "一把厨房剪刀，回应调料袋的三个使用难点",
       "summaryZh": "日本刀具制造商从袋装调料的烹饪流程出发，围绕加热、开袋与取用设计专用剪刀。",
-      "score": 55,
+      "score": 54,
       "reading": {
         "sections": [
           {
@@ -2768,7 +3251,7 @@
       "publishedAt": "2026-09-09T15:00:00+00:00",
       "date": "2026-09-09",
       "firstSeen": "2026-09-15",
-      "score": 40,
+      "score": 39,
       "titleZh": "从传送门到异世界：电影特效制作拆解",
       "summaryZh": "特效团队分享传送门、数字道具与环境的制作，展示实拍素材如何延伸为奇幻场景。",
       "reading": {
@@ -2802,7 +3285,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "美刻工作室开放 2026 动画毕业创作资助申请",
       "summaryZh": "该计划为动画专业高年级学生提供资金、制作资源与展示机会，支持毕业短片创作。",
-      "score": 55,
+      "score": 54,
       "reading": {
         "sections": [
           {
@@ -2829,7 +3312,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "真空立方：让工作台真空固定变得小巧安静",
       "summaryZh": "伊兹·斯旺设计的十二伏真空泵减少对大型设备的依赖，为工作台固定提供新的工具选择。",
-      "score": 55,
+      "score": 54,
       "reading": {
         "sections": [
           {
@@ -2856,7 +3339,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "小鸟：来自里比特工作室的影像作品",
       "summaryZh": "动态设计观察收录作品小鸟，原文提供影像与相关创作信息。",
-      "score": 40,
+      "score": 39,
       "reading": {
         "sections": [
           {
@@ -2989,7 +3472,7 @@
       "publishedAt": "2026-09-08T13:09:48+00:00",
       "date": "2026-09-08",
       "firstSeen": "2026-09-15",
-      "score": 37,
+      "score": 51,
       "titleZh": "会折射视频的无限玻璃网格",
       "summaryZh": "创意开发者以浏览器图形技术制作可拖动的玻璃视频卡片，将材质与运动结合。",
       "reading": {
@@ -3021,7 +3504,7 @@
       "publishedAt": "2026-09-08T13:00:00+00:00",
       "date": "2026-09-08",
       "firstSeen": "2026-09-14",
-      "score": 52,
+      "score": 51,
       "titleZh": "不用电子元件也能变色：麻省理工学院的变换透镜",
       "summaryZh": "研究人员通过三维打印柱状透镜物体，让视角与动作改变外观，为交互产品提供低技术路径。",
       "reading": {
@@ -3038,6 +3521,39 @@
       }
     },
     {
+      "id": "c0695b68accf90f0",
+      "url": "https://www.ied.edu/news/ied-turin-at-salone-auto-torino-2026-concept-cars-and-creativity-in-action",
+      "title": "都灵车展上的学生概念车：两种未来出行想象",
+      "summary": "欧洲设计学院以学生概念车和现场手绘，展示汽车设计教学与品牌合作。",
+      "source": "欧洲设计学院",
+      "category": "交通工具设计",
+      "image": null,
+      "publishedAt": "2026-09-08T00:00:00+08:00",
+      "date": "2026-09-08",
+      "firstSeen": "2026-09-15",
+      "score": 20,
+      "publishedPrecision": "day",
+      "titleZh": "都灵车展上的学生概念车：两种未来出行想象",
+      "summaryZh": "欧洲设计学院以学生概念车和现场手绘，展示汽车设计教学与品牌合作。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "资讯要点",
+            "paragraphs": [
+              "学院公告介绍了与帕加尼合作的双座超跑概念，以及与特斯拉合作、探索车内时间体验的自动驾驶概念。它们参加了九月十一日至十三日的都灵车展。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "概念车可以同时讨论外部造型与乘坐行为。对设计学习而言，将同一个概念重新解释为量产车辆，有助于训练尺寸、用途与用户之间的取舍。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "b643a6ed751f370e",
       "url": "https://www.nngroup.com/articles/ai-work-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "title": "Using AI for UX Work: Study Guide",
@@ -3050,7 +3566,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "把人工智能用于用户体验工作，从这份学习指南开始",
       "summaryZh": "尼尔森诺曼集团整理文章与视频，帮助设计师理解人工智能在用户体验工作中的适用方式。",
-      "score": 31,
+      "score": 30,
       "reading": {
         "sections": [
           {
@@ -3091,6 +3607,39 @@
             "heading": "设计解读",
             "paragraphs": [
               "界面系统维护应先检查组件重复、状态缺失和样式不一致，再决定新增什么。自动化可以辅助梳理，但新增组件仍需要遵守产品已有的交互规范。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "244e42a63b3cb735",
+      "url": "https://www.euroncap.com/press-media/euro-ncap-tests-show-car-makers-continue-to-drive-for-safety/",
+      "title": "汽车安全评测，也在检验屏幕与实体按键的取舍",
+      "summary": "新一轮评测除了碰撞保护，也关注关键操作、儿童遗留提醒与驾驶辅助。",
+      "source": "欧洲新车安全评鉴协会",
+      "category": "交通工具设计",
+      "image": "https://cdn.euroncap.com/cars/assets/260902_1b078019ca.png",
+      "publishedAt": "2026-09-02T00:00:00+08:00",
+      "date": "2026-09-02",
+      "firstSeen": "2026-09-15",
+      "score": 28,
+      "publishedPrecision": "day",
+      "titleZh": "汽车安全评测，也在检验屏幕与实体按键的取舍",
+      "summaryZh": "新一轮评测除了碰撞保护，也关注关键操作、儿童遗留提醒与驾驶辅助。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "资讯要点",
+            "paragraphs": [
+              "官方公布三款中国品牌车型获得五星。另一款欧洲车型标准配置为四星，选装安全包后为五星。报告同时指出部分车辆关键操作过度依赖中央屏幕。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "车内交互不能只按视觉整洁来判断。驾驶中能否快速定位关键功能，值得与界面层级、触觉反馈和操作负担一起评估。"
             ]
           }
         ]
@@ -3298,7 +3847,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "止痒：相信影像工作室的动态影像",
       "summaryZh": "动态设计观察收录相信影像工作室的作品，原文可观看完整影像并了解创作信息。",
-      "score": 24,
+      "score": 23,
       "reading": {
         "sections": [
           {
@@ -3325,7 +3874,7 @@
       "firstSeen": "2026-09-14",
       "titleZh": "吉祥物不必在赛事后退休：角色的长期品牌价值",
       "summaryZh": "费代里科·马西尼探讨品牌如何长期经营角色，让它们超越一次营销活动。",
-      "score": 39,
+      "score": 38,
       "reading": {
         "sections": [
           {
@@ -3770,105 +4319,6 @@
         ],
         "basis": "feed"
       }
-    },
-    {
-      "id": "c0695b68accf90f0",
-      "url": "https://www.ied.edu/news/ied-turin-at-salone-auto-torino-2026-concept-cars-and-creativity-in-action",
-      "title": "都灵车展上的学生概念车：两种未来出行想象",
-      "summary": "欧洲设计学院以学生概念车和现场手绘，展示汽车设计教学与品牌合作。",
-      "source": "欧洲设计学院",
-      "category": "交通工具设计",
-      "image": null,
-      "publishedAt": "2026-09-08T00:00:00+08:00",
-      "date": "2026-09-08",
-      "firstSeen": "2026-09-15",
-      "score": 55,
-      "publishedPrecision": "day",
-      "titleZh": "都灵车展上的学生概念车：两种未来出行想象",
-      "summaryZh": "欧洲设计学院以学生概念车和现场手绘，展示汽车设计教学与品牌合作。",
-      "reading": {
-        "basis": "article",
-        "sections": [
-          {
-            "heading": "资讯要点",
-            "paragraphs": [
-              "学院公告介绍了与帕加尼合作的双座超跑概念，以及与特斯拉合作、探索车内时间体验的自动驾驶概念。它们参加了九月十一日至十三日的都灵车展。"
-            ]
-          },
-          {
-            "heading": "设计解读",
-            "paragraphs": [
-              "概念车可以同时讨论外部造型与乘坐行为。对设计学习而言，将同一个概念重新解释为量产车辆，有助于训练尺寸、用途与用户之间的取舍。"
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "id": "244e42a63b3cb735",
-      "url": "https://www.euroncap.com/press-media/euro-ncap-tests-show-car-makers-continue-to-drive-for-safety/",
-      "title": "汽车安全评测，也在检验屏幕与实体按键的取舍",
-      "summary": "新一轮评测除了碰撞保护，也关注关键操作、儿童遗留提醒与驾驶辅助。",
-      "source": "欧洲新车安全评鉴协会",
-      "category": "交通工具设计",
-      "image": "https://cdn.euroncap.com/cars/assets/260902_1b078019ca.png",
-      "publishedAt": "2026-09-02T00:00:00+08:00",
-      "date": "2026-09-02",
-      "firstSeen": "2026-09-15",
-      "score": 55,
-      "publishedPrecision": "day",
-      "titleZh": "汽车安全评测，也在检验屏幕与实体按键的取舍",
-      "summaryZh": "新一轮评测除了碰撞保护，也关注关键操作、儿童遗留提醒与驾驶辅助。",
-      "reading": {
-        "basis": "article",
-        "sections": [
-          {
-            "heading": "资讯要点",
-            "paragraphs": [
-              "官方公布三款中国品牌车型获得五星。另一款欧洲车型标准配置为四星，选装安全包后为五星。报告同时指出部分车辆关键操作过度依赖中央屏幕。"
-            ]
-          },
-          {
-            "heading": "设计解读",
-            "paragraphs": [
-              "车内交互不能只按视觉整洁来判断。驾驶中能否快速定位关键功能，值得与界面层级、触觉反馈和操作负担一起评估。"
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "id": "dff6a77062b0568c",
-      "url": "https://www.volkswagen-newsroom.com/en/press-releases/mission-efficiency-volkswagen-presents-the-worlds-most-efficient-near-production-electric-car-20691",
-      "title": "大众效率概念车：让气流决定车身形态",
-      "summary": "泪滴形车身、后轮覆盖与平整底盘，组成以降低风阻为目标的设计。",
-      "source": "大众汽车新闻中心",
-      "category": "交通工具设计",
-      "image": "https://uploads.vw-mms.de/system/production/images/vwn/088/602/images/6bbad4db65128abad2997fb4800415cd65086d86/DB2026AU00680_web_1600.jpg?1789043279",
-      "publishedAt": "2026-09-14T00:00:00+08:00",
-      "date": "2026-09-14",
-      "firstSeen": "2026-09-15",
-      "score": 55,
-      "publishedPrecision": "day",
-      "titleZh": "大众效率概念车：让气流决定车身形态",
-      "summaryZh": "泪滴形车身、后轮覆盖与平整底盘，组成以降低风阻为目标的设计。",
-      "reading": {
-        "basis": "article",
-        "sections": [
-          {
-            "heading": "资讯要点",
-            "paragraphs": [
-              "大众九月十四日发布效率研究原型，公布风阻系数为零点一五八。车身采用小迎风面积、主动进气控制和后轮覆盖等设计；该车是概念原型，并非在售车型。"
-            ]
-          },
-          {
-            "heading": "设计解读",
-            "paragraphs": [
-              "当效率成为明确目标，车身比例与细节可以用同一标准来推敲。值得进一步观察低车身和收窄的尾部如何影响乘员空间与日常使用。"
-            ]
-          }
-        ]
-      }
     }
   ],
   "issues": [
@@ -3992,6 +4442,7 @@
         "6584fb84fa9b06c6",
         "1e208278c184e214",
         "fbca73a44ab5fce5",
+        "dff6a77062b0568c",
         "6ac95cc8a8f36222",
         "ad754e61731b8e86",
         "e5b60107e6763277",
@@ -4005,12 +4456,11 @@
         "21c53a4a25549fbd",
         "bc8ba308858d5285",
         "d1168f0321589327",
-        "0c402b1ac982dacd",
         "c0695b68accf90f0",
-        "244e42a63b3cb735",
-        "dff6a77062b0568c"
+        "0c402b1ac982dacd",
+        "244e42a63b3cb735"
       ],
-      "updatedAt": "2026-09-15T12:41:28.380241+08:00"
+      "updatedAt": "2026-09-15T15:48:27.012422+08:00"
     }
   ],
   "rankingNote": "热度为本站关注指数：时效最高70分、配图15分、摘要完整度15分；不是全网阅读量或点赞量。",
@@ -4018,5 +4468,684 @@
     "time": "09:00",
     "timezone": "Asia/Shanghai",
     "active": true
-  }
+  },
+  "sourceCatalog": [
+    {
+      "name": "Dezeen",
+      "url": "https://www.dezeen.com/feed/",
+      "category": "工业设计",
+      "label": "德泽恩",
+      "mode": "feed",
+      "feedUrl": "https://www.dezeen.com/feed/",
+      "homepage": "https://www.dezeen.com/feed/",
+      "categories": [
+        "工业设计",
+        "家具设计",
+        "建筑设计",
+        "空间设计",
+        "交通工具设计"
+      ]
+    },
+    {
+      "name": "designboom",
+      "url": "https://www.designboom.com/feed/",
+      "category": "空间设计",
+      "label": "设计邦",
+      "mode": "feed",
+      "feedUrl": "https://www.designboom.com/feed/",
+      "homepage": "https://www.designboom.com/feed/",
+      "categories": [
+        "工业设计",
+        "家具设计",
+        "建筑设计",
+        "空间设计",
+        "交通工具设计"
+      ]
+    },
+    {
+      "name": "Yanko Design",
+      "url": "https://www.yankodesign.com/feed/",
+      "category": "工业设计",
+      "label": "扬科设计",
+      "mode": "feed",
+      "feedUrl": "https://www.yankodesign.com/feed/",
+      "homepage": "https://www.yankodesign.com/feed/",
+      "categories": [
+        "工业设计"
+      ]
+    },
+    {
+      "name": "Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/feed/",
+      "category": "界面设计",
+      "label": "设计与开发杂志",
+      "mode": "feed",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "homepage": "https://www.smashingmagazine.com/feed/",
+      "categories": [
+        "界面设计"
+      ]
+    },
+    {
+      "name": "Nielsen Norman Group",
+      "url": "https://www.nngroup.com/feed/rss/",
+      "category": "用户体验设计",
+      "label": "尼尔森诺曼集团",
+      "mode": "feed",
+      "feedUrl": "https://www.nngroup.com/feed/rss/",
+      "homepage": "https://www.nngroup.com/feed/rss/",
+      "categories": [
+        "用户体验设计"
+      ]
+    },
+    {
+      "name": "Motionographer",
+      "url": "https://motionographer.com/feed/",
+      "category": "动态设计",
+      "label": "动态设计观察",
+      "mode": "feed",
+      "feedUrl": "https://motionographer.com/feed/",
+      "homepage": "https://motionographer.com/feed/",
+      "categories": [
+        "动态设计"
+      ]
+    },
+    {
+      "name": "Core77",
+      "url": "https://feeds.feedburner.com/core77/blog",
+      "category": "工业设计",
+      "label": "工业设计网",
+      "mode": "feed",
+      "feedUrl": "https://feeds.feedburner.com/core77/blog",
+      "homepage": "https://feeds.feedburner.com/core77/blog",
+      "categories": [
+        "工业设计"
+      ]
+    },
+    {
+      "name": "Creative Bloq",
+      "url": "https://www.creativebloq.com/feeds/all",
+      "category": "视觉设计",
+      "label": "创意视界",
+      "mode": "feed",
+      "feedUrl": "https://www.creativebloq.com/feeds/all",
+      "homepage": "https://www.creativebloq.com/feeds/all",
+      "categories": [
+        "视觉设计"
+      ]
+    },
+    {
+      "name": "UX Collective",
+      "url": "https://uxdesign.cc/feed",
+      "category": "用户体验设计",
+      "label": "用户体验集刊",
+      "mode": "feed",
+      "feedUrl": "https://uxdesign.cc/feed",
+      "homepage": "https://uxdesign.cc/feed",
+      "categories": [
+        "用户体验设计"
+      ]
+    },
+    {
+      "name": "UX Planet",
+      "url": "https://uxplanet.org/feed",
+      "category": "用户体验设计",
+      "label": "用户体验星球",
+      "mode": "feed",
+      "feedUrl": "https://uxplanet.org/feed",
+      "homepage": "https://uxplanet.org/feed",
+      "categories": [
+        "用户体验设计"
+      ]
+    },
+    {
+      "name": "Codrops",
+      "url": "https://tympanus.net/codrops/feed/",
+      "category": "动效设计",
+      "label": "网页交互实验室",
+      "mode": "feed",
+      "feedUrl": "https://tympanus.net/codrops/feed/",
+      "homepage": "https://tympanus.net/codrops/feed/",
+      "categories": [
+        "动效设计"
+      ]
+    },
+    {
+      "name": "Awwwards",
+      "url": "https://www.awwwards.com/blog/feed/",
+      "category": "界面设计",
+      "label": "网页设计奖",
+      "mode": "feed",
+      "feedUrl": "https://www.awwwards.com/blog/feed/",
+      "homepage": "https://www.awwwards.com/blog/feed/",
+      "categories": [
+        "界面设计"
+      ]
+    },
+    {
+      "name": "Design Milk",
+      "url": "https://design-milk.com/feed/",
+      "category": "家具设计",
+      "label": "设计牛奶",
+      "mode": "feed",
+      "feedUrl": "https://design-milk.com/feed/",
+      "homepage": "https://design-milk.com/feed/",
+      "categories": [
+        "家具设计",
+        "工业设计",
+        "空间设计"
+      ]
+    },
+    {
+      "name": "Creative Boom",
+      "url": "https://www.creativeboom.com/feed/",
+      "category": "视觉设计",
+      "label": "创意浪潮",
+      "mode": "feed",
+      "feedUrl": "https://www.creativeboom.com/feed/",
+      "homepage": "https://www.creativeboom.com/feed/",
+      "categories": [
+        "视觉设计"
+      ]
+    },
+    {
+      "name": "Car Body Design",
+      "url": "https://www.carbodydesign.com/feed/",
+      "category": "交通工具设计",
+      "label": "汽车车身设计",
+      "mode": "feed",
+      "feedUrl": "https://www.carbodydesign.com/feed/",
+      "homepage": "https://www.carbodydesign.com/feed/",
+      "categories": [
+        "交通工具设计"
+      ]
+    },
+    {
+      "name": "Stash",
+      "url": "https://www.stashmedia.tv/feed/",
+      "category": "动态设计",
+      "label": "动态影像精选",
+      "mode": "feed",
+      "feedUrl": "https://www.stashmedia.tv/feed/",
+      "homepage": "https://www.stashmedia.tv/feed/",
+      "categories": [
+        "动态设计"
+      ]
+    },
+    {
+      "name": "Art of VFX",
+      "url": "https://www.artofvfx.com/feed/",
+      "category": "动态设计",
+      "label": "视觉特效艺术",
+      "mode": "feed",
+      "feedUrl": "https://www.artofvfx.com/feed/",
+      "homepage": "https://www.artofvfx.com/feed/",
+      "categories": [
+        "动态设计"
+      ]
+    },
+    {
+      "name": "Blender",
+      "url": "https://www.blender.org/feed/",
+      "category": "动态设计",
+      "label": "三维创作社区",
+      "mode": "feed",
+      "feedUrl": "https://www.blender.org/feed/",
+      "homepage": "https://www.blender.org/feed/",
+      "categories": [
+        "动态设计"
+      ]
+    },
+    {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "category": "人工智能设计",
+      "label": "开源人工智能社区",
+      "mode": "feed",
+      "feedUrl": "https://huggingface.co/blog/feed.xml",
+      "homepage": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "人工智能设计"
+      ]
+    },
+    {
+      "name": "UISDC",
+      "label": "优设",
+      "url": "https://www.uisdc.com/archives",
+      "homepage": "https://www.uisdc.com/archives",
+      "categories": [
+        "界面设计",
+        "用户体验设计",
+        "人工智能设计"
+      ],
+      "category": "界面设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "ZCOOL",
+      "label": "站酷",
+      "url": "https://www.zcool.com.cn/",
+      "homepage": "https://www.zcool.com.cn/",
+      "categories": [
+        "视觉设计",
+        "界面设计",
+        "动态设计",
+        "人工智能设计"
+      ],
+      "category": "视觉设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "UI China",
+      "label": "UI中国",
+      "url": "https://www.ui.cn/",
+      "homepage": "https://www.ui.cn/",
+      "categories": [
+        "界面设计",
+        "用户体验设计"
+      ],
+      "category": "界面设计",
+      "mode": "curated",
+      "access": "restricted"
+    },
+    {
+      "name": "Puxiang",
+      "label": "普象",
+      "url": "https://www.puxiang.com/",
+      "homepage": "https://www.puxiang.com/",
+      "categories": [
+        "工业设计",
+        "家具设计",
+        "交通工具设计"
+      ],
+      "category": "工业设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "Digitaling",
+      "label": "数英",
+      "url": "https://www.digitaling.com/",
+      "homepage": "https://www.digitaling.com/",
+      "categories": [
+        "视觉设计",
+        "动态设计"
+      ],
+      "category": "视觉设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "Shejipi",
+      "label": "设计癖",
+      "url": "https://www.shejipi.com/",
+      "homepage": "https://www.shejipi.com/",
+      "categories": [
+        "工业设计",
+        "家具设计"
+      ],
+      "category": "工业设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "gooood",
+      "label": "谷德设计网",
+      "url": "https://www.gooood.cn/",
+      "homepage": "https://www.gooood.cn/",
+      "categories": [
+        "建筑设计",
+        "空间设计"
+      ],
+      "category": "建筑设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "TOPYS",
+      "label": "顶尖创意",
+      "url": "https://www.topys.cn/",
+      "homepage": "https://www.topys.cn/",
+      "categories": [
+        "视觉设计",
+        "空间设计"
+      ],
+      "category": "视觉设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "ArchDaily",
+      "label": "建筑日报中文版",
+      "url": "https://www.archdaily.com/zh",
+      "homepage": "https://www.archdaily.com/zh",
+      "categories": [
+        "建筑设计",
+        "空间设计"
+      ],
+      "category": "建筑设计",
+      "mode": "feed",
+      "access": "public",
+      "feedUrl": "https://www.archdaily.com/cn/feed"
+    },
+    {
+      "name": "Wallpaper",
+      "label": "设计生活杂志",
+      "url": "https://www.wallpaper.com/",
+      "homepage": "https://www.wallpaper.com/",
+      "categories": [
+        "家具设计",
+        "工业设计",
+        "空间设计",
+        "交通工具设计",
+        "建筑设计"
+      ],
+      "category": "家具设计",
+      "mode": "feed",
+      "access": "public",
+      "feedUrl": "https://www.wallpaper.com/feeds.xml"
+    },
+    {
+      "name": "Its Nice That",
+      "label": "创意设计观察",
+      "url": "https://www.itsnicethat.com/",
+      "homepage": "https://www.itsnicethat.com/",
+      "categories": [
+        "视觉设计",
+        "动态设计"
+      ],
+      "category": "视觉设计",
+      "mode": "feed",
+      "access": "public",
+      "feedUrl": "http://feeds2.feedburner.com/itsnicethat/SlXC"
+    },
+    {
+      "name": "Design Week",
+      "label": "设计周刊",
+      "url": "https://www.designweek.co.uk/",
+      "homepage": "https://www.designweek.co.uk/",
+      "categories": [
+        "视觉设计",
+        "工业设计"
+      ],
+      "category": "视觉设计",
+      "mode": "curated",
+      "access": "restricted"
+    },
+    {
+      "name": "PRINT",
+      "label": "印刷与视觉设计杂志",
+      "url": "https://www.printmag.com/",
+      "homepage": "https://www.printmag.com/",
+      "categories": [
+        "视觉设计"
+      ],
+      "category": "视觉设计",
+      "mode": "feed",
+      "access": "public",
+      "feedUrl": "https://www.printmag.com/feed/"
+    },
+    {
+      "name": "Brand New",
+      "label": "品牌更新观察",
+      "url": "https://www.underconsideration.com/brandnew/",
+      "homepage": "https://www.underconsideration.com/brandnew/",
+      "categories": [
+        "视觉设计"
+      ],
+      "category": "视觉设计",
+      "mode": "feed",
+      "access": "public",
+      "feedUrl": "https://www.underconsideration.com/brandnew/feed/thefollowup"
+    },
+    {
+      "name": "Domus",
+      "label": "建筑与设计杂志",
+      "url": "https://www.domusweb.it/en.html",
+      "homepage": "https://www.domusweb.it/en.html",
+      "categories": [
+        "建筑设计",
+        "家具设计",
+        "空间设计"
+      ],
+      "category": "建筑设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "FRAME",
+      "label": "空间设计杂志",
+      "url": "https://frameweb.com/",
+      "homepage": "https://frameweb.com/",
+      "categories": [
+        "空间设计"
+      ],
+      "category": "空间设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "Car Design News",
+      "label": "汽车设计新闻",
+      "url": "https://www.cardesignnews.com/",
+      "homepage": "https://www.cardesignnews.com/",
+      "categories": [
+        "交通工具设计"
+      ],
+      "category": "交通工具设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "Dribbble",
+      "label": "设计作品社区",
+      "url": "https://dribbble.com/",
+      "homepage": "https://dribbble.com/",
+      "categories": [
+        "界面设计",
+        "视觉设计",
+        "动效设计"
+      ],
+      "category": "界面设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "Behance",
+      "label": "创意作品平台",
+      "url": "https://www.behance.net/",
+      "homepage": "https://www.behance.net/",
+      "categories": [
+        "视觉设计",
+        "工业设计",
+        "动态设计",
+        "界面设计"
+      ],
+      "category": "视觉设计",
+      "mode": "feed",
+      "access": "public",
+      "feedUrl": "http://feeds.feedburner.com/behance/vorr"
+    },
+    {
+      "name": "Figma",
+      "label": "界面设计工具官方博客",
+      "url": "https://www.figma.com/blog/",
+      "homepage": "https://www.figma.com/blog/",
+      "categories": [
+        "界面设计",
+        "用户体验设计",
+        "人工智能设计"
+      ],
+      "category": "界面设计",
+      "mode": "feed",
+      "access": "public",
+      "feedUrl": "https://www.figma.com/blog/feed/atom.xml"
+    },
+    {
+      "name": "Adobe",
+      "label": "奥多比官方博客",
+      "url": "https://blog.adobe.com/",
+      "homepage": "https://blog.adobe.com/",
+      "categories": [
+        "人工智能设计",
+        "视觉设计",
+        "动态设计"
+      ],
+      "category": "人工智能设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "Runway",
+      "label": "智能影像创作官方动态",
+      "url": "https://runway.com/news",
+      "homepage": "https://runway.com/news",
+      "categories": [
+        "人工智能设计",
+        "动态设计"
+      ],
+      "category": "人工智能设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "Archiposition",
+      "label": "有方",
+      "url": "https://www.archiposition.com/",
+      "homepage": "https://www.archiposition.com/",
+      "categories": [
+        "建筑设计"
+      ],
+      "category": "建筑设计",
+      "mode": "curated",
+      "access": "restricted"
+    },
+    {
+      "name": "ArchCollege",
+      "label": "建筑学院",
+      "url": "https://www.archcollege.com/",
+      "homepage": "https://www.archcollege.com/",
+      "categories": [
+        "建筑设计"
+      ],
+      "category": "建筑设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "Architectural Record",
+      "label": "建筑实录",
+      "url": "https://www.architecturalrecord.com/",
+      "homepage": "https://www.architecturalrecord.com/",
+      "categories": [
+        "建筑设计",
+        "空间设计"
+      ],
+      "category": "建筑设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "Architectural Review",
+      "label": "建筑评论",
+      "url": "https://www.architectural-review.com/",
+      "homepage": "https://www.architectural-review.com/",
+      "categories": [
+        "建筑设计"
+      ],
+      "category": "建筑设计",
+      "mode": "feed",
+      "access": "public",
+      "feedUrl": "https://www.architectural-review.com/feed"
+    },
+    {
+      "name": "Architects Newspaper",
+      "label": "建筑师报",
+      "url": "https://www.archpaper.com/",
+      "homepage": "https://www.archpaper.com/",
+      "categories": [
+        "建筑设计"
+      ],
+      "category": "建筑设计",
+      "mode": "feed",
+      "access": "public",
+      "feedUrl": "https://www.archpaper.com/feed/"
+    },
+    {
+      "name": "Dieline",
+      "label": "包装设计媒体",
+      "url": "https://thedieline.com/",
+      "homepage": "https://thedieline.com/",
+      "categories": [
+        "视觉设计"
+      ],
+      "category": "视觉设计",
+      "mode": "feed",
+      "access": "public",
+      "feedUrl": "https://thedieline.com/feed/"
+    },
+    {
+      "name": "Packaging of the World",
+      "label": "世界包装设计",
+      "url": "https://packagingoftheworld.com/",
+      "homepage": "https://packagingoftheworld.com/",
+      "categories": [
+        "视觉设计"
+      ],
+      "category": "视觉设计",
+      "mode": "curated",
+      "access": "restricted"
+    },
+    {
+      "name": "Communication Arts",
+      "label": "传播艺术杂志",
+      "url": "https://www.commarts.com/",
+      "homepage": "https://www.commarts.com/",
+      "categories": [
+        "视觉设计"
+      ],
+      "category": "视觉设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "Wrap",
+      "label": "插画与创意杂志",
+      "url": "https://wrapmagazine.com/",
+      "homepage": "https://wrapmagazine.com/",
+      "categories": [
+        "视觉设计"
+      ],
+      "category": "视觉设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "Interior Design",
+      "label": "室内设计杂志",
+      "url": "https://interiordesign.net/",
+      "homepage": "https://interiordesign.net/",
+      "categories": [
+        "空间设计"
+      ],
+      "category": "空间设计",
+      "mode": "curated",
+      "access": "public"
+    },
+    {
+      "name": "EXHIBITOR",
+      "label": "展览展示专业杂志",
+      "url": "https://www.exhibitoronline.com/",
+      "homepage": "https://www.exhibitoronline.com/",
+      "categories": [
+        "空间设计"
+      ],
+      "category": "空间设计",
+      "mode": "feed",
+      "access": "public",
+      "feedUrl": "http://www.exhibitoronline.com/r630/ExhibitorNewsNetwork.xml"
+    }
+  ]
 }

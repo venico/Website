@@ -3,7 +3,7 @@ const $ = id => document.getElementById(id);
 const SOURCE_LABELS = {"欧洲设计学院":"欧洲设计学院","欧洲新车安全评鉴协会":"欧洲新车安全评鉴协会","大众汽车新闻中心":"大众汽车新闻中心","Dezeen": "德泽恩", "designboom": "设计邦", "Yanko Design": "扬科设计", "Smashing Magazine": "设计与开发杂志", "Nielsen Norman Group": "尼尔森诺曼集团", "Motionographer": "动态设计观察", "Core77": "工业设计网", "Creative Bloq": "创意视界"};
 const sourceName = name => SOURCE_LABELS[name] || data?.sources?.find(s=>s.name===name)?.label || '设计媒体';
 const categoryLabel = name => ({'用户体验设计':'UX设计','界面设计':'UI设计','人工智能设计':'AI设计'}[name] || name);
-const CATEGORIES = ['全部','工业设计','用户体验设计','界面设计','人工智能设计','动效设计','动态设计','家具设计','交通工具设计','空间设计','视觉设计'];
+const CATEGORIES = ['全部','工业设计','用户体验设计','界面设计','人工智能设计','动效设计','动态设计','家具设计','交通工具设计','建筑设计','空间设计','视觉设计'];
 let data, category='全部', sort='hot', selectedDate='', limit=11;
 let activeArticle=null;
 const escapeHTML=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -68,7 +68,25 @@ function render(){
 }
 function changeDate(value){selectedDate=value;limit=11;activeArticle=null;showListing();render();syncListURL()}
 function archives(){showInfo('每一天，都值得翻阅。',`<p>按采集日期归档，文章卡片保留原始发布日期。</p>${[...data.issues].sort((a,b)=>b.date.localeCompare(a.date)).map(i=>`<button class="archive-day" data-date="${i.date}">${fmtDate(i.date)}<span>${i.articleIds.length} 条资讯 ↗</span></button>`).join('')}`)}
-function sources(){showInfo('资讯来源',`<p>现接入 ${data.sources.length} 个公开资讯源，覆盖设计媒体、专业社区与工具官方动态。保留中文整理与原文入口。图片与文章版权属于原作者及来源媒体。</p><ul class="source-list">${data.sources.map(s=>`<li class="source-row"><a href="${safeURL(s.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(sourceName(s.name))} ↗</a><small>${s.ok?`${s.count} 条候选已采集`:'本次未连接'}${s.latestPublishedAt?' · 最近发布 '+fmtDate(new Date(s.latestPublishedAt).toLocaleDateString('en-CA',{timeZone:'Asia/Shanghai'})):''}</small></li>`).join('')}</ul><p>最后采集：${new Date(data.updatedAt).toLocaleString('zh-CN',{timeZone:'Asia/Shanghai',hour12:false})}（北京时间）。所有资讯标题和简介均经中文整理，未完成翻译的条目不会展示。来源使用中文译名或中文描述，原站名称以链接为准。</p>`)}
+function sources(scope=null){
+ const catalog=data.sourceCatalog||data.sources;
+ const cats=scope&&scope!=='全部'?[scope]:CATEGORIES.filter(c=>c!=='全部');
+ const issued=issueArticles().filter(a=>!scope||scope==='全部'||a.category===scope);
+ const names=new Set(issued.map(a=>a.source));
+ const count=catalog.filter(s=>!scope||scope==='全部'||(s.categories||[s.category]).includes(scope)).length;
+ const supplements=[...new Map(issued.filter(a=>!catalog.some(s=>s.name===a.source)).map(a=>[a.source,a])).values()];
+ const extra=supplements.length?'<section class="source-group"><h3>本期补充来源</h3><ul class="source-list">'+supplements.map(a=>`<li class="source-row"><a href="${safeURL(a.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(sourceName(a.source))} ↗</a><small>人工核实原文</small></li>`).join('')+'</ul></section>':'';
+ const groups=cats.map(c=>{
+  const list=catalog.filter(s=>(s.categories||[s.category]).includes(c));
+  return `<section class="source-group"><h3>${escapeHTML(categoryLabel(c))}<small>${list.length} 个来源</small></h3><ul class="source-list">${list.map(s=>{
+   const status=data.sources.find(x=>x.name===s.name);
+   const note=s.mode==='curated'?'精选来源 · 订阅待验证':status?.ok?'订阅采集正常':'订阅源 · 待下次采集验证';
+   return `<li class="source-row"><a href="${safeURL(s.homepage||s.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(s.label)} ↗</a><small>${names.has(s.name)?'本期有收录 · ':''}${note}</small></li>`;
+  }).join('')}</ul></section>`;
+ }).join('');
+ showInfo(scope&&scope!=='全部'?categoryLabel(scope)+' · 资讯来源':'全部资讯来源',`<p>共 ${count} 个来源。跨领域媒体会列在多个分类中，总数按来源去重。${scope?'本期实际收录 '+names.size+' 个来源。':''}</p>${groups}${extra}<p>插画、包装归入视觉设计；室内、展示归入空间设计。来源目录不等于本期收录数量；文章保留原文入口。</p>`);
+}
+
 function delivery(){showInfo('你的每日设计简报',`<div class="schedule-block">09:00 <small>北京时间 · 每天</small></div><p>${data.schedule?.active?'每日采集与简报任务已启用。更新后，会在当前应用任务里发送当期摘要与网站链接。':'每日采集与推送尚未启用。启用后，会在当前应用任务里发送当期摘要与网站链接。'}</p><p>内容覆盖工业设计、用户体验、界面、人工智能、动效、动态影像、家具与交通工具设计。没有新资讯时会如实说明；采集失败时保留上一期。</p><p>这是当前应用任务的定时通知；执行时需要电脑开机并保持本应用运行。</p>`)}
 $('closeDialog').onclick=()=>$('infoDialog').close();$('infoDialog').addEventListener('click',e=>{if(e.target===$('infoDialog')){const b=e.target.getBoundingClientRect();if(e.clientX<b.left||e.clientX>b.right||e.clientY<b.top||e.clientY>b.bottom)e.target.close()}});
 $('dialogBody').addEventListener('click',e=>{const b=e.target.closest('[data-date]');if(b){changeDate(b.dataset.date);$('infoDialog').close()}});
@@ -77,7 +95,7 @@ $('datePicker').onchange=e=>{if(e.target.value)changeDate(e.target.value)};
 $('previousDay').onclick=()=>{const d=data.issues.map(i=>i.date).filter(d=>d<selectedDate).sort().at(-1);if(d)changeDate(d)};
 $('nextDay').onclick=()=>{const d=data.issues.map(i=>i.date).filter(d=>d>selectedDate).sort()[0];if(d)changeDate(d)};
 $('sortHot').onclick=()=>{sort='hot';render();syncListURL()};$('sortNew').onclick=()=>{sort='new';render();syncListURL()};$('moreButton').onclick=()=>{limit+=9;render()};
-$('todayButton').onclick=()=>{category='全部';changeDate(data.issues.map(i=>i.date).sort().at(-1))};$('archiveButton').onclick=archives;$('deliveryButton').onclick=delivery;$('sourcesButton').onclick=sources;
+$('todayButton').onclick=()=>{category='全部';changeDate(data.issues.map(i=>i.date).sort().at(-1))};$('archiveButton').onclick=archives;$('deliveryButton').onclick=delivery;$('sourcesButton').onclick=()=>sources();$('articleCount').onclick=()=>sources(category);
 $('aboutButton').onclick=()=>showInfo('设计，每天发生。','<p>设计博物馆 是一份跨领域的设计资讯日报。从工业产品到交互界面，从动态影像到家具与出行，每天整理设计的新动向。</p><p>首页浏览简介，详情页阅读中文整理与设计解读，也可前往原文深入了解。日报按采集日期归档，各条资讯标注原始发布日期。</p><p>人工智能设计栏目收录人工智能工具、生成式创作与相关设计实践。动效关注交互与界面运动，动态设计关注影像、动画与视觉叙事。</p>');
 $('rankingButton').onclick=()=>showInfo('热度，有据可循。',`<p>${escapeHTML(data.rankingNote)}</p><ul><li>时效：70 ÷（1 + 发布天数 ÷ 3）</li><li>配图：有配图加 15 分</li><li>摘要：超过 80 个字符加 15 分</li></ul><p>这是便于浏览的估算排序，不代表真实的社交讨论热度。可切换「按时间」阅读最新发布的文章。</p>`);
 async function start(){try{const r=await fetch('./data.json',{cache:'no-cache'});if(!r.ok)throw Error('HTTP '+r.status);data=await r.json();if(!data.issues?.length)throw Error('No editions');const params=new URLSearchParams(location.search);selectedDate=params.get('date')||data.issues.map(i=>i.date).sort().at(-1);if(!/^\d{4}-\d{2}-\d{2}$/.test(selectedDate))selectedDate=data.issues.map(i=>i.date).sort().at(-1);category=CATEGORIES.includes(params.get('category'))?params.get('category'):'全部';sort=params.get('sort')==='new'?'new':'hot';$('updatedAt').textContent='更新于 '+new Date(data.updatedAt).toLocaleString('zh-CN',{timeZone:'Asia/Shanghai',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false});$('scheduleNote').textContent=data.schedule?.active?'每天 09:00（北京时间），在本应用收到新一期的精选简介。':'每日简报计划：北京时间 09:00，推送尚未启用。';render();if(params.get('article'))openArticle(params.get('article'),false)}catch(e){$('news').innerHTML='<div class="empty-state"><h2>日报暂时没有展开。</h2><p>资讯读取失败，请稍后重试。</p><button id="retry">重新加载</button></div>';$('retry').onclick=start;$('articleCount').textContent='连接暂时中断'}}
