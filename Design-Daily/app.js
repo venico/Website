@@ -3,7 +3,7 @@ const $ = id => document.getElementById(id);
 const SOURCE_LABELS = {"欧洲设计学院":"欧洲设计学院","欧洲新车安全评鉴协会":"欧洲新车安全评鉴协会","大众汽车新闻中心":"大众汽车新闻中心","Dezeen": "德泽恩", "designboom": "设计邦", "Yanko Design": "扬科设计", "Smashing Magazine": "设计与开发杂志", "Nielsen Norman Group": "尼尔森诺曼集团", "Motionographer": "动态设计观察", "Core77": "工业设计网", "Creative Bloq": "创意视界"};
 const sourceName = name => SOURCE_LABELS[name] || data?.sourceLabels?.[name] || data?.sources?.find(s=>s.name===name)?.label || '设计媒体';
 const categoryLabel = name => ({'用户体验设计':'UX设计','界面设计':'UI设计','人工智能设计':'AI设计'}[name] || name);
-const CATEGORIES = ['全部','工业设计','用户体验设计','界面设计','人工智能设计','动效设计','动态设计','家具设计','交通工具设计','建筑设计','空间设计','视觉设计'];
+const CATEGORIES = ['全部','用户体验设计','界面设计','人工智能设计','工业设计','动效设计','动态设计','家具设计','交通工具设计','建筑设计','空间设计','视觉设计'];
 let data, category='全部', sort='hot', selectedDate='', limit=11;
 let activeArticle=null;
 const escapeHTML=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
