@@ -129,10 +129,10 @@ function listURL(){const p=new URLSearchParams({date:selectedDate,category,sort}
 function syncListURL(){if(!activeArticle)history.replaceState(null,'',listURL())}
 function showListing(){activeArticle=null;$('listingPage').hidden=false;$('articlePage').hidden=true;document.title='象素之间 · 每天发现好设计'}
 function articleGallery(a){
- const seen=new Set(a.image?[new URL(a.image,location.href).pathname]:[]);
+ const seen=new Set(a.image?[new URL(a.image,location.href).href.split('#')[0]]:[]);
  const images=(a.images||[]).filter(image=>{
   const url=safeURL(image.url);if(!url||url==='#')return false;
-  const key=new URL(url,location.href).pathname;
+  const key=new URL(url,location.href).href.split('#')[0];
   if(seen.has(key))return false;seen.add(key);return true;
  });
  return images.length?`<div class="article-gallery">${images.map((image,index)=>`<figure><a href="${safeURL(image.url)}" target="_blank" rel="noopener noreferrer"><img src="${safeURL(image.url)}" alt="${escapeHTML(a.titleZh)} · 配图 ${index+1}" loading="lazy" decoding="async"></a></figure>`).join('')}</div>`:'';
