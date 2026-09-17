@@ -119,6 +119,13 @@
   }
   #board.solved .tile{--eT:transparent;--eR:transparent;--eB:transparent;--eL:transparent;cursor:default}
 
+  #board.loading::after{
+    content:"载入中";
+    position:absolute;inset:0;z-index:4;
+    display:flex;align-items:center;justify-content:center;
+    color:var(--muted);font-size:13px;letter-spacing:.1em;
+  }
+
   .ghost{
     position:absolute;top:0;left:0;pointer-events:none;z-index:3;
     border:2px dashed var(--accent);background:var(--accent-soft);
@@ -306,467 +313,95 @@
   /* 块数封顶在 10×12=120：手机可用宽约 311px，10 列时每块 31~34px，再多就点不准了。
      30 关 = 10 个 80 后童年场景 × 不同色调，tint 是画完后整体调色用的滤镜。
      彩条只出现一次且放在低关卡：大片同色条切到上百块会有大量无法分辨的块。 */
+  /* 块数封顶 10×12=120：手机棋盘可用宽约 311px，10 列时每块 31~34px，再多点不准。
+     排关顺序按「好不好拼」来：大片雪地、暖光特写、天空占比大的图放前面（块少），
+     细节最密的放后面（120 块）。 */
+  /* 块数封顶 10×12=120：手机棋盘可用宽约 311px，10 列时每块 31~34px，再多点不准。
+     排关按「有没有结构」来，不是按画面细节多少：麦秸、雪地、冰面这种纹理均匀的图
+     细节其实很多，但切成上百块后每块长得都一样，最难拼，所以放前面（块少）；
+     有房屋、家具、人物这类明确结构的放后面（120 块）。 */
   var LEVELS = [
-    {name:"卡带", cols:3,  rows:3,  art:0},
-    {name:"老楼", cols:3,  rows:4,  art:1},
-    {name:"汽水", cols:4,  rows:4,  art:2},
-    {name:"弄堂", cols:4,  rows:5,  art:3},
-    {name:"磁带", cols:5,  rows:5,  art:4},
-    {name:"彩条", cols:5,  rows:6,  art:9},
-    {name:"黑板", cols:6,  rows:6,  art:5},
-    {name:"弹珠", cols:6,  rows:7,  art:6},
-    {name:"像素", cols:7,  rows:7,  art:7},
-    {name:"洋画", cols:7,  rows:8,  art:8},
+    {name:"雪村",   cols:3,  rows:3,  img:"21"},
+    {name:"雪路",   cols:3,  rows:4,  img:"22"},
+    {name:"冰面",   cols:4,  rows:4,  img:"30"},
+    {name:"晚霞",   cols:4,  rows:5,  img:"26"},
+    {name:"扬场",   cols:5,  rows:5,  img:"12"},
+    {name:"麦垛",   cols:5,  rows:6,  img:"11"},
+    {name:"水缸",   cols:6,  rows:6,  img:"24"},
+    {name:"打场",   cols:6,  rows:7,  img:"06"},
+    {name:"上学",   cols:7,  rows:7,  img:"29"},
+    {name:"挑水",   cols:7,  rows:8,  img:"07"},
 
-    {name:"闯关", cols:7,  rows:9,  art:0, tint:"hue-rotate(-12deg) saturate(1.4) contrast(1.08)"},
-    {name:"晚归", cols:8,  rows:8,  art:1, tint:"sepia(.55) hue-rotate(-14deg) saturate(1.55) brightness(1.05)"},
-    {name:"冰柜", cols:8,  rows:9,  art:2, tint:"hue-rotate(150deg) saturate(.95) brightness(1.02)"},
-    {name:"红墙", cols:8,  rows:10, art:3, tint:"hue-rotate(-20deg) saturate(1.8) brightness(1.02)"},
-    {name:"老歌", cols:9,  rows:9,  art:4, tint:"sepia(.55) saturate(1.25) brightness(1.14)"},
-    {name:"粉笔", cols:9,  rows:10, art:5, tint:"saturate(.28) brightness(1.22) contrast(1.05)"},
-    {name:"琉璃", cols:9,  rows:11, art:6, tint:"hue-rotate(78deg) saturate(1.3) contrast(1.05)"},
-    {name:"水关", cols:10, rows:10, art:7, tint:"sepia(1) saturate(2.8) hue-rotate(155deg) brightness(.95) contrast(1.05)"},
-    {name:"贴纸", cols:10, rows:11, art:8, tint:"hue-rotate(-30deg) saturate(1.35) brightness(1.1)"},
-    {name:"旧卡", cols:10, rows:12, art:0, tint:"sepia(.5) saturate(.95) brightness(1.06) contrast(1.06)"},
+    {name:"竹床",   cols:7,  rows:9,  img:"28"},
+    {name:"昏灯",   cols:8,  rows:8,  img:"23"},
+    {name:"推车",   cols:8,  rows:9,  img:"15"},
+    {name:"喂食",   cols:8,  rows:10, img:"19"},
+    {name:"土路",   cols:9,  rows:9,  img:"13"},
+    {name:"洗衣",   cols:9,  rows:10, img:"08"},
+    {name:"雨披",   cols:9,  rows:11, img:"10"},
+    {name:"老屋",   cols:10, rows:10, img:"03"},
+    {name:"门前",   cols:10, rows:11, img:"09"},
+    {name:"烧灶",   cols:10, rows:12, img:"01"},
 
-    {name:"冬楼", cols:10, rows:12, art:1, tint:"hue-rotate(15deg) saturate(.4) brightness(1.1) contrast(1.08)"},
-    {name:"糖纸", cols:10, rows:12, art:2, tint:"hue-rotate(-28deg) saturate(1.4) brightness(1.08)"},
-    {name:"苔痕", cols:10, rows:12, art:3, tint:"hue-rotate(55deg) saturate(1.2) brightness(.88) contrast(1.08)"},
-    {name:"翻录", cols:10, rows:12, art:4, tint:"hue-rotate(150deg) saturate(.85) brightness(1.1) contrast(1.06)"},
-    {name:"值日", cols:10, rows:12, art:5, tint:"sepia(.5) saturate(1.15) brightness(1.08) contrast(1.05)"},
-    {name:"珠光", cols:10, rows:12, art:6, tint:"sepia(.75) saturate(1.8) hue-rotate(-8deg) brightness(1.16)"},
-    {name:"夜关", cols:10, rows:12, art:7, tint:"saturate(.7) brightness(.52) hue-rotate(10deg) contrast(1.2)"},
-    {name:"拍画", cols:10, rows:12, art:8, tint:"sepia(.62) saturate(.95) brightness(.98) contrast(1.06)"},
-    {name:"玻璃", cols:10, rows:12, art:6, tint:"hue-rotate(115deg) saturate(.9) brightness(1.12)"},
-    {name:"通关", cols:10, rows:12, art:7, tint:"sepia(.9) saturate(1.7) hue-rotate(-10deg) brightness(1.14)"}
+    {name:"花被",   cols:10, rows:12, img:"16"},
+    {name:"出门",   cols:10, rows:12, img:"05"},
+    {name:"赶集",   cols:10, rows:12, img:"04"},
+    {name:"剥玉米", cols:10, rows:12, img:"02"},
+    {name:"苞谷",   cols:10, rows:12, img:"25"},
+    {name:"写作业", cols:10, rows:12, img:"14"},
+    {name:"放炮",   cols:10, rows:12, img:"20"},
+    {name:"新房",   cols:10, rows:12, img:"27"},
+    {name:"年画",   cols:10, rows:12, img:"18"},
+    {name:"堂屋",   cols:10, rows:12, img:"17"}
   ];
 
-  /* ========== 绘图 ========== */
-  var ARTS=[cartridge, flats, shop, brickwall, cassette, chalkboard, marbles, bitgame, flipcards, testcard];
-  function makeImage(idx, cols, rows){
-    var L=LEVELS[idx];
-    var big=Math.max(cols,rows);
-    var U = big>=10 ? 84 : (big>=7 ? 108 : 132);
-    var w = cols*U, h = rows*U;
-    var c = document.createElement("canvas");
-    c.width = w; c.height = h;
-    var g = c.getContext("2d");
-    ARTS[L.art](g, w, h);
-    grain(g, w, h);
-    vintage(g, w, h);
-    if(L.tint){
-      var t = document.createElement("canvas");
-      t.width = w; t.height = h;
-      var tg = t.getContext("2d");
-      tg.filter = L.tint;              /* 老浏览器不认就是原色，不影响玩 */
-      tg.drawImage(c, 0, 0);
-      c = t;
-    }
-    var sc = 160/w;
-    var s2 = document.createElement("canvas");
-    s2.width = Math.round(w*sc); s2.height = Math.round(h*sc);
-    s2.getContext("2d").drawImage(c, 0, 0, s2.width, s2.height);
-    return {src:c.toDataURL("image/jpeg", 0.92), thumb:s2.toDataURL("image/jpeg", 0.8)};
-  }
-  function lg(g,x0,y0,x1,y1,stops){
-    var grd=g.createLinearGradient(x0,y0,x1,y1);
-    stops.forEach(function(s){ grd.addColorStop(s[0],s[1]); });
-    return grd;
-  }
-  function poly(g,pts,fill){
-    g.beginPath(); g.moveTo(pts[0][0],pts[0][1]);
-    for(var i=1;i<pts.length;i++) g.lineTo(pts[i][0],pts[i][1]);
-    g.closePath(); g.fillStyle=fill; g.fill();
-  }
-  function grain(g,w,h){
-    var n=Math.round(w*h/90);
-    for(var i=0;i<n;i++){
-      g.fillStyle = Math.random()<.5 ? "rgba(255,255,255,.055)" : "rgba(0,0,0,.055)";
-      g.fillRect(Math.random()*w, Math.random()*h, 1.4, 1.4);
-    }
-  }
-  /* 复古年代感：淡黄叠色 + 暗角 */
-  function vintage(g,w,h){
-    g.fillStyle="rgba(214,178,110,.10)";
-    g.fillRect(0,0,w,h);
-    var vg=g.createRadialGradient(w/2,h/2,Math.min(w,h)*.34,w/2,h/2,Math.max(w,h)*.72);
-    vg.addColorStop(0,"rgba(38,26,14,0)");
-    vg.addColorStop(1,"rgba(38,26,14,.30)");
-    g.fillStyle=vg; g.fillRect(0,0,w,h);
+  /* ========== 图片 ========== */
+  var imgCache={};
+  function getImage(file, cb){
+    if(imgCache[file]){ cb(imgCache[file]); return; }
+    var im=new Image();
+    im.onload=function(){ imgCache[file]=im; cb(im); };
+    im.onerror=function(){ cb(null); };
+    im.src="img/"+file+".jpg";
   }
 
-  /* 1 红白机卡带墙 */
-  function cartridge(g,w,h){
-    g.fillStyle="#6B4A2F"; g.fillRect(0,0,w,h);
-    g.strokeStyle="rgba(40,24,12,.22)"; g.lineWidth=Math.max(1,w*.002);
-    for(var i=0;i<26;i++){
-      var wy=Math.random()*h;
-      g.beginPath(); g.moveTo(0,wy);
-      g.bezierCurveTo(w*.3,wy+h*.008,w*.6,wy-h*.008,w,wy); g.stroke();
-    }
-    var cols=["#C8412F","#D9822B","#E0C044","#3E7C4F","#2F6DA8","#7A4A9E","#B5B5AD","#2A2A2E","#D46A8C","#5FA8A0"];
-    var rows=5, rh=h/rows;
-    for(var r=0;r<rows;r++){
-      var y0=r*rh;
-      g.fillStyle="#54381F"; g.fillRect(0,y0+rh*.88,w,rh*.12);
-      g.fillStyle="rgba(255,255,255,.12)"; g.fillRect(0,y0+rh*.88,w,rh*.02);
-      var x=w*.008;
-      while(x<w*.985){
-        var cw=w*(.052+Math.random()*.03), ch=rh*(.72+Math.random()*.12);
-        var cy=y0+rh*.88-ch;
-        g.fillStyle=cols[Math.floor(Math.random()*cols.length)];
-        g.fillRect(x,cy,cw,ch);
-        g.fillStyle="rgba(0,0,0,.28)"; g.fillRect(x+cw*.2,cy,cw*.6,ch*.055);
-        g.fillStyle="#EDE6D2"; g.fillRect(x+cw*.1,cy+ch*.16,cw*.8,ch*.42);
-        g.fillStyle="rgba(40,30,20,.5)";
-        for(var t=0;t<3;t++) g.fillRect(x+cw*.18, cy+ch*.23+t*ch*.1, cw*(.26+Math.random()*.38), ch*.045);
-        g.fillStyle="rgba(255,255,255,.16)"; g.fillRect(x,cy,cw*.12,ch);
-        g.fillStyle="rgba(0,0,0,.22)"; g.fillRect(x+cw*.89,cy,cw*.11,ch);
-        x += cw + w*.005;
-      }
-    }
+  /* 各关网格比例不同，源图统一 5:6，这里按关卡比例居中裁（cover） */
+  function cropImage(im, cols, rows){
+    var target=cols/rows, sr=im.width/im.height, sx,sy,sw,sh;
+    if(sr>target){ sh=im.height; sw=sh*target; sx=(im.width-sw)/2; sy=0; }
+    else{ sw=im.width; sh=sw/target; sx=0; sy=(im.height-sh)/2; }
+    var c=document.createElement("canvas");
+    c.width=Math.round(sw); c.height=Math.round(sh);
+    var g=c.getContext("2d");
+    g.drawImage(im, sx,sy,sw,sh, 0,0, c.width,c.height);
+    /* 轻暗角：边缘块暗一点，拼的时候多一条位置线索 */
+    var vg=g.createRadialGradient(c.width/2,c.height/2,Math.min(c.width,c.height)*.44,
+                                  c.width/2,c.height/2,Math.max(c.width,c.height)*.72);
+    vg.addColorStop(0,"rgba(28,20,10,0)");
+    vg.addColorStop(1,"rgba(28,20,10,.22)");
+    g.fillStyle=vg; g.fillRect(0,0,c.width,c.height);
+    var sc=160/c.width;
+    var t=document.createElement("canvas");
+    t.width=Math.round(c.width*sc); t.height=Math.round(c.height*sc);
+    t.getContext("2d").drawImage(c,0,0,t.width,t.height);
+    return {src:c.toDataURL("image/jpeg",.92), thumb:t.toDataURL("image/jpeg",.8)};
   }
 
-  /* 2 筒子楼 */
-  function flats(g,w,h){
-    g.fillStyle=lg(g,0,0,0,h,[[0,"#96A2A8"],[1,"#79848A"]]); g.fillRect(0,0,w,h);
-    g.fillStyle="rgba(86,92,88,.16)";
-    for(var i=0;i<50;i++) g.fillRect(Math.random()*w,Math.random()*h,w*(.02+Math.random()*.1),h*(.004+Math.random()*.03));
-    var cols=6, rows=8, cw=w/cols, rh=h/rows;
-    var cloth=["#C8412F","#E0C044","#3E7C4F","#2F6DA8","#EDE6D2","#D46A8C","#E08A3C","#7A4A9E","#4FB0A5"];
-    for(var r=0;r<rows;r++){
-      g.fillStyle="rgba(58,62,64,.45)"; g.fillRect(0,r*rh,w,h*.005);
-      for(var c=0;c<cols;c++){
-        var x=c*cw+cw*.18, y=r*rh+rh*.16, ww=cw*.62, hh=rh*.46;
-        g.fillStyle="#5A5F5C"; g.fillRect(x-ww*.07,y-hh*.07,ww*1.14,hh*1.14);
-        var lit=Math.random();
-        g.fillStyle = lit<.34 ? ["#F2C766","#F0A85A","#E8D78A"][Math.floor(Math.random()*3)] : (lit<.6 ? "#46515C" : "#7C8A91");
-        g.fillRect(x,y,ww,hh);
-        g.fillStyle="#5A5F5C";
-        g.fillRect(x+ww*.46,y,ww*.07,hh);
-        g.fillRect(x,y+hh*.44,ww,hh*.08);
-        if(Math.random()<.4){
-          g.strokeStyle="rgba(38,42,44,.5)"; g.lineWidth=Math.max(1,w*.0014);
-          for(var k=1;k<4;k++){ g.beginPath(); g.moveTo(x+ww*k/4,y); g.lineTo(x+ww*k/4,y+hh); g.stroke(); }
-        }
-        if(Math.random()<.35){
-          g.fillStyle="#C9C6BA"; g.fillRect(x+ww*.66,y+hh*1.2,ww*.44,hh*.3);
-          g.fillStyle="rgba(0,0,0,.28)"; g.fillRect(x+ww*.7,y+hh*1.25,ww*.36,hh*.2);
-        }
-        if(Math.random()<.45){
-          g.strokeStyle="rgba(50,50,46,.6)"; g.lineWidth=Math.max(1,w*.0012);
-          g.beginPath(); g.moveTo(x-ww*.1,y+hh*1.22); g.lineTo(x+ww*1.1,y+hh*1.22); g.stroke();
-          for(var q=0;q<4;q++){
-            g.fillStyle=cloth[Math.floor(Math.random()*cloth.length)];
-            g.fillRect(x+ww*(q*.27), y+hh*1.22, ww*.23, hh*(.34+Math.random()*.45));
-          }
-        }
-      }
+  /* 图片读不到时的兜底，带网格和色块，保证还能玩 */
+  function placeholder(cols,rows){
+    var U=96, c=document.createElement("canvas");
+    c.width=cols*U; c.height=rows*U;
+    var g=c.getContext("2d");
+    for(var r=0;r<rows;r++) for(var k=0;k<cols;k++){
+      var v=((r*7+k*13)%5);
+      g.fillStyle=["#C9BFAE","#B7AC99","#A79C88","#C2B8A6","#B0A692"][v];
+      g.fillRect(k*U,r*U,U,U);
+      g.fillStyle="rgba(60,50,38,.30)";
+      g.fillRect(k*U+U*0.12, r*U+U*0.12, U*(0.2+0.5*((r+k)%3)/2), U*0.14);
+      g.fillStyle="rgba(255,255,255,.22)";
+      g.beginPath(); g.arc(k*U+U*(0.3+0.4*((k+r)%2)), r*U+U*0.66, U*0.14, 0, 7); g.fill();
     }
-  }
-
-  /* 3 小卖部货架 */
-  function shop(g,w,h){
-    g.fillStyle="#C9B08A"; g.fillRect(0,0,w,h);
-    g.fillStyle="rgba(120,96,64,.12)";
-    for(var i=0;i<40;i++) g.fillRect(Math.random()*w,Math.random()*h,w*.03,h*.012);
-    var rows=4, rh=h/rows;
-    var pop=["#7FB069","#E08A3C","#C8412F","#E8C547","#9FC3E0"];
-    var cand=["#E8C547","#C8412F","#7FB069","#E08A3C","#D46A8C","#9FC3E0"];
-    for(var r=0;r<rows;r++){
-      var y0=r*rh;
-      g.fillStyle="#8A6A45"; g.fillRect(0,y0+rh*.9,w,rh*.1);
-      g.fillStyle="rgba(255,255,255,.14)"; g.fillRect(0,y0+rh*.9,w,rh*.015);
-      var x=w*.015, kind=r%3;
-      while(x<w*.97){
-        if(kind===0){
-          var bw=w*.045, bh=rh*.72, by=y0+rh*.9-bh;
-          var col=pop[Math.floor(Math.random()*pop.length)];
-          g.fillStyle=col; g.fillRect(x,by+bh*.24,bw,bh*.76);
-          g.fillRect(x+bw*.3,by,bw*.4,bh*.3);
-          g.fillStyle="#B03A2E"; g.fillRect(x+bw*.27,by,bw*.46,bh*.06);
-          g.fillStyle="#EDE6D2"; g.fillRect(x,by+bh*.44,bw,bh*.22);
-          g.fillStyle="rgba(180,40,30,.7)"; g.fillRect(x+bw*.15,by+bh*.49,bw*.7,bh*.05);
-          g.fillStyle="rgba(255,255,255,.3)"; g.fillRect(x+bw*.1,by+bh*.3,bw*.12,bh*.55);
-          x += bw*1.22;
-        } else if(kind===1){
-          var jw=w*.088, jh=rh*.7, jy=y0+rh*.9-jh;
-          g.fillStyle="rgba(228,238,232,.45)"; g.fillRect(x,jy,jw,jh);
-          for(var q=0;q<30;q++){
-            g.fillStyle=cand[q%cand.length];
-            g.beginPath(); g.arc(x+jw*(.12+Math.random()*.76), jy+jh*(.32+Math.random()*.62), jw*.055,0,7); g.fill();
-          }
-          g.fillStyle="rgba(255,255,255,.32)"; g.fillRect(x+jw*.08,jy,jw*.13,jh);
-          g.fillStyle="#9AA5A0"; g.fillRect(x-jw*.03,jy-jh*.06,jw*1.06,jh*.08);
-          x += jw*1.12;
-        } else {
-          var pw=w*.068, ph=rh*.6, py=y0+rh*.9-ph;
-          g.fillStyle=["#C8412F","#E08A3C","#2F6DA8","#7A4A9E","#3E7C4F"][Math.floor(Math.random()*5)];
-          g.fillRect(x,py,pw,ph);
-          g.fillStyle="rgba(255,255,255,.78)"; g.fillRect(x+pw*.14,py+ph*.22,pw*.72,ph*.2);
-          g.fillStyle="rgba(0,0,0,.18)";
-          for(var z=0;z<3;z++) g.fillRect(x+pw*.2,py+ph*.5+z*ph*.12,pw*.6,ph*.05);
-          g.fillStyle="rgba(255,255,255,.25)"; g.fillRect(x,py,pw*.1,ph);
-          x += pw*1.18;
-        }
-      }
-    }
-  }
-
-  /* 4 弄堂青砖墙 */
-  function brickwall(g,w,h){
-    g.fillStyle="#5E5B54"; g.fillRect(0,0,w,h);
-    var rows=18, bh=h/rows, bw=w/9;
-    var mt=Math.max(1.5, Math.min(w,h)*.0045);
-    var tone=["#B2AB9C","#8C8578","#9E9789","#7C786C","#A59D8E","#938C7E"];
-    for(var r=0;r<rows;r++){
-      var off=(r%2)? -0.5 : 0;
-      for(var c=-1;c<10;c++){
-        var x=(c+off)*bw, y=r*bh;
-        g.fillStyle=tone[Math.floor(Math.random()*tone.length)];
-        g.fillRect(x+mt, y+mt, bw-mt*2, bh-mt*2);
-        g.fillStyle="rgba(255,255,255,.12)";
-        g.fillRect(x+mt, y+mt, bw-mt*2, bh*.14);
-        g.fillStyle="rgba(52,48,40,.14)";
-        for(var sp=0;sp<4;sp++) g.fillRect(x+bw*(.05+Math.random()*.8), y+bh*(.2+Math.random()*.6), bw*.11, bh*.18);
-        g.fillStyle="rgba(40,36,30,.18)";
-        g.fillRect(x+mt, y+bh-mt*2.2, bw-mt*2, mt);
-      }
-    }
-    var mg=g.createLinearGradient(0,h*.84,0,h);
-    mg.addColorStop(0,"rgba(74,90,52,0)"); mg.addColorStop(1,"rgba(60,78,44,.5)");
-    g.fillStyle=mg; g.fillRect(0,h*.84,w,h*.16);
-    g.strokeStyle="rgba(62,50,34,.75)"; g.lineWidth=Math.max(1.5,w*.0028);
-    for(var v2=0;v2<5;v2++){
-      var vx=w*(.56+v2*.1);
-      g.beginPath(); g.moveTo(vx,0);
-      for(var yy=0;yy<h;yy+=h*.06) g.lineTo(vx+Math.sin(yy/h*9+v2)*w*.025, yy);
-      g.stroke();
-    }
-    for(var i=0;i<70;i++){
-      var lx=w*(.5+Math.random()*.5), ly=h*Math.random(), lr=w*(.016+Math.random()*.022);
-      g.fillStyle = Math.random()<.5 ? "rgba(62,100,48,.92)" : "rgba(104,140,60,.92)";
-      g.beginPath();
-      g.moveTo(lx,ly-lr);
-      g.quadraticCurveTo(lx+lr,ly-lr*.2,lx,ly+lr);
-      g.quadraticCurveTo(lx-lr,ly-lr*.2,lx,ly-lr);
-      g.fill();
-    }
-    g.strokeStyle="rgba(244,242,232,.5)"; g.lineWidth=Math.max(1.6,w*.0032);
-    g.beginPath(); g.arc(w*.18,h*.58,w*.05,0,7); g.stroke();
-    g.beginPath(); g.moveTo(w*.08,h*.7); g.lineTo(w*.3,h*.7); g.stroke();
-    g.beginPath(); g.moveTo(w*.11,h*.76); g.lineTo(w*.26,h*.76); g.stroke();
-    g.fillStyle="rgba(200,65,47,.5)"; g.fillRect(w*.06,h*.3,w*.14,h*.05);
-  }
-
-  /* 5 磁带墙 */
-  function cassette(g,w,h){
-    g.fillStyle="#2E2A26"; g.fillRect(0,0,w,h);
-    var cols=5, rows=6, cw=w/cols, ch=h/rows;
-    var body=["#3A3A3E","#5A4A3A","#2A3A4A","#4A2A2A","#3A4A3A","#4A4438"];
-    var lab=["#EDE6D2","#E8C547","#D46A8C","#7FB069","#9FC3E0","#E08A3C"];
-    for(var r=0;r<rows;r++) for(var c=0;c<cols;c++){
-      var x=c*cw+cw*.05, y=r*ch+ch*.07, ww=cw*.9, hh=ch*.86;
-      g.fillStyle=body[Math.floor(Math.random()*body.length)];
-      g.fillRect(x,y,ww,hh);
-      g.fillStyle=lab[Math.floor(Math.random()*lab.length)];
-      g.fillRect(x+ww*.06,y+hh*.07,ww*.88,hh*.42);
-      g.fillStyle="rgba(40,34,28,.6)";
-      for(var t=0;t<3;t++) g.fillRect(x+ww*.12, y+hh*.14+t*hh*.1, ww*(.26+Math.random()*.52), hh*.04);
-      g.fillStyle="rgba(18,16,14,.85)"; g.fillRect(x+ww*.11,y+hh*.55,ww*.78,hh*.32);
-      g.fillStyle="#6B5B4B";
-      g.beginPath(); g.arc(x+ww*.3,y+hh*.71,hh*.1,0,7); g.fill();
-      g.beginPath(); g.arc(x+ww*.7,y+hh*.71,hh*.1,0,7); g.fill();
-      g.fillStyle="#241E1A";
-      g.beginPath(); g.arc(x+ww*.3,y+hh*.71,hh*.042,0,7); g.fill();
-      g.beginPath(); g.arc(x+ww*.7,y+hh*.71,hh*.042,0,7); g.fill();
-      g.fillStyle="rgba(120,100,70,.5)"; g.fillRect(x+ww*.3,y+hh*.66,ww*.4,hh*.1);
-      g.fillStyle="rgba(255,255,255,.1)"; g.fillRect(x,y,ww,hh*.028);
-    }
-  }
-
-  /* 6 教室黑板 */
-  function chalkboard(g,w,h){
-    g.fillStyle="#2F4A3C"; g.fillRect(0,0,w,h);
-    g.fillStyle="rgba(255,255,255,.05)";
-    for(var i=0;i<45;i++) g.fillRect(Math.random()*w,Math.random()*h,w*(.05+Math.random()*.2),h*(.008+Math.random()*.04));
-    var fr=Math.min(w,h)*.035;
-    g.fillStyle="rgba(240,240,230,.85)";
-    var y=h*.1;
-    while(y<h*.8){
-      var x=fr+w*.03, n=2+Math.floor(Math.random()*4);
-      for(var k=0;k<n;k++){
-        var lw=w*(.06+Math.random()*.15);
-        if(x+lw>w*.6) break;
-        g.fillRect(x,y,lw,h*.011);
-        x+=lw+w*.025;
-      }
-      y+=h*.05;
-    }
-    var tx=w*.64, ty=h*.12, tw=w*.28, th2=h*.32;
-    g.strokeStyle="rgba(240,240,230,.7)"; g.lineWidth=Math.max(1,w*.002);
-    for(var c2=0;c2<=3;c2++){ g.beginPath(); g.moveTo(tx+tw*c2/3,ty); g.lineTo(tx+tw*c2/3,ty+th2); g.stroke(); }
-    for(var r2=0;r2<=5;r2++){ g.beginPath(); g.moveTo(tx,ty+th2*r2/5); g.lineTo(tx+tw,ty+th2*r2/5); g.stroke(); }
-    g.fillStyle="rgba(240,240,230,.75)";
-    for(var cc=0;cc<3;cc++) for(var rr=0;rr<5;rr++){
-      if(Math.random()<.7) g.fillRect(tx+tw*cc/3+tw*.06, ty+th2*rr/5+th2*.06, tw*(.1+Math.random()*.16), th2*.05);
-    }
-    g.fillStyle="#7A5A38";
-    g.fillRect(0,0,w,fr); g.fillRect(0,h-fr,w,fr);
-    g.fillRect(0,0,fr,h); g.fillRect(w-fr,0,fr,h);
-    g.fillStyle="rgba(255,255,255,.12)"; g.fillRect(0,0,w,fr*.25);
-    g.fillStyle="#6B4E30"; g.fillRect(0,h-fr*2.1,w,fr*1.1);
-    for(var p=0;p<7;p++){
-      g.fillStyle=["#F2EFE4","#F2EFE4","#E8C547","#D46A8C","#9FC3E0"][p%5];
-      g.fillRect(w*(.06+p*.12), h-fr*1.95, w*.055, fr*.32);
-    }
-    g.fillStyle="#3A3632"; g.fillRect(w*.78,h-fr*2.05,w*.12,fr*.55);
-  }
-
-  /* 7 玻璃弹珠 */
-  function marbles(g,w,h){
-    g.fillStyle=lg(g,0,0,0,h,[[0,"#4E4E46"],[1,"#2E2E2A"]]); g.fillRect(0,0,w,h);
-    g.fillStyle="rgba(0,0,0,.12)";
-    for(var d=0;d<50;d++) g.fillRect(Math.random()*w,Math.random()*h,w*.02,h*.008);
-    var cols=["#C8412F","#E08A3C","#E8C547","#3E7C4F","#2F6DA8","#7A4A9E","#D46A8C","#4FB0A5"];
-    var R=Math.min(w,h)*.046;
-    for(var i=0;i<140;i++){
-      var x=Math.random()*w, y=Math.random()*h, r=R*(.72+Math.random()*.55);
-      var col=cols[Math.floor(Math.random()*cols.length)];
-      g.fillStyle="rgba(0,0,0,.28)";
-      g.beginPath(); g.arc(x+r*.12,y+r*.16,r,0,7); g.fill();
-      var gd=g.createRadialGradient(x-r*.3,y-r*.35,r*.08,x,y,r);
-      gd.addColorStop(0,"rgba(255,255,255,.9)");
-      gd.addColorStop(.34,col);
-      gd.addColorStop(1,"rgba(18,16,14,.92)");
-      g.fillStyle=gd; g.beginPath(); g.arc(x,y,r,0,7); g.fill();
-      g.strokeStyle="rgba(255,255,255,.5)"; g.lineWidth=r*.17;
-      g.beginPath(); g.moveTo(x-r*.45,y+r*.12);
-      g.quadraticCurveTo(x,y-r*.55,x+r*.45,y+r*.12); g.stroke();
-      g.fillStyle="rgba(255,255,255,.92)";
-      g.beginPath(); g.arc(x-r*.34,y-r*.4,r*.14,0,7); g.fill();
-    }
-  }
-
-  /* 8 八位机画面 */
-  function bitgame(g,w,h){
-    var P=Math.max(3, Math.round(Math.min(w,h)/44));
-    function snap(v){ return Math.round(v/P)*P; }
-    function px(x,y,ww,hh,col){ g.fillStyle=col; g.fillRect(snap(x),snap(y),snap(ww),snap(hh)); }
-    g.fillStyle="#5C94FC"; g.fillRect(0,0,w,h);
-    function cloud(cx,cy,sc){
-      px(cx,cy,P*6*sc,P*2*sc,"#FFFFFF");
-      px(cx+P*sc,cy-P*sc,P*4*sc,P*2*sc,"#FFFFFF");
-      px(cx+P*2*sc,cy-P*2*sc,P*2*sc,P*2*sc,"#FFFFFF");
-      px(cx+P*sc,cy+P*2*sc,P*4*sc,P*sc,"#E8ECF8");
-    }
-    for(var i=0;i<11;i++) cloud(Math.random()*w, h*(.03+Math.random()*.42), .7+Math.random()*.6);
-    function bush(bx,by,sc){
-      px(bx,by,P*8*sc,P*3*sc,"#00A800");
-      px(bx+P*2*sc,by-P*2*sc,P*4*sc,P*2*sc,"#00A800");
-      px(bx+P*sc,by+P*sc,P*6*sc,P*sc,"#007000");
-    }
-    for(var b2=0;b2<7;b2++) bush(Math.random()*w, h*(.5+Math.random()*.2), .6+Math.random()*.6);
-    /* 三行砖块／问号块／金币 */
-    [.22,.4,.58].forEach(function(fy,fi){
-      var by2=h*fy;
-      for(var x2=(fi%2?P*2:0); x2<w; x2+=P*2){
-        var rr=Math.random();
-        if(rr<.42){
-          px(x2,by2,P*2,P*2,"#C84C0C");
-          g.fillStyle="rgba(0,0,0,.35)";
-          g.fillRect(snap(x2),snap(by2)+P-1,P*2,2);
-          g.fillRect(snap(x2)+P,snap(by2),2,P);
-          g.fillRect(snap(x2),snap(by2)+P,2,P);
-          g.fillStyle="rgba(255,255,255,.2)"; g.fillRect(snap(x2),snap(by2),P*2,2);
-        } else if(rr<.6){
-          px(x2,by2,P*2,P*2,"#E8A200");
-          g.fillStyle="#7A4A00"; g.fillRect(snap(x2),snap(by2),P*2,2);
-          g.fillRect(snap(x2),snap(by2)+P*2-2,P*2,2);
-          px(x2+P*.55,by2+P*.45,P*.9,P*1.1,"#FFFFFF");
-        } else if(rr<.72){
-          g.fillStyle="#E8C547";
-          g.beginPath(); g.ellipse(snap(x2)+P,snap(by2)+P,P*.55,P*.8,0,0,7); g.fill();
-          g.fillStyle="#B07800";
-          g.beginPath(); g.ellipse(snap(x2)+P,snap(by2)+P,P*.22,P*.5,0,0,7); g.fill();
-        }
-      }
-    });
-    for(var p=0;p<4;p++){
-      var pxx=w*(.1+p*.25), ph=h*(.09+Math.random()*.12);
-      px(pxx,h*.74-ph,P*4,ph,"#00A800");
-      px(pxx-P,h*.74-ph,P*6,P*2,"#00A800");
-      g.fillStyle="rgba(255,255,255,.25)"; g.fillRect(snap(pxx),snap(h*.74-ph),P,snap(ph));
-      g.fillStyle="rgba(0,0,0,.28)"; g.fillRect(snap(pxx)+P*3,snap(h*.74-ph),P,snap(ph));
-      g.fillStyle="#004000"; g.fillRect(snap(pxx)-P,snap(h*.74-ph)+P*2-2,P*6,2);
-    }
-    g.fillStyle="#C84C0C"; g.fillRect(0,h*.74,w,h*.26);
-    g.fillStyle="rgba(0,0,0,.3)";
-    for(var gy=h*.74; gy<h; gy+=P*2){
-      g.fillRect(0,snap(gy),w,2);
-      for(var gx=((Math.round(gy/P)%4===0)?0:P); gx<w; gx+=P*2) g.fillRect(snap(gx),snap(gy),2,P*2);
-    }
-    g.fillStyle="rgba(255,255,255,.22)"; g.fillRect(0,h*.74,w,2);
-  }
-
-  /* 9 洋画卡片 */
-  function flipcards(g,w,h){
-    g.fillStyle="#B9A688"; g.fillRect(0,0,w,h);
-    g.fillStyle="rgba(0,0,0,.07)";
-    for(var i=0;i<70;i++) g.fillRect(Math.random()*w,Math.random()*h,w*.025,h*.01);
-    var R=Math.min(w,h)*.055;
-    var cols=["#C8412F","#E08A3C","#E8C547","#3E7C4F","#2F6DA8","#7A4A9E","#D46A8C","#EDE6D2"];
-    for(var k=0;k<75;k++){
-      var x=Math.random()*w, y=Math.random()*h, r=R*(.85+Math.random()*.32);
-      var col=cols[k%cols.length];
-      g.fillStyle="rgba(0,0,0,.22)"; g.beginPath(); g.arc(x+r*.09,y+r*.11,r,0,7); g.fill();
-      g.fillStyle="#EFE7D5"; g.beginPath(); g.arc(x,y,r,0,7); g.fill();
-      g.fillStyle=col; g.beginPath(); g.arc(x,y,r*.8,0,7); g.fill();
-      g.fillStyle="rgba(28,22,16,.8)";
-      var kind=k%4;
-      if(kind===0){ g.beginPath(); g.arc(x,y,r*.3,0,7); g.fill(); }
-      else if(kind===1){ g.fillRect(x-r*.3,y-r*.3,r*.6,r*.6); }
-      else if(kind===2){ g.beginPath(); g.moveTo(x,y-r*.42); g.lineTo(x+r*.38,y+r*.3); g.lineTo(x-r*.38,y+r*.3); g.closePath(); g.fill(); }
-      else { g.fillRect(x-r*.42,y-r*.1,r*.84,r*.2); g.fillRect(x-r*.1,y-r*.42,r*.2,r*.84); }
-      g.strokeStyle="rgba(255,255,255,.45)"; g.lineWidth=r*.06;
-      g.beginPath(); g.arc(x,y,r*.92,0,7); g.stroke();
-    }
-  }
-
-  /* 10 电视彩条测试图 */
-  function testcard(g,w,h){
-    var bars=["#C0C0C0","#C0C000","#00C0C0","#00C000","#C000C0","#C00000","#0000C0"];
-    var bw=w/bars.length;
-    for(var i=0;i<bars.length;i++){ g.fillStyle=bars[i]; g.fillRect(i*bw,0,bw+1,h*.68); }
-    var steps=8, sw=w/steps;
-    for(var s2=0;s2<steps;s2++){
-      var v=Math.round(255*s2/(steps-1));
-      g.fillStyle="rgb("+v+","+v+","+v+")";
-      g.fillRect(s2*sw,h*.68,sw+1,h*.14);
-    }
-    var bot=["#00214C","#EFEFEF","#32006A","#131313","#0D0D0D","#131313","#1A1A1A"];
-    for(var b=0;b<bot.length;b++){ g.fillStyle=bot[b]; g.fillRect(b*(w/bot.length),h*.82,w/bot.length+1,h*.18); }
-    var R=Math.min(w,h)*.19;
-    g.strokeStyle="rgba(255,255,255,.85)"; g.lineWidth=Math.max(2,w*.005);
-    g.beginPath(); g.arc(w*.5,h*.34,R,0,7); g.stroke();
-    g.beginPath(); g.arc(w*.5,h*.34,R*.62,0,7); g.stroke();
-    g.beginPath(); g.moveTo(w*.5,h*.34-R*1.1); g.lineTo(w*.5,h*.34+R*1.1); g.stroke();
-    g.beginPath(); g.moveTo(w*.5-R*1.1,h*.34); g.lineTo(w*.5+R*1.1,h*.34); g.stroke();
-    g.fillStyle="rgba(0,0,0,.75)"; g.fillRect(w*.34,h*.3,w*.32,h*.08);
-    g.fillStyle="rgba(255,255,255,.9)";
-    for(var t2=0;t2<5;t2++) g.fillRect(w*(.37+t2*.055), h*.325, w*.032, h*.03);
-    g.strokeStyle="rgba(255,255,255,.7)"; g.lineWidth=Math.max(1.5,w*.003);
-    [[.08,.08],[.92,.08],[.08,.92],[.92,.92]].forEach(function(c3){
-      var cx=w*c3[0], cy=h*c3[1], s3=Math.min(w,h)*.05;
-      g.beginPath(); g.moveTo(cx-s3,cy); g.lineTo(cx+s3,cy);
-      g.moveTo(cx,cy-s3); g.lineTo(cx,cy+s3); g.stroke();
-    });
-    g.fillStyle="rgba(0,0,0,.16)";
-    for(var y2=0;y2<h;y2+=Math.max(2,h*.006)) g.fillRect(0,y2,w,1);
-    for(var n=0;n<Math.round(w*h/420);n++){
-      g.fillStyle="rgba(255,255,255,"+(Math.random()*.4)+")";
-      g.fillRect(Math.random()*w,Math.random()*h,2,2);
-    }
+    return {src:c.toDataURL("image/jpeg",.9), thumb:c.toDataURL("image/jpeg",.6)};
   }
 
   /* ========== 状态 ========== */
@@ -899,28 +534,50 @@
   }
 
   /* ========== 渲染 ========== */
-  function build(lv, keepImage){
+  var buildToken=0;
+  function build(lv, keepImage, done){
     var L=LEVELS[lv];
     S.lv=lv; S.cols=L.cols; S.rows=L.rows; S.n=L.cols*L.rows;
     S.moves=0; S.solved=false;
     stopTimer(); S.t0=0;
     $("tm").textContent="0:00"; $("mv").textContent="0";
-
-    if(!keepImage || !S.src){
-      var img=makeImage(lv,L.cols,L.rows);
-      S.src=img.src; S.thumb=img.thumb;
-    }
-    $("peekImg").src=S.src;
+    $("pc").textContent=S.n;
     $("lvNum").textContent="第 "+(lv+1)+" 关";
     $("lvName").textContent=L.name;
     $("bs").textContent = S.best[lv] ? S.best[lv]+" 步" : "—";
+    alignHeader();
 
     board.classList.remove("solved");
     board.querySelectorAll(".tile,.ghost").forEach(function(e){ e.remove(); });
     els=[];
+    fit();                      /* 先把棋盘摆成这一关的比例，载入时不会跳 */
 
+    if(keepImage && S.src){ layout(); if(done) done(); return; }
+
+    var my=++buildToken;
+    board.classList.add("loading");
+    getImage(L.img, function(im){
+      if(my!==buildToken) return;      /* 载入途中又切了关，丢弃这次结果 */
+      board.classList.remove("loading");
+      if(im){
+        var o=cropImage(im,S.cols,S.rows);
+        S.src=o.src; S.thumb=o.thumb;
+      }else{
+        var o2=placeholder(S.cols,S.rows);       /* 图挂了也得能玩 */
+        S.src=o2.src; S.thumb=o2.thumb;
+      }
+      layout();
+      if(done) done();
+      var nx=LEVELS[S.lv+1];
+      if(nx) getImage(nx.img, function(){});   /* 顺手预取下一关 */
+    });
+  }
+
+  function layout(){
+    $("peekImg").src=S.src;
+    board.querySelectorAll(".tile,.ghost").forEach(function(e){ e.remove(); });
+    els=[];
     shuffle();
-
     for(var id=0; id<S.n; id++){
       var el=document.createElement("div");
       el.className="tile";
@@ -929,7 +586,6 @@
       els[id]=el;
       board.appendChild(el);
     }
-    alignHeader();
     fit();
     render(true);
   }
@@ -1245,14 +901,15 @@
   function boot(state){
     load();
     var lv=(state && typeof state.lv==="number") ? state.lv : 0;
-    build(Math.min(lv, LEVELS.length-1));
-    if(state && state.order && state.order.length===S.n){
-      S.order=state.order.slice();
-      S.moves=state.moves||0;
-      $("mv").textContent=S.moves;
-      computeGroups(); _sizeCache=null;
-      render(true);
-    }
+    build(Math.min(lv, LEVELS.length-1), false, function(){
+      if(state && state.order && state.order.length===S.n){
+        S.order=state.order.slice();
+        S.moves=state.moves||0;
+        $("mv").textContent=S.moves;
+        computeGroups(); _sizeCache=null;
+        render(true);
+      }
+    });
   }
   try{
     if(window.claude && window.claude.hot){
