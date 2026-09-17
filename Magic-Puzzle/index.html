@@ -54,19 +54,31 @@
     flex-direction:column;
     justify-content:center;
     gap:14px;
-    padding:12px 16px;
-    padding-block:12px;
+    padding:12px 16px 34px;
     max-width:520px;
     margin:0 auto;
   }
 
   /* ---- 顶部 ---- */
-  header{display:flex;flex-direction:column;gap:1px}
-  .eyebrow{font-size:12px;color:var(--muted);letter-spacing:.04em}
-  .eyebrow .n{color:var(--accent);font-weight:700}
+  header{display:flex;flex-direction:column;gap:10px}
+  .brandbar{display:flex;align-items:center;gap:8px}
+  .logo{width:22px;height:22px;color:var(--ink);flex:0 0 auto;display:block}
+  .brandname{font-size:14px;font-weight:700;letter-spacing:.06em}
+  #btnLv{margin-left:auto;flex:0 0 auto;padding:7px 11px;font-size:12px}
+  .hgroup{display:flex;flex-direction:column;align-items:flex-start;gap:4px;min-width:0}
+  .eyebrow{font-size:12px;color:var(--accent);font-weight:700;letter-spacing:.04em}
   header h1{
     margin:0;font-size:40px;font-weight:700;
     letter-spacing:.08em;line-height:1.15;
+  }
+
+  /* ---- 页脚 ---- */
+  footer{
+    position:fixed;left:0;bottom:0;
+    padding:8px 16px;
+    padding-bottom:calc(8px + env(safe-area-inset-bottom,0px));
+    font-size:10px;color:var(--muted);letter-spacing:.03em;
+    pointer-events:none;
   }
 
   /* ---- 棋盘 ---- */
@@ -177,9 +189,37 @@
   .scores div{display:flex;flex-direction:column;gap:2px}
   .scores b{font-size:21px;font-weight:700;font-variant-numeric:tabular-nums}
   .scores span{font-size:10px;color:var(--muted)}
+  .card .primary{padding:8px 18px;flex:0 0 auto}
   .card .thumb{width:100px;margin-bottom:4px;box-shadow:var(--shadow)}
   .medals{display:flex;flex-wrap:wrap;justify-content:center;gap:7px;margin-bottom:16px}
   .medals img{width:50px;box-shadow:var(--shadow)}
+
+  /* ---- 选关 ---- */
+  .card.levels{position:relative;max-width:340px;text-align:left;max-height:100%;overflow-y:auto}
+  .card .iconbtn{
+    position:absolute;top:10px;right:10px;
+    width:28px;height:28px;padding:0;flex:0 0 auto;
+    display:flex;align-items:center;justify-content:center;
+    border:0;background:transparent;color:var(--muted);
+  }
+  .card .iconbtn:hover{color:var(--ink)}
+  .card .iconbtn:active{transform:none;background:transparent}
+  .lvgrid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:12px 0 0}
+  .lvcell{
+    display:flex;flex-direction:column;align-items:flex-start;gap:1px;
+    padding:9px 10px;border:1px solid var(--line);background:var(--bg);
+    text-align:left;font:inherit;cursor:pointer;flex:0 0 auto;
+    transition:border-color .15s,background .15s;
+  }
+  .lvcell:hover{border-color:var(--line-2)}
+  .lvcell .no{font-size:10px;color:var(--muted);font-variant-numeric:tabular-nums;letter-spacing:.08em}
+  .lvcell .nm{font-size:16px;font-weight:700;color:var(--ink);display:flex;align-items:center;height:22px}
+  .lvcell .meta{font-size:10px;color:var(--muted);font-variant-numeric:tabular-nums}
+  .lvcell.now{border-color:var(--accent);background:var(--accent-soft)}
+  .lvcell.now .nm{color:var(--accent)}
+  .lvcell.locked{background:var(--surface);cursor:default}
+  .lvcell.locked:hover{border-color:var(--line)}
+  .lvcell.locked .nm{color:var(--line-2)}
 
   @media (max-height:660px){
     header h1{font-size:30px}
@@ -195,8 +235,23 @@
 <!-- ARTIFACT-BODY-START -->
 <div id="app">
   <header id="hdr">
-    <div class="eyebrow">山海拼图 · <span class="n" id="lvNum">第 1 关</span></div>
-    <h1 id="lvName">日出</h1>
+    <div class="brandbar">
+      <svg class="logo" viewBox="0 0 32 32" aria-hidden="true">
+        <rect x=".8" y=".8" width="13.4" height="13.4" fill="none" stroke="currentColor" stroke-width="1.6"/>
+        <path d="M2.4 13.2 L2.4 8.6 L5.6 11.2 L8.6 5.2 L13 13.2 Z" fill="currentColor"/>
+        <rect x="17.8" y=".8" width="13.4" height="13.4" fill="none" stroke="currentColor" stroke-width="1.6"/>
+        <circle cx="24.5" cy="7.5" r="3.6" fill="none" stroke="currentColor" stroke-width="1.6"/>
+        <rect x=".8" y="17.8" width="13.4" height="13.4" fill="none" stroke="currentColor" stroke-width="1.6"/>
+        <path d="M2.6 26.4 q2.6 -2.8 5.2 0 t5.2 0" fill="none" stroke="currentColor" stroke-width="1.6"/>
+        <rect x="17.8" y="17.8" width="13.4" height="13.4" fill="var(--accent)"/>
+      </svg>
+      <span class="brandname">山海拼图</span>
+      <button id="btnLv" type="button">选关</button>
+    </div>
+    <div class="hgroup">
+      <h1 id="lvName">日出</h1>
+      <div class="eyebrow" id="lvNum">第 1 关</div>
+    </div>
   </header>
 
   <div class="stage">
@@ -221,6 +276,20 @@
 
 <div class="sheet" id="sheet" hidden>
   <div class="card" id="card"></div>
+</div>
+
+<footer>版权所有©Venico 2026</footer>
+
+<div class="sheet" id="lvSheet" hidden>
+  <div class="card levels">
+    <button class="iconbtn" id="lvClose" type="button" aria-label="关闭">
+      <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">
+        <path d="M5.5 5.5 L18.5 18.5 M18.5 5.5 L5.5 18.5"></path>
+      </svg>
+    </button>
+    <div class="kicker">选择关卡</div>
+    <div class="lvgrid" id="lvGrid"></div>
+  </div>
 </div>
 
 <script>
@@ -943,6 +1012,34 @@
     }
     sheet.hidden=false;
   }
+
+  /* ========== 选关 ========== */
+  var LOCK='<svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">'+
+           '<rect x="4" y="10.5" width="16" height="10.5"></rect><path d="M8 10.5V7a4 4 0 0 1 8 0v3.5"></path></svg>';
+  function openPicker(){
+    var g=$("lvGrid"); g.innerHTML="";
+    for(var i=0;i<LEVELS.length;i++){
+      var L=LEVELS[i], open=(i<=S.cleared);
+      var cell=document.createElement(open ? "button" : "div");
+      cell.className="lvcell"+(open?"":" locked")+(i===S.lv?" now":"");
+      var no='<span class="no">'+(i+1<10?"0":"")+(i+1)+'</span>';
+      if(open){
+        cell.type="button";
+        cell.innerHTML=no+'<span class="nm">'+L.name+'</span><span class="meta">'+
+          (L.cols*L.rows)+' 块'+(S.best[i]?' · 最佳 '+S.best[i]+' 步':'')+'</span>';
+        cell.onclick=(function(idx){ return function(){
+          $("lvSheet").hidden=true; sheet.hidden=true; S.src=""; build(idx);
+        }; })(i);
+      }else{
+        cell.innerHTML=no+'<span class="nm">'+LOCK+'</span><span class="meta">未解锁</span>';
+      }
+      g.appendChild(cell);
+    }
+    $("lvSheet").hidden=false;
+  }
+  $("btnLv").onclick=openPicker;
+  $("lvClose").onclick=function(){ $("lvSheet").hidden=true; };
+  $("lvSheet").addEventListener("click", function(e){ if(e.target===this) this.hidden=true; });
 
   /* ========== 按钮 ========== */
   var peek=$("peek"), pb=$("btnPeek");
