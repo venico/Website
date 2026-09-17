@@ -673,7 +673,7 @@
 
   /* ========== 状态 ========== */
   var S = {
-    lv:0, cols:3, rows:3, n:9,
+    lv:0, cols:3, rows:3, n:9, block:0,
     order:[],   /* order[格子] = 块编号 */
     pos:[],     /* pos[块编号] = 格子 */
     grp:[],     /* grp[块编号] = 组代表 */
@@ -823,18 +823,10 @@
 
     shuffle();
 
-    var bgSize=(L.cols*100)+"% "+(L.rows*100)+"%";
     for(var id=0; id<S.n; id++){
-      var r=Math.floor(id/L.cols), c=id%L.cols;
       var el=document.createElement("div");
       el.className="tile";
-      el.style.width=(100/L.cols)+"%";
-      el.style.height=(100/L.rows)+"%";
       el.style.backgroundImage="url("+S.src+")";
-      el.style.backgroundSize=bgSize;
-      el.style.backgroundPosition=
-        (L.cols>1 ? (c*100/(L.cols-1)) : 0)+"% "+
-        (L.rows>1 ? (r*100/(L.rows-1)) : 0)+"%";
       el.dataset.id=id;
       els[id]=el;
       board.appendChild(el);
@@ -866,11 +858,31 @@
     var aw=mid.clientWidth;
     var ah=mid.clientHeight - $("hg").offsetHeight - $("hud").offsetHeight - gap*2;
     if(aw<=0||ah<=0) return;
-    var ratio=S.cols/S.rows, w=aw, hh=w/ratio;
-    if(hh>ah){ hh=ah; w=hh*ratio; }
-    board.style.width=Math.floor(w)+"px";
-    board.style.height=Math.floor(hh)+"px";
+    /* 块宽取成整数个设备像素：百分比宽度会让边界落在半像素上，
+       相邻块之间就露出棋盘底色，看着像一条白线 */
+    var dpr=window.devicePixelRatio||1;
+    var raw=Math.min(aw/S.cols, ah/S.rows);
+    var block=Math.floor(raw*dpr)/dpr;
+    if(block<=0) return;
+    S.block=block;
+    board.style.width=(block*S.cols)+"px";
+    board.style.height=(block*S.rows)+"px";
+    applyMetrics();
     render(true);
+  }
+
+  /* 块的尺寸和图案偏移都按像素算，跟着棋盘尺寸变 */
+  function applyMetrics(){
+    var b=S.block, bw=b*S.cols, bh=b*S.rows;
+    for(var id=0; id<S.n; id++){
+      var el=els[id];
+      if(!el) continue;
+      var r=Math.floor(id/S.cols), c=id%S.cols;
+      el.style.width=b+"px";
+      el.style.height=b+"px";
+      el.style.backgroundSize=bw+"px "+bh+"px";
+      el.style.backgroundPosition=(-c*b)+"px "+(-r*b)+"px";
+    }
   }
   window.addEventListener("resize", alignHeader);
 
@@ -881,7 +893,7 @@
       if(!el) continue;
       var r=Math.floor(slot/cols), c=slot%cols;
       if(instant) el.style.transition="none";
-      el.style.transform="translate("+(c*100)+"%,"+(r*100)+"%)";
+      el.style.transform="translate("+(c*S.block)+"px,"+(r*S.block)+"px)";
       if(instant){ void el.offsetWidth; el.style.transition=""; }
       /* 组内部不画缝，组的外圈画一条绿线 */
       var mine=S.grp[id], solved=board.classList.contains("solved");
@@ -945,9 +957,9 @@
       var s=S.pos[m], r=Math.floor(s/S.cols), c=s%S.cols;
       var gh=document.createElement("div");
       gh.className="ghost";
-      gh.style.width=(100/S.cols)+"%";
-      gh.style.height=(100/S.rows)+"%";
-      gh.style.transform="translate("+(c*100)+"%,"+(r*100)+"%)";
+      gh.style.width=S.block+"px";
+      gh.style.height=S.block+"px";
+      gh.style.transform="translate("+(c*S.block)+"px,"+(r*S.block)+"px)";
       gh.dataset.r=r; gh.dataset.c=c;
       board.appendChild(gh);
       ghosts.push(gh);
@@ -964,11 +976,11 @@
     drag.dR=Math.round(dy/drag.th);
     drag.members.forEach(function(m){
       var s=S.pos[m], r=Math.floor(s/S.cols), c=s%S.cols;
-      els[m].style.transform="translate("+(c*100)+"%,"+(r*100)+"%) translate("+dx+"px,"+dy+"px)";
+      els[m].style.transform="translate("+((c*S.block)+dx)+"px,"+((r*S.block)+dy)+"px)";
     });
     ghosts.forEach(function(gh){
       var r=+gh.dataset.r + drag.dR, c=+gh.dataset.c + drag.dC;
-      gh.style.transform="translate("+(c*100)+"%,"+(r*100)+"%)";
+      gh.style.transform="translate("+(c*S.block)+"px,"+(r*S.block)+"px)";
     });
     e.preventDefault();
   });
