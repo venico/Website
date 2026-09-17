@@ -200,22 +200,20 @@
   }
   .card .iconbtn:hover{color:var(--ink)}
   .card .iconbtn:active{transform:none;background:transparent}
-  .lvgrid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:12px 0 0}
+  .lvgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin:12px 0 0}
   .lvcell{
     display:flex;flex-direction:column;align-items:flex-start;gap:1px;
-    padding:9px 10px;border:1px solid var(--line);background:var(--bg);
+    padding:7px 8px;border:1px solid var(--line);background:var(--bg);
     text-align:left;font:inherit;cursor:pointer;flex:0 0 auto;
     transition:border-color .15s,background .15s;
   }
   .lvcell:hover{border-color:var(--line-2)}
-  .lvcell .no{font-size:10px;color:var(--muted);font-variant-numeric:tabular-nums;letter-spacing:.08em}
-  .lvcell .nm{font-size:16px;font-weight:700;color:var(--ink);display:flex;align-items:center;height:22px}
-  .lvcell .meta{font-size:10px;color:var(--muted);font-variant-numeric:tabular-nums}
+  .lvcell .no{font-size:9.5px;color:var(--muted);font-variant-numeric:tabular-nums;letter-spacing:.06em}
+  .lvcell.done .no{color:var(--group)}
+  .lvcell .nm{font-size:15px;font-weight:700;color:var(--ink);line-height:1.4}
+  .lvcell .meta{font-size:9.5px;color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
   .lvcell.now{border-color:var(--accent);background:var(--accent-soft)}
   .lvcell.now .nm{color:var(--accent)}
-  .lvcell.locked{background:var(--surface);cursor:default}
-  .lvcell.locked:hover{border-color:var(--line)}
-  .lvcell.locked .nm{color:var(--line-2)}
 
   @media (max-height:660px){
     h1{font-size:30px}
@@ -295,29 +293,68 @@
   "use strict";
 
   /* ========== 关卡 ========== */
+  /* 块数封顶在 10×12=120：手机可用宽 311px，10 列时每块 31px，再多就点不准了。
+     30 关 = 10 个场景 × 3 种色调，tint 是画完后整体调色用的滤镜。 */
   var LEVELS = [
-    {name:"日出", cols:3, rows:3},
-    {name:"潮汐", cols:3, rows:4},
-    {name:"夜城", cols:4, rows:4},
-    {name:"竹径", cols:4, rows:5},
-    {name:"星轨", cols:5, rows:5},
-    {name:"霜原", cols:5, rows:6},
-    {name:"丹枫", cols:6, rows:6},
-    {name:"大漠", cols:6, rows:7},
-    {name:"荷塘", cols:7, rows:7},
-    {name:"极光", cols:7, rows:8}
+    {name:"日出", cols:3,  rows:3,  art:0},
+    {name:"潮汐", cols:3,  rows:4,  art:1},
+    {name:"夜城", cols:4,  rows:4,  art:2},
+    {name:"竹径", cols:4,  rows:5,  art:3},
+    {name:"星轨", cols:5,  rows:5,  art:4},
+    {name:"霜原", cols:5,  rows:6,  art:5},
+    {name:"丹枫", cols:6,  rows:6,  art:6},
+    {name:"大漠", cols:6,  rows:7,  art:7},
+    {name:"荷塘", cols:7,  rows:7,  art:8},
+    {name:"极光", cols:7,  rows:8,  art:9},
+
+    {name:"暮色", cols:7,  rows:9,  art:0, tint:"hue-rotate(-25deg) saturate(1.15) brightness(.88)"},
+    {name:"深湾", cols:8,  rows:8,  art:1, tint:"hue-rotate(38deg) brightness(.82)"},
+    {name:"灯海", cols:8,  rows:9,  art:2, tint:"hue-rotate(-18deg) saturate(1.4) brightness(1.1)"},
+    {name:"幽篁", cols:8,  rows:10, art:3, tint:"hue-rotate(12deg) saturate(.8) brightness(.7)"},
+    {name:"银河", cols:9,  rows:9,  art:4, tint:"hue-rotate(-60deg) saturate(.45) brightness(1.2) contrast(1.06)"},
+    {name:"雪岭", cols:9,  rows:10, art:5, tint:"saturate(.32) brightness(1.12) contrast(1.08)"},
+    {name:"金秋", cols:9,  rows:11, art:6, tint:"hue-rotate(20deg) saturate(1.3) brightness(1.1) contrast(1.06)"},
+    {name:"戈壁", cols:10, rows:10, art:7, tint:"hue-rotate(-14deg) saturate(.5) brightness(.95) contrast(1.1)"},
+    {name:"碧池", cols:10, rows:11, art:8, tint:"hue-rotate(28deg) saturate(1.1) contrast(1.06)"},
+    {name:"寒夜", cols:10, rows:12, art:9, tint:"hue-rotate(38deg) saturate(.9) brightness(1.05) contrast(1.1)"},
+
+    {name:"霓虹", cols:10, rows:12, art:2, tint:"hue-rotate(50deg) saturate(1.45) brightness(1.12) contrast(1.05)"},
+    {name:"新篁", cols:10, rows:12, art:3, tint:"hue-rotate(-30deg) saturate(1.2) brightness(1.12) contrast(1.06)"},
+    {name:"霜叶", cols:10, rows:12, art:6, tint:"hue-rotate(-32deg) saturate(.75) brightness(.75) contrast(1.1)"},
+    {name:"暮荷", cols:10, rows:12, art:8, tint:"hue-rotate(-30deg) saturate(.9) brightness(.66) contrast(1.12)"},
+    {name:"深空", cols:10, rows:12, art:4, tint:"hue-rotate(-62deg) saturate(1.25) brightness(1.05) contrast(1.08)"},
+    {name:"灯市", cols:10, rows:12, art:2, tint:"hue-rotate(160deg) saturate(1.1) contrast(1.08)"},
+    {name:"翠篁", cols:10, rows:12, art:3, tint:"hue-rotate(45deg) saturate(1.1) brightness(.88) contrast(1.08)"},
+    {name:"赤枫", cols:10, rows:12, art:6, tint:"hue-rotate(-20deg) saturate(1.35) contrast(1.06)"},
+    {name:"白荷", cols:10, rows:12, art:8, tint:"saturate(.35) brightness(1.18) contrast(1.12)"},
+    {name:"星海", cols:10, rows:12, art:4, tint:"hue-rotate(20deg) saturate(1.3) brightness(1.12) contrast(1.06)"}
   ];
 
   /* ========== 绘图 ========== */
+  var ARTS=[sunrise, tide, city, bamboo, stars, frost, maple, dune, lotus, aurora];
   function makeImage(idx, cols, rows){
-    var U = Math.max(cols,rows) >= 7 ? 108 : 132;
+    var L=LEVELS[idx];
+    var big=Math.max(cols,rows);
+    var U = big>=10 ? 84 : (big>=7 ? 108 : 132);
     var w = cols*U, h = rows*U;
     var c = document.createElement("canvas");
     c.width = w; c.height = h;
     var g = c.getContext("2d");
-    [sunrise, tide, city, bamboo, stars, frost, maple, dune, lotus, aurora][idx](g, w, h);
+    ARTS[L.art](g, w, h);
     grain(g, w, h);
-    return c.toDataURL("image/jpeg", 0.92);
+    if(L.tint){
+      var t = document.createElement("canvas");
+      t.width = w; t.height = h;
+      var tg = t.getContext("2d");
+      tg.filter = L.tint;              /* 老浏览器不认就是原色，不影响玩 */
+      tg.drawImage(c, 0, 0);
+      c = t;
+    }
+    var sc = 160/w;
+    var s2 = document.createElement("canvas");
+    s2.width = Math.round(w*sc); s2.height = Math.round(h*sc);
+    s2.getContext("2d").drawImage(c, 0, 0, s2.width, s2.height);
+    return {src:c.toDataURL("image/jpeg", 0.92), thumb:s2.toDataURL("image/jpeg", 0.8)};
   }
   function lg(g,x0,y0,x1,y1,stops){
     var grd=g.createLinearGradient(x0,y0,x1,y1);
@@ -633,7 +670,7 @@
     pos:[],     /* pos[块编号] = 格子 */
     grp:[],     /* grp[块编号] = 组代表 */
     moves:0, t0:0, timer:null, solved:false,
-    src:"", best:{}, cleared:0, thumbs:[]
+    src:"", thumb:"", best:{}, cleared:0, thumbs:[]
   };
   var $ = function(id){ return document.getElementById(id); };
   var board=$("board"), sheet=$("sheet"), card=$("card");
@@ -763,7 +800,10 @@
     stopTimer(); S.t0=0;
     $("tm").textContent="0:00"; $("mv").textContent="0";
 
-    if(!keepImage || !S.src) S.src=makeImage(lv,L.cols,L.rows);
+    if(!keepImage || !S.src){
+      var img=makeImage(lv,L.cols,L.rows);
+      S.src=img.src; S.thumb=img.thumb;
+    }
     $("peekImg").src=S.src;
     $("lvNum").textContent="第 "+(lv+1)+" 关";
     $("lvName").textContent=L.name;
@@ -983,7 +1023,7 @@
     var prev=S.best[S.lv];
     if(!prev || S.moves<prev) S.best[S.lv]=S.moves;
     if(S.lv+1>S.cleared) S.cleared=S.lv+1;
-    S.thumbs[S.lv]=S.src;
+    S.thumbs[S.lv]=S.thumb||S.src;
     save();
     setTimeout(win, 800);
   }
@@ -1029,25 +1069,19 @@
   }
 
   /* ========== 选关 ========== */
-  var LOCK='<svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">'+
-           '<rect x="4" y="10.5" width="16" height="10.5"></rect><path d="M8 10.5V7a4 4 0 0 1 8 0v3.5"></path></svg>';
   function openPicker(){
     var g=$("lvGrid"); g.innerHTML="";
     for(var i=0;i<LEVELS.length;i++){
-      var L=LEVELS[i], open=(i<=S.cleared);
-      var cell=document.createElement(open ? "button" : "div");
-      cell.className="lvcell"+(open?"":" locked")+(i===S.lv?" now":"");
-      var no='<span class="no">'+(i+1<10?"0":"")+(i+1)+'</span>';
-      if(open){
-        cell.type="button";
-        cell.innerHTML=no+'<span class="nm">'+L.name+'</span><span class="meta">'+
-          (L.cols*L.rows)+' 块'+(S.best[i]?' · 最佳 '+S.best[i]+' 步':'')+'</span>';
-        cell.onclick=(function(idx){ return function(){
-          $("lvSheet").hidden=true; sheet.hidden=true; S.src=""; build(idx);
-        }; })(i);
-      }else{
-        cell.innerHTML=no+'<span class="nm">'+LOCK+'</span><span class="meta">未解锁</span>';
-      }
+      var L=LEVELS[i];
+      var cell=document.createElement("button");
+      cell.type="button";
+      cell.className="lvcell"+(i<S.cleared?" done":"")+(i===S.lv?" now":"");
+      cell.innerHTML='<span class="no">'+(i+1<10?"0":"")+(i+1)+'</span>'+
+        '<span class="nm">'+L.name+'</span>'+
+        '<span class="meta">'+(L.cols*L.rows)+' 块'+(S.best[i]?' · '+S.best[i]+' 步':'')+'</span>';
+      cell.onclick=(function(idx){ return function(){
+        $("lvSheet").hidden=true; sheet.hidden=true; S.src=""; build(idx);
+      }; })(i);
       g.appendChild(cell);
     }
     $("lvSheet").hidden=false;
