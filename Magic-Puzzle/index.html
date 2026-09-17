@@ -73,7 +73,6 @@
   .stage{display:flex;align-items:center;justify-content:center;position:relative}
   #board{
     position:relative;
-    border-radius:6px;
     background:var(--board);
     box-shadow:var(--shadow);
     overflow:hidden;
@@ -137,7 +136,7 @@
   .controls{display:flex;gap:7px}
   button{
     font:inherit;font-size:14px;font-weight:600;
-    border-radius:10px;border:1px solid var(--line-2);
+    border:1px solid var(--line-2);
     background:var(--bg);color:var(--ink);
     padding:11px 8px;flex:1;cursor:pointer;
     transition:background .15s,border-color .15s,color .15s,transform .08s;
@@ -155,7 +154,7 @@
     opacity:0;pointer-events:none;transition:opacity .18s;
   }
   #peek.show{opacity:1}
-  #peek img{border-radius:4px;box-shadow:var(--shadow-lift);max-width:90%;max-height:90%}
+  #peek img{box-shadow:var(--shadow-lift);max-width:90%;max-height:90%}
 
   /* ---- 结算层 ---- */
   .sheet{
@@ -166,7 +165,7 @@
   .sheet[hidden]{display:none!important}
   .card{
     width:100%;max-width:330px;text-align:center;
-    background:var(--bg);border:1px solid var(--line);border-radius:14px;
+    background:var(--bg);border:1px solid var(--line);
     padding:24px 20px 18px;box-shadow:var(--shadow-lift);
     animation:rise .3s cubic-bezier(.2,.9,.3,1.1);
   }
@@ -178,9 +177,9 @@
   .scores div{display:flex;flex-direction:column;gap:2px}
   .scores b{font-size:21px;font-weight:700;font-variant-numeric:tabular-nums}
   .scores span{font-size:10px;color:var(--muted)}
-  .card .thumb{width:100px;border-radius:5px;margin-bottom:4px;box-shadow:var(--shadow)}
+  .card .thumb{width:100px;margin-bottom:4px;box-shadow:var(--shadow)}
   .medals{display:flex;flex-wrap:wrap;justify-content:center;gap:7px;margin-bottom:16px}
-  .medals img{width:50px;border-radius:4px;box-shadow:var(--shadow)}
+  .medals img{width:50px;box-shadow:var(--shadow)}
 
   @media (max-height:660px){
     header h1{font-size:30px}
