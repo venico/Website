@@ -169,10 +169,13 @@
     position:fixed;inset:0;z-index:40;
     display:flex;align-items:center;justify-content:center;padding:24px;
     background:rgba(255,255,255,.82);backdrop-filter:blur(4px);
+    touch-action:none;              /* 遮罩空白处滑动不该滚到底层页面 */
+    overscroll-behavior:contain;
   }
   .sheet[hidden]{display:none!important}
   .card{
     width:100%;max-width:330px;text-align:center;
+    overscroll-behavior:contain;
     background:var(--bg);border:1px solid var(--line);
     padding:24px 20px 18px;box-shadow:var(--shadow-lift);
     animation:rise .3s cubic-bezier(.2,.9,.3,1.1);
@@ -191,7 +194,12 @@
   .medals img{width:50px;box-shadow:var(--shadow)}
 
   /* ---- 选关 ---- */
-  .card.levels{position:relative;max-width:340px;text-align:left;max-height:100%;overflow-y:auto}
+  .card.levels{
+    position:relative;max-width:340px;text-align:left;
+    max-height:100%;overflow-y:auto;
+    touch-action:pan-y;             /* 弹窗内容自己能纵向滚 */
+    -webkit-overflow-scrolling:touch;
+  }
   .card .iconbtn{
     position:absolute;top:10px;right:10px;
     width:28px;height:28px;padding:0;flex:0 0 auto;
@@ -1052,7 +1060,7 @@
         '<div class="scores"><div><b>'+total+'</b><span>累计步数</span></div>'+
         '<div><b>'+LEVELS.length+'</b><span>完成关卡</span></div></div>'+
         '<button class="primary" id="again" type="button">从第 1 关重玩</button>';
-      $("again").onclick=function(){ sheet.hidden=true; S.src=""; build(0); };
+      $("again").onclick=function(){ sheet.hidden=true; syncLock(); S.src=""; build(0); };
     }else{
       var nx=LEVELS[S.lv+1];
       card.innerHTML=
@@ -1063,9 +1071,10 @@
         '<div><b>'+fmt(secs)+'</b><span>用时</span></div>'+
         '<div><b>'+(nx.cols*nx.rows)+'</b><span>下关块数</span></div></div>'+
         '<button class="primary" id="next" type="button">进入下一关</button>';
-      $("next").onclick=function(){ sheet.hidden=true; S.src=""; build(S.lv+1); };
+      $("next").onclick=function(){ sheet.hidden=true; syncLock(); S.src=""; build(S.lv+1); };
     }
     sheet.hidden=false;
+    syncLock();
   }
 
   /* ========== 选关 ========== */
@@ -1080,15 +1089,33 @@
         '<span class="nm">'+L.name+'</span>'+
         '<span class="meta">'+(L.cols*L.rows)+' 块'+(S.best[i]?' · '+S.best[i]+' 步':'')+'</span>';
       cell.onclick=(function(idx){ return function(){
-        $("lvSheet").hidden=true; sheet.hidden=true; S.src=""; build(idx);
+        $("lvSheet").hidden=true; sheet.hidden=true; syncLock(); S.src=""; build(idx);
       }; })(i);
       g.appendChild(cell);
     }
     $("lvSheet").hidden=false;
+    syncLock();
   }
+  /* 在遮罩空白处滑动时，手势会被底层页面接走，之后连弹窗内容都滚不动了。
+     这里把遮罩上的滑动吃掉，只放行卡片内部的滚动。 */
+  function guardSheet(el){
+    el.addEventListener("touchmove", function(e){
+      var box=e.target && e.target.closest ? e.target.closest(".card") : null;
+      if(!box) e.preventDefault();
+    }, {passive:false});
+  }
+  guardSheet($("lvSheet"));
+  guardSheet(sheet);
+
+  /* 直接按两个弹窗的实际状态决定要不要锁页面，比开关计数不容易算漏 */
+  function syncLock(){
+    var open = !$("lvSheet").hidden || !sheet.hidden;
+    document.body.style.overflow = open ? "hidden" : "";
+  }
+
   $("btnLv").onclick=openPicker;
-  $("lvClose").onclick=function(){ $("lvSheet").hidden=true; };
-  $("lvSheet").addEventListener("click", function(e){ if(e.target===this) this.hidden=true; });
+  $("lvClose").onclick=function(){ $("lvSheet").hidden=true; syncLock(); };
+  $("lvSheet").addEventListener("click", function(e){ if(e.target===this){ this.hidden=true; syncLock(); } });
 
   /* ========== 按钮 ========== */
   var peek=$("peek"), pb=$("btnPeek");
