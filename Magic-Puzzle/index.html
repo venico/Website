@@ -52,37 +52,33 @@
     height:100%;
     display:flex;
     flex-direction:column;
-    justify-content:center;
-    gap:14px;
-    padding:12px 16px 34px;
+    gap:12px;
+    padding:12px 16px;
     max-width:520px;
     margin:0 auto;
   }
-
-  /* ---- 顶部 ---- */
-  header{display:flex;flex-direction:column;gap:10px}
-  .brandbar{display:flex;align-items:center;gap:8px}
+  /* 顶栏与底栏钉住，中间区域自己伸缩 */
+  .brandbar{flex:0 0 auto;display:flex;align-items:center;gap:8px}
+  .mid{
+    flex:1;min-height:0;
+    display:flex;flex-direction:column;justify-content:center;gap:14px;
+  }
+  .bot{flex:0 0 auto;display:flex;flex-direction:column;gap:9px}
   .logo{width:22px;height:22px;color:var(--ink);flex:0 0 auto;display:block}
   .brandname{font-size:14px;font-weight:700;letter-spacing:.06em}
   #btnLv{margin-left:auto;flex:0 0 auto;padding:7px 11px;font-size:12px}
   .hgroup{display:flex;flex-direction:column;align-items:flex-start;gap:4px;min-width:0}
   .eyebrow{font-size:12px;color:var(--accent);font-weight:700;letter-spacing:.04em}
-  header h1{
+  h1{
     margin:0;font-size:40px;font-weight:700;
     letter-spacing:.08em;line-height:1.15;
   }
 
   /* ---- 页脚 ---- */
-  footer{
-    position:fixed;left:0;bottom:0;
-    padding:8px 16px;
-    padding-bottom:calc(8px + env(safe-area-inset-bottom,0px));
-    font-size:10px;color:var(--muted);letter-spacing:.03em;
-    pointer-events:none;
-  }
+  footer{font-size:10px;color:var(--muted);letter-spacing:.03em}
 
   /* ---- 棋盘 ---- */
-  .stage{display:flex;align-items:center;justify-content:center;position:relative}
+  .stage{display:flex;align-items:center;justify-content:flex-start;position:relative}
   #board{
     position:relative;
     background:var(--board);
@@ -222,7 +218,7 @@
   .lvcell.locked .nm{color:var(--line-2)}
 
   @media (max-height:660px){
-    header h1{font-size:30px}
+    h1{font-size:30px}
     .stat b{font-size:16px}
     button{padding:9px 6px}
   }
@@ -234,8 +230,7 @@
 <body>
 <!-- ARTIFACT-BODY-START -->
 <div id="app">
-  <header id="hdr">
-    <div class="brandbar">
+  <header class="brandbar">
       <svg class="logo" viewBox="0 0 32 32" aria-hidden="true">
         <rect x=".8" y=".8" width="13.4" height="13.4" fill="none" stroke="currentColor" stroke-width="1.6"/>
         <path d="M2.4 13.2 L2.4 8.6 L5.6 11.2 L8.6 5.2 L13 13.2 Z" fill="currentColor"/>
@@ -247,38 +242,41 @@
       </svg>
       <span class="brandname">山海拼图</span>
       <button id="btnLv" type="button">选关</button>
-    </div>
-    <div class="hgroup">
+  </header>
+
+  <div class="mid" id="mid">
+    <div class="hgroup" id="hg">
       <h1 id="lvName">日出</h1>
       <div class="eyebrow" id="lvNum">第 1 关</div>
     </div>
-  </header>
 
-  <div class="stage">
-    <div id="board" aria-label="拼图棋盘">
-      <div class="flash" id="flash"></div>
-      <div id="peek"><img id="peekImg" alt="完整原图"></div>
+    <div class="stage">
+      <div id="board" aria-label="拼图棋盘">
+        <div class="flash" id="flash"></div>
+        <div id="peek"><img id="peekImg" alt="完整原图"></div>
+      </div>
+    </div>
+
+    <div class="hud" id="hud">
+      <div class="stat"><b id="mv">0</b><span>步数</span></div>
+      <div class="stat"><b id="tm">0:00</b><span>用时</span></div>
+      <div class="stat pieces"><b id="pc">9</b><span>散块</span></div>
+      <div class="stat"><b id="bs">—</b><span>最佳</span></div>
     </div>
   </div>
 
-  <div class="hud" id="hud">
-    <div class="stat"><b id="mv">0</b><span>步数</span></div>
-    <div class="stat"><b id="tm">0:00</b><span>用时</span></div>
-    <div class="stat pieces"><b id="pc">9</b><span>散块</span></div>
-    <div class="stat"><b id="bs">—</b><span>最佳</span></div>
-  </div>
-
-  <div class="controls" id="ctl">
-    <button id="btnPeek" type="button">看原图</button>
-    <button id="btnNew" type="button">重打乱</button>
+  <div class="bot">
+    <div class="controls" id="ctl">
+      <button id="btnPeek" type="button">看原图</button>
+      <button id="btnNew" type="button">重打乱</button>
+    </div>
+    <footer>版权所有©Venico 2026</footer>
   </div>
 </div>
 
 <div class="sheet" id="sheet" hidden>
   <div class="card" id="card"></div>
 </div>
-
-<footer>版权所有©Venico 2026</footer>
 
 <div class="sheet" id="lvSheet" hidden>
   <div class="card levels">
@@ -793,16 +791,32 @@
       els[id]=el;
       board.appendChild(el);
     }
+    alignHeader();
     fit();
     render(true);
   }
 
+  /* 中文字形在字面框里自带左空隙（「日」在 40px 下是 7.4px，「潮」只有 1.4px），
+     不补偿的话大标题看着就没跟下面的小字对齐。按当前字号量首字，逐关补掉。 */
+  function opticalAlign(el){
+    if(!el) return;
+    var t=(el.textContent||"").trim();
+    if(!t){ el.style.marginLeft=""; return; }
+    var cs=getComputedStyle(el);
+    var ctx=opticalAlign.ctx || (opticalAlign.ctx=document.createElement("canvas").getContext("2d"));
+    ctx.font=cs.fontWeight+" "+parseFloat(cs.fontSize)+"px "+cs.fontFamily;
+    var m=ctx.measureText(t.charAt(0));
+    var inset=-(m.actualBoundingBoxLeft||0);          /* 老浏览器没这属性就不补 */
+    if(!isFinite(inset) || inset<0) inset=0;
+    el.style.marginLeft = inset ? (-inset).toFixed(2)+"px" : "";
+  }
+  function alignHeader(){ opticalAlign($("lvName")); opticalAlign($("lvNum")); }
+
   function fit(){
-    var app=$("app"), cs=getComputedStyle(app);
+    var mid=$("mid"), cs=getComputedStyle(mid);
     var gap=parseFloat(cs.rowGap)||parseFloat(cs.gap)||14;
-    var aw=app.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
-    var ah=app.clientHeight - parseFloat(cs.paddingTop) - parseFloat(cs.paddingBottom)
-           - $("hdr").offsetHeight - $("hud").offsetHeight - $("ctl").offsetHeight - gap*3;
+    var aw=mid.clientWidth;
+    var ah=mid.clientHeight - $("hg").offsetHeight - $("hud").offsetHeight - gap*2;
     if(aw<=0||ah<=0) return;
     var ratio=S.cols/S.rows, w=aw, hh=w/ratio;
     if(hh>ah){ hh=ah; w=hh*ratio; }
@@ -810,6 +824,7 @@
     board.style.height=Math.floor(hh)+"px";
     render(true);
   }
+  window.addEventListener("resize", alignHeader);
 
   function render(instant){
     var cols=S.cols, rows=S.rows;
