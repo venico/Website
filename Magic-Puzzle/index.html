@@ -500,13 +500,48 @@
   ];
 
   /* ========== 图片 ========== */
-  var imgCache={};
+  /* 解码后的图很占内存（1200×1440 一张约 7MB），只留最近几张，
+     当前这关那张永远不删 */
+  var imgCache={}, cacheOrder=[], CACHE_MAX=5, holdFile=null;
+  function cachePut(file, im){
+    if(!imgCache[file]) cacheOrder.push(file);
+    imgCache[file]=im;
+    while(cacheOrder.length>CACHE_MAX){
+      var old=cacheOrder.shift();
+      if(old===holdFile){ cacheOrder.push(old); break; }
+      delete imgCache[old];
+    }
+  }
   function getImage(file, cb){
     if(imgCache[file]){ cb(imgCache[file]); return; }
     var im=new Image();
-    im.onload=function(){ imgCache[file]=im; cb(im); };
+    im.onload=function(){ cachePut(file, im); cb(im); };
     im.onerror=function(){ cb(null); };
     im.src="img/"+file+".webp";
+  }
+
+  /* 只把文件拉进浏览器缓存，不解码也就不占内存，
+     真轮到这关时省掉的是最花时间的那段网络往返 */
+  var warmed={};
+  function warm(file){
+    if(warmed[file] || imgCache[file]) return;
+    warmed[file]=1;
+    try{ fetch("img/"+file+".webp", {cache:"force-cache"}).catch(function(){}); }catch(e){}
+  }
+
+  /* 进一关就开始备后面几关的图。晚 400ms 起步，先把当前这关的带宽让出来 */
+  var prefetchTimer=null;
+  function prefetchAhead(lv){
+    if(prefetchTimer) clearTimeout(prefetchTimer);
+    if(lv<0) return;
+    prefetchTimer=setTimeout(function(){
+      var nx=LEVELS[lv+1];
+      if(nx) getImage(nx.img, function(){});       /* 下一关整张解码好，点进去不用等 */
+      for(var k=2;k<=3;k++){                        /* 再往后两关只拉文件 */
+        var f=LEVELS[lv+k];
+        if(f) warm(f.img);
+      }
+    }, 400);
   }
 
   /* 各关网格比例不同，源图统一 5:6，这里按关卡比例居中裁（cover） */
@@ -721,7 +756,9 @@
     }
 
     var my=++buildToken;
+    holdFile=L.img;
     board.classList.add("loading");
+    prefetchAhead(lv);
     getImage(L.img, function(im){
       if(my!==buildToken) return;      /* 载入途中又切了关，丢弃这次结果 */
       board.classList.remove("loading");
@@ -734,8 +771,6 @@
       }
       layout();
       if(done) done();
-      var nx=LEVELS[S.lv+1];
-      if(nx) getImage(nx.img, function(){});   /* 顺手预取下一关 */
     });
   }
 
