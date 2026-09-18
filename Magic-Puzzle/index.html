@@ -443,20 +443,32 @@
     pos:[],     /* pos[块编号] = 格子 */
     grp:[],     /* grp[块编号] = 组代表 */
     moves:0, t0:0, timer:null, solved:false,
-    src:"", thumb:"", best:{}, cleared:0, thumbs:[]
+    src:"", thumb:"", best:{}, cleared:0, thumbs:[], resumeSecs:0
   };
   var $ = function(id){ return document.getElementById(id); };
   var board=$("board"), sheet=$("sheet"), card=$("card");
   var els=[];   /* els[块编号] = DOM */
 
+  var RESUME=null;
   function load(){
     try{
       var raw=localStorage.getItem("shiguang.v1");
-      if(raw){ var d=JSON.parse(raw); S.best=d.best||{}; S.cleared=d.cleared||0; }
+      if(raw){
+        var d=JSON.parse(raw);
+        S.best=d.best||{}; S.cleared=d.cleared||0;
+        RESUME=d;
+      }
     }catch(e){}
   }
+  /* 每走一步都存：关卡、当前摆法、步数、用时。下次进来接着拼。 */
   function save(){
-    try{ localStorage.setItem("shiguang.v1", JSON.stringify({best:S.best,cleared:S.cleared})); }catch(e){}
+    try{
+      var d={best:S.best, cleared:S.cleared, lv:S.lv,
+             moves:S.moves, secs:elapsed(),
+             order:(S.solved ? null : S.order)};
+      if(S.lv<0 && customCfg) d.cust={cols:customCfg.cols, rows:customCfg.rows};
+      localStorage.setItem("shiguang.v1", JSON.stringify(d));
+    }catch(e){}
   }
 
   /* ========== 分组：原图相邻 + 当前偏移相同 = 同一整块 ========== */
@@ -572,7 +584,7 @@
     if(!L) return;
     S.lv=lv; S.cols=L.cols; S.rows=L.rows; S.n=L.cols*L.rows;
     S.moves=0; S.solved=false;
-    stopTimer(); S.t0=0;
+    stopTimer(); S.t0=0; S.resumeSecs=0;
     $("tm").textContent="0:00"; $("mv").textContent="0";
     $("pc").textContent=S.n;
     $("lvNum").textContent = (lv<0) ? (S.cols+" × "+S.rows) : ("第 "+(lv+1)+" 关");
@@ -630,6 +642,7 @@
     }
     fit();
     render(true);
+    save();
   }
 
   /* 中文字形在字面框里自带左空隙（「日」在 40px 下是 7.4px，「潮」只有 1.4px），
@@ -804,6 +817,7 @@
       if(!S.timer) startTimer();
       computeGroups(); _sizeCache=null;
       render();
+      save();
       /* 新接上的块闪一下 */
       for(var k=0;k<S.n;k++){
         if(groupSize(S.grp[k]) > before[k]){
@@ -846,13 +860,13 @@
     setTimeout(win, 800);
   }
   function startTimer(){
-    S.t0=Date.now();
+    S.t0=Date.now() - (S.resumeSecs||0)*1000;
     S.timer=setInterval(function(){
       $("tm").textContent=fmt(Math.floor((Date.now()-S.t0)/1000));
     },250);
   }
   function stopTimer(){ if(S.timer){ clearInterval(S.timer); S.timer=null; } }
-  function elapsed(){ return S.t0 ? Math.floor((Date.now()-S.t0)/1000) : 0; }
+  function elapsed(){ return S.t0 ? Math.floor((Date.now()-S.t0)/1000) : (S.resumeSecs||0); }
   function fmt(s){ return Math.floor(s/60)+":"+("0"+(s%60)).slice(-2); }
 
   function win(){
@@ -1030,24 +1044,54 @@
   });
   $("btnNew").onclick=function(){ build(S.lv,true); };
 
+  /* 只在移动时存盘的话，停下来想半天再关页面，这段用时就丢了 */
+  document.addEventListener("visibilitychange", function(){ if(document.hidden) save(); });
+  window.addEventListener("pagehide", save);
+
   window.addEventListener("resize", fit);
   window.addEventListener("orientationchange", function(){ setTimeout(fit,200); });
 
   /* ========== 启动 / 热更新 ========== */
   function boot(state){
     load();
-    var lv=(state && typeof state.lv==="number") ? state.lv : 0;
-    if(lv<0 || lv>=LEVELS.length) lv=0;    /* 自定义关没法从存档恢复，回落到第 1 关 */
-    build(lv, false, function(){
-      if(state && state.order && state.order.length===S.n){
-        S.order=state.order.slice();
-        S.moves=state.moves||0;
-        $("mv").textContent=S.moves;
-        computeGroups(); _sizeCache=null;
-        render(true);
+    /* Artifact 热更新传来的状态优先，否则用本地存档接着上次 */
+    var r=(state && typeof state.lv==="number") ? state : (RESUME||{});
+    var lv=(typeof r.lv==="number") ? r.lv : 0;
+
+    function restore(){
+      var o=r.order;
+      if(!o || o.length!==S.n) return;
+      var seen=[], done=true;
+      for(var i=0;i<o.length;i++){
+        var v=o[i];
+        if(typeof v!=="number" || v<0 || v>=S.n || seen[v]) return;  /* 存档坏了就按新局开 */
+        seen[v]=1;
+        if(v!==i) done=false;
       }
-    });
+      if(done) return;                       /* 已经拼完的局面不用恢复 */
+      S.order=o.slice();
+      S.moves=r.moves||0;
+      S.resumeSecs=r.secs||0;
+      $("mv").textContent=S.moves;
+      $("tm").textContent=fmt(S.resumeSecs);
+      computeGroups(); _sizeCache=null;
+      render(true);
+      save();
+    }
+
+    if(lv<0 && r.cust){                      /* 上次停在自定义关，把存的那张图捞回来 */
+      loadCustom(function(im){
+        if(!im){ build(0); return; }
+        customImg=im;
+        customCfg={name:"自定义", cols:r.cust.cols, rows:r.cust.rows};
+        build(-1, false, restore);
+      });
+      return;
+    }
+    if(lv<0 || lv>=LEVELS.length) lv=0;
+    build(lv, false, restore);
   }
+
   try{
     if(window.claude && window.claude.hot){
       window.claude.hot.snapshot(function(){
