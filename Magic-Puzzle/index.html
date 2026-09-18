@@ -66,7 +66,16 @@
   .bot{flex:0 0 auto;display:flex;flex-direction:column;gap:9px}
   .logo{width:22px;height:22px;color:var(--ink);flex:0 0 auto;display:block}
   .brandname{font-size:14px;font-weight:700;letter-spacing:.06em}
-  #btnCustom{margin-left:auto;flex:0 0 auto;padding:7px 11px;font-size:12px}
+  #btnSound{
+    margin-left:auto;flex:0 0 auto;
+    width:32px;height:30px;padding:0;
+    display:flex;align-items:center;justify-content:center;
+  }
+  #btnSound .mute{display:none}
+  #btnSound.off{color:var(--muted)}
+  #btnSound.off .wv{display:none}
+  #btnSound.off .mute{display:block}
+  #btnCustom{flex:0 0 auto;padding:7px 11px;font-size:12px}
   #btnLv{flex:0 0 auto;padding:7px 11px;font-size:12px}
   .hgroup{display:flex;flex-direction:column;align-items:flex-start;gap:4px;min-width:0}
   .eyebrow{font-size:12px;color:var(--accent);font-weight:700;letter-spacing:.04em}
@@ -216,6 +225,29 @@
   }
   .card .iconbtn:hover{color:var(--ink)}
   .card .iconbtn:active{transform:none;background:transparent}
+  /* 声音 */
+  .card.snd{position:relative;max-width:320px;text-align:left}
+  .sndrow{
+    display:flex;align-items:center;gap:12px;
+    padding:12px 0;border-bottom:1px solid var(--line);
+  }
+  .sndrow:last-child{border-bottom:0}
+  .sndtxt{flex:1;display:flex;flex-direction:column;gap:2px}
+  .sndtxt b{font-size:14px;font-weight:700}
+  .sndtxt span{font-size:11px;color:var(--muted)}
+  .card .sw{
+    flex:0 0 auto;width:46px;height:26px;padding:0;
+    border:1px solid var(--line-2);background:var(--surface);
+    position:relative;transition:background .18s,border-color .18s;
+  }
+  .card .sw i{
+    position:absolute;top:2px;left:2px;
+    width:20px;height:20px;background:var(--muted);
+    transition:transform .18s,background .18s;
+  }
+  .card .sw.on{background:var(--accent-soft);border-color:var(--accent)}
+  .card .sw.on i{transform:translateX(20px);background:var(--accent)}
+
   /* 裁剪 */
   .card.crop{position:relative;max-width:340px;text-align:left}   /* 不加这行，右上角的 × 会相对遮罩定位，跑到屏幕角上 */
   .cropwrap{margin:12px 0 10px;position:relative}
@@ -307,6 +339,14 @@
         <rect x="17.8" y="17.8" width="13.4" height="13.4" fill="var(--accent)"/>
       </svg>
       <span class="brandname">时光拼图</span>
+      <button id="btnSound" type="button" aria-label="声音">
+        <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true">
+          <path d="M4 9.5h3.2L12 5.5v13l-4.8-4H4z"></path>
+          <path class="wv" d="M15.8 9.2a4 4 0 0 1 0 5.6"></path>
+          <path class="wv" d="M18.4 6.6a7.6 7.6 0 0 1 0 10.8"></path>
+          <path class="mute" d="M16 9.5l5 5M21 9.5l-5 5"></path>
+        </svg>
+      </button>
       <button id="btnCustom" type="button">自定义</button>
       <button id="btnLv" type="button">选关</button>
   </header>
@@ -345,6 +385,25 @@
 
 <div class="sheet" id="sheet" hidden>
   <div class="card" id="card"></div>
+</div>
+
+<div class="sheet" id="sndSheet" hidden>
+  <div class="card snd">
+    <button class="iconbtn" id="sndClose" type="button" aria-label="关闭">
+      <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">
+        <path d="M5.5 5.5 L18.5 18.5 M18.5 5.5 L5.5 18.5"></path>
+      </svg>
+    </button>
+    <div class="kicker">声音</div>
+    <div class="sndrow">
+      <div class="sndtxt"><b>背景音乐</b><span>怀旧调子，循环播放</span></div>
+      <button class="sw" id="swBgm" type="button" role="switch"><i></i></button>
+    </div>
+    <div class="sndrow">
+      <div class="sndtxt"><b>提示音</b><span>接上和过关时响一下</span></div>
+      <button class="sw" id="swSfx" type="button" role="switch"><i></i></button>
+    </div>
+  </div>
 </div>
 
 <div class="sheet" id="cropSheet" hidden>
@@ -872,14 +931,17 @@
       render();
       save();
       /* 新接上的块闪一下 */
+      var joined=false;
       for(var k=0;k<S.n;k++){
         if(groupSize(S.grp[k]) > before[k]){
+          joined=true;
           (function(el){
             el.classList.remove("snap"); void el.offsetWidth; el.classList.add("snap");
             setTimeout(function(){ el.classList.remove("snap"); }, 500);
           })(els[k]);
         }
       }
+      if(joined) sfxSnap();
       check();
     }else{
       render();
@@ -902,6 +964,7 @@
     stopTimer();
     board.classList.add("solved");
     render();
+    sfxWin();
     var f=$("flash"); f.classList.remove("go"); void f.offsetWidth; f.classList.add("go");
     if(S.lv>=0){
       var prev=S.best[S.lv];
@@ -967,6 +1030,123 @@
     sheet.hidden=false;
     syncLock();
   }
+
+  /* ========== 声音 ==========
+     全部用 Web Audio 现场合成：不引外部音频文件，体积为零。
+     旋律是自己写的五声音阶循环（D 宫），慢速、音色柔，图个怀旧调子。 */
+  var AC = window.AudioContext || window.webkitAudioContext;
+  var actx=null, master=null, bgmGain=null, sfxGain=null;
+  var sound={bgm:true, sfx:true};
+  var bgmTimer=null, bgmStep=0, bgmNext=0;
+
+  function loadSound(){
+    try{
+      var raw=localStorage.getItem("shiguang.sound");
+      if(raw){ var d=JSON.parse(raw); sound.bgm=!!d.bgm; sound.sfx=!!d.sfx; }
+    }catch(e){}
+  }
+  function saveSound(){
+    try{ localStorage.setItem("shiguang.sound", JSON.stringify(sound)); }catch(e){}
+  }
+
+  function audioReady(){
+    if(!AC) return null;
+    if(!actx){
+      actx=new AC();
+      master=actx.createGain(); master.gain.value=0.9; master.connect(actx.destination);
+      bgmGain=actx.createGain(); bgmGain.gain.value=0.16; bgmGain.connect(master);
+      sfxGain=actx.createGain(); sfxGain.gain.value=0.5;  sfxGain.connect(master);
+    }
+    if(actx.state==="suspended") actx.resume();
+    return actx;
+  }
+
+  /* 一个音：振荡器 + 低通 + 包络 */
+  function tone(freq, at, dur, opt){
+    if(!actx) return;
+    opt=opt||{};
+    var o=actx.createOscillator(), g=actx.createGain(), f=actx.createBiquadFilter();
+    o.type=opt.type||"triangle";
+    o.frequency.setValueAtTime(freq, at);
+    if(opt.glide) o.frequency.exponentialRampToValueAtTime(opt.glide, at+dur*0.9);
+    f.type="lowpass";
+    f.frequency.setValueAtTime(opt.cut||2200, at);
+    var peak=opt.gain||0.3;
+    g.gain.setValueAtTime(0.0001, at);
+    g.gain.exponentialRampToValueAtTime(peak, at+(opt.atk||0.015));
+    g.gain.exponentialRampToValueAtTime(0.0001, at+dur);
+    o.connect(f); f.connect(g); g.connect(opt.bus||sfxGain);
+    o.start(at); o.stop(at+dur+0.03);
+  }
+
+  var D4=293.665;
+  function nt(semi){ return D4*Math.pow(2, semi/12); }
+
+  /* 连上时：短促上行两音 */
+  function sfxSnap(){
+    if(!sound.sfx || !audioReady()) return;
+    var t=actx.currentTime;
+    tone(nt(12), t,       0.09, {gain:0.22, cut:3200});
+    tone(nt(19), t+0.055, 0.13, {gain:0.20, cut:3600});
+  }
+  /* 过关：五声音阶往上跑一趟 + 收尾长音 */
+  function sfxWin(){
+    if(!sound.sfx || !audioReady()) return;
+    var t=actx.currentTime, seq=[0,4,7,9,12,16,19];
+    seq.forEach(function(s,i){
+      tone(nt(s), t+i*0.085, 0.22, {gain:0.24, cut:3000});
+    });
+    tone(nt(24), t+seq.length*0.085+0.02, 0.9, {gain:0.20, cut:2600});
+    tone(nt(12), t+seq.length*0.085+0.02, 0.9, {gain:0.12, cut:1800});
+  }
+
+  /* 背景音乐：[半音, 拍数]，null 为休止 */
+  var MELODY=[
+    [0,2],[7,1],[4,1], [2,2],[0,2],
+    [4,1],[7,1],[9,2], [7,2],[null,2],
+    [12,2],[9,1],[7,1], [4,2],[2,2],
+    [0,1],[2,1],[4,2], [0,4]
+  ];
+  var BASS=[0,null,-5,null, 0,null,-3,null, 5,null,0,null, -5,null,0,null];
+  var BEAT=0.62;                      /* 一拍时长，约 96bpm 的半速 */
+
+  function bgmSchedule(){
+    if(!actx || !sound.bgm) return;
+    var ahead=actx.currentTime+1.2;
+    while(bgmNext < ahead){
+      var m=MELODY[bgmStep % MELODY.length];
+      var dur=m[1]*BEAT;
+      if(m[0]!==null){
+        tone(nt(m[0]), bgmNext, dur*0.92, {gain:0.26, cut:1500, type:"triangle", bus:bgmGain});
+        tone(nt(m[0]+12), bgmNext, dur*0.5, {gain:0.06, cut:2400, type:"sine", bus:bgmGain});
+      }
+      var b=BASS[bgmStep % BASS.length];
+      if(b!==null) tone(nt(b-24), bgmNext, dur*1.1, {gain:0.5, cut:420, type:"sine", bus:bgmGain});
+      bgmNext += dur;
+      bgmStep++;
+    }
+  }
+  function bgmStart(){
+    if(!sound.bgm || !audioReady()) return;
+    if(bgmTimer) return;
+    bgmNext=actx.currentTime+0.15;
+    bgmSchedule();
+    bgmTimer=setInterval(bgmSchedule, 400);
+  }
+  function bgmStop(){
+    if(bgmTimer){ clearInterval(bgmTimer); bgmTimer=null; }
+    if(bgmGain && actx){                      /* 淡出，别咔一下断掉 */
+      var t=actx.currentTime;
+      bgmGain.gain.cancelScheduledValues(t);
+      bgmGain.gain.setValueAtTime(bgmGain.gain.value, t);
+      bgmGain.gain.linearRampToValueAtTime(0.0001, t+0.4);
+      setTimeout(function(){ if(bgmGain) bgmGain.gain.value=0.16; }, 500);
+    }
+  }
+  /* 切后台别继续响 */
+  document.addEventListener("visibilitychange", function(){
+    if(document.hidden) bgmStop(); else if(sound.bgm) bgmStart();
+  });
 
   /* ========== 自定义照片 ========== */
   /* 块数固定对应一种网格，裁剪框的比例就是它，所以选几块框就长什么样 */
@@ -1154,6 +1334,32 @@
     }, {passive:false});
   })();
 
+  function paintSound(){
+    $("swBgm").classList.toggle("on", sound.bgm);
+    $("swSfx").classList.toggle("on", sound.sfx);
+    $("swBgm").setAttribute("aria-checked", sound.bgm ? "true" : "false");
+    $("swSfx").setAttribute("aria-checked", sound.sfx ? "true" : "false");
+    $("btnSound").classList.toggle("off", !sound.bgm && !sound.sfx);
+  }
+  $("btnSound").onclick=function(){
+    audioReady();                    /* 借这一下点击把音频解锁 */
+    paintSound();
+    $("sndSheet").hidden=false;
+    syncLock();
+  };
+  $("sndClose").onclick=function(){ $("sndSheet").hidden=true; syncLock(); };
+  $("sndSheet").addEventListener("click", function(e){
+    if(e.target===this){ this.hidden=true; syncLock(); }
+  });
+  $("swBgm").onclick=function(){
+    sound.bgm=!sound.bgm; saveSound(); paintSound();
+    if(sound.bgm) bgmStart(); else bgmStop();
+  };
+  $("swSfx").onclick=function(){
+    sound.sfx=!sound.sfx; saveSound(); paintSound();
+    if(sound.sfx) sfxSnap();         /* 打开时响一下让人听见 */
+  };
+
   $("btnCustom").onclick=function(){
     if(crop.img){ openCropSheet(); return; }
     loadOrig(function(im){ if(im) setCropImage(im); openCropSheet(); });
@@ -1214,7 +1420,7 @@
 
   /* 直接按两个弹窗的实际状态决定要不要锁页面，比开关计数不容易算漏 */
   function syncLock(){
-    var open = !$("lvSheet").hidden || !sheet.hidden;
+    var open = !$("lvSheet").hidden || !sheet.hidden || !$("cropSheet").hidden || !$("sndSheet").hidden;
     document.body.style.overflow = open ? "hidden" : "";
   }
 
@@ -1243,6 +1449,14 @@
   /* ========== 启动 / 热更新 ========== */
   function boot(state){
     load();
+    loadSound(); paintSound();
+    /* 浏览器要求先有交互才让出声，所以挂一次性监听 */
+    var kick=function(){
+      document.removeEventListener("pointerdown", kick, true);
+      audioReady();
+      if(sound.bgm) bgmStart();
+    };
+    document.addEventListener("pointerdown", kick, true);
     /* Artifact 热更新传来的状态优先，否则用本地存档接着上次 */
     var r=(state && typeof state.lv==="number") ? state : (RESUME||{});
     var lv=(typeof r.lv==="number") ? r.lv : 0;
