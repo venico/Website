@@ -66,7 +66,8 @@
   .bot{flex:0 0 auto;display:flex;flex-direction:column;gap:9px}
   .logo{width:22px;height:22px;color:var(--ink);flex:0 0 auto;display:block}
   .brandname{font-size:14px;font-weight:700;letter-spacing:.06em}
-  #btnLv{margin-left:auto;flex:0 0 auto;padding:7px 11px;font-size:12px}
+  #btnCustom{margin-left:auto;flex:0 0 auto;padding:7px 11px;font-size:12px}
+  #btnLv{flex:0 0 auto;padding:7px 11px;font-size:12px}
   .hgroup{display:flex;flex-direction:column;align-items:flex-start;gap:4px;min-width:0}
   .eyebrow{font-size:12px;color:var(--accent);font-weight:700;letter-spacing:.04em}
   h1{
@@ -215,6 +216,42 @@
   }
   .card .iconbtn:hover{color:var(--ink)}
   .card .iconbtn:active{transform:none;background:transparent}
+  /* 裁剪 */
+  .card.crop{max-width:340px;text-align:left}
+  .cropwrap{margin:12px 0 10px;position:relative}
+  .cropbox{
+    position:relative;width:100%;
+    background:#15181C;overflow:hidden;
+    touch-action:none;cursor:grab;
+    display:none;
+  }
+  .cropbox.on{display:block}
+  .cropbox:active{cursor:grabbing}
+  .cropbox img{
+    position:absolute;top:0;left:0;
+    transform-origin:0 0;max-width:none;
+    will-change:transform;user-select:none;-webkit-user-drag:none;
+  }
+  .cropempty{
+    display:flex;align-items:center;justify-content:center;
+    height:150px;border:1px dashed var(--line-2);
+    color:var(--muted);font-size:12px;text-align:center;padding:0 16px;
+  }
+  .cropempty.off{display:none}
+  .pcbar{margin-bottom:10px}
+  .pclab{font-size:11px;color:var(--muted);margin-bottom:6px}
+  .pcrow{display:grid;grid-template-columns:repeat(5,1fr);gap:4px}
+  .pcrow button{
+    padding:6px 2px;font-size:11.5px;font-weight:600;flex:0 0 auto;
+    border:1px solid var(--line);background:var(--bg);
+    font-variant-numeric:tabular-nums;
+  }
+  .pcrow button.on{border-color:var(--accent);color:var(--accent);background:var(--accent-soft)}
+  .card.crop .acts{display:flex;gap:6px}
+  .card.crop .acts button{flex:1;padding:10px 8px;font-size:13px}
+  .card.crop .acts button[disabled]{opacity:.45;cursor:default}
+  .card.crop .hint{font-size:10px;color:var(--muted);margin-top:8px;line-height:1.5}
+
   /* 自定义照片 */
   .custom{
     margin:12px 0 0;padding:10px;
@@ -270,6 +307,7 @@
         <rect x="17.8" y="17.8" width="13.4" height="13.4" fill="var(--accent)"/>
       </svg>
       <span class="brandname">时光拼图</span>
+      <button id="btnCustom" type="button">自定义</button>
       <button id="btnLv" type="button">选关</button>
   </header>
 
@@ -309,6 +347,33 @@
   <div class="card" id="card"></div>
 </div>
 
+<div class="sheet" id="cropSheet" hidden>
+  <div class="card crop">
+    <button class="iconbtn" id="cropClose" type="button" aria-label="关闭">
+      <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">
+        <path d="M5.5 5.5 L18.5 18.5 M18.5 5.5 L5.5 18.5"></path>
+      </svg>
+    </button>
+    <div class="kicker">用自己的照片</div>
+
+    <div class="cropwrap" id="cropWrap">
+      <div class="cropbox" id="cropBox"><img id="cropImg" alt=""></div>
+      <div class="cropempty" id="cropEmpty">选一张照片，框里的部分就是要拼的</div>
+    </div>
+
+    <div class="pcbar">
+      <div class="pclab">切成几块</div>
+      <div class="pcrow" id="pcRow"></div>
+    </div>
+
+    <div class="acts">
+      <button id="btnPick" type="button">选照片</button>
+      <button class="primary" id="btnGo" type="button" disabled>开始拼</button>
+    </div>
+    <div class="hint">拖动照片调位置，两指捏合缩放。图片只在你手机里处理，不上传。</div>
+  </div>
+</div>
+
 <div class="sheet" id="lvSheet" hidden>
   <div class="card levels">
     <button class="iconbtn" id="lvClose" type="button" aria-label="关闭">
@@ -318,17 +383,6 @@
     </button>
     <div class="kicker">选择关卡</div>
 
-    <div class="custom">
-      <div class="t">用自己的照片</div>
-      <div class="row" id="pcRow"></div>
-      <div class="acts">
-        <button id="btnPick" type="button">选择图片</button>
-        <button id="btnAgain" type="button" hidden>用上次那张</button>
-      </div>
-      <div class="hint">图片只在你自己手机里处理，不会上传。<br>块数会按照片比例微调：横图列数最多 10，所以拼不到最高档。</div>
-    </div>
-
-    <div class="lvsub">现成的 30 关</div>
     <div class="lvgrid" id="lvGrid"></div>
   </div>
 </div>
@@ -599,10 +653,8 @@
 
     if(keepImage && S.src){ layout(); if(done) done(); return; }
 
-    if(lv<0){                       /* 自定义：图已在手上，直接裁 */
+    if(lv<0){                       /* 自定义：图在裁剪框里已经裁好了 */
       ++buildToken;
-      var o=cropImage(customImg, S.cols, S.rows);
-      S.src=o.src; S.thumb=o.thumb;
       layout();
       if(done) done();
       return;
@@ -879,8 +931,8 @@
         '<div class="scores"><div><b>'+S.moves+'</b><span>步数</span></div>'+
         '<div><b>'+fmt(secs)+'</b><span>用时</span></div>'+
         '<div><b>'+S.n+'</b><span>块数</span></div></div>'+
-        '<button class="primary" id="cAgain" type="button">再拼一次</button>';
-      $("cAgain").onclick=function(){ sheet.hidden=true; syncLock(); build(-1,true); };
+        '<button class="primary" id="cAgain" type="button">继续下一关</button>';
+      $("cAgain").onclick=function(){ sheet.hidden=true; syncLock(); openCropSheet(); };
       sheet.hidden=false; syncLock();
       return;
     }
@@ -916,31 +968,78 @@
   }
 
   /* ========== 自定义照片 ========== */
-  var PIECE_OPTS=[9,16,30,56,90,120];
-  var wantN=30, customImg=null, customCfg=null;
+  /* 块数固定对应一种网格，裁剪框的比例就是它，所以选几块框就长什么样 */
+  var PIECE_GRIDS=[
+    [3,3],[3,4],[4,4],[4,5],[5,5],[5,6],[6,6],[6,7],[7,7],[7,8],
+    [7,9],[8,8],[8,9],[8,10],[9,9],[9,10],[9,11],[10,10],[10,11],[10,12]
+  ];
+  var pcIdx=5, customCfg=null;
+  var crop={img:null, scale:1, base:1, x:0, y:0, cw:0, ch:0};
+  function pcGrid(){ return PIECE_GRIDS[pcIdx]; }
 
-  /* 按目标块数和图片长宽比凑网格；列数压在 10 以内，不然每块太小点不准 */
-  function gridFor(n, ratio){
-    var best=null;
-    for(var c=2;c<=10;c++){
-      for(var r=2;r<=16;r++){
-        var d=Math.abs(c*r-n)/n + Math.abs((c/r)-ratio)/ratio*1.2;
-        if(!best || d<best.d) best={c:c,r:r,d:d};
-      }
-    }
-    return best;
+  function renderPcRow(){
+    var row=$("pcRow"); row.innerHTML="";
+    PIECE_GRIDS.forEach(function(g,i){
+      var b=document.createElement("button");
+      b.type="button";
+      b.className = (i===pcIdx) ? "on" : "";
+      b.textContent=g[0]*g[1];
+      b.title=g[0]+" × "+g[1];
+      b.onclick=function(){ pcIdx=i; renderPcRow(); layoutCrop(); };
+      row.appendChild(b);
+    });
   }
 
-  function saveCustom(im){
+  function clampCrop(){
+    if(!crop.img) return;
+    var iw=crop.img.width*crop.scale, ih=crop.img.height*crop.scale;
+    if(iw<=crop.cw) crop.x=(crop.cw-iw)/2;
+    else crop.x=Math.min(0, Math.max(crop.cw-iw, crop.x));
+    if(ih<=crop.ch) crop.y=(crop.ch-ih)/2;
+    else crop.y=Math.min(0, Math.max(crop.ch-ih, crop.y));
+  }
+  function applyCrop(){
+    $("cropImg").style.transform="translate("+crop.x+"px,"+crop.y+"px) scale("+crop.scale+")";
+  }
+  function layoutCrop(){
+    if(!crop.img) return;
+    var g=pcGrid(), ratio=g[0]/g[1];
+    var avail=$("cropWrap").clientWidth || 300;
+    var cw=avail, ch=cw/ratio, maxH=300;
+    if(ch>maxH){ ch=maxH; cw=ch*ratio; }
+    crop.cw=cw; crop.ch=ch;
+    var box=$("cropBox");
+    box.style.width=Math.round(cw)+"px";
+    box.style.height=Math.round(ch)+"px";
+    box.style.margin="0 auto";
+    var im=crop.img;
+    $("cropImg").style.width=im.width+"px";
+    $("cropImg").style.height=im.height+"px";
+    crop.base=Math.max(cw/im.width, ch/im.height);
+    if(crop.scale<crop.base) crop.scale=crop.base;
+    clampCrop(); applyCrop();
+  }
+
+  function setCropImage(im){
+    crop.img=im; crop.scale=0; crop.x=0; crop.y=0;
+    $("cropImg").src=im.src;
+    $("cropBox").classList.add("on");
+    $("cropEmpty").classList.add("off");
+    $("btnGo").disabled=false;
+    layoutCrop();
+  }
+
+  /* 原图存一份，下次还能换块数重裁 */
+  function saveOrig(im){
     try{
       var max=1200, sc=Math.min(1, max/Math.max(im.width,im.height));
       var c=document.createElement("canvas");
       c.width=Math.round(im.width*sc); c.height=Math.round(im.height*sc);
       c.getContext("2d").drawImage(im,0,0,c.width,c.height);
       localStorage.setItem("shiguang.custom", c.toDataURL("image/jpeg",.85));
-    }catch(e){}            /* 存不下就算了，不影响这次玩 */
+    }catch(e){}
   }
-  function loadCustom(cb){
+  function loadOrig(cb){
     var d=null;
     try{ d=localStorage.getItem("shiguang.custom"); }catch(e){}
     if(!d){ cb(null); return; }
@@ -950,27 +1049,117 @@
     im.src=d;
   }
 
-  function startCustom(im){
-    customImg=im;
-    var g=gridFor(wantN, im.width/im.height);
-    customCfg={name:"自定义", cols:g.c, rows:g.r};
-    $("lvSheet").hidden=true; sheet.hidden=true; syncLock();
-    build(-1);
+  function openCropSheet(){
+    renderPcRow();
+    var has=!!crop.img;
+    $("cropBox").classList.toggle("on", has);
+    $("cropEmpty").classList.toggle("off", has);
+    $("btnGo").disabled=!has;
+    $("cropSheet").hidden=false;
+    syncLock();
+    if(has) setTimeout(layoutCrop, 0);      /* 等弹窗量得到宽度 */
   }
 
-  function renderPieceOpts(){
-    var row=$("pcRow"); row.innerHTML="";
-    PIECE_OPTS.forEach(function(n){
-      var b=document.createElement("button");
-      b.type="button";
-      b.className = n===wantN ? "on" : "";
-      b.textContent=n+" 块";
-      b.onclick=function(){ wantN=n; renderPieceOpts(); };
-      row.appendChild(b);
+  /* 按裁剪框实际框住的那块出图 */
+  function doCrop(){
+    var g=pcGrid();
+    var sx=-crop.x/crop.scale, sy=-crop.y/crop.scale;
+    var sw=crop.cw/crop.scale, sh=crop.ch/crop.scale;
+    var ow=Math.min(Math.round(sw), 1400);
+    var oh=Math.round(ow*(g[1]/g[0]));
+    var c=document.createElement("canvas");
+    c.width=ow; c.height=oh;
+    var ctx=c.getContext("2d");
+    ctx.drawImage(crop.img, sx,sy,sw,sh, 0,0, ow,oh);
+    var vg=ctx.createRadialGradient(ow/2,oh/2,Math.min(ow,oh)*.44, ow/2,oh/2,Math.max(ow,oh)*.72);
+    vg.addColorStop(0,"rgba(28,20,10,0)");
+    vg.addColorStop(1,"rgba(28,20,10,.22)");
+    ctx.fillStyle=vg; ctx.fillRect(0,0,ow,oh);
+    var sc=160/ow;
+    var t=document.createElement("canvas");
+    t.width=Math.round(ow*sc); t.height=Math.round(oh*sc);
+    t.getContext("2d").drawImage(c,0,0,t.width,t.height);
+    return {src:c.toDataURL("image/jpeg",.92), thumb:t.toDataURL("image/jpeg",.8), cols:g[0], rows:g[1]};
+  }
+
+  function startCustom(){
+    if(!crop.img) return;
+    var o=doCrop();
+    customCfg={name:"自定义", cols:o.cols, rows:o.rows};
+    S.src=o.src; S.thumb=o.thumb;
+    try{ localStorage.setItem("shiguang.customCrop", o.src); }catch(e){}
+    $("cropSheet").hidden=true; $("lvSheet").hidden=true; sheet.hidden=true;
+    syncLock();
+    build(-1, true);
+  }
+
+  /* ---- 裁剪框手势：单指拖、两指缩放 ---- */
+  (function(){
+    var box=$("cropBox"), pts={}, st=null;
+    function list(){ var a=[]; for(var k in pts) a.push(pts[k]); return a; }
+    function begin(){
+      var L=list();
+      st={n:L.length, p0:L[0], p1:L[1], x:crop.x, y:crop.y, scale:crop.scale};
+      if(L.length>=2){
+        st.d=Math.hypot(L[0].x-L[1].x, L[0].y-L[1].y)||1;
+        var r=box.getBoundingClientRect();
+        st.cx=(L[0].x+L[1].x)/2-r.left;
+        st.cy=(L[0].y+L[1].y)/2-r.top;
+      }
+    }
+    box.addEventListener("pointerdown", function(e){
+      if(!crop.img) return;
+      try{ box.setPointerCapture(e.pointerId); }catch(err){}
+      pts[e.pointerId]={x:e.clientX,y:e.clientY};
+      begin();
+      e.preventDefault();
     });
-  }
+    box.addEventListener("pointermove", function(e){
+      if(!crop.img || !pts[e.pointerId] || !st) return;
+      pts[e.pointerId]={x:e.clientX,y:e.clientY};
+      var L=list();
+      if(st.n===1 && L.length===1){
+        crop.x=st.x+(L[0].x-st.p0.x);
+        crop.y=st.y+(L[0].y-st.p0.y);
+      }else if(st.n>=2 && L.length>=2){
+        var d=Math.hypot(L[0].x-L[1].x, L[0].y-L[1].y)||1;
+        var ns=Math.max(crop.base, Math.min(crop.base*8, st.scale*(d/st.d)));
+        var ix=(st.cx-st.x)/st.scale, iy=(st.cy-st.y)/st.scale;
+        var r=box.getBoundingClientRect();
+        var cx=(L[0].x+L[1].x)/2-r.left, cy=(L[0].y+L[1].y)/2-r.top;
+        crop.scale=ns; crop.x=cx-ix*ns; crop.y=cy-iy*ns;
+      }
+      clampCrop(); applyCrop();
+      e.preventDefault();
+    });
+    function end(e){
+      delete pts[e.pointerId];
+      if(list().length) begin(); else st=null;
+    }
+    box.addEventListener("pointerup", end);
+    box.addEventListener("pointercancel", end);
+    box.addEventListener("wheel", function(e){
+      if(!crop.img) return;
+      e.preventDefault();
+      var r=box.getBoundingClientRect();
+      var cx=e.clientX-r.left, cy=e.clientY-r.top;
+      var ix=(cx-crop.x)/crop.scale, iy=(cy-crop.y)/crop.scale;
+      var ns=Math.max(crop.base, Math.min(crop.base*8, crop.scale*(e.deltaY<0?1.12:0.89)));
+      crop.scale=ns; crop.x=cx-ix*ns; crop.y=cy-iy*ns;
+      clampCrop(); applyCrop();
+    }, {passive:false});
+  })();
 
+  $("btnCustom").onclick=function(){
+    if(crop.img){ openCropSheet(); return; }
+    loadOrig(function(im){ if(im) setCropImage(im); openCropSheet(); });
+  };
+  $("cropClose").onclick=function(){ $("cropSheet").hidden=true; syncLock(); };
+  $("cropSheet").addEventListener("click", function(e){
+    if(e.target===this){ this.hidden=true; syncLock(); }
+  });
   $("btnPick").onclick=function(){ $("pick").click(); };
+  $("btnGo").onclick=startCustom;
   $("pick").onchange=function(){
     var f=this.files && this.files[0];
     this.value="";
@@ -978,15 +1167,15 @@
     var fr=new FileReader();
     fr.onload=function(){
       var im=new Image();
-      im.onload=function(){ saveCustom(im); startCustom(im); };
+      im.onload=function(){
+        saveOrig(im);
+        setCropImage(im);
+        if($("cropSheet").hidden) openCropSheet();
+      };
       im.onerror=function(){ alert("这张图读不出来，换一张试试"); };
       im.src=fr.result;
     };
     fr.readAsDataURL(f);
-  };
-  $("btnAgain").onclick=function(){
-    if(customImg){ startCustom(customImg); return; }
-    loadCustom(function(im){ if(im) startCustom(im); });
   };
 
   /* ========== 选关 ========== */
@@ -1005,10 +1194,6 @@
       }; })(i);
       g.appendChild(cell);
     }
-    renderPieceOpts();
-    var has=!!customImg;
-    try{ has = has || !!localStorage.getItem("shiguang.custom"); }catch(e){}
-    $("btnAgain").hidden=!has;
     $("lvSheet").hidden=false;
     syncLock();
   }
@@ -1079,13 +1264,17 @@
       save();
     }
 
-    if(lv<0 && r.cust){                      /* 上次停在自定义关，把存的那张图捞回来 */
-      loadCustom(function(im){
-        if(!im){ build(0); return; }
-        customImg=im;
+    if(lv<0 && r.cust){                      /* 上次停在自定义关，用裁好的那张接着拼 */
+      var cs=null;
+      try{ cs=localStorage.getItem("shiguang.customCrop"); }catch(e){}
+      if(cs){
+        S.src=cs; S.thumb=cs;
         customCfg={name:"自定义", cols:r.cust.cols, rows:r.cust.rows};
-        build(-1, false, restore);
-      });
+        build(-1, true, restore);
+        loadOrig(function(im){ if(im) crop.img=im; });   /* 顺手备好原图，待会还能重裁 */
+        return;
+      }
+      build(0);
       return;
     }
     if(lv<0 || lv>=LEVELS.length) lv=0;
