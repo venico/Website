@@ -217,7 +217,7 @@
   .card .iconbtn:hover{color:var(--ink)}
   .card .iconbtn:active{transform:none;background:transparent}
   /* 裁剪 */
-  .card.crop{max-width:340px;text-align:left}
+  .card.crop{position:relative;max-width:340px;text-align:left}   /* 不加这行，右上角的 × 会相对遮罩定位，跑到屏幕角上 */
   .cropwrap{margin:12px 0 10px;position:relative}
   .cropbox{
     position:relative;width:100%;
