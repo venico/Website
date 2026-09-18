@@ -404,39 +404,40 @@
      排关按「有没有结构」来，不是按画面细节多少：麦秸、雪地、冰面这种纹理均匀的图
      细节其实很多，但切成上百块后每块长得都一样，最难拼，所以放前面（块少）；
      有房屋、家具、人物这类明确结构的放后面（120 块）。 */
+  /* 块数封顶 10×12=120：手机棋盘可用宽约 311px，10 列时每块 31~34px，再多点不准。
+     排关按「画面有没有结构」：雪地、麦秸、大片天空这类纹理均匀的放前面（块少），
+     屋内、人物、年画这类结构清楚的放后面（120 块）。图片文件名与关卡号一一对应。 */
   var LEVELS = [
-    {name:"雪村",   cols:3,  rows:3,  img:"21"},
-    {name:"雪路",   cols:3,  rows:4,  img:"22"},
-    {name:"冰面",   cols:4,  rows:4,  img:"30"},
-    {name:"晚霞",   cols:4,  rows:5,  img:"26"},
-    {name:"扬场",   cols:5,  rows:5,  img:"12"},
-    {name:"麦垛",   cols:5,  rows:6,  img:"11"},
-    {name:"水缸",   cols:6,  rows:6,  img:"24"},
-    {name:"打场",   cols:6,  rows:7,  img:"06"},
-    {name:"上学",   cols:7,  rows:7,  img:"29"},
-    {name:"挑水",   cols:7,  rows:8,  img:"07"},
-
-    {name:"竹床",   cols:7,  rows:9,  img:"28"},
-    {name:"昏灯",   cols:8,  rows:8,  img:"23"},
-    {name:"推车",   cols:8,  rows:9,  img:"15"},
-    {name:"喂食",   cols:8,  rows:10, img:"19"},
-    {name:"土路",   cols:9,  rows:9,  img:"13"},
-    {name:"洗衣",   cols:9,  rows:10, img:"08"},
-    {name:"雨披",   cols:9,  rows:11, img:"10"},
-    {name:"老屋",   cols:10, rows:10, img:"03"},
-    {name:"门前",   cols:10, rows:11, img:"09"},
-    {name:"烧灶",   cols:10, rows:12, img:"01"},
-
-    {name:"花被",   cols:10, rows:12, img:"16"},
-    {name:"出门",   cols:10, rows:12, img:"05"},
-    {name:"赶集",   cols:10, rows:12, img:"04"},
-    {name:"剥玉米", cols:10, rows:12, img:"02"},
-    {name:"苞谷",   cols:10, rows:12, img:"25"},
-    {name:"写作业", cols:10, rows:12, img:"14"},
-    {name:"放炮",   cols:10, rows:12, img:"20"},
-    {name:"新房",   cols:10, rows:12, img:"27"},
-    {name:"年画",   cols:10, rows:12, img:"18"},
-    {name:"堂屋",   cols:10, rows:12, img:"17"}
+    {name:"扫雪", cols:3 , rows:3 , img:"01"},
+    {name:"雪路", cols:3 , rows:4 , img:"02"},
+    {name:"雪村", cols:4 , rows:4 , img:"03"},
+    {name:"晚霞", cols:4 , rows:5 , img:"04"},
+    {name:"屋脊", cols:5 , rows:5 , img:"05"},
+    {name:"打场", cols:5 , rows:6 , img:"06"},
+    {name:"收麦", cols:6 , rows:6 , img:"07"},
+    {name:"谷场", cols:6 , rows:7 , img:"08"},
+    {name:"推车", cols:7 , rows:7 , img:"09"},
+    {name:"水缸", cols:7 , rows:8 , img:"10"},
+    {name:"村道", cols:7 , rows:9 , img:"11"},
+    {name:"花路", cols:8 , rows:8 , img:"12"},
+    {name:"夜话", cols:8 , rows:9 , img:"13"},
+    {name:"晒椒", cols:8 , rows:10, img:"14"},
+    {name:"雨披", cols:9 , rows:9 , img:"15"},
+    {name:"纳凉", cols:9 , rows:10, img:"16"},
+    {name:"烤火", cols:9 , rows:11, img:"17"},
+    {name:"择菜", cols:10, rows:10, img:"18"},
+    {name:"喂食", cols:10, rows:11, img:"19"},
+    {name:"灶屋", cols:10, rows:12, img:"20"},
+    {name:"堂前", cols:10, rows:12, img:"21"},
+    {name:"花被", cols:10, rows:12, img:"22"},
+    {name:"放炮", cols:10, rows:12, img:"23"},
+    {name:"迎亲", cols:10, rows:12, img:"24"},
+    {name:"舞龙", cols:10, rows:12, img:"25"},
+    {name:"电视", cols:10, rows:12, img:"26"},
+    {name:"炕头", cols:10, rows:12, img:"27"},
+    {name:"铺床", cols:10, rows:12, img:"28"},
+    {name:"年画", cols:10, rows:12, img:"29"},
+    {name:"堂屋", cols:10, rows:12, img:"30"}
   ];
 
   /* ========== 图片 ========== */
@@ -446,7 +447,7 @@
     var im=new Image();
     im.onload=function(){ imgCache[file]=im; cb(im); };
     im.onerror=function(){ cb(null); };
-    im.src="img/"+file+".jpg";
+    im.src="img/"+file+".webp";
   }
 
   /* 各关网格比例不同，源图统一 5:6，这里按关卡比例居中裁（cover） */
