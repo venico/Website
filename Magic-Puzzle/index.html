@@ -1052,6 +1052,9 @@
   function openCropSheet(){
     renderPcRow();
     var has=!!crop.img;
+    if(has && $("cropImg").getAttribute("src")!==crop.img.src){
+      $("cropImg").src=crop.img.src;      /* 兜底：别管谁塞的 crop.img，打开时一律对上 */
+    }
     $("cropBox").classList.toggle("on", has);
     $("cropEmpty").classList.toggle("off", has);
     $("btnGo").disabled=!has;
@@ -1271,7 +1274,7 @@
         S.src=cs; S.thumb=cs;
         customCfg={name:"自定义", cols:r.cust.cols, rows:r.cust.rows};
         build(-1, true, restore);
-        loadOrig(function(im){ if(im) crop.img=im; });   /* 顺手备好原图，待会还能重裁 */
+        loadOrig(function(im){ if(im) setCropImage(im); });  /* 备好原图，连 <img> 的 src 一起设，不然裁剪框是黑的 */
         return;
       }
       build(0);
