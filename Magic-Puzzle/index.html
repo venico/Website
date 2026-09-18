@@ -1037,7 +1037,7 @@
   var AC = window.AudioContext || window.webkitAudioContext;
   var actx=null, master=null, bgmGain=null, sfxGain=null;
   var sound={bgm:true, sfx:true};
-  var bgmTimer=null, bgmStep=0, bgmNext=0;
+  var bgmTimer=null, bgmStep=0, bassStep=0, bgmNext=0;
 
   function loadSound(){
     try{
@@ -1100,36 +1100,113 @@
     tone(nt(12), t+seq.length*0.085+0.02, 0.9, {gain:0.12, cut:1800});
   }
 
-  /* 背景音乐：[半音, 拍数]，null 为休止 */
-  var MELODY=[
-    [0,2],[7,1],[4,1], [2,2],[0,2],
-    [4,1],[7,1],[9,2], [7,2],[null,2],
-    [12,2],[9,1],[7,1], [4,2],[2,2],
-    [0,1],[2,1],[4,2], [0,4]
+  /* 背景音乐：10 段轮着放，播完一首随机换下一首。
+     [半音, 拍数]，null 为休止；半音以 D4 为 0 基准。
+     前三段是公有领域的传统童谣曲调（两首十八世纪法国童谣 + 一首中国传统民歌），
+     其余七段自己写的五声音阶小调子，配同一套老电子琴音色。 */
+  var TUNES=[
+    {n:"老虎", b:0.40, m:[                       /* 十八世纪法国童谣，公有领域 */
+      [0,1],[2,1],[4,1],[0,1], [0,1],[2,1],[4,1],[0,1],
+      [4,1],[5,1],[7,2],       [4,1],[5,1],[7,2],
+      [7,.5],[9,.5],[7,.5],[5,.5],[4,1],[0,1],
+      [7,.5],[9,.5],[7,.5],[5,.5],[4,1],[0,1],
+      [0,1],[-5,1],[0,2],      [0,1],[-5,1],[0,2]
+    ]},
+    {n:"星星", b:0.46, m:[                       /* 十八世纪法国童谣，公有领域 */
+      [0,1],[0,1],[7,1],[7,1], [9,1],[9,1],[7,2],
+      [5,1],[5,1],[4,1],[4,1], [2,1],[2,1],[0,2],
+      [7,1],[7,1],[5,1],[5,1], [4,1],[4,1],[2,2],
+      [7,1],[7,1],[5,1],[5,1], [4,1],[4,1],[2,2],
+      [0,1],[0,1],[7,1],[7,1], [9,1],[9,1],[7,2],
+      [5,1],[5,1],[4,1],[4,1], [2,1],[2,1],[0,2]
+    ]},
+    {n:"茉莉", b:0.52, m:[                       /* 中国传统民歌，公有领域 */
+      [4,1],[4,1],[7,1],[9,1], [12,1],[12,1],[9,2],
+      [7,1],[7,1],[9,1],[7,1], [4,2],[null,1],
+      [4,1],[2,1],[4,1],[7,1], [4,2],[2,2],
+      [0,1],[2,1],[4,1],[2,1], [0,4]
+    ]},
+    {n:"晒谷", b:0.50, m:[
+      [0,1],[4,1],[7,1],[4,1], [9,2],[7,2],
+      [4,1],[2,1],[0,1],[2,1], [4,4],
+      [7,1],[9,1],[12,1],[9,1],[7,2],[4,2],
+      [2,1],[0,1],[2,1],[4,1], [0,4]
+    ]},
+    {n:"放学", b:0.38, m:[
+      [7,1],[7,1],[9,1],[12,1], [9,1],[7,1],[4,2],
+      [4,1],[4,1],[7,1],[9,1], [7,1],[4,1],[2,2],
+      [0,1],[2,1],[4,1],[7,1], [9,2],[7,2],
+      [4,1],[2,1],[0,2], [null,2]
+    ]},
+    {n:"灶烟", b:0.62, m:[
+      [0,2],[2,1],[4,1], [7,2],[4,2],
+      [2,1],[0,1],[2,2], [0,4],
+      [4,2],[7,1],[9,1], [7,2],[4,2],
+      [2,1],[4,1],[2,1],[0,1], [0,4]
+    ]},
+    {n:"月下", b:0.70, m:[
+      [7,2],[9,2], [12,2],[9,2],
+      [7,1],[4,1],[7,2], [4,4],
+      [2,2],[4,2], [7,2],[4,2],
+      [2,1],[0,1],[2,2], [0,4]
+    ]},
+    {n:"赶集", b:0.36, m:[
+      [0,1],[0,1],[4,1],[4,1], [7,1],[7,1],[9,2],
+      [7,1],[4,1],[7,1],[9,1], [7,2],[4,2],
+      [12,1],[9,1],[7,1],[4,1], [2,1],[4,1],[7,2],
+      [4,1],[2,1],[0,2], [null,2]
+    ]},
+    {n:"纸鸢", b:0.55, m:[
+      [4,1],[7,1],[9,2], [12,1],[9,1],[7,2],
+      [9,1],[7,1],[4,1],[2,1], [4,4],
+      [0,1],[4,1],[7,1],[9,1], [7,2],[4,2],
+      [2,2],[0,2], [null,2]
+    ]},
+    {n:"田埂", b:0.58, m:[
+      [0,1],[2,1],[4,2], [2,1],[0,1],[-3,2],
+      [0,1],[4,1],[7,2], [4,4],
+      [7,1],[9,1],[7,1],[4,1], [2,2],[0,2],
+      [-5,2],[0,2], [0,4]
+    ]}
   ];
-  var BASS=[0,null,-5,null, 0,null,-3,null, 5,null,0,null, -5,null,0,null];
-  var BEAT=0.62;                      /* 一拍时长，约 96bpm 的半速 */
+  var BASSPAT=[0,null,-5,null, -3,null,-5,null];
+  var tuneIdx=-1, tune=null;
+
+  function pickTune(){
+    if(TUNES.length<2) return 0;
+    var i;
+    do{ i=Math.floor(Math.random()*TUNES.length); }while(i===tuneIdx);
+    return i;
+  }
 
   function bgmSchedule(){
     if(!actx || !sound.bgm) return;
     var ahead=actx.currentTime+1.2;
     while(bgmNext < ahead){
-      var m=MELODY[bgmStep % MELODY.length];
-      var dur=m[1]*BEAT;
-      if(m[0]!==null){
-        tone(nt(m[0]), bgmNext, dur*0.92, {gain:0.26, cut:1500, type:"triangle", bus:bgmGain});
-        tone(nt(m[0]+12), bgmNext, dur*0.5, {gain:0.06, cut:2400, type:"sine", bus:bgmGain});
+      if(!tune || bgmStep >= tune.m.length){     /* 一首放完，随机换下一首 */
+        tuneIdx=pickTune(); tune=TUNES[tuneIdx];
+        bgmStep=0; bassStep=0;
+        bgmNext += tune.b*2;                     /* 曲间留两拍气口 */
       }
-      var b=BASS[bgmStep % BASS.length];
-      if(b!==null) tone(nt(b-24), bgmNext, dur*1.1, {gain:0.5, cut:420, type:"sine", bus:bgmGain});
+      var note=tune.m[bgmStep], dur=note[1]*tune.b;
+      if(note[0]!==null){
+        tone(nt(note[0]), bgmNext, dur*0.92, {gain:0.26, cut:1500, type:"triangle", bus:bgmGain});
+        tone(nt(note[0]+12), bgmNext, dur*0.5, {gain:0.06, cut:2400, type:"sine", bus:bgmGain});
+      }
+      var bs=BASSPAT[bassStep % BASSPAT.length];
+      if(bs!==null && note[1]>=1){
+        tone(nt(bs-24), bgmNext, dur*1.05, {gain:0.5, cut:420, type:"sine", bus:bgmGain});
+      }
       bgmNext += dur;
-      bgmStep++;
+      bgmStep++; bassStep++;
     }
   }
+
   function bgmStart(){
     if(!sound.bgm || !audioReady()) return;
     if(bgmTimer) return;
     bgmNext=actx.currentTime+0.15;
+    tune=null;                      /* 每次起播重新随机挑一首 */
     bgmSchedule();
     bgmTimer=setInterval(bgmSchedule, 400);
   }
