@@ -1035,9 +1035,9 @@
      全部用 Web Audio 现场合成：不引外部音频文件，体积为零。
      旋律是自己写的五声音阶循环（D 宫），慢速、音色柔，图个怀旧调子。 */
   var AC = window.AudioContext || window.webkitAudioContext;
-  var actx=null, master=null, bgmGain=null, sfxGain=null;
+  var actx=null, master=null, bgmGain=null, sfxGain=null, reverb=null, wet=null;
   var sound={bgm:true, sfx:true};
-  var bgmTimer=null, bgmStep=0, bassStep=0, bgmNext=0;
+  var bgmTimer=null, bgmNext=0;
 
   function loadSound(){
     try{
@@ -1054,8 +1054,23 @@
     if(!actx){
       actx=new AC();
       master=actx.createGain(); master.gain.value=1.0; master.connect(actx.destination);
-      bgmGain=actx.createGain(); bgmGain.gain.value=0.34; bgmGain.connect(master);
-      sfxGain=actx.createGain(); sfxGain.gain.value=0.9;  sfxGain.connect(master);
+      /* 程序生成一段脉冲响应当混响，让声音有房间感 */
+      var rate=actx.sampleRate, len=Math.floor(rate*2.4);
+      var ir=actx.createBuffer(2, len, rate);
+      for(var ch=0; ch<2; ch++){
+        var d=ir.getChannelData(ch);
+        for(var i=0;i<len;i++){
+          var t=i/len;
+          d[i]=(Math.random()*2-1)*Math.pow(1-t, 2.6)*(1-t*0.2);
+        }
+      }
+      reverb=actx.createConvolver(); reverb.buffer=ir;
+      wet=actx.createGain(); wet.gain.value=0.42; reverb.connect(wet); wet.connect(master);
+
+      bgmGain=actx.createGain(); bgmGain.gain.value=0.34;
+      bgmGain.connect(master); bgmGain.connect(reverb);
+      sfxGain=actx.createGain(); sfxGain.gain.value=0.9;
+      sfxGain.connect(master); sfxGain.connect(reverb);
     }
     if(actx.state==="suspended") actx.resume();
     return actx;
@@ -1064,20 +1079,24 @@
   /* 一个钢琴音：基频加一串泛音叠出来。
      钢琴的声音特征就三条——起音极快、整体指数衰减、高次泛音衰得比基频快。 */
   var PARTIALS=[[1,1.00],[2,0.46],[3,0.25],[4,0.14],[5,0.085],[6,0.05],[8,0.025],[10,0.012]];
+  var INHARM=0.0006;                          /* 真实琴弦有刚度，泛音比整数倍略高 */
   function tone(freq, at, dur, opt){
     if(!actx) return;
     opt=opt||{};
     var vol=opt.gain||0.3, bus=opt.bus||sfxGain;
-    var body=Math.min(dur*1.5, 2.8);          /* 余音长度，长音也不会拖过头 */
+    var body=Math.min(dur*1.5, 2.8);
     for(var i=0;i<PARTIALS.length;i++){
-      var h=PARTIALS[i][0], amp=PARTIALS[i][1], f=freq*h;
+      var h=PARTIALS[i][0], amp=PARTIALS[i][1];
+      var f=freq*h*(1+INHARM*h*h);
       if(f>12000) continue;
       var o=actx.createOscillator(), g=actx.createGain();
       o.type="sine";
       o.frequency.setValueAtTime(f, at);
-      var dec=body/(1+(h-1)*0.42);            /* 泛音越高衰减越快 */
+      o.detune.setValueAtTime((Math.random()-0.5)*4, at);   /* 一丝失谐，别太"完美" */
+      var dec=body/(1+(h-1)*0.42);
+      var atk=0.005+i*0.0018;                 /* 高泛音稍晚一点点进来，像击弦 */
       g.gain.setValueAtTime(0.0001, at);
-      g.gain.exponentialRampToValueAtTime(vol*amp, at+0.006);
+      g.gain.exponentialRampToValueAtTime(vol*amp, at+atk);
       g.gain.exponentialRampToValueAtTime(0.0001, at+dec);
       o.connect(g); g.connect(bus);
       o.start(at); o.stop(at+dec+0.04);
@@ -1174,8 +1193,10 @@
       [-5,2],[0,2], [0,4]
     ]}
   ];
-  var BASSPAT=[0,null,-5,null, -3,null,-5,null];
-  var tuneIdx=-1, tune=null;
+  /* 五个常用和弦（相对主音的半音）：I IV V vi ii */
+  var CHORDS=[[0,4,7],[5,9,12],[7,11,14],[9,12,16],[2,5,9]];
+  var BEATS_PER_BAR=4;
+  var tuneIdx=-1, tune=null, tuneEv=null, tuneLen=0, tuneT0=0, evIdx=0;
 
   function pickTune(){
     if(TUNES.length<2) return 0;
@@ -1184,33 +1205,87 @@
     return i;
   }
 
+  /* 看这一小节旋律都用了哪些音，挑一个最贴的和弦 */
+  function pickChord(bag, isLast){
+    var best=0, bestScore=-1e9;
+    for(var c=0;c<CHORDS.length;c++){
+      var sc=0;
+      for(var pc in bag){
+        var inCh=false;
+        for(var k=0;k<3;k++){ if(((CHORDS[c][k]%12)+12)%12 === (+pc)) inCh=true; }
+        sc += inCh ? bag[pc] : -bag[pc]*0.45;
+      }
+      if(c===0) sc+=0.3;                  /* 拿不准时偏向主和弦 */
+      if(isLast && c===0) sc+=3;          /* 结尾落回主和弦，收得住 */
+      if(sc>bestScore){ bestScore=sc; best=c; }
+    }
+    return CHORDS[best];
+  }
+
+  /* 把一首曲子展开成带和声、力度和演奏误差的音符事件表 */
+  function buildTune(t){
+    var i, k, ev=[], pos=0, mel=[];
+    for(i=0;i<t.m.length;i++){ mel.push({b:pos, d:t.m[i][1], p:t.m[i][0]}); pos+=t.m[i][1]; }
+    var total=pos, nbar=Math.ceil(total/BEATS_PER_BAR);
+
+    var hum=function(){ return (Math.random()-0.5)*0.016; };      /* 手上的细微不齐 */
+    var vel=function(v){ return v*(0.90+Math.random()*0.18); };   /* 力度不完全一致 */
+
+    /* 右手：旋律 */
+    for(i=0;i<mel.length;i++){
+      if(mel[i].p===null) continue;
+      var onbeat = Math.abs(mel[i].b%BEATS_PER_BAR)<0.01;
+      ev.push({t:(mel[i].b*t.b)+hum(), p:mel[i].p, d:mel[i].d*t.b*0.96,
+               g:vel(onbeat?0.32:0.27)});
+    }
+
+    /* 左手：逐小节配和弦，弹 根-五-三-五 的分解音型 */
+    var FIG=[0,2,1,2], VELB=[0.20,0.13,0.17,0.13];
+    for(var bi=0; bi<nbar; bi++){
+      var b0=bi*BEATS_PER_BAR, b1=b0+BEATS_PER_BAR, bag={};
+      for(i=0;i<mel.length;i++){
+        if(mel[i].p===null) continue;
+        var a=Math.max(mel[i].b,b0), z=Math.min(mel[i].b+mel[i].d,b1);
+        if(z<=a) continue;
+        var pc=((mel[i].p%12)+12)%12;
+        bag[pc]=(bag[pc]||0)+(z-a);
+      }
+      var ch=pickChord(bag, bi===nbar-1);
+      for(k=0;k<BEATS_PER_BAR;k++){
+        var beat=b0+k;
+        if(beat>=total) break;
+        var semi=ch[FIG[k]]-12;                      /* 低八度 */
+        if(FIG[k]===1) semi=ch[1]-12;
+        ev.push({t:(beat*t.b)+hum(), p:semi, d:t.b*1.6, g:vel(VELB[k])});
+      }
+    }
+
+    ev.sort(function(a,b){ return a.t-b.t; });
+    return {ev:ev, len:total*t.b};
+  }
+
   function bgmSchedule(){
     if(!actx || !sound.bgm) return;
-    var ahead=actx.currentTime+1.2;
-    while(bgmNext < ahead){
-      if(!tune || bgmStep >= tune.m.length){     /* 一首放完，随机换下一首 */
+    var ahead=actx.currentTime+1.2, guard=0;
+    while(guard++ < 600){
+      if(!tuneEv || evIdx>=tuneEv.length){
+        var from = tuneEv ? (tuneT0+tuneLen+tune.b*2) : bgmNext;   /* 曲间留两拍气口 */
         tuneIdx=pickTune(); tune=TUNES[tuneIdx];
-        bgmStep=0; bassStep=0;
-        bgmNext += tune.b*2;                     /* 曲间留两拍气口 */
+        var built=buildTune(tune);
+        tuneEv=built.ev; tuneLen=built.len; tuneT0=from; evIdx=0;
       }
-      var note=tune.m[bgmStep], dur=note[1]*tune.b;
-      if(note[0]!==null){
-        tone(nt(note[0]), bgmNext, dur*0.95, {gain:0.30, bus:bgmGain});
-      }
-      var bs=BASSPAT[bassStep % BASSPAT.length];
-      if(bs!==null && note[1]>=1){
-        tone(nt(bs-12), bgmNext, dur*1.1, {gain:0.17, bus:bgmGain});
-      }
-      bgmNext += dur;
-      bgmStep++; bassStep++;
+      var e=tuneEv[evIdx], at=tuneT0+e.t;
+      if(at>=ahead) break;
+      if(at>actx.currentTime) tone(nt(e.p), at, e.d, {gain:e.g, bus:bgmGain});
+      evIdx++;
     }
   }
 
   function bgmStart(){
     if(!sound.bgm || !audioReady()) return;
     if(bgmTimer) return;
-    bgmNext=actx.currentTime+0.15;
-    tune=null;                      /* 每次起播重新随机挑一首 */
+    bgmNext=actx.currentTime+0.25;
+    tuneEv=null; tune=null;         /* 每次起播重新随机挑一首 */
     bgmSchedule();
     bgmTimer=setInterval(bgmSchedule, 400);
   }
