@@ -1053,30 +1053,35 @@
     if(!AC) return null;
     if(!actx){
       actx=new AC();
-      master=actx.createGain(); master.gain.value=0.9; master.connect(actx.destination);
-      bgmGain=actx.createGain(); bgmGain.gain.value=0.16; bgmGain.connect(master);
-      sfxGain=actx.createGain(); sfxGain.gain.value=0.5;  sfxGain.connect(master);
+      master=actx.createGain(); master.gain.value=1.0; master.connect(actx.destination);
+      bgmGain=actx.createGain(); bgmGain.gain.value=0.34; bgmGain.connect(master);
+      sfxGain=actx.createGain(); sfxGain.gain.value=0.9;  sfxGain.connect(master);
     }
     if(actx.state==="suspended") actx.resume();
     return actx;
   }
 
-  /* 一个音：振荡器 + 低通 + 包络 */
+  /* 一个钢琴音：基频加一串泛音叠出来。
+     钢琴的声音特征就三条——起音极快、整体指数衰减、高次泛音衰得比基频快。 */
+  var PARTIALS=[[1,1.00],[2,0.46],[3,0.25],[4,0.14],[5,0.085],[6,0.05],[8,0.025],[10,0.012]];
   function tone(freq, at, dur, opt){
     if(!actx) return;
     opt=opt||{};
-    var o=actx.createOscillator(), g=actx.createGain(), f=actx.createBiquadFilter();
-    o.type=opt.type||"triangle";
-    o.frequency.setValueAtTime(freq, at);
-    if(opt.glide) o.frequency.exponentialRampToValueAtTime(opt.glide, at+dur*0.9);
-    f.type="lowpass";
-    f.frequency.setValueAtTime(opt.cut||2200, at);
-    var peak=opt.gain||0.3;
-    g.gain.setValueAtTime(0.0001, at);
-    g.gain.exponentialRampToValueAtTime(peak, at+(opt.atk||0.015));
-    g.gain.exponentialRampToValueAtTime(0.0001, at+dur);
-    o.connect(f); f.connect(g); g.connect(opt.bus||sfxGain);
-    o.start(at); o.stop(at+dur+0.03);
+    var vol=opt.gain||0.3, bus=opt.bus||sfxGain;
+    var body=Math.min(dur*1.5, 2.8);          /* 余音长度，长音也不会拖过头 */
+    for(var i=0;i<PARTIALS.length;i++){
+      var h=PARTIALS[i][0], amp=PARTIALS[i][1], f=freq*h;
+      if(f>12000) continue;
+      var o=actx.createOscillator(), g=actx.createGain();
+      o.type="sine";
+      o.frequency.setValueAtTime(f, at);
+      var dec=body/(1+(h-1)*0.42);            /* 泛音越高衰减越快 */
+      g.gain.setValueAtTime(0.0001, at);
+      g.gain.exponentialRampToValueAtTime(vol*amp, at+0.006);
+      g.gain.exponentialRampToValueAtTime(0.0001, at+dec);
+      o.connect(g); g.connect(bus);
+      o.start(at); o.stop(at+dec+0.04);
+    }
   }
 
   var D4=293.665;
@@ -1086,18 +1091,18 @@
   function sfxSnap(){
     if(!sound.sfx || !audioReady()) return;
     var t=actx.currentTime;
-    tone(nt(12), t,       0.09, {gain:0.22, cut:3200});
-    tone(nt(19), t+0.055, 0.13, {gain:0.20, cut:3600});
+    tone(nt(12), t,       0.13, {gain:0.34});
+    tone(nt(19), t+0.06,  0.20, {gain:0.30});
   }
   /* 过关：五声音阶往上跑一趟 + 收尾长音 */
   function sfxWin(){
     if(!sound.sfx || !audioReady()) return;
     var t=actx.currentTime, seq=[0,4,7,9,12,16,19];
     seq.forEach(function(s,i){
-      tone(nt(s), t+i*0.085, 0.22, {gain:0.24, cut:3000});
+      tone(nt(s), t+i*0.085, 0.30, {gain:0.32});
     });
-    tone(nt(24), t+seq.length*0.085+0.02, 0.9, {gain:0.20, cut:2600});
-    tone(nt(12), t+seq.length*0.085+0.02, 0.9, {gain:0.12, cut:1800});
+    tone(nt(24), t+seq.length*0.085+0.02, 1.1, {gain:0.30});
+    tone(nt(12), t+seq.length*0.085+0.02, 1.1, {gain:0.20});
   }
 
   /* 背景音乐：10 段轮着放，播完一首随机换下一首。
@@ -1190,12 +1195,11 @@
       }
       var note=tune.m[bgmStep], dur=note[1]*tune.b;
       if(note[0]!==null){
-        tone(nt(note[0]), bgmNext, dur*0.92, {gain:0.26, cut:1500, type:"triangle", bus:bgmGain});
-        tone(nt(note[0]+12), bgmNext, dur*0.5, {gain:0.06, cut:2400, type:"sine", bus:bgmGain});
+        tone(nt(note[0]), bgmNext, dur*0.95, {gain:0.30, bus:bgmGain});
       }
       var bs=BASSPAT[bassStep % BASSPAT.length];
       if(bs!==null && note[1]>=1){
-        tone(nt(bs-24), bgmNext, dur*1.05, {gain:0.5, cut:420, type:"sine", bus:bgmGain});
+        tone(nt(bs-12), bgmNext, dur*1.1, {gain:0.17, bus:bgmGain});
       }
       bgmNext += dur;
       bgmStep++; bassStep++;
@@ -1217,7 +1221,7 @@
       bgmGain.gain.cancelScheduledValues(t);
       bgmGain.gain.setValueAtTime(bgmGain.gain.value, t);
       bgmGain.gain.linearRampToValueAtTime(0.0001, t+0.4);
-      setTimeout(function(){ if(bgmGain) bgmGain.gain.value=0.16; }, 500);
+      setTimeout(function(){ if(bgmGain) bgmGain.gain.value=0.34; }, 500);
     }
   }
   /* 切后台别继续响 */
