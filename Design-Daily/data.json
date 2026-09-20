@@ -1353,6 +1353,19 @@
           "url": "https://cdn.mos.cms.futurecdn.net/otM3TRi2rPEfePuBQ5oce4-320-80.jpg"
         }
       ],
+      "video": {
+        "provider": "youtube",
+        "id": "CniycUnvcX4",
+        "url": "https://www.youtube.com/embed/CniycUnvcX4",
+        "thumbnail": "https://i.ytimg.com/vi/CniycUnvcX4/hqdefault.jpg",
+        "title": "Blender 5.3 Got Gaussian Splats!",
+        "author": "CGMatter",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/CniycUnvcX4/hqdefault.jpg"
+      ],
       "titleZh": "三维软件新版本，原生支持高斯泼溅",
       "summaryZh": "创作软件下一版本可以导入高斯泼溅文件并用自带引擎渲染，正式版预计十一月发布。",
       "reading": {
@@ -1897,11 +1910,24 @@
       "summary": "20 years of Rodeo FX! A special milestone and, personally, a journey I had the pleasure of witnessing from the inside during my six years with the studio. Congratulations to all the artists and teams who have been part of these two decades of creativity! Rodeo FX celebrates its 20th anniversary with a new Legacy",
       "source": "Art of VFX",
       "category": "动态设计",
-      "image": null,
+      "image": "https://i.ytimg.com/vi/A2nFnutIqEA/hqdefault.jpg",
       "publishedAt": "2026-09-18T18:00:00+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
       "score": 63,
+      "video": {
+        "provider": "youtube",
+        "id": "A2nFnutIqEA",
+        "url": "https://www.youtube.com/embed/A2nFnutIqEA",
+        "thumbnail": "https://i.ytimg.com/vi/A2nFnutIqEA/hqdefault.jpg",
+        "title": "20 years Legacy Reel — Rodeo FX",
+        "author": "Rodeo FX",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/A2nFnutIqEA/hqdefault.jpg"
+      ],
       "titleZh": "视效工作室二十年，把作品剪成一支合集",
       "summaryZh": "视效工作室成立二十周年，发布涵盖剧集与电影的镜头合集，串联二十年制作史。",
       "reading": {
@@ -1925,11 +1951,24 @@
       "summary": "Unsure where to start? Use this collection of links to our articles and videos to learn about recommendations for designing AI products and",
       "source": "Nielsen Norman Group",
       "category": "人工智能设计",
-      "image": null,
+      "image": "https://i.ytimg.com/vi/gLqGgw8Zlaw/hqdefault.jpg",
       "publishedAt": "2026-09-18T17:00:00+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
       "score": 63,
+      "video": {
+        "provider": "youtube",
+        "id": "gLqGgw8Zlaw",
+        "url": "https://www.youtube.com/embed/gLqGgw8Zlaw",
+        "thumbnail": "https://i.ytimg.com/vi/gLqGgw8Zlaw/hqdefault.jpg",
+        "title": "The Next Decade of UX: Why Psychology Matters More Than Ever (Feat. Thomas Watkins) | EP 57",
+        "author": "NNgroup",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/gLqGgw8Zlaw/hqdefault.jpg"
+      ],
       "titleZh": "做智能产品之前，先判断它是否值得做",
       "summaryZh": "尼尔森诺曼集团汇总研究资料，建议先评估智能功能能否带来价值，再考虑界面与交互细节。",
       "reading": {
@@ -2059,11 +2098,24 @@
       "summary": "Québec-based VFX studio Hybride takes us behind the scenes of Star Wars: The Mandalorian and Grogu with this breakdown showcasing its work on the film, from the creation and extension of environments to CG characters and creatures. A large part of Hybride’s contribution focuses on building and extending the worlds explored…",
       "source": "Art of VFX",
       "category": "动态设计",
-      "image": null,
+      "image": "https://i.ytimg.com/vi/ZNEGDySpQvg/hqdefault.jpg",
       "publishedAt": "2026-09-18T15:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
       "score": 62,
+      "video": {
+        "provider": "youtube",
+        "id": "ZNEGDySpQvg",
+        "url": "https://www.youtube.com/embed/ZNEGDySpQvg",
+        "thumbnail": "https://i.ytimg.com/vi/ZNEGDySpQvg/hqdefault.jpg",
+        "title": "The Mandalorian and Grogu - VFX Breakdown by Hybride VFX",
+        "author": "Hybride VFX",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/ZNEGDySpQvg/hqdefault.jpg"
+      ],
       "titleZh": "星战新片视效，如何把一个个世界扩展出来",
       "summaryZh": "加拿大视效工作室公开幕后，介绍为影片扩展环境、添加植被与制作数字角色的过程。",
       "reading": {
@@ -2115,11 +2167,24 @@
       "summary": "Working with art from Salt Lake City illustrator Dave Arcade, director Mathieu Betard and the animation team at Mathematic in Paris serve up 10 slices of tasty isometric maximalism for Telstra thru Bear Meets Eagle On Fire.",
       "source": "Stash",
       "category": "动态设计",
-      "image": null,
+      "image": "https://i.vimeocdn.com/video/2201506132-dd2f08b6c98a3f39456567b62c3ec79b8e6d8fa4d2ffa241965bdccb568b8b35-d_1280?region=us",
       "publishedAt": "2026-09-18T14:06:59+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
       "score": 61,
+      "video": {
+        "provider": "vimeo",
+        "id": "1227307667",
+        "url": "https://player.vimeo.com/video/1227307667",
+        "thumbnail": "https://i.vimeocdn.com/video/2201506132-dd2f08b6c98a3f39456567b62c3ec79b8e6d8fa4d2ffa241965bdccb568b8b35-d_1280?region=us",
+        "title": "Telstra | Happy Internetting - Compilation",
+        "author": "Bear Meets Eagle On Fire",
+        "duration": 159,
+        "verifiedAt": "2026-09-20T09:56:58+00:00"
+      },
+      "videoGallery": [
+        "https://i.vimeocdn.com/video/2201506132-dd2f08b6c98a3f39456567b62c3ec79b8e6d8fa4d2ffa241965bdccb568b8b35-d_1280?region=us"
+      ],
       "titleZh": "把上网爱好画成十段等距动画",
       "summaryZh": "巴黎动画工作室与插画师合作，用等距视角与高饱和色块为电信品牌制作十条短片。",
       "reading": {
@@ -2164,6 +2229,19 @@
         {
           "url": "https://static.dezeen.com/uploads/2026/09/lifeline-tote-bag-life-jacket_dezeen_2364_col_1-1704x1142.jpg"
         }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "xjVBovGwXgg",
+        "url": "https://www.youtube.com/embed/xjVBovGwXgg",
+        "thumbnail": "https://i.ytimg.com/vi/xjVBovGwXgg/hqdefault.jpg",
+        "title": "This tote bag-life jacket combination is an \"essential that shouldn't exist\"",
+        "author": "Dezeen",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/xjVBovGwXgg/hqdefault.jpg"
       ],
       "titleZh": "能变成救生衣的托特包",
       "summaryZh": "纽约五位艺术家把标准救生衣改成可自充气的手提包，作为提醒气候洪水风险的概念作品。",
@@ -2290,6 +2368,19 @@
         {
           "url": "https://s35726.pcdn.co/wp-content/uploads/2026/09/MD_NYC_2025_27-scaled.jpg"
         }
+      ],
+      "video": {
+        "provider": "vimeo",
+        "id": "1227753236",
+        "url": "https://player.vimeo.com/video/1227753236",
+        "thumbnail": "https://i.vimeocdn.com/video/2202050333-f90fcaaa57d65880112328a98fc1f26290540a8a72b37afd8277567ded1a4ce0-d_1280?region=us",
+        "title": "Motion Plus Design NYC trailer 2026 by Yeti Pictures",
+        "author": "Motion Plus Design",
+        "duration": 81,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.vimeocdn.com/video/2202050333-f90fcaaa57d65880112328a98fc1f26290540a8a72b37afd8277567ded1a4ce0-d_1280?region=us"
       ],
       "titleZh": "动态设计网站二十周年，办成一场线下聚会",
       "summaryZh": "动态设计观察迎来二十周年，把庆祝放在动态设计论坛纽约站，留出二十个席位给社区创作者。",
@@ -3449,7 +3540,7 @@
       "summary": "Welcome to the set of Resident Evil! Director Zach Cregger takes us behind the scenes in a new featurette revealing a glimpse of how his new adaptation is being brought to life. The production’s visual effects are supervised by Alessandro Ongaro, alongside Production VFX Producer and Associate Producer Brice Parker, and VFX…",
       "source": "Art of VFX",
       "category": "动态设计",
-      "image": null,
+      "image": "https://i.ytimg.com/vi/Ae9jaHSQ3gY/hqdefault.jpg",
       "publishedAt": "2026-09-17T18:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
@@ -3479,7 +3570,33 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "youtube",
+        "id": "Ae9jaHSQ3gY",
+        "url": "https://www.youtube.com/embed/Ae9jaHSQ3gY",
+        "thumbnail": "https://i.ytimg.com/vi/Ae9jaHSQ3gY/hqdefault.jpg",
+        "title": "Resident Evil - Horror Lens",
+        "author": "Sony Pictures Releasing UK",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "extraVideos": [
+        {
+          "provider": "youtube",
+          "id": "pzJOWDJ3c2w",
+          "url": "https://www.youtube.com/embed/pzJOWDJ3c2w",
+          "thumbnail": "https://i.ytimg.com/vi/pzJOWDJ3c2w/hqdefault.jpg",
+          "title": "Resident Evil - Game Inspiration",
+          "author": "Sony Pictures Releasing UK",
+          "duration": 0,
+          "verifiedAt": "2026-09-20T09:57:03+00:00"
+        }
+      ],
+      "videoGallery": [
+        "https://i.ytimg.com/vi/Ae9jaHSQ3gY/hqdefault.jpg",
+        "https://i.ytimg.com/vi/pzJOWDJ3c2w/hqdefault.jpg"
+      ]
     },
     {
       "id": "87d903b7da3bb790",
@@ -3584,7 +3701,7 @@
       "summary": "In 2023, Charley Henley took us behind the visual effects of Napoleon. Now, he reunites with legendary director Ridley Scott for a very different kind of project: The Dog Stars. You have worked with Ridley Scott on several films. How has your creative relationship evolved, and how do you approach VFX together today? I first",
       "source": "Art of VFX",
       "category": "动态设计",
-      "image": null,
+      "image": "https://i.ytimg.com/vi/4KsZOT1qeyo/hqdefault.jpg",
       "publishedAt": "2026-09-17T14:45:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
@@ -3662,7 +3779,33 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "youtube",
+        "id": "4KsZOT1qeyo",
+        "url": "https://www.youtube.com/embed/4KsZOT1qeyo",
+        "thumbnail": "https://i.ytimg.com/vi/4KsZOT1qeyo/hqdefault.jpg",
+        "title": "The Dog Stars | VFX Breakdown",
+        "author": "Outpost VFX",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "extraVideos": [
+        {
+          "provider": "youtube",
+          "id": "-xSxaE1ClEE",
+          "url": "https://www.youtube.com/embed/-xSxaE1ClEE",
+          "thumbnail": "https://i.ytimg.com/vi/-xSxaE1ClEE/hqdefault.jpg",
+          "title": "The Dog Stars | Official Trailer | In Theaters August 28",
+          "author": "20th Century Studios",
+          "duration": 0,
+          "verifiedAt": "2026-09-20T09:57:03+00:00"
+        }
+      ],
+      "videoGallery": [
+        "https://i.ytimg.com/vi/4KsZOT1qeyo/hqdefault.jpg",
+        "https://i.ytimg.com/vi/-xSxaE1ClEE/hqdefault.jpg"
+      ]
     },
     {
       "id": "cbb9a87ec874c156",
@@ -4197,7 +4340,20 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "youtube",
+        "id": "bJQGtSeLPII",
+        "url": "https://www.youtube.com/embed/bJQGtSeLPII",
+        "thumbnail": "https://i.ytimg.com/vi/bJQGtSeLPII/hqdefault.jpg",
+        "title": "Wildwood – Final Trailer | Get Tickets Now",
+        "author": "LAIKA Studios",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/bJQGtSeLPII/hqdefault.jpg"
+      ]
     },
     {
       "id": "27f9b47713517fac",
@@ -4278,6 +4434,16 @@
             ]
           }
         ]
+      },
+      "video": {
+        "provider": "file",
+        "id": "https://media.creativeboom.com/732edefa-f19e-4532-9d2b-997fc24eeac1/conversions/1bbba558e1ec1f873b72e1bed5bbf66c3e576993-animated.mp4",
+        "url": "https://media.creativeboom.com/732edefa-f19e-4532-9d2b-997fc24eeac1/conversions/1bbba558e1ec1f873b72e1bed5bbf66c3e576993-animated.mp4",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
       }
     },
     {
@@ -4494,7 +4660,20 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "youtube",
+        "id": "Tyy3dYI-5ds",
+        "url": "https://www.youtube.com/embed/Tyy3dYI-5ds",
+        "thumbnail": "https://i.ytimg.com/vi/Tyy3dYI-5ds/hqdefault.jpg",
+        "title": "I Built a Virtual Pet that Dies when you Doomscroll",
+        "author": "brenpoly",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/Tyy3dYI-5ds/hqdefault.jpg"
+      ]
     },
     {
       "id": "4627e9d6668ded93",
@@ -4976,7 +5155,20 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "youtube",
+        "id": "yC1QtqEJNIQ",
+        "url": "https://www.youtube.com/embed/yC1QtqEJNIQ",
+        "thumbnail": "https://i.ytimg.com/vi/yC1QtqEJNIQ/hqdefault.jpg",
+        "title": "I Made a Literal ROCK Guitar",
+        "author": "BeBeau Builds",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/yC1QtqEJNIQ/hqdefault.jpg"
+      ]
     },
     {
       "id": "ff9188e118a8263a",
@@ -5386,7 +5578,20 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "vimeo",
+        "id": "1191776966",
+        "url": "https://player.vimeo.com/video/1191776966",
+        "thumbnail": "https://i.vimeocdn.com/video/2157044951-7fe8835a9bf9eca632709163a976086c73c8b25e9d4bf40c7e970cba8eb589fa-d_1280?region=us",
+        "title": "SAGA Manifesto",
+        "author": "saga cg",
+        "duration": 44,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.vimeocdn.com/video/2157044951-7fe8835a9bf9eca632709163a976086c73c8b25e9d4bf40c7e970cba8eb589fa-d_1280?region=us"
+      ]
     },
     {
       "id": "e318813b402246c9",
@@ -5495,6 +5700,16 @@
             ]
           }
         ]
+      },
+      "video": {
+        "provider": "file",
+        "id": "https://i.imgur.com/8OxXcFw.mp4",
+        "url": "https://i.imgur.com/8OxXcFw.mp4",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
       }
     },
     {
@@ -6295,7 +6510,20 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "vimeo",
+        "id": "1196468961",
+        "url": "https://player.vimeo.com/video/1196468961",
+        "thumbnail": "https://i.vimeocdn.com/video/2168343750-b27f1d519e6724803b129a4639019e3b6b3109b1edab23d3e29f0df5514739c2-d_1280?region=us",
+        "title": "Tron: Ares x GMUNK Studio — Computer Vision Reel",
+        "author": "GMUNK",
+        "duration": 104,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.vimeocdn.com/video/2168343750-b27f1d519e6724803b129a4639019e3b6b3109b1edab23d3e29f0df5514739c2-d_1280?region=us"
+      ]
     },
     {
       "id": "42b6272a4794e700",
@@ -6475,7 +6703,20 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "youtube",
+        "id": "VuBNZsOR8HQ",
+        "url": "https://www.youtube.com/embed/VuBNZsOR8HQ",
+        "thumbnail": "https://i.ytimg.com/vi/VuBNZsOR8HQ/hqdefault.jpg",
+        "title": "DRIFT takes its suspended garden of moving flowers to las vegas",
+        "author": "designboom",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/VuBNZsOR8HQ/hqdefault.jpg"
+      ]
     },
     {
       "id": "7dd2544e33897faf",
@@ -6590,7 +6831,33 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "youtube",
+        "id": "6V_kA8KloN0",
+        "url": "https://www.youtube.com/embed/6V_kA8KloN0",
+        "thumbnail": "https://i.ytimg.com/vi/6V_kA8KloN0/hqdefault.jpg",
+        "title": "Cows - Teaser 2025",
+        "author": "ESMA Movies",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "extraVideos": [
+        {
+          "provider": "youtube",
+          "id": "CsBa8HbMgh8",
+          "url": "https://www.youtube.com/embed/CsBa8HbMgh8",
+          "thumbnail": "https://i.ytimg.com/vi/CsBa8HbMgh8/hqdefault.jpg",
+          "title": "GAUZE - Animation Short Film 2025 - GOBELINS",
+          "author": "GOBELINS Paris",
+          "duration": 0,
+          "verifiedAt": "2026-09-20T09:57:03+00:00"
+        }
+      ],
+      "videoGallery": [
+        "https://i.ytimg.com/vi/6V_kA8KloN0/hqdefault.jpg",
+        "https://i.ytimg.com/vi/CsBa8HbMgh8/hqdefault.jpg"
+      ]
     },
     {
       "id": "86c20a2af94b5e6f",
@@ -7046,7 +7313,7 @@
       "summary": "Tokyo artist and animator Kouhei Nakama whose delightful brand of CG strangeness we've featured here and here just dropped us his latest motion experiment, a wonderfully unpredictable short film called SWELL.",
       "source": "Stash",
       "category": "动态设计",
-      "image": null,
+      "image": "https://i.vimeocdn.com/video/2200969924-6cddc5bdce69c61c4e3ce2059ef6622fcbec81e5eb909f0520177dc9c357fd8b-d_1280?region=us",
       "publishedAt": "2026-09-15T21:18:05+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
@@ -7064,7 +7331,20 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "vimeo",
+        "id": "1226878221",
+        "url": "https://player.vimeo.com/video/1226878221",
+        "thumbnail": "https://i.vimeocdn.com/video/2200969924-6cddc5bdce69c61c4e3ce2059ef6622fcbec81e5eb909f0520177dc9c357fd8b-d_1280?region=us",
+        "title": "SWELL",
+        "author": "Kouhei Nakama",
+        "duration": 119,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.vimeocdn.com/video/2200969924-6cddc5bdce69c61c4e3ce2059ef6622fcbec81e5eb909f0520177dc9c357fd8b-d_1280?region=us"
+      ]
     },
     {
       "id": "bbe50b60581b8e7a",
@@ -7073,7 +7353,7 @@
       "summary": "The creative coder explains the throughline between drawing and computation, and why he’s jealous of pioneering artist Lillian",
       "source": "Figma",
       "category": "动态设计",
-      "image": null,
+      "image": "https://i.ytimg.com/vi/-BomvzRo6N4/hqdefault.jpg",
       "publishedAt": "2026-09-15T20:52:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
@@ -7097,7 +7377,20 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "youtube",
+        "id": "-BomvzRo6N4",
+        "url": "https://www.youtube.com/embed/-BomvzRo6N4",
+        "thumbnail": "https://i.ytimg.com/vi/-BomvzRo6N4/hqdefault.jpg",
+        "title": "13 Designs that Inspired MIT Professor Zach Lieberman I Source Material",
+        "author": "Figma",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/-BomvzRo6N4/hqdefault.jpg"
+      ]
     },
     {
       "id": "1f0047cb5a4861d2",
@@ -7770,6 +8063,16 @@
             ]
           }
         ]
+      },
+      "video": {
+        "provider": "file",
+        "id": "https://i.imgur.com/WZ4dcw1.mp4",
+        "url": "https://i.imgur.com/WZ4dcw1.mp4",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
       }
     },
     {
@@ -7869,7 +8172,7 @@
       "summary": "Jan Maroske has been working in visual effects for more than 20 years. Before joining ILM in 2016, he worked at studios including DNEG and Weta FX. His extensive filmography features projects such as Inception, Dawn of the Planet of the Apes, Jurassic World: Dominion, and The Amateur. What is your background? I’ve been working…",
       "source": "Art of VFX",
       "category": "动态设计",
-      "image": null,
+      "image": "https://i.ytimg.com/vi/MLxgaz2Zp1k/hqdefault.jpg",
       "publishedAt": "2026-09-15T14:45:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
@@ -7927,7 +8230,20 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "youtube",
+        "id": "MLxgaz2Zp1k",
+        "url": "https://www.youtube.com/embed/MLxgaz2Zp1k",
+        "thumbnail": "https://i.ytimg.com/vi/MLxgaz2Zp1k/hqdefault.jpg",
+        "title": "The Last House | Greta Lee and Wagner Moura | Official Trailer | Netflix",
+        "author": "Netflix",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/MLxgaz2Zp1k/hqdefault.jpg"
+      ]
     },
     {
       "id": "7c39b6dbc787d0ac",
@@ -8540,7 +8856,7 @@
       "summary": "NodeFest, Australia's premier motion design and animation event, crashes Sydney for the first time – delivering a full day of honest talks, genuine community, and inspiration that sticks.",
       "source": "Stash",
       "category": "动态设计",
-      "image": null,
+      "image": "https://i.ytimg.com/vi/UkMPVhHNqnU/hqdefault.jpg",
       "publishedAt": "2026-09-15T11:32:20+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
@@ -8558,7 +8874,20 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "youtube",
+        "id": "UkMPVhHNqnU",
+        "url": "https://www.youtube.com/embed/UkMPVhHNqnU",
+        "thumbnail": "https://i.ytimg.com/vi/UkMPVhHNqnU/hqdefault.jpg",
+        "title": "NodeFest comes to Sydney in 2026",
+        "author": "Node Fest - Australia & New Zealand",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/UkMPVhHNqnU/hqdefault.jpg"
+      ]
     },
     {
       "id": "ebfde60ef1afb103",
@@ -8743,6 +9072,16 @@
             ]
           }
         ]
+      },
+      "video": {
+        "provider": "file",
+        "id": "https://media.creativeboom.com/5515c57f-c885-471e-8434-a5ea0d469b54/conversions/1bba019effb9d6be979f45e066cffb3fdb8f4f3b-animated.mp4",
+        "url": "https://media.creativeboom.com/5515c57f-c885-471e-8434-a5ea0d469b54/conversions/1bba019effb9d6be979f45e066cffb3fdb8f4f3b-animated.mp4",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
       }
     },
     {
@@ -8894,7 +9233,20 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "youtube",
+        "id": "hgG_vsIpXW4",
+        "url": "https://www.youtube.com/embed/hgG_vsIpXW4",
+        "thumbnail": "https://i.ytimg.com/vi/hgG_vsIpXW4/hqdefault.jpg",
+        "title": "Chalayan Auntumn/Winter 2000 After Words",
+        "author": "Chalayan",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/hgG_vsIpXW4/hqdefault.jpg"
+      ]
     },
     {
       "id": "c00f7c2a22a13126",
@@ -9536,7 +9888,33 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "vimeo",
+        "id": "1205615931",
+        "url": "https://player.vimeo.com/video/1205615931",
+        "thumbnail": "https://i.vimeocdn.com/video/2174248625-699bf91a92b53c589611673851a4ebd5733ce1e01b4957137be6c64b98770be4-d_1280?region=us",
+        "title": "hello baby globe: wikipedia's mascot design",
+        "author": "sharon park",
+        "duration": 61,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "extraVideos": [
+        {
+          "provider": "vimeo",
+          "id": "1222967049",
+          "url": "https://player.vimeo.com/video/1222967049",
+          "thumbnail": "https://i.vimeocdn.com/video/2196063238-330403ddb79cb0e1b4a8e7ebaf0103140c56c4cf7adc12dd45cf1878c005ea70-d_1280?region=us",
+          "title": "ANTHEM_NO_ENDCARD_16-9_001",
+          "author": "It's Nice That",
+          "duration": 90,
+          "verifiedAt": "2026-09-20T09:57:03+00:00"
+        }
+      ],
+      "videoGallery": [
+        "https://i.vimeocdn.com/video/2174248625-699bf91a92b53c589611673851a4ebd5733ce1e01b4957137be6c64b98770be4-d_1280?region=us",
+        "https://i.vimeocdn.com/video/2196063238-330403ddb79cb0e1b4a8e7ebaf0103140c56c4cf7adc12dd45cf1878c005ea70-d_1280?region=us"
+      ]
     },
     {
       "id": "12dd1f0d1c3003cc",
@@ -9742,7 +10120,20 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "youtube",
+        "id": "BLsH9ctKH4I",
+        "url": "https://www.youtube.com/embed/BLsH9ctKH4I",
+        "thumbnail": "https://i.ytimg.com/vi/BLsH9ctKH4I/hqdefault.jpg",
+        "title": "Euro NCAP Crash & Safety Tests of GEELY E2 2026",
+        "author": "Euro NCAP",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/BLsH9ctKH4I/hqdefault.jpg"
+      ]
     },
     {
       "id": "2021b7ed41f96d1f",
@@ -9874,7 +10265,33 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "youtube",
+        "id": "nLGqhn116w8",
+        "url": "https://www.youtube.com/embed/nLGqhn116w8",
+        "thumbnail": "https://i.ytimg.com/vi/nLGqhn116w8/hqdefault.jpg",
+        "title": "The Interrail Effect | Trade Plans",
+        "author": "Interrail",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "extraVideos": [
+        {
+          "provider": "youtube",
+          "id": "OyMmilZgzSw",
+          "url": "https://www.youtube.com/embed/OyMmilZgzSw",
+          "thumbnail": "https://i.ytimg.com/vi/OyMmilZgzSw/hqdefault.jpg",
+          "title": "The Interrail Effect | Grudge",
+          "author": "Interrail",
+          "duration": 0,
+          "verifiedAt": "2026-09-20T09:57:03+00:00"
+        }
+      ],
+      "videoGallery": [
+        "https://i.ytimg.com/vi/nLGqhn116w8/hqdefault.jpg",
+        "https://i.ytimg.com/vi/OyMmilZgzSw/hqdefault.jpg"
+      ]
     },
     {
       "id": "e2ec008abc6ac994",
@@ -10177,6 +10594,16 @@
             ]
           }
         ]
+      },
+      "video": {
+        "provider": "file",
+        "id": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/09/demo-intro-fast-1080p.mp4?x33418",
+        "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/09/demo-intro-fast-1080p.mp4?x33418",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
       }
     },
     {
@@ -10273,6 +10700,16 @@
             ]
           }
         ]
+      },
+      "video": {
+        "provider": "file",
+        "id": "https://media.creativeboom.com/308e9451-f133-43ad-840d-5aa81c0bb0f5/be8c1e9d92a58a9ff5454e9a027de1e9785a96ea.mp4",
+        "url": "https://media.creativeboom.com/308e9451-f133-43ad-840d-5aa81c0bb0f5/be8c1e9d92a58a9ff5454e9a027de1e9785a96ea.mp4",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
       }
     },
     {
@@ -10426,6 +10863,16 @@
             ]
           }
         ]
+      },
+      "video": {
+        "provider": "file",
+        "id": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/08/6.mp4?x33418",
+        "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/08/6.mp4?x33418",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
       }
     },
     {
@@ -10463,6 +10910,16 @@
             ]
           }
         ]
+      },
+      "video": {
+        "provider": "file",
+        "id": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/09/facemask_demo.mp4?x33418",
+        "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/09/facemask_demo.mp4?x33418",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
       }
     },
     {
@@ -10499,6 +10956,16 @@
             ]
           }
         ]
+      },
+      "video": {
+        "provider": "file",
+        "id": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/08/Unwovenaninfiniteloomofimages-GoogleChrome2026-08-3115-55-54-ezgif.com-crop-video.mp4?x33418",
+        "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/08/Unwovenaninfiniteloomofimages-GoogleChrome2026-08-3115-55-54-ezgif.com-crop-video.mp4?x33418",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
       }
     },
     {
@@ -10535,7 +11002,7 @@
       "summary": "One of the internet’s favorite designers shares why her cyberdeck doubles as a makeup vanity, and the questions she asks herself to get into a creative",
       "source": "Figma",
       "category": "用户体验设计",
-      "image": null,
+      "image": "https://i.ytimg.com/vi/V19x5yo-Sa8/hqdefault.jpg",
       "publishedAt": "2026-09-03T15:49:00+00:00",
       "date": "2026-09-03",
       "firstSeen": "2026-09-18",
@@ -10559,7 +11026,20 @@
             ]
           }
         ]
-      }
+      },
+      "video": {
+        "provider": "youtube",
+        "id": "V19x5yo-Sa8",
+        "url": "https://www.youtube.com/embed/V19x5yo-Sa8",
+        "thumbnail": "https://i.ytimg.com/vi/V19x5yo-Sa8/hqdefault.jpg",
+        "title": "9 Designs That Inspired Meshtimes, One of Tech's Most Creative Minds | Source Material",
+        "author": "Figma",
+        "duration": 0,
+        "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/V19x5yo-Sa8/hqdefault.jpg"
+      ]
     },
     {
       "id": "f74713a94ce6c93a",
