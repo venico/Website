@@ -2,8 +2,8 @@
 const $ = id => document.getElementById(id);
 const SOURCE_LABELS = {"欧洲设计学院":"欧洲设计学院","欧洲新车安全评鉴协会":"欧洲新车安全评鉴协会","大众汽车新闻中心":"大众汽车新闻中心","Dezeen": "德泽恩", "designboom": "设计邦", "Yanko Design": "扬科设计", "Smashing Magazine": "设计与开发杂志", "Nielsen Norman Group": "尼尔森诺曼集团", "Motionographer": "动态设计观察", "Core77": "工业设计网", "Creative Bloq": "创意视界"};
 const sourceName = name => SOURCE_LABELS[name] || data?.sourceLabels?.[name] || data?.sources?.find(s=>s.name===name)?.label || '设计媒体';
-const categoryLabel = name => ({'用户体验设计':'UX设计','界面设计':'UI设计','人工智能设计':'AI设计'}[name] || name);
-const CATEGORIES = ['全部','用户体验设计','界面设计','人工智能设计','工业设计','动效设计','动态设计','家具设计','交通工具设计','建筑设计','空间设计','视觉设计'];
+const categoryLabel = name => ({'用户体验设计':'UX设计','人工智能设计':'AI设计'}[name] || name);
+const CATEGORIES = ['全部','用户体验设计','人工智能设计','工业设计','动态设计','建筑设计','空间设计','视觉设计'];
 let data, category='全部', sort='hot', selectedDate='', limit=11;
 let activeArticle=null;
 const escapeHTML=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -156,4 +156,3 @@ function openArticle(id,push=true){
 document.addEventListener('click',e=>{const play=e.target.closest('.video-label');if(play){e.preventDefault();const card=play.closest('.story');const item=data.articles.find(x=>x.id===card.querySelector('[data-article]').dataset.article);const cover=card.querySelector('.story-image');cover.classList.remove('no-image');cover.classList.add('playing');cover.innerHTML=videoPlayer(item);return;}const a=e.target.closest('a[data-article],a[data-back]');if(!a||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;e.preventDefault();if(a.hasAttribute('data-back')){history.pushState(null,'',listURL());showListing();render();window.scrollTo(0,0)}else openArticle(a.dataset.article)});
 window.addEventListener('popstate',()=>{if(!data)return;const p=new URLSearchParams(location.search);selectedDate=p.get('date')||data.issues.map(i=>i.date).sort().at(-1);category=CATEGORIES.includes(p.get('category'))?p.get('category'):'全部';sort=p.get('sort')==='new'?'new':'hot';if(p.get('article'))openArticle(p.get('article'),false);else{showListing();render()}});
 start();
-
