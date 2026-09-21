@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T10:46:20.345157+08:00",
+  "updatedAt": "2026-09-21T09:07:34.219041+08:00",
   "sources": [
     {
       "name": "Dezeen",
@@ -8,7 +8,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-09-19T17:00:45+00:00"
+      "latestPublishedAt": "2026-09-20T17:00:55+00:00"
     },
     {
       "name": "designboom",
@@ -17,7 +17,7 @@
       "category": "空间设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-09-19T20:35:24+00:00"
+      "latestPublishedAt": "2026-09-20T21:10:53+00:00"
     },
     {
       "name": "Yanko Design",
@@ -26,13 +26,13 @@
       "category": "工业设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-09-20T01:45:20+00:00"
+      "latestPublishedAt": "2026-09-20T23:30:30+00:00"
     },
     {
       "name": "Smashing Magazine",
       "label": "设计与开发杂志",
       "url": "https://www.smashingmagazine.com/feed/",
-      "category": "界面设计",
+      "category": "用户体验设计",
       "ok": true,
       "count": 40,
       "latestPublishedAt": "2026-09-16T13:00:00+00:00"
@@ -71,7 +71,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 25,
-      "latestPublishedAt": "2026-09-19T14:56:35+00:00"
+      "latestPublishedAt": "2026-09-20T13:00:00+00:00"
     },
     {
       "name": "UX Collective",
@@ -80,7 +80,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-09-18T21:20:51+00:00"
+      "latestPublishedAt": "2026-09-20T12:36:44+00:00"
     },
     {
       "name": "UX Planet",
@@ -94,17 +94,17 @@
     {
       "name": "Codrops",
       "label": "网页交互实验室",
-      "category": "动效设计",
+      "category": "动态设计",
       "url": "https://tympanus.net/codrops/feed/",
       "ok": false,
       "count": 0,
-      "error": "HTTP Error 410: Gone"
+      "error": "The read operation timed out"
     },
     {
       "name": "Awwwards",
       "label": "网页设计奖",
       "url": "https://www.awwwards.com/blog/feed/",
-      "category": "界面设计",
+      "category": "用户体验设计",
       "ok": true,
       "count": 30,
       "latestPublishedAt": "2026-08-31T14:39:00+00:00"
@@ -113,7 +113,7 @@
       "name": "Design Milk",
       "label": "设计牛奶",
       "url": "https://design-milk.com/feed/",
-      "category": "家具设计",
+      "category": "工业设计",
       "ok": true,
       "count": 12,
       "latestPublishedAt": "2026-09-18T21:35:50+00:00"
@@ -131,10 +131,10 @@
       "name": "Car Body Design",
       "label": "汽车车身设计",
       "url": "https://www.carbodydesign.com/feed/",
-      "category": "交通工具设计",
-      "ok": false,
-      "count": 0,
-      "latestPublishedAt": null
+      "category": "工业设计",
+      "ok": true,
+      "count": 10,
+      "latestPublishedAt": "2026-04-04T13:25:18+00:00"
     },
     {
       "name": "Stash",
@@ -178,11 +178,10 @@
       "url": "https://www.uisdc.com/archives",
       "homepage": "https://www.uisdc.com/archives",
       "categories": [
-        "界面设计",
         "用户体验设计",
         "人工智能设计"
       ],
-      "category": "界面设计",
+      "category": "用户体验设计",
       "mode": "curated",
       "access": "public",
       "ok": false,
@@ -196,7 +195,7 @@
       "homepage": "https://www.zcool.com.cn/",
       "categories": [
         "视觉设计",
-        "界面设计",
+        "用户体验设计",
         "动态设计",
         "人工智能设计"
       ],
@@ -213,10 +212,9 @@
       "url": "https://www.ui.cn/",
       "homepage": "https://www.ui.cn/",
       "categories": [
-        "界面设计",
         "用户体验设计"
       ],
-      "category": "界面设计",
+      "category": "用户体验设计",
       "mode": "curated",
       "access": "restricted",
       "ok": false,
@@ -229,9 +227,7 @@
       "url": "https://www.puxiang.com/",
       "homepage": "https://www.puxiang.com/",
       "categories": [
-        "工业设计",
-        "家具设计",
-        "交通工具设计"
+        "工业设计"
       ],
       "category": "工业设计",
       "mode": "curated",
@@ -263,8 +259,7 @@
       "url": "https://www.shejipi.com/",
       "homepage": "https://www.shejipi.com/",
       "categories": [
-        "工业设计",
-        "家具设计"
+        "工业设计"
       ],
       "category": "工业设计",
       "mode": "curated",
@@ -312,16 +307,16 @@
       "category": "建筑设计",
       "ok": true,
       "count": 24,
-      "latestPublishedAt": "2026-09-19T17:00:00+00:00"
+      "latestPublishedAt": "2026-09-20T17:00:00+00:00"
     },
     {
       "name": "Wallpaper",
       "label": "设计生活杂志",
       "url": "https://www.wallpaper.com/feeds.xml",
-      "category": "家具设计",
+      "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-09-19T10:00:00+00:00"
+      "latestPublishedAt": "2026-09-20T21:24:48+00:00"
     },
     {
       "name": "Its Nice That",
@@ -373,7 +368,7 @@
       "homepage": "https://www.domusweb.it/en.html",
       "categories": [
         "建筑设计",
-        "家具设计",
+        "工业设计",
         "空间设计"
       ],
       "category": "建筑设计",
@@ -404,9 +399,9 @@
       "url": "https://www.cardesignnews.com/",
       "homepage": "https://www.cardesignnews.com/",
       "categories": [
-        "交通工具设计"
+        "工业设计"
       ],
-      "category": "交通工具设计",
+      "category": "工业设计",
       "mode": "curated",
       "access": "public",
       "ok": false,
@@ -419,11 +414,11 @@
       "url": "https://dribbble.com/",
       "homepage": "https://dribbble.com/",
       "categories": [
-        "界面设计",
+        "用户体验设计",
         "视觉设计",
-        "动效设计"
+        "动态设计"
       ],
-      "category": "界面设计",
+      "category": "用户体验设计",
       "mode": "curated",
       "access": "public",
       "collectionUrl": "https://dribbble.com/stories",
@@ -444,7 +439,7 @@
       "name": "Figma",
       "label": "界面设计工具官方博客",
       "url": "https://www.figma.com/blog/feed/atom.xml",
-      "category": "界面设计",
+      "category": "用户体验设计",
       "ok": true,
       "count": 60,
       "latestPublishedAt": "2026-09-16T12:00:00+00:00"
@@ -551,11 +546,11 @@
     {
       "name": "Dieline",
       "label": "包装设计媒体",
-      "url": "https://thedieline.com/feed/",
       "category": "视觉设计",
-      "ok": true,
-      "count": 10,
-      "latestPublishedAt": "2026-09-18T20:37:37+00:00"
+      "url": "https://thedieline.com/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "name": "Packaging of the World",
@@ -630,6 +625,1739 @@
   ],
   "articles": [
     {
+      "id": "bf17a99f5671cadb",
+      "url": "https://www.yankodesign.com/2026/09/20/5-tiny-homes-that-prove-small-spaces-can-still-have-it-all/",
+      "title": "5 Tiny Homes That Prove Small Spaces Can Still Have It All",
+      "summary": "5 Tiny Homes That Prove Small Spaces Can Still Have It All The conversation around tiny homes keeps shifting. What started as a fringe lifestyle experiment now reads as genuine design ambition, with builders pushing layouts",
+      "source": "Yanko Design",
+      "category": "建筑设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/tiny-homes-that-prove-small-spaces-can-still-have-it-all/5_best_tiny_homes_yanko_design_hero.jpg",
+      "publishedAt": "2026-09-20T23:30:30+00:00",
+      "date": "2026-09-21",
+      "firstSeen": "2026-09-21",
+      "score": 98,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/08/adirondack-home/adirondack_yanko_design_01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/08/adirondack-home/adirondack_yanko_design_02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/08/adirondack-home/adirondack_yanko_design_03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/08/draft-nido-5-5/nido_5.5_yanko_design_01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/08/draft-nido-5-5/nido_5.5_yanko_design_02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/08/sunrise-tiny-home/sunrise_tiny_home_yanko_design_01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/08/sunrise-tiny-home/sunrise_tiny_home_yanko_design_04.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/08/ellice-home/ellice_yanko_design_01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/08/ellice-home/ellice_yanko_design_02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/08/petite-pelican/petite_pelican_yanko_design_01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/08/petite-pelican/petite_pelican_yanko_design_06.jpg"
+        }
+      ],
+      "titleZh": "五座小屋，把方寸之地做出完整生活",
+      "summaryZh": "五座小面积住宅各自解决不同的居住难题，用布局、收纳与采光把狭小面积变成可以久居的家。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "小屋曾经被当成边缘的生活方式实验，如今被当作正经的设计命题：建造者不断压缩布局，在原本没有空间的地方找出空间，并拒绝把面积当作舒适度的上限。",
+              "这五座房子各自对应一个不同的问题，放在一起看，能看到同一种取向——把有限尺寸里的每一处都算清楚。",
+              "文章按顺序介绍了每一座房子的做法与取舍，说明小面积并不等于将就。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "3badf57c43928564",
+      "url": "https://www.yankodesign.com/2026/09/20/a-side-table-that-actually-hides-books-in-plain-sight/",
+      "title": "A Side Table That Actually Hides Books in Plain Sight",
+      "summary": "A Side Table That Actually Hides Books in Plain Sight Most side tables are liars. They show up looking clean, then gradually become the household surface nobody planned for: stacked magazines, a charging cable,",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/a-side-table-that-actually-hides-books-in-plain-sight/nudge-00.jpg",
+      "publishedAt": "2026-09-20T22:30:36+00:00",
+      "date": "2026-09-21",
+      "firstSeen": "2026-09-21",
+      "score": 98,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-side-table-that-actually-hides-books-in-plain-sight/nudge-00.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-side-table-that-actually-hides-books-in-plain-sight/nudge-01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-side-table-that-actually-hides-books-in-plain-sight/nudge-03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-side-table-that-actually-hides-books-in-plain-sight/nudge-06.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-side-table-that-actually-hides-books-in-plain-sight/nudge-02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-side-table-that-actually-hides-books-in-plain-sight/nudge-04.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-side-table-that-actually-hides-books-in-plain-sight/nudge-05.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-side-table-that-actually-hides-books-in-plain-sight/nudge-07.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-side-table-that-actually-hides-books-in-plain-sight/nudge-08.jpg"
+        }
+      ],
+      "titleZh": "把书藏在眼皮底下的边桌",
+      "summaryZh": "边桌把杂志、充电线与遥控器的收纳做进桌面结构，正面看上去依然干净。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "常见的边桌先摆出干净的样子，随后慢慢变成全家堆放杂物的地方：摞起的杂志、充电线、三只遥控器，还有拖了六周没读完的那本书。",
+              "桌子本身对这些从来没有给出答案，只是一个平面，偶尔加一只会响的抽屉。",
+              "文章的观点是，这种混乱不是使用习惯的问题，而是设计问题，因此新的方案把收纳直接做成桌面结构的一部分。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "9f95f5f2b122ecc2",
+      "url": "https://www.designboom.com/architecture/big-shakira-temporary-city-madrid-reusable-structures/",
+      "title": "BIG builds a temporary city for shakira in madrid with reusable structures",
+      "summary": "shakira stadium by bjarke ingels group transforms madrid’s iberdrola music venue with temporary pavilions, recycled fabrics and 500",
+      "source": "designboom",
+      "category": "建筑设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/09/big-shakira-temporary-city-madrid-reusable-structures-designboom-7.jpg",
+      "publishedAt": "2026-09-20T21:07:28+00:00",
+      "date": "2026-09-21",
+      "firstSeen": "2026-09-21",
+      "score": 96,
+      "images": [
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/big-shakira-temporary-city-madrid-reusable-structures-designboom-7-768x534.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/big-shakira-temporary-city-madrid-reusable-structures-designboom-1-1-768x477.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/big-shakira-temporary-city-madrid-reusable-structures-designboom-4-768x432.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/big-shakira-temporary-city-madrid-reusable-structures-designboom-8-1967x2048.jpg"
+        }
+      ],
+      "titleZh": "为一场驻场演出，在马德里搭起一座临时小城",
+      "summaryZh": "比亚克·英格尔斯团队把马德里一处音乐场地改成可复用的临时文化聚落，用回收织物与预制构件替代常规场馆。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "演出场地占地十八万五千平方米，位于马德里比利亚韦尔德，原本是伊比德罗拉音乐场地。",
+              "设计团队把它整体改造成名为马孔多的临时文化景观，包含可容纳五万多人的演出场地，并大量使用回收织物与可拆装结构。",
+              "项目的出发点是不再重复传统演唱会场馆的做法，让一次驻场演出留下的构筑物可以再次使用。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "aeda1bfffa32cfee",
+      "url": "https://www.yankodesign.com/2026/09/20/this-266-square-foot-shipping-container-in-ohio-comes-with-a-private-hot-tub-a-fireplace-its-own-forest/",
+      "title": "This 266-Square-Foot Shipping Container in Ohio Comes With a Private Hot Tub, a Fireplace, & Its Own Forest",
+      "summary": "This 266-Square-Foot Shipping Container in Ohio Comes With a Private Hot Tub, a Fireplace, & Its Own Forest 266 square feet of shipping container sitting in an Ohio forest shouldn’t feel like somewhere you’d want to spend a weekend — and yet,",
+      "source": "Yanko Design",
+      "category": "建筑设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/luna-cottage/luna_cottage_yanko_design_01.jpg",
+      "publishedAt": "2026-09-20T20:45:42+00:00",
+      "date": "2026-09-21",
+      "firstSeen": "2026-09-21",
+      "score": 96,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/luna-cottage/luna_cottage_yanko_design_01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/luna-cottage/luna_cottage_yanko_design_02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/luna-cottage/luna_cottage_yanko_design_03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/luna-cottage/luna_cottage_yanko_design_04.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/luna-cottage/luna_cottage_yanko_design_05.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/luna-cottage/luna_cottage_yanko_design_06.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/luna-cottage/luna_cottage_yanko_design_07.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/luna-cottage/luna_cottage_yanko_design_08.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/luna-cottage/luna_cottage_yanko_design_09.jpg"
+        }
+      ],
+      "titleZh": "森林里的集装箱小屋，只够两个人住",
+      "summaryZh": "俄亥俄州一间约二十五平方米的集装箱度假屋，用壁炉、热水浴池与整面玻璃回应林地环境。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "小屋约二十四点七平方米，位于俄亥俄州霍金希尔斯，紧邻韦恩国家森林，由当地的小屋建造公司完成。",
+              "屋内按两人度假配置：壁炉、私人热水浴池，以及与林地相接的观景面。",
+              "文章认为它比工业化的出身更讲究，四周还分布着其他几座同样隐蔽的小屋。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "f646038af373b1ce",
+      "url": "https://www.designboom.com/art/auruboros-golden-installation-plastique-fantastique-new-york-high-line/",
+      "title": "auruBOROS golden installation by plastique fantastique spirals across new york’s high line",
+      "summary": "auruBOROS installation shifts between a distinct object and a reflected urban",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/389375/2026-09-15/auruboros-urban-memory-and-collective-dream-1-6aa9b2ee3e1ba.jpg",
+      "publishedAt": "2026-09-20T20:35:14+00:00",
+      "date": "2026-09-21",
+      "firstSeen": "2026-09-21",
+      "score": 81,
+      "images": [
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/389375/2026-09-15/auruboros-urban-memory-and-collective-dream-1-6aa9b2ee3e1ba.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/389375/2026-09-15/auruboros-urban-memory-and-collective-dream-6-6aa9b2ee3e391.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/389375/2026-09-15/auruboros-urban-memory-and-collective-dream-7-6aa9b2ee3e3d1.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/389375/2026-09-15/auruboros-urban-memory-and-collective-dream-8-6aa9b2ee3e40d.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/389375/2026-09-15/auruboros-urban-memory-and-collective-dream-2-6aa9b2ee3e254.jpg"
+        }
+      ],
+      "video": {
+        "provider": "vimeo",
+        "id": "1227113722",
+        "url": "https://player.vimeo.com/video/1227113722",
+        "thumbnail": "https://i.vimeocdn.com/video/2201270644-3027f870dacfb864e4ac19d2abf1af9d206d3851897e4d2c6693326ca4af3114-d_1280?region=us",
+        "title": "auruBOROS - Urban Memory and Collective Dream",
+        "author": "plastique fantastique",
+        "duration": 190,
+        "verifiedAt": "2026-09-21T01:12:56+00:00"
+      },
+      "videoGallery": [
+        "https://i.vimeocdn.com/video/2201270644-3027f870dacfb864e4ac19d2abf1af9d206d3851897e4d2c6693326ca4af3114-d_1280?region=us"
+      ],
+      "titleZh": "高线上的金色环形装置",
+      "summaryZh": "柏林艺术双人组的充气装置在纽约高线展出，把衔尾蛇意象做成会随光线变化的大型构件，由宝格丽委托。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "装置名为城市记忆与集体之梦，设在纽约高线公园、标准酒店下方，由柏林艺术双人组完成。",
+              "作品把古老的衔尾蛇形象转译成大型充气结构，连接建筑、公共空间与身体经验。",
+              "项目由宝格丽委托，属于其蛇形主题艺术系列，是临时展出。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b436a33893f856ca",
+      "url": "https://www.yankodesign.com/2026/09/20/vaios-multi-flip-laptop-is-back-after-a-decade-and-its-not-cheap/",
+      "title": "VAIO’s Multi-Flip laptop is back after a decade, and it’s not cheap",
+      "summary": "VAIO’s Multi-Flip laptop is back after a decade, and it’s not cheap Count how many times you have flipped your convertible into tablet mode this year. I am guessing the number sits closer to zero than",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/649401/vaio_t_series_laptop_1.jpeg",
+      "publishedAt": "2026-09-20T19:15:20+00:00",
+      "date": "2026-09-21",
+      "firstSeen": "2026-09-21",
+      "score": 95,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/649401/vaio_t_series_laptop_1.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/649401/vaio_t_series_laptop_2.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/649401/vaio_t_series_laptop_3.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/649401/vaio_t_series_laptop_4.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/649401/vaio_t_series_laptop_5.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/649401/vaio_t_series_laptop_6.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/649401/vaio_t_series_laptop_7.jpeg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "UGUmoc2puZY",
+        "url": "https://www.youtube.com/embed/UGUmoc2puZY",
+        "thumbnail": "https://i.ytimg.com/vi/UGUmoc2puZY/hqdefault.jpg",
+        "title": "VAIO® T 15秒プロモーション動画",
+        "author": "VAIO Official",
+        "duration": 0,
+        "verifiedAt": "2026-09-21T01:12:56+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/UGUmoc2puZY/hqdefault.jpg"
+      ],
+      "titleZh": "屏幕能翻转的笔记本，十年后再回来",
+      "summaryZh": "老牌日系笔记本把屏幕沿中轴翻转一百八十度，键盘向内收起，避免平板模式下手掌压到按键。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "这台十三点三英寸笔记本的屏幕可以绕顶盖中央的转轴翻转一百八十度，键盘随之收进机身内部。",
+              "设计针对的是常见翻转本的痛点：转成平板模式后，手掌会压到还在工作的键盘。",
+              "该系列上一次出现是十年前，这一代定价并不低。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "569cd3451e5ee1bb",
+      "url": "https://www.yankodesign.com/2026/09/20/the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents/",
+      "title": "The $499 Lapis One Is A Tiny Mac mini Alternative Built Just to Run Your AI Agents",
+      "summary": "The $499 Lapis One Is A Tiny Mac mini Alternative Built Just to Run Your AI Agents Earlier this year, people were buying Mac minis by the cartload just to give their OpenClaw agents somewhere to live, and Apple Store staff",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents/lapis_one_1.jpg",
+      "publishedAt": "2026-09-20T17:20:35+00:00",
+      "date": "2026-09-21",
+      "firstSeen": "2026-09-21",
+      "score": 93,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents/lapis_one_1.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents/lapis_one_2.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents/lapis_one_3.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents/lapis_one_4.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents/lapis_one_5.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents/lapis_one_6.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents/lapis_one_7.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents/lapis_one_8.jpeg"
+        }
+      ],
+      "titleZh": "一台只为智能体而生的迷你主机",
+      "summaryZh": "定价四百九十九美元的巴掌大主机把运行智能体当作唯一用途，外观借鉴了早期一体机的配色。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "今年早前，不少人成批购买迷你台式机，只为给智能体一个常驻的住处。",
+              "这台名为拉皮斯一号的机器据此出发：杯垫大小的主机，配色取自早期一体机的塑料外壳。",
+              "定价四百九十九美元，卖点是它从设计之初就按运行智能体的需求来配置。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "d75036b973c1441e",
+      "url": "https://www.dezeen.com/2026/09/20/bugatti-skyscraper-miami-brandon-haw-yabu-pushelberg/",
+      "title": "Bugatti unveils Miami skyscraper as first US branded residence",
+      "summary": "Car brand Bugatti has revealed plans for a 60-storey skyscraper on the Miami River, which will be designed by US architecture studio Brandon Haw Architecture with interiors by Yabu Pushelberg. Named Bugatti Residences Miami, the development will be the car brand's first branded residence in the US. It follows plans for its…",
+      "source": "Dezeen",
+      "category": "建筑设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/bugatti-skyscraper-miami-brandon-haw-yabu-pushelberg_dezeen_2364_col_0-852x852.jpg",
+      "publishedAt": "2026-09-20T17:00:55+00:00",
+      "date": "2026-09-21",
+      "firstSeen": "2026-09-21",
+      "score": 93,
+      "images": [
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/bugatti-skyscraper-miami-brandon-haw-yabu-pushelberg_dezeen_2364_col_3-1704x2059.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/bugatti-skyscraper-miami-brandon-haw-yabu-pushelberg_dezeen_2364_col_4-1704x2059.jpg"
+        }
+      ],
+      "titleZh": "布加迪在迈阿密推出首座美国住宅塔楼",
+      "summaryZh": "汽车品牌公布六十层住宅塔楼方案，由美国建筑事务所负责建筑、室内由设计工作室操刀，是其在美首个冠名住宅。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "方案位于迈阿密河畔，共六十层，建筑由美国建筑事务所设计，室内由设计工作室负责。",
+              "项目名为布加迪住宅，是该汽车品牌在美国的首个冠名住宅。",
+              "此前它已于二〇二三年公布迪拜的首座住宅塔楼计划，这是汽车品牌把品牌资产延伸到住宅领域的最新一例。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "9a8d96ded803dd0d",
+      "url": "https://www.archdaily.com/1185211/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design",
+      "title": "Tojiro Knife Gallery Tokyo \"Hanare\" / L/O (KATATA YOSHISHITO DESIGN)",
+      "summary": "A place to meet your true knife – A Tojiro knife is not merely a product. It is a tool used for decades, resharpened, repaired, and growing alongside its owner. Choosing a knife, we believe, is therefore not an act of comparison but of time: the time it takes to find the one blade you will live with. Tojiro's flagship store is…",
+      "source": "ArchDaily",
+      "category": "空间设计",
+      "image": null,
+      "publishedAt": "2026-09-20T17:00:00+00:00",
+      "date": "2026-09-21",
+      "firstSeen": "2026-09-21",
+      "score": 78,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/749b/4f64/5201/8803/147a/newsletter/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_1.jpg?1789555894"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/749a/8a93/3f01/88f2/310f/thumb_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_12.jpg?1789555893"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/749a/4f64/5201/8803/1479/thumb_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_3.jpg?1789555894"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/749d/8a93/3f01/88f2/3113/thumb_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_8.jpg?1789555923"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/749f/8a93/3f01/88f2/3118/thumb_jpg/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_17.jpg?1789555926"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/749a/8a93/3f13/63ed/9938/newsletter/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_14.jpg?1789555894"
+        },
+        {
+          "url": "https://assets.adsttc.com/doodles/flat/loader-blue.gif"
+        }
+      ],
+      "titleZh": "东京的刀具展厅，把挑选变成一件慢事",
+      "summaryZh": "藤次郎在东京开出旗舰空间，用长期使用与反复打磨的角度组织陈列，三十平方米里讲的是把一把刀用一辈子。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "展厅位于东京，面积三十平方米，由设计团队负责，二〇二六年完成。",
+              "主张是一把刀不只是商品，而是会陪伴使用者几十年的工具：需要重新开刃、维修，并随时间变化。",
+              "因此挑选刀具不是比较参数，而是一段时间；门店把全系列陈列、磨刀与保养放在同一个空间里。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "231571f159ab2eb8",
+      "url": "https://www.designboom.com/design/wendell-castle-living-family-home-furniture-friedman-benda-exhibition/",
+      "title": "wendell castle’s family home returns through furniture and artifacts at friedman benda",
+      "summary": "the friedman benda show brings sculptural furniture back among the personal objects and artworks that once surrounded",
+      "source": "designboom",
+      "category": "工业设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-01.jpg",
+      "publishedAt": "2026-09-20T16:55:25+00:00",
+      "date": "2026-09-21",
+      "firstSeen": "2026-09-20",
+      "score": 93,
+      "images": [
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-01-768x679.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-02-768x512.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-03-768x512.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-04-768x534.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-05-768x536.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-06-768x512.jpg"
+        }
+      ],
+      "titleZh": "把设计师的家，连同家具一起搬进展厅",
+      "summaryZh": "展览重现温德尔·卡斯尔家中的起居场景，把雕塑家具放回它原本生活的物件之间。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "展览呈现美国设计师温德尔·卡斯尔的家庭场景，把他的雕塑家具与当时围绕在身边的家传物件、艺术品放在一起。",
+              "陈设方式还原了居所而非美术馆的观看关系：家具与绘画、摆件彼此相邻，参观者能看出作品在真实生活里的尺度与位置。",
+              "这种布置回应了一个问题：当雕塑家具离开白盒子空间，它首先是一件被使用的家具。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "0af1257d554bf552",
+      "url": "https://www.archdaily.com/1185419/la-grieta-pavilion-onda-pavilion-plus-weyes-estudio",
+      "title": "La Grieta Pavilion / Onda Pavilion + WEYES Estudio",
+      "summary": "Understanding architecture as both a collaborative and experiential practice, La Grieta Pavilion was conceived as an academic and constructive exploration focused on sustainability, material awareness, and the relationship between light, time, and space. Designed in collaboration with WEYES Studio and developed alongside…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-20T16:00:00+00:00",
+      "date": "2026-09-21",
+      "firstSeen": "2026-09-21",
+      "score": 77,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ab0/1f75/8d91/7901/8920/5a19/newsletter/pabellon-la-grieta-weyes-plus-cedim-onda-pavilion_14.jpg?1789927301"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa8/258b/a74d/1200/0125/e3ac/thumb_jpg/Pabell_n_La_Grieta_-_02.jpg?1789404658"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa8/258b/a74d/1200/0125/e3af/thumb_jpg/Pabell_n_La_Grieta_-_05.jpg?1789404926"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa8/258b/a74d/1200/0125/e3b1/thumb_jpg/Pabell_n_La_Grieta_-_07.jpg?1789404633"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa8/258b/a74d/1200/0125/e3ae/thumb_jpg/Pabell_n_La_Grieta_-_04.jpg?1789404776"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa8/258b/a74d/1200/0125/e3ac/newsletter/Pabell_n_La_Grieta_-_02.jpg?1789404658"
+        },
+        {
+          "url": "https://assets.adsttc.com/doodles/flat/loader-blue.gif"
+        }
+      ],
+      "titleZh": "学生与工作室合建的裂缝展亭",
+      "summaryZh": "墨西哥蒙特雷的设计学院与工作室合作，用二十六平方米的临时展亭试验可持续材料与光、时间的关系。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "展亭位于墨西哥圣卡塔琳娜市，面积二十六平方米，二〇二五年完成。",
+              "项目由蒙特雷高等设计研究中心与当地设计工作室共同完成，是一次教学与建造结合的尝试。",
+              "关注点包括可持续性、材料意识，以及光、时间与空间之间的关系。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "6404bdcab6d6ea43",
+      "url": "https://www.yankodesign.com/2026/09/20/yoniq-made-a-199-playstation-portal-that-doesnt-need-a-playstation/",
+      "title": "Yoniq Made a $199 PlayStation Portal That Doesn’t Need a PlayStation",
+      "summary": "Yoniq Made a $199 PlayStation Portal That Doesn’t Need a PlayStation Every great gadget eventually gets a knockoff cousin. The iPod had thousands of them, those chunky no-name MP3 players with a click wheel that",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/649343/yoniq_portal_1.jpeg",
+      "publishedAt": "2026-09-20T15:20:25+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 92,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/649343/yoniq_portal_1.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/649343/yoniq_portal_2.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/649343/yoniq_portal_3.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/649343/yoniq_portal_4.jpeg"
+        }
+      ],
+      "titleZh": "一百九十九美元的掌机，不需要主机",
+      "summaryZh": "一款不依赖游戏主机的串流掌机以低价切入，靠外形与价格参与竞争。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "每一代热门电子设备都会出现同类产品：外形相近、价格低得多，功能大体够用。",
+              "这台定价一百九十九美元的掌上设备对应的是游戏主机的串流手柄，但不需要那台主机。",
+              "文章把它放进这类平替产品的脉络里讨论，重点在价格与形态，而不是生态。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "95a814b181bf9878",
+      "url": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+      "title": "Technology Park of Luanda / Typsa",
+      "summary": "In June 2026, the Luanda Technology Park was officially inaugurated in the presence of the President of Angola and a large delegation of government ministers, marking the completion of three years of construction and the transformation of an existing technological campus into a renewed hub for education, research, and…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-20T15:00:00+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 76,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e416/newsletter/technology-park-1.jpg?1789414226"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e41a/thumb_jpg/technology-park-13.jpg?1789414231"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e417/thumb_jpg/technology-park-3.jpg?1789414219"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e419/thumb_jpg/technology-park-12.jpg?1789414256"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e414/thumb_jpg/technology-park-4.jpg?1789414225"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e417/newsletter/technology-park-3.jpg?1789414219"
+        },
+        {
+          "url": "https://assets.adsttc.com/doodles/flat/loader-blue.gif"
+        }
+      ],
+      "titleZh": "罗安达科技园，接管一片旧校园",
+      "summaryZh": "安哥拉罗安达的科技园正式启用，用三年施工把旧技术校园改造成教育、研究与创新的综合体。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "项目位于安哥拉罗安达，建筑面积两万五千五百三十平方米，由西班牙工程公司设计，二〇二六年完成。",
+              "二〇二六年六月正式启用，安哥拉总统与多位政府部长出席，施工历时三年。",
+              "改造把原有的技术校园更新为教育、研究与创新的综合体。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "2494761d39394382",
+      "url": "https://www.designboom.com/art/nick-cave-stage-crowd/",
+      "title": "nick cave’s soundsuits bring the stage into the crowd",
+      "summary": "rooted in a 1992 response to racial violence, cave’s practice has evolved into a fluid language of anonymity, craft, and collective",
+      "source": "designboom",
+      "category": "视觉设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/09/nick-caves-soundsuits-body-stage-sound-movement-identity-designboom-16.jpg",
+      "publishedAt": "2026-09-20T14:45:51+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 91,
+      "images": [
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/nick-caves-soundsuits-body-stage-sound-movement-identity-designboom-16-768x576.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/nick-caves-soundsuits-body-stage-sound-movement-identity-designboom-11-768x576.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/nick-caves-soundsuits-body-stage-sound-movement-identity-designboom-15-768x578.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/nick-caves-soundsuits-body-stage-sound-movement-identity-designboom-18-768x578.jpg"
+        }
+      ],
+      "titleZh": "尼克·凯夫的声衣，把舞台带进人群",
+      "summaryZh": "艺术家从一九九二年回应种族暴力的作品出发，让可穿戴的雕塑离开基座、走进车站与人群。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "声衣不放在展台上：它穿过车站、街道与拥挤的大厅，每走一步表面都会发出声响。",
+              "穿着者被包裹之后几乎无法辨认，体量也改变了人的轮廓。",
+              "这套创作的起点是一九九二年对种族暴力的回应，此后发展为关于匿名、工艺与集体经验的语言。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "533ed6a92137dbc2",
+      "url": "https://www.yankodesign.com/2026/09/20/the-humidifier-that-refuses-to-use-synthetic-scent/",
+      "title": "The Humidifier That Refuses To Use Synthetic Scent",
+      "summary": "The Humidifier That Refuses To Use Synthetic Scent I have owned exactly four humidifiers in my adult life, and every single one of them looked like a medical device that wandered into",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/the-humidifier-that-refuses-to-use-synthetic-scent/potpourri-00.jpg",
+      "publishedAt": "2026-09-20T13:42:38+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 90,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-humidifier-that-refuses-to-use-synthetic-scent/potpourri-00.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-humidifier-that-refuses-to-use-synthetic-scent/potpourri-01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-humidifier-that-refuses-to-use-synthetic-scent/potpourri-02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-humidifier-that-refuses-to-use-synthetic-scent/potpourri-03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-humidifier-that-refuses-to-use-synthetic-scent/potpourri-04.jpg"
+        }
+      ],
+      "titleZh": "拒绝香精的加湿器",
+      "summaryZh": "一款加湿器不靠合成香氛做卖点，把水雾之外的气味交回使用者自己决定。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "常见的加湿器外观像医疗器械：白色塑料、闪烁的蓝灯，以及本身没有气味的水雾。",
+              "使用者往往要额外滴入精油，于是家里变成一间过度用力的水疗房。",
+              "文章从这种日常挫败出发，介绍一台不依赖合成香氛的加湿器。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "54084c114fcc2f84",
+      "url": "https://www.creativebloq.com/entertainment/gaming/everyone-has-a-hundred-bad-games-in-them-and-we-did-them-really-quickly-adam-vian-on-the-creation-and-evolution-of-detective-grimoire",
+      "title": "\"Everyone has a hundred bad games in them, and we did them really quickly\": Adam Vian on the creation and evolution of Detective Grimoire",
+      "summary": "The creative director of SFB Games tells us about developing the studio’s style from Adobe Flash games to The Mermaid",
+      "source": "Creative Bloq",
+      "category": "视觉设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZrXPpYp9mb7wC3HtD42Ndb-1920-80.jpg",
+      "publishedAt": "2026-09-20T13:00:00+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 90,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/R4AssyLorPyG8oY6VrHiQb-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Ts3DUYaF7uKgYCxLHpFvZb-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Likndq2chpiRdyLFetiHXb-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZrXPpYp9mb7wC3HtD42Ndb-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/jocmonu2sk69he4dobgpfd-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/kc6a9qH7pykBPi3vdcLMUb-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/mcndbQxfhCvhmggxXzfjnb-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/CQ7XTzePpSQc75Jnjgpdtb-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/AKMWGUXNaumBH8iuXbVtnb-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XLrAuBn4aMf9aCHnNWmcga-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4qrgMpTHc8bVbQYtaMaWfa-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/LpQsn8cBg6p8pRxhKApQba-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/cLDXVn5bBmxVxGUEsrkiba-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/MMbFQZAzPjE5kXPdYneWba-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HsfSACgAsJMiE7aXs5TA8a-320-80.jpg"
+        }
+      ],
+      "titleZh": "从网页小游戏到《侦探格里莫尔》",
+      "summaryZh": "英国独立工作室的创意总监谈二维手绘风格如何从早期网页动画游戏一路演化，并在新作里继续生长。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "电子游戏史常被写成技术升级的故事：从低分辨率二维走向更逼真的三维。",
+              "创意总监认为，把二维美术当成怀旧是一种误判，它本身可以继续演化。",
+              "访谈回顾了工作室从早期网页动画工具时期的作品到新作之间的风格变化。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "169d2701f5af2430",
+      "url": "https://www.creativebloq.com/tech/forget-frame-tvs-this-e-ink-digital-art-frame-is-cheaper-and-nicer-to-look-at",
+      "title": "Forget Frame TVs, this e-ink digital art frame is cheaper and nicer to look at",
+      "summary": "The InkPoster Affresco behaves like wall art really",
+      "source": "Creative Bloq",
+      "category": "工业设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/8qHdY9vNjGDBrta7B2MRam-1920-80.jpg",
+      "publishedAt": "2026-09-20T12:00:00+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 74,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/8qHdY9vNjGDBrta7B2MRam-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6S6amewfXAoV86ESSn9CzD-200-80.jpg.webp"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/z8ACMPeaL29tAhHRUtADam-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Dr374CAtipFcqYZxSLx6Ym-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/srsFpVYd9PPoHq6mDVuYs9-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Z323KQexaN5bBJdAPjvXMM-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/z8ACMPeaL29tAhHRUtADam-415-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Dr374CAtipFcqYZxSLx6Ym-415-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/srsFpVYd9PPoHq6mDVuYs9-415-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Z323KQexaN5bBJdAPjvXMM-415-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZrXPpYp9mb7wC3HtD42Ndb-320-80.jpg"
+        }
+      ],
+      "titleZh": "比画框电视便宜的电子墨水画框",
+      "summaryZh": "一款电子墨水数字画框以更低价格与更像挂画的外观，替代客厅里常见的画框电视方案。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "想把喜欢的作品轮流挂在客厅的人，常会考虑画框电视。",
+              "但这类产品价格偏高，屏幕质感也未必像画。",
+              "这台电子墨水画框以更低的成本和更像挂画的外观，作为替代方案出现。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "eb110062b8606c47",
+      "url": "https://www.yankodesign.com/2026/09/20/the-bali-yoga-studio-quietly-refusing-to-use-air-conditioning/",
+      "title": "The Bali Yoga Studio Quietly Refusing to Use Air Conditioning",
+      "summary": "The Bali Yoga Studio Quietly Refusing to Use Air Conditioning Most wellness architecture makes a promise it can’t keep. Retreat centers market themselves on words like “grounding” and “presence,” then wall you into a",
+      "source": "Yanko Design",
+      "category": "建筑设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/the-bali-yoga-studio-quietly-refusing-to-use-air-conditioning/lotus-yoga-01.jpg",
+      "publishedAt": "2026-09-20T11:40:32+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 89,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-bali-yoga-studio-quietly-refusing-to-use-air-conditioning/lotus-yoga-01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-bali-yoga-studio-quietly-refusing-to-use-air-conditioning/lotus-yoga-02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-bali-yoga-studio-quietly-refusing-to-use-air-conditioning/lotus-yoga-05.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-bali-yoga-studio-quietly-refusing-to-use-air-conditioning/lotus-yoga-03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-bali-yoga-studio-quietly-refusing-to-use-air-conditioning/lotus-yoga-06.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-bali-yoga-studio-quietly-refusing-to-use-air-conditioning/lotus-yoga-07.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-bali-yoga-studio-quietly-refusing-to-use-air-conditioning/lotus-yoga-08.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-bali-yoga-studio-quietly-refusing-to-use-air-conditioning/lotus-yoga-04.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-bali-yoga-studio-quietly-refusing-to-use-air-conditioning/lotus-yoga-010.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-bali-yoga-studio-quietly-refusing-to-use-air-conditioning/lotus-yoga-09.jpg"
+        }
+      ],
+      "titleZh": "巴厘岛的瑜伽教室，不用空调",
+      "summaryZh": "这间工作室不做封闭的恒温空间，而是让自然通风成为主动的设计手法，回应养生建筑常被质疑的能耗问题。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "养生建筑常许诺让人与自然重新连接，实际却把人关进恒温的盒子，靠音箱播放海浪声。",
+              "巴厘岛这间瑜伽工作室选择不做封闭的空调空间，而用朝向与构造组织通风。",
+              "设计团队把这种取舍当作设计主张，而不是成本上的退让。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "f4b900d1bd1994dd",
+      "url": "https://www.archdaily.com/1184906/casa-atelier-brasilia",
+      "title": "Casa Atelier Brasilia / NAHE ARCHOTECTS",
+      "summary": "Casa Atelier Brasilia explores the relationship between architecture, climate and domestic life through a precise recalibration of an existing home. The project begins with a simple ambition: to transform a conventional apartment into a sequence of quiet, connected spaces in which light, material and proportion shape everyday…",
+      "source": "ArchDaily",
+      "category": "空间设计",
+      "image": null,
+      "publishedAt": "2026-09-20T11:00:00+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 74,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6aa2/e02d/05b6/9900/01b5/3a95/newsletter/Music_Studio_01___NAHE_ARCHITECTS.jpg?1789059267"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa2/e02b/05b6/9900/01b5/3a8b/thumb_jpg/Painting_Studio_02___NAHE_ARCHITECTS.jpg?1789059141"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa2/e02c/05b6/9900/01b5/3a91/thumb_jpg/Living_Room_01___NAHE_ARCHITECTS.jpg?1789059150"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa2/e02d/05b6/9900/01b5/3a93/thumb_jpg/Master_Bedroom_01___NAHE_ARCHITECTS.jpg?1789059224"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa2/e02b/05b6/9900/01b5/3a8a/thumb_jpg/Painting_Studio_01___NAHE_ARCHITECTS.jpg?1789059137"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa2/e02b/05b6/9900/01b5/3a8a/newsletter/Painting_Studio_01___NAHE_ARCHITECTS.jpg?1789059137"
+        },
+        {
+          "url": "https://assets.adsttc.com/doodles/flat/loader-blue.gif"
+        }
+      ],
+      "titleZh": "马德里的公寓改造，把动线变成一串安静房间",
+      "summaryZh": "一套常规公寓被重新划分成连续空间，用光、材料与比例重新组织日常生活，面积一百六十平方米。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "项目位于马德里，面积一百六十平方米，二〇二六年完成，属于旧房改造与住宅室内。",
+              "出发点是把一套普通公寓改成一串安静、彼此连通的空间。",
+              "光、材料与比例被当作塑造日常体验的主要手段，而不是收尾阶段的装饰。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "0cd35bff46864da3",
+      "url": "https://www.dezeen.com/2026/09/20/house-of-shadows-cadence-architects/",
+      "title": "Multi-generational house in Bengaluru designed to be \"conducive to reading\"",
+      "summary": "Cosy nooks and a study are among the spaces designed for reading at House of Shadows, a multi-generational home in Bengaluru, Karnataka, by Indian studio Cadence Architects. Located on a quiet, tree-lined road, the house was designed for a family of bookworms who moved back to India after living in the USA for over",
+      "source": "Dezeen",
+      "category": "建筑设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/house-of-shadows-cadence-architects-bangalore-india-residential-architecture_dezeen_2364_sq2-852x852.jpg",
+      "publishedAt": "2026-09-20T10:00:58+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 88,
+      "images": [
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/house-of-shadows-cadence-architects-bangalore-india-residential-architecture_dezeen_2364_col_0-1704x2556.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/house-of-shadows-cadence-architects-bangalore-india-residential-architecture_dezeen_2364_col_2-1704x2556.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/house-of-shadows-cadence-architects-bangalore-india-residential-architecture_dezeen_2364_col_11-1704x2556.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/house-of-shadows-cadence-architects-bangalore-india-residential-architecture_dezeen_2364_col_9-1704x2556.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/house-of-shadows-cadence-architects-bangalore-india-residential-architecture_dezeen_2364_col_15-1704x2556.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/house-of-shadows-cadence-architects-bangalore-india-residential-architecture_dezeen_2364_col_7-1704x2556.jpg"
+        }
+      ],
+      "titleZh": "为一家书虫设计的阴影住宅",
+      "summaryZh": "印度建筑事务所在班加罗尔为多代同堂家庭设计住宅，用偏暗的材料色板与阅读角回应一家人的读书习惯。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "住宅位于印度班加罗尔一条安静的林荫路旁，由当地建筑事务所设计。",
+              "委托家庭在美国生活十多年后回到印度，全家都爱读书。",
+              "设计因此安排了多处阅读角落与一间书房，并采用偏暗、带有阴影感的材料色板。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "960c9e54fc583d5d",
+      "url": "https://www.archdaily.com/1185117/the-sound-of-wood-antoine-aunave-flora-peyrot-mathilde-steenhaut-luc-loviton",
+      "title": "The Sound of Wood / Antoine Aunave, Flora Peyrot, Mathilde Steenhaut, Luc Loviton",
+      "summary": "Nestled in the hollow of the valley, the village seems held within the mountains that embrace it, as if sheltered from the bustle of the world. The air feels denser, filled with a constant freshness that the sun seems to preserve with pleasure, hidden behind the peaks. Here, the landscape is something to be observed, to be…",
+      "source": "ArchDaily",
+      "category": "空间设计",
+      "image": null,
+      "publishedAt": "2026-09-20T10:00:00+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 73,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6aa9/1f61/a74d/1200/0125/ec7d/newsletter/Le_Bruit_du_Bois__12_sur_26_.jpg?1789468552"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa9/1f61/a74d/1200/0125/ec84/thumb_jpg/Le_Bruit_du_Bois__7_sur_26_.jpg?1789468576"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa9/1f61/a74d/1200/0125/ec8a/thumb_jpg/Le_Bruit_du_Bois__8_sur_26_.jpg?1789468621"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa9/1f61/a74d/1200/0125/ec98/thumb_jpg/Le_Bruit_du_Bois__19_sur_26_.jpg?1789468695"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa9/1f61/a74d/1200/0125/ec92/thumb_jpg/Le_Bruit_du_Bois__18_sur_26_.jpg?1789468659"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa9/1f61/a74d/1200/0125/ec94/newsletter/Le_Bruit_du_Bois__22_sur_26_.jpg?1789468578"
+        },
+        {
+          "url": "https://assets.adsttc.com/doodles/flat/loader-blue.gif"
+        }
+      ],
+      "titleZh": "山谷里十五平方米的木质装置",
+      "summaryZh": "四位设计师在法国阿尔卑斯山谷建起小尺度木构装置，让声音、材料与观看山谷的方式发生关系。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "装置位于法国法韦尔热塞特内，面积十五平方米，二〇二六年完成。",
+              "场地在群山环抱的山谷深处，空气清冽，景观本身就是被观看的对象。",
+              "项目属于装置与景观类，由四位设计师共同署名。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "e3cd54ed47ceb935",
+      "url": "https://www.wallpaper.com/architecture/residential/1950s-house-by-bernard-calley-and-georges-alet-for-sale",
+      "title": "In Toulouse, this 1950s house by Bernard Calley and Georges Alet hits the market",
+      "summary": "For €1.45m, a six-bedroom slice of avant-garde modernist architecture from the 1950s could be",
+      "source": "Wallpaper",
+      "category": "建筑设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/VobFsXqeefaFcet2Ng787m-1920-80.png",
+      "publishedAt": "2026-09-20T09:16:16+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 87,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UfcWbZXV83rHippVcWzaYm-320-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7USKNduHVPb2dG8GXGEbjm-320-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/gRMgkEokvUQ6TNRjNW3iyk-320-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YxPWLDHZYTSaCEkzRyPKPh-320-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rMaGhaNKMTNhRcYthMyawf-320-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/AFD99RcPDBgwdqC8BPSfoh-320-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/AKP6Twp3AzAXaBG5VShr4k-320-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HWaZntFPcJTTqNzudPhfLk-320-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3DYx8j54YQiRwEH5P3CuTm-320-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/AhLzGDqzw4NyksM89x8JBm-320-80.png"
+        }
+      ],
+      "titleZh": "一九五三年的图卢兹住宅挂牌出售",
+      "summaryZh": "一栋由两位建筑师设计、落成于一九五三年的现代主义住宅重新进入市场，六间卧室，报价一百四十五万欧元。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "住宅位于法国图卢兹加龙河畔的高处，由建筑师贝纳尔·卡莱与乔治·阿莱设计，一九五三年落成。",
+              "建筑属于战后先锋现代主义的作品，共有六间卧室。",
+              "目前挂牌价格为一百四十五万欧元。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "d9cdd13b84a70303",
+      "url": "https://www.dezeen.com/2026/09/20/bamboo-buildings-roundup/",
+      "title": "Seven buildings that demonstrate the versatility of bamboo",
+      "summary": "Bamboo-clad parasols and a three-storey bamboo truss feature in this roundup of buildings from Southeast and South Asia built using the fast-growing plant. Mahamudra Meditation Centre, Nepal, by Abari A mandala-shaped bamboo truss crowns this Buddhist meditation centre in Tibet, Nepal, which is perched atop a mountain near the…",
+      "source": "Dezeen",
+      "category": "建筑设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/bamboo-buildings-roundup-sq_dezeen_2364_col_3-852x852.jpg",
+      "publishedAt": "2026-09-20T09:00:12+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 87,
+      "images": [
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/bamboo-buildings-roundup-sq_dezeen_2364_col_3-1704x1704.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/bamboo-buildings-roundup-sq_dezeen_2364_col_6-1704x1704.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/bamboo-buildings-roundup-sq_dezeen_2364_col_5-1704x1704.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/bamboo-buildings-roundup-sq_dezeen_2364_col_4-1704x1704.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/bamboo-buildings-roundup-sq_dezeen_2364_col_1-1704x1704.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/bamboo-buildings-roundup-sq3_dezeen_2364_col_0-1704x1704.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/bamboo-buildings-roundup-sq2_dezeen_2364_col_0-1704x1704.jpg"
+        }
+      ],
+      "titleZh": "七座竹建筑，材料的多用性",
+      "summaryZh": "一组来自南亚与东南亚的建筑合集，展示竹材从遮阳伞到三层桁架的不同用法。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "合集收录东南亚与南亚的多座建筑，共同点是使用生长迅速的竹材。",
+              "其中包括尼泊尔的大手印冥想中心，由建筑事务所设计，顶部是曼陀罗形状的竹桁架。",
+              "其余案例使用竹制遮阳构件与三层高的竹桁架，呈现同一种材料的不同结构可能。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "0b326012680c75c2",
+      "url": "https://www.creativebloq.com/ai/ai-art/a-creative-studio-built-an-ai-slop-monster-as-a-promise-never-to-make-one-again",
+      "title": "A creative studio built an \"AI slop monster\" sculpture as a promise never to make one again",
+      "summary": "This ‘CHAIMERA’ is coming to the British Art Fair this",
+      "source": "Creative Bloq",
+      "category": "人工智能设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/bBDiKYLdzf5qWRYuvmsr37-1920-80.jpg",
+      "publishedAt": "2026-09-20T09:00:00+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 72,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/bBDiKYLdzf5qWRYuvmsr37-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/QLxaYmoVNUqUu6L4hKjmQ6-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ii753cjAWKKdxoryYebQLG-320-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/SvKFAD3R6XJLbphpkDeJRG-320-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZrXPpYp9mb7wC3HtD42Ndb-320-80.jpg"
+        }
+      ],
+      "titleZh": "一间工作室做了一只人工智能垃圾怪物",
+      "summaryZh": "英国创意工作室把对生成内容的批评做成雕塑，并说这是一次不再重复的承诺，作品将在英国艺术博览会展出。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "二〇二六年，粗糙的生成内容已经相当普遍，大品牌也开始大量使用，甚至有人用它制作招生海报。",
+              "一间英国创意工作室据此做了一只名为奇美拉的雕塑，把这种批评实体化。",
+              "工作室说这是不再做一次的承诺，作品将在英国艺术博览会展出。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "9ef82366ab2d02c1",
+      "url": "https://www.wallpaper.com/design-interiors/visual-comms/holiday-exotica-fuel-publishing-book",
+      "title": "‘Holiday Exotica’ is a visual celebration of the early days of bold and beautiful vacation design",
+      "summary": "No need to pack your bags to experience these destinations; Jonny Trunk’s new compilation of print ephemera celebrates the art of holiday",
+      "source": "Wallpaper",
+      "category": "视觉设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/gd5ridCoQHHVdoCR7rGLPG-1920-80.jpg",
+      "publishedAt": "2026-09-20T08:51:30+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 87,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/upBAPoXpRAFxCUTtytAaKm-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/PeSjZuBsbAcHp87Syz7cR5-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XHbje9WcXBXKrraueMcudB-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/PeSWeUbUkp85jD8mgoguUK-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/iwLeQ4L9Ntfkucu5iwpSfK-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/VKYG9VtMZjoj8VMy7yaogK-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/gd5ridCoQHHVdoCR7rGLPG-320-80.jpg"
+        }
+      ],
+      "titleZh": "一九六七年的假日印刷品，收进一本书",
+      "summaryZh": "收藏者把英国假日宣传与印刷小物整理成册，记录那个年代直白的度假视觉语言。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "这位收藏者以整理旧图像见长，这次把目光投向度假主题的印刷品。",
+              "书中收录包括一九六七年英国假日宣传在内的素材。",
+              "这些印刷物记录了当时大胆而直接的度假视觉语言，由出版社正式出版。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "f2933e93c7616fbb",
+      "url": "https://www.wallpaper.com/architecture/mutti-tomato-tin-objectify-carlo-ratti-italy",
+      "title": "Why the Mutti tomato tin is more than just food – it's ‘summer in a can’",
+      "summary": "In his last instalment of ‘Objectify’, architect Carlo Ratti turns his attention to an Italian kitchen staple – the Mutti tomato tin, and how its gleaming red-and-gold packaging came to",
+      "source": "Wallpaper",
+      "category": "视觉设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/B3ib5YQabNtTv36dVnBV53-1920-80.jpg",
+      "publishedAt": "2026-09-20T08:30:19+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 87,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/devoKzbqWjckiKEZuVxKwj-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/aJTK68mjvSVR4LKSkJcpgm-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/E8AnLntUNeifgSo3KYCXfK-320-80.jpg"
+        }
+      ],
+      "titleZh": "一只番茄罐头，为什么成了意大利符号",
+      "summaryZh": "建筑师卡洛·拉蒂在专栏里拆解穆蒂罐头的红金包装，讲述它如何变成厨房里的固定形象。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "这组专栏由建筑师卡洛·拉蒂撰写，专门观察日常物件。",
+              "这一期的主角是意大利厨房里的番茄罐头，文章关注它光亮的红金配色从何而来。",
+              "作者把包装放回意大利日常生活的脉络里，解释它如何成为固定形象。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "175202db4231f8da",
+      "url": "https://www.creativebloq.com/design/poster-design/new-clayface-poster-gets-creepier-the-more-you-look-at-it",
+      "title": "New Clayface poster gets creepier the more you look at it",
+      "summary": "Artist Orlando Arocena nails visceral",
+      "source": "Creative Bloq",
+      "category": "视觉设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/7YDpdPTHhDHwM8vj5aiUSi-1920-80.jpg",
+      "publishedAt": "2026-09-20T08:00:00+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 72,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7YDpdPTHhDHwM8vj5aiUSi-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/wYGeQzqMhYpuinGc9GYwWU-320-80.jpg"
+        }
+      ],
+      "titleZh": "越看越不安的泥面人海报",
+      "summaryZh": "艺术家为电影宣传绘制的新海报把身体质地推到前景，靠细节堆叠制造不适感。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "这部电影的宣传物料以令人不安为特色，从预告片到系列海报都延续这种基调。",
+              "艺术家为其中一张新海报绘制了主体形象。",
+              "画面把身体质地放在前景，越是细看越显不适。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "6453c8832bf5e327",
+      "url": "https://www.designboom.com/architecture/igarchitects-tokyo-house-field-structural-timber-walls/",
+      "title": "IGArchitects builds tokyo house from field of structural timber walls",
+      "summary": "igarchitects tests the spatial strength of timber architecture with a house shaped by a field of structural",
+      "source": "designboom",
+      "category": "建筑设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/468038/2026-09-10/house-of-wall-forest-6-6aa33eed8b9b0.jpg",
+      "publishedAt": "2026-09-20T07:45:22+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 86,
+      "images": [
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/468038/2026-09-10/house-of-wall-forest-6-6aa33eed8b9b0.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/468038/2026-09-10/house-of-wall-forest-7-6aa33eed8b9ee.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/468038/2026-09-10/house-of-wall-forest-1-6aa33eed8b795.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/468038/2026-09-10/house-of-wall-forest-8-6aa33eed8ba2c.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/468038/2026-09-10/house-of-wall-forest-2-6aa33eed8b818.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/468038/2026-09-10/house-of-wall-forest-3-6aa33eed8b85d.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/468038/2026-09-10/house-of-wall-forest-4-6aa33eed8b89c.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/468038/2026-09-10/house-of-wall-forest-9-6aa33eed8ba68.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/468038/2026-09-10/house-of-wall-forest-12-6aa33eed8bb25.jpg"
+        }
+      ],
+      "titleZh": "用一片木墙森林取代常规房间",
+      "summaryZh": "东京住宅把钢筋混凝土常见的结构表达移植到木构上，用成组的承重墙替代房间序列。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "住宅位于日本东京，由当地建筑事务所设计。",
+              "项目想验证的是：通常出现在钢筋混凝土建筑里的空间清晰度与结构存在感，能否用木构实现。",
+              "房子没有采用常规的房间序列，而是由成组的结构墙组织，形成一片木墙森林。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "b09ab905954908e6",
+      "url": "https://www.creativebloq.com/3d/video-game-design/nintendo-just-gave-the-super-mario-bros-logo-a-power-up-and-fans-think-they-know-what-it-means",
+      "title": "Nintendo just gave the Super Mario Bros logo a power up, and fans think they know what it means",
+      "summary": "Is a new 3D Mario game",
+      "source": "Creative Bloq",
+      "category": "视觉设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/wYGeQzqMhYpuinGc9GYwWU-1920-80.jpg",
+      "publishedAt": "2026-09-20T07:00:00+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 71,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3S7qj9dnzySDu4permZHRS-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/WGvW4dEGNAqwuAFhkxGqKQ-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZrXPpYp9mb7wC3HtD42Ndb-320-80.jpg"
+        }
+      ],
+      "titleZh": "任天堂换了超级马力欧标志",
+      "summaryZh": "任天堂更新了马力欧的标志设计，玩家据此推测新作的走向。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "在玩家关注另一款经典重制作品时，任天堂悄悄更新了旗下另一大系列的标志。",
+              "新标志在官方网站上线，属于品牌层面的更新。",
+              "玩家从标志的变化推测接下来可能出现的新作方向。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5a3d498e8be6008a",
+      "url": "https://www.creativebloq.com/ai/ai-slop-was-a-great-phrase-but-now-ai-is-getting-better-at-video-we-need-a-new-one",
+      "title": "\"AI slop\" was a great phrase, but now AI is getting better at video, we need a new one",
+      "summary": "A term that once made instant sense is starting to fall",
+      "source": "Creative Bloq",
+      "category": "人工智能设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/6XCmd6UQyCL6cA9sEknETJ-1920-80.jpg",
+      "publishedAt": "2026-09-20T06:00:00+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 70,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6XCmd6UQyCL6cA9sEknETJ-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/vKyxfqPe77n6wDPY4CynyZ-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7W9hCAjdcZuLhKfcPVL2Dj-320-80.jpg"
+        }
+      ],
+      "titleZh": "影像生成变好之后，人工智能垃圾这个词不够用了",
+      "summaryZh": "文章认为随着生成影像质量提升，原先用来批评粗糙生成内容的说法需要更新。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "几年前，人工智能垃圾这个说法几乎不需要解释，任何人一听就明白指的是什么。",
+              "随着生成影像的质量提升，这个说法开始松动：画面变好了，但问题并没有消失。",
+              "文章因此讨论需要什么样的新说法，来描述当下的生成内容。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "c123c37be4ddd888",
+      "url": "https://www.archdaily.com/1185255/the-button-vavi-manufacturing-facilities-and-headquarters-mjolk-architekti",
+      "title": "The Button - VAVI Manufacturing Facilities and Headquarters / Mjölk architekti",
+      "summary": "A few years ago, the architects began collaborating with Jirka Vávra and Katka Jiroutová, who took over management of the successful family business VAVI, founded by Věra Vávrová. After gaining experience at the Šumavan factory in Vimperk, Věra started small-scale shirt production with her husband. Under Jirka and Katka's…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-20T06:00:00+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 70,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/b06c/4f64/5201/8803/1622/newsletter/the-button-vavi-mjolk-architekti_1.jpg?1789571252"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/b06b/8a93/3f01/88f2/32d2/thumb_jpg/the-button-vavi-mjolk-architekti_18.jpg?1789571202"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/b06c/4f64/5201/8803/1621/thumb_jpg/the-button-vavi-mjolk-architekti_6.jpg?1789571203"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/b06b/8a93/3f5b/8c02/eb03/thumb_jpg/the-button-vavi-mjolk-architekti_10.jpg?1789571222"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/b06c/4f64/5201/8803/1623/thumb_jpg/the-button-vavi-mjolk-architekti_15.jpg?1789571225"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/b06b/4f64/5201/8803/1620/newsletter/the-button-vavi-mjolk-architekti_5.jpg?1789571217"
+        },
+        {
+          "url": "https://assets.adsttc.com/doodles/flat/loader-blue.gif"
+        }
+      ],
+      "titleZh": "捷克衬衫厂的厂房与总部",
+      "summaryZh": "建筑事务所为接手的家族衬衫企业设计厂房与展厅，把生产、参观与办公放进同一栋一千四百多平方米的建筑。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "项目位于捷克，面积一千四百九十三平方米，二〇二五年完成，包含厂房与展厅。",
+              "委托方是家族衬衫企业，由创始人的下一代接手经营。",
+              "设计把生产、展示与办公组织在同一栋建筑里，回应企业从小规模生产走到今天的变化。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "bd2bd85f2871b60d",
+      "url": "https://www.wallpaper.com/architecture/residential/villa-enso-ark-architects-sotogrande-spain",
+      "title": "In Sotogrande, leafy vistas and geometric drama come together in a new villa",
+      "summary": "Villa ENSO by ARK Architects is the latest residence in La Reserva de Sotogrande in southern Spain; we explored its expansive, monolithic-feeling",
+      "source": "Wallpaper",
+      "category": "建筑设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/qN4zk3WxUUZmDqSyaspZuL-1920-80.jpg",
+      "publishedAt": "2026-09-20T06:00:00+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 85,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/EQdh7JRnt3GxepLmZKjacL-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YE6ih8huLn2cvy5FvC4TxL-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YoCSMYV2LduXtcYs67378M-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/GpdtsBenFvhkAai9T3hcsL-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/GZDHRLWFggwG8rCWWFeA9L-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/beM22KUcGiWs8U58AZbQ8L-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/zFfsDa97qbUA9cSsoBQ5LL-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rEAY85zKUYCTHSmR2SfhXL-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/qN4zk3WxUUZmDqSyaspZuL-320-80.jpg"
+        }
+      ],
+      "titleZh": "索托格兰德的别墅，把几何做得克制",
+      "summaryZh": "西班牙南部新落成的住宅用整块感体量与树影组织视野，在豪宅区里选择更安静的姿态。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "住宅位于西班牙南部的索托格兰德，由当地建筑事务所设计。",
+              "所在区域以高价别墅密集著称，这栋房子的取向是回到光、材料与自然。",
+              "设计使用整块感很强的体量，借助树影与开口组织室内外的视野。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "a40e68405a76e394",
+      "url": "https://www.dezeen.com/2026/09/20/fritz-hansen-sound-club-london/",
+      "title": "Fritz Hansen Sound Club invites visitors to enjoy music in Bauhaus-inspired listening spaces",
+      "summary": "Danish design brand Fritz Hansen has teamed up with audio specialist Technics to transform its Farringdon showroom into a series of domestic listening scenes for London Design Festival. As part of the Fritz Hansen Sound Club, the showroom has been organised into four domestic scenes where guests are invited to listen to a…",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/sq-fritz-hansen-sound-club-technics_dezeen_2364_col_1-852x852.jpg",
+      "publishedAt": "2026-09-20T05:00:07+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 85,
+      "images": [
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/fritz-hansen-sound-club-technics_dezeen_2364_col_7-1704x2555.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/fritz-hansen-sound-club-technics_dezeen_2364_col_6-1704x2555.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/fritz-hansen-sound-club-technics_dezeen_2364_col_3-1704x2555.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/fritz-hansen-sound-club-technics_dezeen_2364_col_5-1704x2555.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/fritz-hansen-sound-club-technics_dezeen_2364_col_2-1704x2555.jpg"
+        },
+        {
+          "url": "https://static.dezeen.com/uploads/2026/09/fritz-hansen-sound-club-technics_dezeen_2364_col_0-1704x2555.jpg"
+        }
+      ],
+      "titleZh": "把展厅改成四段居家听音场景",
+      "summaryZh": "丹麦家具品牌与音响品牌合作，在伦敦设计节期间把展厅布置成四个家庭听黑胶的场景。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "丹麦家具品牌与音响品牌合作，把位于伦敦法灵顿的展厅重新布置。",
+              "空间被分成四个居家场景，访客在其中听挑选好的黑胶唱片。",
+              "这是伦敦设计节期间的活动，延续了该系列此前的做法。"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "4485b28b3a7a1d2a",
+      "url": "https://www.archdaily.com/1036942/kingdee-tower-henn",
+      "title": "Kingdee Tower / HENN",
+      "summary": "The Cloud Tower completes the existing Kingdee software park in Shenzhen's Nanshan neighborhood, which is an emerging tech district. Located on the edge of a green strip, the 211-meter-high tower provides space for offices, conferences and a restaurant for Kingdee, a leading provider of enterprise management cloudservices…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-20T02:00:00+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 68,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/693b/a143/e123/2a00/01c3/8774/newsletter/HENN_Kingdee_01_Exterior__TianFangfang.jpg?1765515645"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/693b/a143/e123/2a00/01c3/8775/thumb_jpg/HENN_Kingdee_02_Exterior__TianFangfang.jpg?1765515732"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/693b/a141/e123/2a00/01c3/876a/thumb_jpg/HENN_Kingdee_10_Facade__TianFangfang.jpg?1765515613"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/693b/a142/e123/2a00/01c3/876d/thumb_jpg/HENN_Kingdee_13_Entrance__TianFangfang.jpg?1765515648"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/693b/a143/e123/2a00/01c3/8771/thumb_jpg/HENN_Kingdee_17_ClimbingWall__TianFangfang.jpg?1765515611"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/693b/a144/e123/2a00/01c3/877a/newsletter/HENN_Kingdee_07_Exterior__TianFangfang.jpg?1765515643"
+        },
+        {
+          "url": "https://assets.adsttc.com/doodles/flat/loader-blue.gif"
+        }
+      ],
+      "titleZh": "深圳金蝶大厦，两百一十一米的企业园区补角",
+      "summaryZh": "德国建筑事务所在深圳南山完成一座两百一十一米高的办公塔楼，为软件园区补上会议与餐饮功能。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "塔楼位于深圳南山，高两百一十一米，建筑面积九万八千八百平方米，二〇二五年完成。",
+              "建筑坐落在绿带边缘，为这家企业管理软件公司提供办公、会议与餐厅空间。",
+              "项目补全了既有的软件园区，所在地是正在成形的新科技片区。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "f8612a61413250c6",
       "url": "https://www.yankodesign.com/2026/09/19/this-899-golf-launch-monitor-tracks-your-swing-in-3d-and-tells-you-how-to-fix-it/",
       "title": "This $899 golf launch monitor tracks your swing in 3D and tells you how to fix it",
@@ -640,7 +2368,7 @@
       "publishedAt": "2026-09-20T01:45:20+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 99,
+      "score": 83,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/this-899-golf-launch-monitor-tracks-your-swing-in-3d-and-tells-you-how-to-fix-it/NeoPace-G10-Pro-Worlds-First-AI-3D-Replay-Golf-Monitor-hero.jpg"
@@ -694,7 +2422,7 @@
       "publishedAt": "2026-09-19T22:30:54+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 96,
+      "score": 81,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/poco-f9-ultra-review-great-sound-grown-up-design/poco-f9-ultra-review-09.jpg"
@@ -802,7 +2530,7 @@
       "publishedAt": "2026-09-19T22:00:04+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 81,
+      "score": 66,
       "titleZh": "用摄影重塑一台经典双座跑车",
       "summaryZh": "摄影师以海滩与暗光为题拍摄宝马一款经典双座跑车，把车身线条放进克制的光影里。",
       "reading": {
@@ -820,6 +2548,57 @@
       }
     },
     {
+      "id": "8dc3776bf1ecdf82",
+      "url": "https://www.archdaily.com/1185199/bangbae-geunsaeng-neighbourhood-facility-aoa-architects",
+      "title": "Bangbae Geunsaeng Neighbourhood Facility / aoa architects",
+      "summary": "For rental neighborhood facilities, it's essential to design a compact layout with simple, rectangular rental units and a core that includes the stairs, elevator, and restrooms. The elevator and other vertical circulation, which require more height, are placed on the south side where there are no sunlight restriction",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-19T21:00:00+00:00",
+      "date": "2026-09-20",
+      "firstSeen": "2026-09-21",
+      "score": 65,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/5c16/1057/6a00/017e/a419/newsletter/IMG_00.jpg?1789549625"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/5c16/1057/6a00/017e/a41b/thumb_jpg/IMG_02.jpg?1789549623"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/5c16/1057/6a00/017e/a41d/thumb_jpg/IMG_04.jpg?1789549623"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/5c16/1057/6a00/017e/a41e/thumb_jpg/IMG_07.jpg?1789549629"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/5c17/1057/6a00/017e/a420/thumb_jpg/IMG_09.jpg?1789549654"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/5c16/1057/6a00/017e/a41b/medium_jpg/IMG_02.jpg?1789549623"
+        },
+        {
+          "url": "https://assets.adsttc.com/doodles/flat/loader-blue.gif"
+        }
+      ],
+      "titleZh": "首尔的邻里设施，把出租单元做紧凑",
+      "summaryZh": "首尔一处四百九十四平方米的租赁型邻里设施，把单元做成规整矩形，电梯与卫生间集中进核心筒。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "项目位于韩国首尔，面积四百九十四平方米，二〇二六年完成。",
+              "设计把出租单元做成简洁的矩形，并把楼梯、电梯与卫生间集中成核心筒。",
+              "需要更多层高的电梯与竖向交通被安排在不受日照间距限制的南侧。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "920b97043782d6d9",
       "url": "https://www.yankodesign.com/2026/09/19/this-21-charger-powers-your-iphone-apple-watch-and-airpods-at-once/",
       "title": "This $21 Charger Powers Your iPhone, Apple Watch, and AirPods at Once",
@@ -830,7 +2609,7 @@
       "publishedAt": "2026-09-19T20:45:41+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 95,
+      "score": 80,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/this-21-charger-powers-your-iphone-apple-watch-and-airpods-at-once/1.jpg"
@@ -881,7 +2660,7 @@
       "publishedAt": "2026-09-19T20:35:24+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 94,
+      "score": 80,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/director-interiors-designboom-31-2048x1364.jpg"
@@ -929,7 +2708,7 @@
       "publishedAt": "2026-09-19T19:15:44+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 93,
+      "score": 79,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/mate-works-like-a-sticky-note-that-sets-its-own-alarm-when-you-write/mate-smart-note-taking-concept-03.jpg"
@@ -1001,7 +2780,7 @@
       "publishedAt": "2026-09-19T18:00:08+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 77,
+      "score": 64,
       "titleZh": "为打猎犬做一套宠物食品品牌",
       "summaryZh": "概念作品为狩猎与高运动量的犬只设计宠物食品品牌，用视觉语言强调体能与户外场景。",
       "reading": {
@@ -1029,7 +2808,7 @@
       "publishedAt": "2026-09-19T17:20:50+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 92,
+      "score": 79,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/vista-tiny-house/vista_tiny_house_yanko_design_01.jpg"
@@ -1089,7 +2868,7 @@
       "publishedAt": "2026-09-19T17:00:45+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 92,
+      "score": 78,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/guzema-soho-boutique_victoria-yakusha-studio_dezeen_2364_col_6-1704x1119.jpg"
@@ -1134,7 +2913,7 @@
       "publishedAt": "2026-09-19T17:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 77,
+      "score": 63,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aaa/6da9/4f64/5201/8803/13c6/newsletter/phan-chau-trinh-sports-hall-scale50_2.jpg?1789554104"
@@ -1185,7 +2964,7 @@
       "publishedAt": "2026-09-19T16:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 76,
+      "score": 63,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aad/c36a/066f/0900/0145/7773/newsletter/IHOUSE_PINAR-0001.jpg?1789773288"
@@ -1236,7 +3015,7 @@
       "publishedAt": "2026-09-19T15:20:03+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 90,
+      "score": 78,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/the-wooden-box-that-refuses-to-let-your-phone-win/faraday-01.jpg"
@@ -1296,7 +3075,7 @@
       "publishedAt": "2026-09-19T15:00:00+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 75,
+      "score": 62,
       "images": [
         {
           "url": "https://www.artofvfx.com/wp-content/uploads/2026/09/LastHouse_ILM_ITW_06A-1068x601.jpg"
@@ -1344,7 +3123,7 @@
       "publishedAt": "2026-09-19T14:56:35+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 75,
+      "score": 62,
       "images": [
         {
           "url": "https://img.youtube.com/vi/CniycUnvcX4/maxresdefault.jpg"
@@ -1393,7 +3172,7 @@
       "publishedAt": "2026-09-19T14:00:05+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 74,
+      "score": 62,
       "titleZh": "为经济学人画一杯咖啡的未来",
       "summaryZh": "插画系列配合一篇关于咖啡种植前景的报道，用图形解释气候变暖对阿拉比卡咖啡的影响。",
       "reading": {
@@ -1421,7 +3200,7 @@
       "publishedAt": "2026-09-19T10:00:38+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 87,
+      "score": 75,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/eagle-house-ifdo-hastings-architecture-uk-adaptive-reuse_dezeen_2364_col_17-1704x1363.jpg"
@@ -1463,7 +3242,7 @@
       "publishedAt": "2026-09-19T10:00:00+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 87,
+      "score": 75,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/XpmDzMzUaiivAPVjPTt9vN-320-80.jpg"
@@ -1505,7 +3284,7 @@
       "publishedAt": "2026-09-19T09:00:05+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 86,
+      "score": 75,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2025/07/sq-earth-holiday-home-sou-fujimoto-japan-not-a-hotel_dezeen_2364_col_3-1704x1704.jpg"
@@ -1559,7 +3338,7 @@
       "publishedAt": "2026-09-19T09:00:00+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 71,
+      "score": 60,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/NYgoQTXkfg3QAJuswazSph-320-80.jpg"
@@ -1595,7 +3374,7 @@
       "publishedAt": "2026-09-19T07:45:59+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 85,
+      "score": 74,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/homme-plisse-issey-miyake-performance-matisse-one-one-one-designboom-01-768x512.jpg"
@@ -1640,7 +3419,7 @@
       "publishedAt": "2026-09-19T05:00:00+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 84,
+      "score": 73,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/hQFHupEDQHRfXK7o7UJ9fP-320-80.jpg"
@@ -1691,7 +3470,7 @@
       "publishedAt": "2026-09-19T01:45:28+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 82,
+      "score": 72,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/makerphone-2-0-assembles-like-lego-calls-like-a-real-4g-phone/MAKERphone-2-0-an-educational-DIY-mobile-phone-hero.jpg"
@@ -1735,54 +3514,6 @@
       }
     },
     {
-      "id": "231571f159ab2eb8",
-      "url": "https://www.designboom.com/design/wendell-castle-living-family-home-furniture-friedman-benda-exhibition/",
-      "title": "wendell castle’s family home returns through furniture and artifacts at friedman benda",
-      "summary": "the friedman benda show brings sculptural furniture back among the personal objects and artworks that once surrounded",
-      "source": "designboom",
-      "category": "工业设计",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-01.jpg",
-      "publishedAt": "2026-09-18T23:55:25+00:00",
-      "date": "2026-09-19",
-      "firstSeen": "2026-09-20",
-      "score": 81,
-      "images": [
-        {
-          "url": "https://static.designboom.com/wp-content/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-01-768x679.jpg"
-        },
-        {
-          "url": "https://static.designboom.com/wp-content/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-02-768x512.jpg"
-        },
-        {
-          "url": "https://static.designboom.com/wp-content/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-03-768x512.jpg"
-        },
-        {
-          "url": "https://static.designboom.com/wp-content/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-04-768x534.jpg"
-        },
-        {
-          "url": "https://static.designboom.com/wp-content/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-05-768x536.jpg"
-        },
-        {
-          "url": "https://static.designboom.com/wp-content/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-06-768x512.jpg"
-        }
-      ],
-      "titleZh": "把设计师的家，连同家具一起搬进展厅",
-      "summaryZh": "展览重现温德尔·卡斯尔家中的起居场景，把雕塑家具放回它原本生活的物件之间。",
-      "reading": {
-        "basis": "article",
-        "sections": [
-          {
-            "heading": "正文",
-            "paragraphs": [
-              "展览呈现美国设计师温德尔·卡斯尔的家庭场景，把他的雕塑家具与当时围绕在身边的家传物件、艺术品放在一起。",
-              "陈设方式还原了居所而非美术馆的观看关系：家具与绘画、摆件彼此相邻，参观者能看出作品在真实生活里的尺度与位置。",
-              "这种布置回应了一个问题：当雕塑家具离开白盒子空间，它首先是一件被使用的家具。"
-            ]
-          }
-        ]
-      }
-    },
-    {
       "id": "d3c542e0d478016c",
       "url": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79",
       "title": "Whatever happened to “Download on the App Store” buttons?",
@@ -1793,7 +3524,7 @@
       "publishedAt": "2026-09-18T21:20:51+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 80,
+      "score": 71,
       "titleZh": "应用商店按钮，为什么从页面上消失了",
       "summaryZh": "作者回顾应用商店下载徽章从网页上淡出的过程，讨论它如何被二维码与自动跳转取代。",
       "reading": {
@@ -1811,6 +3542,34 @@
       }
     },
     {
+      "id": "d21dd12c093a94dd",
+      "url": "https://www.designboom.com/art/jesus-mari-lazkano-changing-landscapes-painting-animated-film-azken-natura/",
+      "title": "jesus mari lazkano traces changing landscapes through painting and animated film",
+      "summary": "through painting and film, jesus mari lazkano examines changing natural landscapes and the traces human activity leaves",
+      "source": "designboom",
+      "category": "动态设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/468138/2026-09-17/basque-luxury-studio-opens-azken-natura-an-exhibition-by-jesus-mari-lazkano-9-6aaba6ab78788.jpg",
+      "publishedAt": "2026-09-18T20:35:39+00:00",
+      "date": "2026-09-19",
+      "firstSeen": "2026-09-20",
+      "score": 70,
+      "titleZh": "三千张手绘，做成一部冰川短片",
+      "summaryZh": "画家以近三千张素描记录阿尔卑斯冰川消融，四年间完成二十二分钟动画短片，与六幅绘画同场展出。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "展览最后的自然在西班牙圣塞巴斯蒂安的画廊开幕，展出画家二〇二一年至二〇二六年间创作的六幅中大型绘画。",
+              "同场放映的二十二分钟短片由画家与两家制作公司合作完成，二〇二五年在圣塞巴斯蒂安国际电影节首映。",
+              "项目开发四年，包含近三千张描绘阿尔卑斯冰川消融的素描，这些画被逐格组接成动画，把绘画的观察方式延伸到动态影像。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "79ff4a48d8d1a15b",
       "url": "https://www.dezeen.com/2026/09/18/basura-big-data-centre-toy-bezzy/",
       "title": "Basura creates data centre toy that emits \"ear piercing hum\" when squeezed",
@@ -1821,7 +3580,7 @@
       "publishedAt": "2026-09-18T18:39:28+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 78,
+      "score": 70,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/basura-big-data_dezeen_2364_col_1-1704x959.jpg"
@@ -1860,7 +3619,7 @@
       "publishedAt": "2026-09-18T18:10:44+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 78,
+      "score": 70,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/dbsub/467864/2026-09-15/biomaterial-designers-reimagine-the-future-cafe-1-6aa9b0fe5d90d.jpg"
@@ -1914,7 +3673,7 @@
       "publishedAt": "2026-09-18T18:00:00+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 63,
+      "score": 70,
       "video": {
         "provider": "youtube",
         "id": "A2nFnutIqEA",
@@ -1955,7 +3714,7 @@
       "publishedAt": "2026-09-18T17:00:00+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 63,
+      "score": 69,
       "video": {
         "provider": "youtube",
         "id": "gLqGgw8Zlaw",
@@ -1996,7 +3755,7 @@
       "publishedAt": "2026-09-18T17:00:00+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 63,
+      "score": 54,
       "images": [
         {
           "url": "https://media.nngroup.com/media/editor/2026/09/18/the-three-types-of-ai-context-1-1.png"
@@ -2029,7 +3788,7 @@
       "publishedAt": "2026-09-18T16:25:04+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 62,
+      "score": 54,
       "titleZh": "芝加哥老市政中心，公布改造后的新效果图",
       "summaryZh": "谷歌公布汤普森中心的室内外新效果图，改造由原建筑事务所参与，并委托艺术家创作永久作品。",
       "reading": {
@@ -2044,7 +3803,15 @@
             ]
           }
         ]
-      }
+      },
+      "images": [
+        {
+          "url": "https://www.archpaper.com/wp-content/uploads/2026/09/Carousel_A_2.width-1000.format-webp-1260x900.jpg"
+        },
+        {
+          "url": "https://www.archpaper.com/wp-content/uploads/2026/09/Carousel_A_1.width-1000.format-webp-675x900.jpg"
+        }
+      ]
     },
     {
       "id": "71a87dd1ad320507",
@@ -2057,7 +3824,7 @@
       "publishedAt": "2026-09-18T15:33:11+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 77,
+      "score": 69,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/MALBA-frida-escobedo-extension-announcement-designboom-01-768x512.jpg"
@@ -2102,7 +3869,7 @@
       "publishedAt": "2026-09-18T15:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 62,
+      "score": 69,
       "video": {
         "provider": "youtube",
         "id": "ZNEGDySpQvg",
@@ -2143,7 +3910,7 @@
       "publishedAt": "2026-09-18T14:48:44+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 77,
+      "score": 69,
       "titleZh": "两个智能设计工具，做同一个移动应用",
       "summaryZh": "作者用同一套需求分别交给谷歌与菲格玛的智能功能，比较生成界面的结构与可修改性。",
       "reading": {
@@ -2171,7 +3938,7 @@
       "publishedAt": "2026-09-18T14:06:59+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 61,
+      "score": 68,
       "video": {
         "provider": "vimeo",
         "id": "1227307667",
@@ -2212,7 +3979,7 @@
       "publishedAt": "2026-09-18T14:00:15+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 76,
+      "score": 68,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/lifeline-tote-bag-life-jacket_dezeen_2364_col_2-1704x2561.jpg"
@@ -2270,7 +4037,7 @@
       "publishedAt": "2026-09-18T14:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 76,
+      "score": 68,
       "titleZh": "一九七三年的菲亚特皮卡，被修复回原样",
       "summaryZh": "二十世纪有车主委托车身作坊把菲亚特五百改成皮卡，这辆一九七三年的车由法国团队修复。",
       "reading": {
@@ -2298,7 +4065,7 @@
       "publishedAt": "2026-09-18T13:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 76,
+      "score": 68,
       "titleZh": "脚轮藏在底座里的圆凳",
       "summaryZh": "日本设计师把脚轮收进底座，让圆凳看起来像实心坐具，同时能在工作室里轻松移动。",
       "reading": {
@@ -2326,7 +4093,7 @@
       "publishedAt": "2026-09-18T12:45:12+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 76,
+      "score": 68,
       "titleZh": "把香料罐做成印度菜的邀请",
       "summaryZh": "概念包装把香料罐的开启方式与排版结合，让货架上的容器承担解释风味的角色。",
       "reading": {
@@ -2354,7 +4121,7 @@
       "publishedAt": "2026-09-18T12:40:33+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 76,
+      "score": 68,
       "images": [
         {
           "url": "https://s35726.pcdn.co/wp-content/uploads/2026/09/MD_NYC_2025_01-scaled.jpg"
@@ -2409,7 +4176,7 @@
       "publishedAt": "2026-09-18T12:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 60,
+      "score": 53,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/8rfcWbwotsaS9L6sx7fQJ9-320-80.jpg"
@@ -2451,7 +4218,7 @@
       "publishedAt": "2026-09-18T12:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 60,
+      "score": 53,
       "titleZh": "怪兽剧集第二季，视效团队怎么做泰坦",
       "summaryZh": "视效工作室公开为剧集第二季制作的泰坦镜头，承担了本季多场主要战斗。",
       "reading": {
@@ -2479,7 +4246,7 @@
       "publishedAt": "2026-09-18T10:00:33+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 75,
+      "score": 67,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/slancha-hanging-baskets_dezeen_2364_col_6-1704x2130.jpg"
@@ -2533,7 +4300,7 @@
       "publishedAt": "2026-09-18T09:30:45+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 74,
+      "score": 67,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/khoy-sofa-bed-design_dezeen_2364_col_5-1704x1136.jpg"
@@ -2569,7 +4336,7 @@
       "publishedAt": "2026-09-18T09:25:26+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 74,
+      "score": 67,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/gunia-assouline-visual-history-ukrainian-folk-art-naive-my-love-designboom-01-768x740.jpg"
@@ -2623,7 +4390,7 @@
       "publishedAt": "2026-09-18T09:00:12+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 74,
+      "score": 67,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/brompton-design-district-rca-design-graduates-one-tool-one-stool-exhibition-london-design-festival_dezeen_2364_col_7-1704x2271.jpg"
@@ -2668,7 +4435,7 @@
       "publishedAt": "2026-09-18T07:38:53+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 74,
+      "score": 67,
       "titleZh": "智能安全争论里的修辞与真实风险",
       "summaryZh": "作者借两家公司近期争论，讨论智能系统的安全讨论如何被口号式的表达带偏。",
       "reading": {
@@ -2696,7 +4463,7 @@
       "publishedAt": "2026-09-18T07:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 74,
+      "score": 66,
       "titleZh": "九月新字体，从衬线到怪诞体的更新",
       "summaryZh": "月度字体合集收录多款新字，其中一套绘制了三十余年才完成，作者用大理石路牌纪念。",
       "reading": {
@@ -2724,7 +4491,7 @@
       "publishedAt": "2026-09-18T06:45:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 73,
+      "score": 66,
       "titleZh": "把花样滑冰冠军拍进客厅",
       "summaryZh": "摄影师用十年时间记录年轻冠军的居家场景，把运动叙事从赛场移回日常空间。",
       "reading": {
@@ -2752,7 +4519,7 @@
       "publishedAt": "2026-09-18T06:30:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 58,
+      "score": 51,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aad/065e/8d91/7901/8920/558d/newsletter/rshp-and-erre-selected-to-design-new-valencia-central-station_1.jpg?1789724275"
@@ -2794,7 +4561,7 @@
       "publishedAt": "2026-09-18T06:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 73,
+      "score": 66,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/sRQMQaHBENooJDEnepydCe-320-80.jpg"
@@ -2824,7 +4591,7 @@
           "url": "https://cdn.mos.cms.futurecdn.net/gMn4QsphTf6aPpKyFkgDWc-320-80.jpg"
         },
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/fQ8vHbAxh3557gwGyqtCGe-320-80.jpg"
+          "url": "https://cdn.mos.cms.futurecdn.net/iZmqUERnZUvUwKsMQxhUEe-320-80.jpg"
         },
         {
           "url": "https://cdn.mos.cms.futurecdn.net/i4UcM86kEMEiAyBhNXcDGe-320-80.jpg"
@@ -2833,13 +4600,10 @@
           "url": "https://cdn.mos.cms.futurecdn.net/nfhejRsCMHAZqQnZzrGEdc-320-80.jpg"
         },
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/zUVa7KYaykEZzjH3XhpTnc-320-80.jpg"
-        },
-        {
           "url": "https://cdn.mos.cms.futurecdn.net/NcMoJ5KyNHbWbK6xq6NTEe-320-80.jpg"
         },
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/wVuwzx2iLY9dGB3oujgTNc-320-80.jpg"
+          "url": "https://cdn.mos.cms.futurecdn.net/zUVa7KYaykEZzjH3XhpTnc-320-80.jpg"
         },
         {
           "url": "https://cdn.mos.cms.futurecdn.net/LsdimJXAfzMaiKZAJtfoDe-320-80.jpg"
@@ -2866,7 +4630,7 @@
           "url": "https://cdn.mos.cms.futurecdn.net/Vq9kCKDX2ut4U75qxxoQDc-320-80.jpg"
         },
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/iZmqUERnZUvUwKsMQxhUEe-320-80.jpg"
+          "url": "https://cdn.mos.cms.futurecdn.net/fQ8vHbAxh3557gwGyqtCGe-320-80.jpg"
         }
       ],
       "titleZh": "走进奥罗维尔，一座给自己定规则的实验城镇",
@@ -2896,28 +4660,25 @@
       "publishedAt": "2026-09-18T05:00:44+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 73,
+      "score": 66,
       "images": [
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/tom-pearson-studio-10000-rivets_dezeen_2364_col_hero-852x479.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/tom-pearson-studio-10000-rivets_dezeen_2364_col_12-1704x2556.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/tom-pearson-studio-10000-rivets_dezeen_2364_col_12-852x1278.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/tom-pearson-studio-10000-rivets_dezeen_2364_col_1-1704x1136.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/tom-pearson-studio-10000-rivets_dezeen_2364_col_1-852x568.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/tom-pearson-studio-10000-rivets_dezeen_2364_col_14-1704x2556.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/tom-pearson-studio-10000-rivets_dezeen_2364_col_14-852x1278.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/tom-pearson-studio-10000-rivets_dezeen_2364_col_21-1704x2556.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/tom-pearson-studio-10000-rivets_dezeen_2364_col_21-852x1278.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/tom-pearson-studio-10000-rivets_dezeen_2364_col_16-1704x2556.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/tom-pearson-studio-10000-rivets_dezeen_2364_col_16-852x1278.jpg"
-        },
-        {
-          "url": "https://static.dezeen.com/uploads/2026/09/tom-pearson-studio-10000-rivets_dezeen_2364_col_9-852x568.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/tom-pearson-studio-10000-rivets_dezeen_2364_col_9-1704x1136.jpg"
         }
       ],
       "titleZh": "一万颗铆钉，把连接件变成表面图案",
@@ -2947,7 +4708,7 @@
       "publishedAt": "2026-09-18T04:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 57,
+      "score": 51,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aa3/a3d0/9637/5601/88df/3d0f/newsletter/asmara-heritage-project-documenting-a-colonial-project-that-became-a-national-symbol_4.jpg?1789109216"
@@ -2995,7 +4756,7 @@
       "publishedAt": "2026-09-18T03:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 57,
+      "score": 50,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aab/aa3f/8d91/7901/8920/4fd2/newsletter/lorne-road-house-foomann-architects_20.jpg?1789635165"
@@ -3046,7 +4807,7 @@
       "publishedAt": "2026-09-18T02:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 57,
+      "score": 50,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aaa/7262/8a93/3f01/88f2/30b8/newsletter/dong-trieu-retreat-naqi-and-partners_25.jpg?1789555306"
@@ -3065,6 +4826,9 @@
         },
         {
           "url": "https://images.adsttc.com/media/images/6aaa/5963/1057/6a00/017e/a3fe/medium_jpg/AT-RESZ--12.jpg?1789548937"
+        },
+        {
+          "url": "https://assets.adsttc.com/doodles/flat/loader-blue.gif"
         }
       ],
       "titleZh": "越南周末小屋，如何变成长期居住的家",
@@ -3094,7 +4858,7 @@
       "publishedAt": "2026-09-18T01:45:19+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 72,
+      "score": 65,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/draft-portalo/PORTALO-The-Portable-Pressurized-Water-Sprayer.jpg"
@@ -3148,7 +4912,7 @@
       "publishedAt": "2026-09-18T00:30:42+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 71,
+      "score": 65,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/aluminum_bike_1.jpg"
@@ -3199,7 +4963,7 @@
       "publishedAt": "2026-09-18T00:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 56,
+      "score": 50,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6973/cb88/2755/8a01/8794/b8f3/newsletter/shenzhen-futian-lvzhou-primary-school-ccdi-dongxiying-studio_3.jpg?1769196442"
@@ -3218,6 +4982,9 @@
         },
         {
           "url": "https://images.adsttc.com/media/images/6973/cb87/47d9/d44e/3b2d/bf85/newsletter/shenzhen-futian-lvzhou-primary-school-ccdi-dongxiying-studio_1.jpg?1769196460"
+        },
+        {
+          "url": "https://assets.adsttc.com/doodles/flat/loader-blue.gif"
         }
       ],
       "titleZh": "深圳福田绿洲小学，嵌进城中村的校园",
@@ -3247,7 +5014,7 @@
       "publishedAt": "2026-09-17T23:30:05+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 71,
+      "score": 65,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/the-diffuser-that-refuses-to-plug-in-beep-or-buzz/ritual_card_diffuser_01_1512x.jpg"
@@ -3304,7 +5071,7 @@
       "publishedAt": "2026-09-17T21:34:12+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 70,
+      "score": 64,
       "titleZh": "折叠屏不该只是把界面拉宽",
       "summaryZh": "作者整理折叠屏适配原则，强调按可用空间与折叠姿态组织层级，而不是简单拉伸布局。",
       "reading": {
@@ -3332,7 +5099,7 @@
       "publishedAt": "2026-09-17T21:33:43+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 70,
+      "score": 64,
       "titleZh": "写满一百篇设计文章之后，重新理解写作",
       "summaryZh": "作者回顾一百篇设计写作，讨论思考、摩擦与在人工智能影响下继续写作的意义。",
       "reading": {
@@ -3360,7 +5127,7 @@
       "publishedAt": "2026-09-17T21:29:20+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 70,
+      "score": 64,
       "titleZh": "办公室的平面图，本身就是一套制度",
       "summaryZh": "作者从空间布局与弹性政策出发，讨论工作场所设计如何被有意选择并影响后来的结果。",
       "reading": {
@@ -3388,7 +5155,7 @@
       "publishedAt": "2026-09-17T20:35:27+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 55,
+      "score": 49,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/dbsub/437705/2026-09-16/casa-pop-by-gon-architects-1-6aaab5d024d03.jpg"
@@ -3398,30 +5165,6 @@
         },
         {
           "url": "https://static.designboom.com/wp-content/dbsub/437705/2026-09-16/casa-pop-by-gon-architects-6-6aaab5d024e7e.jpg"
-        },
-        {
-          "url": "https://static.designboom.com/wp-content/dbsub/437705/2026-09-16/casa-pop-by-gon-architects-5-6aaab5d024e43.jpg"
-        },
-        {
-          "url": "https://static.designboom.com/wp-content/dbsub/437705/2026-09-16/casa-pop-by-gon-architects-4-6aaab5d024e06.jpg"
-        },
-        {
-          "url": "https://static.designboom.com/wp-content/dbsub/437705/2026-09-16/casa-pop-by-gon-architects-3-6aaab5d024dc7.jpg"
-        },
-        {
-          "url": "https://static.designboom.com/wp-content/dbsub/437705/2026-09-16/casa-pop-by-gon-architects-7-6aaab5d024ebc.jpg"
-        },
-        {
-          "url": "https://static.designboom.com/wp-content/dbsub/437705/2026-09-16/casa-pop-by-gon-architects-11-6aaab5d025072.jpg"
-        },
-        {
-          "url": "https://static.designboom.com/wp-content/dbsub/437705/2026-09-16/casa-pop-by-gon-architects-10-6aaab5d025038.jpg"
-        },
-        {
-          "url": "https://static.designboom.com/wp-content/dbsub/437705/2026-09-16/casa-pop-by-gon-architects-8-6aaab5d024f0a.jpg"
-        },
-        {
-          "url": "https://static.designboom.com/wp-content/dbsub/437705/2026-09-16/casa-pop-by-gon-architects-9-6aaab5d024ffc.jpg"
         }
       ],
       "titleZh": "马德里老公寓，用一排书柜重新划分房间",
@@ -3451,7 +5194,7 @@
       "publishedAt": "2026-09-17T18:00:24+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 69,
+      "score": 63,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/06/mystone-pietra-di-sicilia-marazzi-design_dezeen_2364_col_12-1-1704x2282.jpg"
@@ -3499,7 +5242,7 @@
       "publishedAt": "2026-09-17T18:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 69,
+      "score": 63,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/Fhib8oEsFVFTKemJuLDHU9-320-80.jpg"
@@ -3514,7 +5257,7 @@
           "url": "https://cdn.mos.cms.futurecdn.net/wKdpuSJPHqYjCZpX3R8oeW-320-80.jpg"
         },
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/7NvsbPv7dGBeucL3yMsqu6-320-80.jpg"
+          "url": "https://cdn.mos.cms.futurecdn.net/7W9hCAjdcZuLhKfcPVL2Dj-320-80.jpg"
         }
       ],
       "titleZh": "智能工具应该给创作者省出试验时间",
@@ -3544,7 +5287,7 @@
       "publishedAt": "2026-09-17T18:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 54,
+      "score": 63,
       "images": [
         {
           "url": "https://www.artofvfx.com/wp-content/uploads/2026/07/resident_evil_ver4_xlg-1068x1583.jpg"
@@ -3599,6 +5342,34 @@
       ]
     },
     {
+      "id": "4a6edb7d4931b29c",
+      "url": "https://www.creativeboom.com/news/a-billboard-of-signed-school-leavers-shirts-has-appeared-in-london-and-the-messages-arent-what-youd-expect/",
+      "title": "A billboard of signed school leavers' shirts has appeared in London, and the messages aren't what you'd expect",
+      "summary": "In a campaign for Everyone's Invited, Don't Panic has pinned real school leavers' shirts to a billboard, each one carrying a young person's handwritten testimony of AI-enabled sexual harm. When you",
+      "source": "Creative Boom",
+      "category": "人工智能设计",
+      "image": "https://media.creativeboom.com/93d063e9-c40f-4469-9a73-4b03856c0aaa/conversions/424829facbe7838352dcac7f711eab44c8de61dc-medium.webp",
+      "publishedAt": "2026-09-17T18:00:00+00:00",
+      "date": "2026-09-18",
+      "firstSeen": "2026-09-18",
+      "score": 63,
+      "titleZh": "一块挂满校服衬衫的广告牌",
+      "summaryZh": "伦敦出现一块钉满真实校服衬衫的广告牌，每件衬衫上是一位年轻人手写的、与人工智能相关的伤害经历。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "在英国，毕业时让同学在校服衬衫上互相签名是一项传统，字迹里有玩笑，也有真心话。",
+              "创意机构为公益组织做的这次广告，把真实的校服衬衫钉在伦敦的广告牌上，每件衬衫上是年轻人手写的陈述。",
+              "这些陈述与人工智能造成的性伤害有关，用来让公众看见当事人的声音。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "87d903b7da3bb790",
       "url": "https://www.yankodesign.com/2026/09/17/holy-moly-is-the-swiss-army-knife-of-flat-pack-furniture-hardware/",
       "title": "Holy Moly Is the Swiss Army Knife of Flat-Pack Furniture Hardware",
@@ -3609,7 +5380,7 @@
       "publishedAt": "2026-09-17T16:20:03+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 69,
+      "score": 63,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/holy-moly-is-the-swiss-army-knife-of-flat-pack-furniture-hardware/holy-moly-cabinet-05.jpg"
@@ -3660,7 +5431,7 @@
       "publishedAt": "2026-09-17T15:31:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 68,
+      "score": 63,
       "images": [
         {
           "url": "https://s3files.core77.com/blog/images/1850432_4_145386_3snKpW2M6.png"
@@ -3705,7 +5476,7 @@
       "publishedAt": "2026-09-17T14:45:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 53,
+      "score": 63,
       "images": [
         {
           "url": "https://www.artofvfx.com/wp-content/uploads/2026/09/TheDogStars_CharleyHenley_ITW-1068x1601.jpg"
@@ -3818,22 +5589,19 @@
       "publishedAt": "2026-09-17T14:10:47+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 68,
+      "score": 63,
       "images": [
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/commanders-stadium-interior-renderings-hks_dezeen_2364_hero-852x479.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/commanders-stadium-interior-renderings-hks_dezeen_2364_col_2-1704x959.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/commanders-stadium-interior-renderings-hks_dezeen_2364_col_2-852x480.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/commanders-stadium-interior-renderings-hks_dezeen_2364_col_3-1704x959.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/commanders-stadium-interior-renderings-hks_dezeen_2364_col_3-852x480.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/commanders-stadium-interior-renderings-hks_dezeen_2364_col_0-1704x959.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/commanders-stadium-interior-renderings-hks_dezeen_2364_col_0-852x479.jpg"
-        },
-        {
-          "url": "https://static.dezeen.com/uploads/2026/09/commanders-stadium-interior-renderings-hks_dezeen_2364_col_4-852x479.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/commanders-stadium-interior-renderings-hks_dezeen_2364_col_4-1704x959.jpg"
         }
       ],
       "titleZh": "七万人体育场室内，用玻璃顶把城市纳入视野",
@@ -3863,7 +5631,7 @@
       "publishedAt": "2026-09-17T14:00:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 68,
+      "score": 62,
       "images": [
         {
           "url": "https://s3files.core77.com/blog/images/1850349_81_145392_FSgIwXLS5.jpg"
@@ -3923,7 +5691,7 @@
       "publishedAt": "2026-09-17T13:45:41+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 68,
+      "score": 62,
       "titleZh": "三款网页设计助手技能，同一任务的实测对比",
       "summaryZh": "作者用同一个清洁服务落地页任务，比较三款人工智能编程助手技能的输出质量。",
       "reading": {
@@ -3951,7 +5719,7 @@
       "publishedAt": "2026-09-17T13:00:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 68,
+      "score": 62,
       "images": [
         {
           "url": "https://s3files.core77.com/blog/images/1850309_81_145389_uQjObTSwc.jpg"
@@ -4029,7 +5797,7 @@
       "publishedAt": "2026-09-17T13:00:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 68,
+      "score": 62,
       "images": [
         {
           "url": "https://media.creativeboom.com/2e3379dd-606d-44d7-9c38-40bc9f9223ed/conversions/75ae1a408b7258e04c3850cfd5b72147579bb3b3-medium.webp"
@@ -4085,6 +5853,34 @@
       }
     },
     {
+      "id": "1cb8832bf0ec4aa6",
+      "url": "https://www.artofvfx.com/the-dog-stars-outpost-vfx-reveals-the-vfx-behind-grand-junction/",
+      "title": "The Dog Stars: Outpost VFX Reveals the VFX Behind Grand Junction",
+      "summary": "In the devastated world of The Dog Stars, Grand Junction stands out as a rare place seemingly untouched by the apocalypse. Outpost VFX helped bring this preserved environment to life before dramatically changing its fate with the explosive finale. The breakdown highlights the extensive work required to build and enhance Grand…",
+      "source": "Art of VFX",
+      "category": "动态设计",
+      "image": null,
+      "publishedAt": "2026-09-17T12:00:00+00:00",
+      "date": "2026-09-17",
+      "firstSeen": "2026-09-18",
+      "score": 47,
+      "titleZh": "把末日后的机场一点点建起来",
+      "summaryZh": "视效团队为末日题材影片搭建并扩展保留完好的机场环境，最后又把它炸成火海。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "影片的世界里，大部分地方已经被摧毁，这座机场是少数看起来未被波及的场所。",
+              "视效团队负责搭建并扩展机场环境、跑道与塔台等设施，并把它们整合进日景与夜景镜头。",
+              "工作的高潮是机场的毁灭：从火势蔓延到爆炸与之后的废墟，团队让这个地方最终变成一片火海。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "051e7207ef1b6ee6",
       "url": "https://www.designboom.com/design/mushlume-living-fungi-lighting-made-bush-terminal/",
       "title": "mushlume co-creates with living organisms to grow design objects at MADE: bush terminal",
@@ -4095,7 +5891,7 @@
       "publishedAt": "2026-09-17T10:00:50+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 67,
+      "score": 62,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/mushlume_designboom_01-768x512.jpg"
@@ -4146,16 +5942,13 @@
       "publishedAt": "2026-09-17T09:30:11+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 67,
+      "score": 62,
       "images": [
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/nina-lounge-chair-patricia-urquiola-andreu-world-design_dezeen_2364_hero-852x479.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/nina-lounge-chair-patricia-urquiola-andreu-world-design_dezeen_2364_col_3-1704x2556.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/nina-lounge-chair-patricia-urquiola-andreu-world-design_dezeen_2364_col_3-852x1278.jpg"
-        },
-        {
-          "url": "https://static.dezeen.com/uploads/2026/09/nina-lounge-chair-patricia-urquiola-andreu-world-design_dezeen_2364_col_1-852x1136.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/nina-lounge-chair-patricia-urquiola-andreu-world-design_dezeen_2364_col_1-1704x2272.jpg"
         }
       ],
       "titleZh": "形似鹅卵石的休闲椅，硬壳与软垫互相衬托",
@@ -4185,7 +5978,7 @@
       "publishedAt": "2026-09-17T09:03:42+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 67,
+      "score": 61,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/kmxk5DWLJRGix7dfndumQ3-320-80.jpg"
@@ -4236,7 +6029,7 @@
       "publishedAt": "2026-09-17T08:00:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 66,
+      "score": 61,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/Studio-Trikken-Banana-Art-Book-Publication-ItsNiceThat-16.jpg?class=w1080"
@@ -4317,13 +6110,13 @@
       "publishedAt": "2026-09-17T07:00:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 51,
+      "score": 46,
       "images": [
         {
           "url": "https://img.youtube.com/vi/bJQGtSeLPII/maxresdefault.jpg"
         },
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/ntn2GmdhJLurmVTYHK3bnJ-320-80.jpg"
+          "url": "https://cdn.mos.cms.futurecdn.net/HYfvfPdL4vkqvQgpKyEuHD-320-80.jpg"
         }
       ],
       "titleZh": "定格动画太过精致，就应该被质疑吗",
@@ -4366,7 +6159,7 @@
       "publishedAt": "2026-09-17T06:44:33+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 66,
+      "score": 61,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/ssEfigFQsefZWDv82HaDdU-320-80.jpg"
@@ -4378,7 +6171,7 @@
           "url": "https://cdn.mos.cms.futurecdn.net/RqroCVCpGQFEdy3MJYngRb-320-80.jpg"
         },
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/rEEGRjucNGToktQaNyrzxE-320-80.jpg"
+          "url": "https://cdn.mos.cms.futurecdn.net/otM3TRi2rPEfePuBQ5oce4-320-80.jpg"
         }
       ],
       "titleZh": "生成式功能上线后踩刹车，成本比能力更关键",
@@ -4408,7 +6201,7 @@
       "publishedAt": "2026-09-17T06:15:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 66,
+      "score": 61,
       "images": [
         {
           "url": "https://media.creativeboom.com/b8ca4866-abcf-4032-a2ca-8841f986ec45/conversions/21a57d4660958eacd9ed0bce09675970aea7af67-medium.webp"
@@ -4457,7 +6250,7 @@
       "publishedAt": "2026-09-17T05:30:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 51,
+      "score": 46,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aaa/ce65/8a93/3f01/88f2/3369/newsletter/benghazi-2050_12.jpg?1789578859"
@@ -4517,7 +6310,7 @@
       "publishedAt": "2026-09-17T02:10:37+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 50,
+      "score": 45,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/dbsub/450426/2026-08-07/2050-coffee-shinsaibashi-12-6a7572c80a35c.jpg"
@@ -4559,7 +6352,7 @@
       "publishedAt": "2026-09-17T00:30:50+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 64,
+      "score": 60,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/casa-del-loro/casa_del_toro_yanko_design_01.jpg"
@@ -4616,7 +6409,7 @@
       "publishedAt": "2026-09-17T00:30:05+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 64,
+      "score": 60,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/virtual-pet-that-wont-let-you-waste-your-life-scrolling/ai-pet-01.jpg"
@@ -4686,7 +6479,7 @@
       "publishedAt": "2026-09-16T23:30:42+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 64,
+      "score": 60,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/103g-over-ears-that-actually-disappear-into-your-outfit/stillframe-00.jpg"
@@ -4749,7 +6542,7 @@
       "publishedAt": "2026-09-16T23:01:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 64,
+      "score": 60,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/UiKj677ivfAz6A2LBfUMfH-320-80.jpg"
@@ -4793,7 +6586,7 @@
       "publishedAt": "2026-09-16T22:30:15+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 64,
+      "score": 60,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/a-speaker-that-clips-to-city-poles-and-leaves-no-mark/orchid-0.jpg"
@@ -4847,7 +6640,7 @@
       "publishedAt": "2026-09-16T21:38:45+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 64,
+      "score": 59,
       "images": [
         {
           "url": "https://design-milk.com/images/2026/09/2026-Laneige-Flagship-Korea-1-Han-Sung-Hoon-800x1000.jpg"
@@ -4901,7 +6694,7 @@
       "publishedAt": "2026-09-16T21:33:09+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 64,
+      "score": 59,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/aston-martin-brough-superior-superbike-AMB-002-Roadster-designboom-113-768x491.jpg"
@@ -4940,7 +6733,7 @@
       "publishedAt": "2026-09-16T20:35:59+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 64,
+      "score": 59,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/emerald-vysions-pulls-cinematic-imagery-apart-and-rebuilds-it-through-makeup-designboom-04-768x960.jpg"
@@ -5024,7 +6817,7 @@
       "publishedAt": "2026-09-16T20:30:41+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 64,
+      "score": 59,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/this-award-winning-cookware-finds-better-design-in-the-details-we-usually-ignore/Artisan_cast_cookware_01.jpg"
@@ -5072,7 +6865,7 @@
       "publishedAt": "2026-09-16T20:20:33+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 64,
+      "score": 59,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/zha-benghazi-libya-urban-growth-digital-planning-hub-designboom-5-768x499.jpg"
@@ -5111,7 +6904,7 @@
       "publishedAt": "2026-09-16T19:20:11+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 63,
+      "score": 59,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/literal_rock_guitar_1.jpg"
@@ -5181,7 +6974,7 @@
       "publishedAt": "2026-09-16T19:00:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 48,
+      "score": 44,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aaa/a2ee/1057/6a00/017e/a654/newsletter/04_SALLE-Alejandro_Arango.jpg?1789567770"
@@ -5200,6 +6993,9 @@
         },
         {
           "url": "https://images.adsttc.com/media/images/6aaa/a2ec/1057/6a00/017e/a64e/newsletter/01_SALLE-Alejandro_Arango.jpg?1789567774"
+        },
+        {
+          "url": "https://assets.adsttc.com/doodles/flat/loader-blue.gif"
         }
       ],
       "titleZh": "学校的走廊，也可以成为学习场所",
@@ -5229,7 +7025,7 @@
       "publishedAt": "2026-09-16T18:27:49+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 63,
+      "score": 59,
       "images": [
         {
           "url": "https://design-milk.com/images/2026/09/294-DH-ElizabethVenice-800x600.jpg"
@@ -5283,7 +7079,7 @@
       "publishedAt": "2026-09-16T18:20:36+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 63,
+      "score": 59,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/porsches-550-j-is-a-racing-legend-shrunk-into-an-electric-track-day-car/Porsche-Hedley-Studios-Porsche-550-Spyder-J-Replica-16.jpg"
@@ -5364,7 +7160,7 @@
       "publishedAt": "2026-09-16T18:10:44+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 63,
+      "score": 59,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/chibik-kristof-jihlava-municipal-arena-designboom-01-768x512.jpg"
@@ -5399,6 +7195,34 @@
       }
     },
     {
+      "id": "9289ceeef30c666d",
+      "url": "https://www.artofvfx.com/neagley/",
+      "title": "Neagley",
+      "summary": "The Reacher universe expands with Neagley! The trailer puts the former military investigator at the center of her own dangerous mission, as a suspicious death sends her searching for the truth. A former member of the military’s 110th Special Investigations Unit, Neagley uses the skills and experience acquired during her service…",
+      "source": "Art of VFX",
+      "category": "动态设计",
+      "image": null,
+      "publishedAt": "2026-09-16T18:00:00+00:00",
+      "date": "2026-09-17",
+      "firstSeen": "2026-09-17",
+      "score": 44,
+      "titleZh": "新剧预告里，视效团队做了什么",
+      "summaryZh": "一部衍生剧的预告把调查员放到自己任务的中心，视效由多家工作室分担完成。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "剧集围绕一名前军队调查员展开：一起可疑的死亡让她开始追查真相。",
+              "预告的基调从追查正义逐渐转向更危险的阴谋。",
+              "视效由多家工作室共同完成，剧集于二〇二六年九月十六日在流媒体平台首播。"
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "c689aeab6829e9c3",
       "url": "https://www.archdaily.com/1185249/house-on-alto-teles-pires-ser-arquitetos",
       "title": "House on Alto Teles Pires / Ser Arquitetos",
@@ -5409,7 +7233,7 @@
       "publishedAt": "2026-09-16T17:00:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 48,
+      "score": 44,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aa8/43c8/a74d/1200/0125/e3f0/newsletter/_08A4889-Edit_copyright_manuel_sa_b.jpg?1789412313"
@@ -5428,6 +7252,9 @@
         },
         {
           "url": "https://images.adsttc.com/media/images/6aa8/43c9/a74d/1200/0125/e3f4/newsletter/_08A4682-Pano_copyright_manuel_sa.jpg?1789412321"
+        },
+        {
+          "url": "https://assets.adsttc.com/doodles/flat/loader-blue.gif"
         }
       ],
       "titleZh": "沿狭长地块展开的住宅，把阴影当作空间",
@@ -5457,7 +7284,7 @@
       "publishedAt": "2026-09-16T15:40:04+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 62,
+      "score": 58,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/HF3W3vnMSUMqTuMZA3wUjB-320-80.jpg"
@@ -5499,7 +7326,7 @@
       "publishedAt": "2026-09-16T15:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 62,
+      "score": 58,
       "titleZh": "磨损留下的形状，是另一份使用说明",
       "summaryZh": "旧物表面的磨痕记录接触、握持和长期使用。",
       "reading": {
@@ -5526,7 +7353,7 @@
       "publishedAt": "2026-09-16T14:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 62,
+      "score": 58,
       "titleZh": "不用真正编织，两片钢板做出篮子的方向感",
       "summaryZh": "垂直交错的视觉关系由薄钢板连接实现。",
       "reading": {
@@ -5553,7 +7380,7 @@
       "publishedAt": "2026-09-16T13:53:06+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 47,
+      "score": 43,
       "images": [
         {
           "url": "https://s35726.pcdn.co/wp-content/uploads/2026/09/SAGA_Manifesto_Porsche-scaled.jpg"
@@ -5604,7 +7431,7 @@
       "publishedAt": "2026-09-16T13:45:21+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 62,
+      "score": 58,
       "titleZh": "把马戏延伸到爆米花包装上",
       "summaryZh": "概念包装让杂技演员绕着罐身与纸盒展开表演。",
       "reading": {
@@ -5631,22 +7458,28 @@
       "publishedAt": "2026-09-16T13:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 62,
+      "score": 58,
       "images": [
-        {
-          "url": "https://files.smashing.media/partners/smashing/vitaly-friedman-enterprise.png"
-        },
-        {
-          "url": "https://files.smashing.media/partners/smashing/stephanie-walter.png"
-        },
-        {
-          "url": "https://files.smashing.media/partners/smashing/christine-vallaure.png"
-        },
         {
           "url": "https://files.smashing.media/partners/netlify/netlify-jan26.png"
         },
         {
-          "url": "https://files.smashing.media/partners/smashing/miriam-suzanne.png"
+          "url": "https://files.smashing.media/partners/smashing/vitaly-friedman-free.png"
+        },
+        {
+          "url": "https://mcusercontent.com/16b832d9ad4b28edf261f34df/images/f92a1920-1806-97df-e3c3-228c96636a45.png"
+        },
+        {
+          "url": "https://files.smashing.media/partners/smashing/christine-vallaure-mcp.png"
+        },
+        {
+          "url": "https://files.smashing.media/partners/smashing/remi-parmentier.png"
+        },
+        {
+          "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/q_80/w_2000/https:/files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/1-normal-state-vs-wrapped-state.jpg"
+        },
+        {
+          "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/q_80/w_2000/https:/files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/2-reusable-component.jpg"
         },
         {
           "url": "https://smashingmagazine.com/images/smashing-cat/cat-in-a-chair--tall.svg"
@@ -5685,7 +7518,7 @@
       "publishedAt": "2026-09-16T13:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 62,
+      "score": 58,
       "titleZh": "四轮独立驱动的个人代步设备，兼顾操纵与避障",
       "summaryZh": "摇杆控制配合摄像头和传感器，探索日常近距离移动。",
       "reading": {
@@ -5723,7 +7556,7 @@
       "publishedAt": "2026-09-16T13:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 47,
+      "score": 43,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aa2/baec/05b6/9900/01b5/3818/newsletter/_DSC9333-Editar.jpg?1789049640"
@@ -5742,6 +7575,9 @@
         },
         {
           "url": "https://images.adsttc.com/media/images/6aa2/baec/05b6/9900/01b5/3817/medium_jpg/_DSC9312-Editar.jpg?1789049693"
+        },
+        {
+          "url": "https://assets.adsttc.com/doodles/flat/loader-blue.gif"
         }
       ],
       "titleZh": "为七十岁住户设计，把日常都放在同一层",
@@ -5771,7 +7607,7 @@
       "publishedAt": "2026-09-16T12:52:23+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 62,
+      "score": 58,
       "titleZh": "从设计稿到交付说明，减少重复整理",
       "summaryZh": "以语言学习应用为例，探索生成式工具辅助设计交付。",
       "reading": {
@@ -5798,7 +7634,7 @@
       "publishedAt": "2026-09-16T12:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 47,
+      "score": 43,
       "images": [
         {
           "url": "https://cdn.sanity.io/images/599r6htc/regionalized/1d8a96586c8f831c85b73be5fb3d0fa20786c696-3982x2240.png?w=528&q=75&fit=max&auto=format&dpr=2"
@@ -5831,7 +7667,7 @@
       "publishedAt": "2026-09-16T11:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 62,
+      "score": 58,
       "images": [
         {
           "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-14-at-5.09.01-PM.png?resize=218%2C300&quality=80&ssl=1"
@@ -5894,7 +7730,7 @@
       "publishedAt": "2026-09-16T10:55:43+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 62,
+      "score": 58,
       "titleZh": "冷冻食品包装，把气候地图变成蔬菜轮廓",
       "summaryZh": "学生项目用等值线图形讨论食物保存与浪费。",
       "reading": {
@@ -5921,7 +7757,7 @@
       "publishedAt": "2026-09-16T10:50:40+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 62,
+      "score": 58,
       "images": [
         {
           "url": "https://thedieline.com/wp-content/uploads/2026/09/LUAK-3-788eb33eae37ebaa11f256f4a2c0c45b-1.jpg"
@@ -5953,7 +7789,7 @@
       "publishedAt": "2026-09-16T10:50:36+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 62,
+      "score": 58,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/chasing-clouds-metropolitan-museum-art-designboom-01-768x526.jpg"
@@ -6001,7 +7837,7 @@
       "publishedAt": "2026-09-16T10:47:52+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 62,
+      "score": 58,
       "images": [
         {
           "url": "https://thedieline.com/wp-content/uploads/2026/09/760566387_18609277120044187_8772130169633703193_n.jpg"
@@ -6033,7 +7869,7 @@
       "publishedAt": "2026-09-16T10:14:47+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 61,
+      "score": 58,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/Z5J8zwVYsufuHvCG3LviLa-320-80.jpg"
@@ -6087,7 +7923,7 @@
       "publishedAt": "2026-09-16T10:10:41+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 61,
+      "score": 58,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/04/three-axis-joint-eugenio-costa-raw-branches-structure-screws-designboom-10-768x614.jpg"
@@ -6129,25 +7965,22 @@
       "publishedAt": "2026-09-16T10:00:19+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 61,
+      "score": 58,
       "images": [
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/yinka-illori-bins-ironing-board-brabantia_dezeen_2364_hero_13-852x479.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/yinka-illori-bins-ironing-board-brabantia_dezeen_2364_sq_9-1704x1704.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/yinka-illori-bins-ironing-board-brabantia_dezeen_2364_sq_9-852x852.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/yinka-illori-bins-ironing-board-brabantia_dezeen_2364_sq_4-1704x1704.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/yinka-illori-bins-ironing-board-brabantia_dezeen_2364_sq_4-852x852.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/yinka-illori-bins-ironing-board-brabantia_dezeen_2364_col_19-1704x2272.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/yinka-illori-bins-ironing-board-brabantia_dezeen_2364_col_19-852x1136.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/yinka-illori-bins-ironing-board-brabantia_dezeen_2364_col_30-1704x2272.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/yinka-illori-bins-ironing-board-brabantia_dezeen_2364_col_30-852x1136.jpg"
-        },
-        {
-          "url": "https://static.dezeen.com/uploads/2026/09/yinka-illori-bins-ironing-board-brabantia_dezeen_2364_col_25-852x639.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/yinka-illori-bins-ironing-board-brabantia_dezeen_2364_col_25-1704x1278.jpg"
         }
       ],
       "titleZh": "垃圾桶与熨衣板，也可以成为家里的色彩作品",
@@ -6177,7 +8010,7 @@
       "publishedAt": "2026-09-16T10:00:17+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 61,
+      "score": 58,
       "titleZh": "两条三十米金属脊柱，撑起关于混乱的展览",
       "summaryZh": "巴黎设计周展览用可重复组装的结构连接物件与讨论。",
       "reading": {
@@ -6192,7 +8025,30 @@
             ]
           }
         ]
-      }
+      },
+      "images": [
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/pli_office_designboom_01-768x897.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/pli_office_designboom_02-768x897.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/pli_office_designboom_04-768x897.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/pli_office_designboom_05-768x897.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/pli_office_designboom_06-768x512.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/pli_office_designboom_07-768x897.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/pli_office_designboom_11-768x897.jpg"
+        }
+      ]
     },
     {
       "id": "7e0dc6b434da8d0b",
@@ -6205,16 +8061,13 @@
       "publishedAt": "2026-09-16T09:30:25+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 61,
+      "score": 57,
       "images": [
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/terre-radiator-sebastian-herkner-tubes-design_dezeen_2364_hero2-1-852x479.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/terre-radiator-sebastian-herkner-tubes-design_dezeen_2364_col_6-1704x2518.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/terre-radiator-sebastian-herkner-tubes-design_dezeen_2364_col_6-852x1259.jpg"
-        },
-        {
-          "url": "https://static.dezeen.com/uploads/2026/09/terre-radiator-sebastian-herkner-tubes-design_dezeen_2364_col_0-852x1136.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/terre-radiator-sebastian-herkner-tubes-design_dezeen_2364_col_0-1704x2272.jpg"
         }
       ],
       "titleZh": "陶土暖气片，把材料的温暖变成实际功能",
@@ -6244,34 +8097,31 @@
       "publishedAt": "2026-09-16T08:30:55+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 61,
+      "score": 57,
       "images": [
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_hero_1-852x479.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_17-1704x1065.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_17-852x533.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_0-1704x2273.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_0-852x1137.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_22-1704x1277.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_22-852x639.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_3-1704x2273.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_3-852x1137.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_18-1704x1277.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_18-852x639.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_4-1704x2273.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_4-852x1137.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_7-1704x2273.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_7-852x1137.jpg"
-        },
-        {
-          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_16-852x1137.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_16-1704x2273.jpg"
         }
       ],
       "titleZh": "虚构的三十年代酒店，收进三十多位设计师的新作",
@@ -6301,7 +8151,7 @@
       "publishedAt": "2026-09-16T08:03:06+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 61,
+      "score": 57,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/bethan-laura-wood-max-lamb-andu-masebo-material-language-contemporary-home-designboom-9-768x501.jpg"
@@ -6340,7 +8190,7 @@
       "publishedAt": "2026-09-16T08:00:11+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 61,
+      "score": 57,
       "images": [
         {
           "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/a8834b254953177.6a923f8e8747d.jpg"
@@ -6536,7 +8386,7 @@
       "publishedAt": "2026-09-16T08:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 61,
+      "score": 57,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/Mater-ItsNiceThat-0.png?class=w1920"
@@ -6614,7 +8464,7 @@
       "publishedAt": "2026-09-16T08:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 61,
+      "score": 57,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/BFILFF_Gala_S-ezgif.com-video-to-gif-converter.gif?class=w640"
@@ -6645,9 +8495,6 @@
         },
         {
           "url": "https://m.itsnicethat.com/original_images/KEY_ART_1X1_mHghbLx.png?class=w1080"
-        },
-        {
-          "url": "https://m.itsnicethat.com/original_images/KEY_ART_1X1_6el2Y7N.png?class=w1080"
         }
       ],
       "titleZh": "把字母投成光，再拍成电影节视觉",
@@ -6677,7 +8524,7 @@
       "publishedAt": "2026-09-16T07:45:33+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 61,
+      "score": 57,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/studio-drift-suspended-garden-moving-flowers-las-vegas-designboom-01-768x576.jpg"
@@ -6687,6 +8534,9 @@
         },
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/studio-drift-suspended-garden-moving-flowers-las-vegas-designboom-03-768x573.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/studio-drift-suspended-garden-moving-flowers-las-vegas-designboom-04-768x368.jpg"
         }
       ],
       "titleZh": "悬在大厅里的花园，用开合动作组织时间",
@@ -6729,7 +8579,7 @@
       "publishedAt": "2026-09-16T07:27:23+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 61,
+      "score": 57,
       "titleZh": "别让生成式产品变成没有总图的房子",
       "summaryZh": "共享对象、交互模式与失败状态，比不断增加新按钮更重要。",
       "reading": {
@@ -6757,7 +8607,7 @@
       "publishedAt": "2026-09-16T06:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 46,
+      "score": 42,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/npp7chNoCDNkXMSAEuQSwX-320-80.jpg"
@@ -6775,7 +8625,7 @@
           "url": "https://cdn.mos.cms.futurecdn.net/kNEVjRssSYAVEdZwjxH9yD-320-80.jpg"
         },
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/mh2TXe66oa7inzq7pRbhR4-320-80.jpg"
+          "url": "https://cdn.mos.cms.futurecdn.net/6XCmd6UQyCL6cA9sEknETJ-320-80.jpg"
         }
       ],
       "titleZh": "用水墨笔势塑造三国人物的力量感",
@@ -6805,7 +8655,7 @@
       "publishedAt": "2026-09-16T06:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 46,
+      "score": 42,
       "images": [
         {
           "url": "https://img.youtube.com/vi/6V_kA8KloN0/maxresdefault.jpg"
@@ -6814,7 +8664,7 @@
           "url": "https://img.youtube.com/vi/CsBa8HbMgh8/maxresdefault.jpg"
         },
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/WARvtPASDRCKzaWuvWUeTj-320-80.jpg"
+          "url": "https://cdn.mos.cms.futurecdn.net/ZrXPpYp9mb7wC3HtD42Ndb-320-80.jpg"
         }
       ],
       "titleZh": "看起来像黏土定格，实际是三维动画",
@@ -6870,7 +8720,7 @@
       "publishedAt": "2026-09-16T06:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 61,
+      "score": 57,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/gusfFpn5NEciLM3ATqeyVg-320-80.jpg"
@@ -6990,7 +8840,7 @@
       "publishedAt": "2026-09-16T04:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 60,
+      "score": 57,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/fehwGSWUBReK8iuESNXaSe-320-80.jpg"
@@ -7053,7 +8903,7 @@
       "publishedAt": "2026-09-16T03:32:09+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 60,
+      "score": 57,
       "images": [
         {
           "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/b75fa3255605779.6aa49d4933fdb.png"
@@ -7115,7 +8965,7 @@
       "publishedAt": "2026-09-16T01:30:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 45,
+      "score": 41,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/mh2TXe66oa7inzq7pRbhR4-320-80.jpg"
@@ -7133,7 +8983,7 @@
           "url": "https://cdn.mos.cms.futurecdn.net/X8SLxQP9PXhuQWSrmRzFAR-320-80.jpg"
         },
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/NwNkvrVYyFtgwKjH3jXZyG-320-80.jpg"
+          "url": "https://cdn.mos.cms.futurecdn.net/7W9hCAjdcZuLhKfcPVL2Dj-320-80.jpg"
         }
       ],
       "titleZh": "创意工具里的智能助手，应该替人做哪一部分",
@@ -7163,25 +9013,22 @@
       "publishedAt": "2026-09-15T23:01:24+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 59,
+      "score": 56,
       "images": [
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/hero-dyson-uk-award-sivo.go_dezeen_2364_col_0-852x479.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/dyson-uk-award-sivo.go_dezeen_2364_col_8-1704x840.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/dyson-uk-award-sivo.go_dezeen_2364_col_8-852x420.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/dyson-uk-award-sivo.go_dezeen_2364_col_10-1704x845.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/dyson-uk-award-sivo.go_dezeen_2364_col_10-852x422.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/dyson-uk-award-sivo.go_dezeen_2364_col_7-1704x853.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/dyson-uk-award-sivo.go_dezeen_2364_col_7-852x426.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/dyson-uk-award-sivo.go_dezeen_2364_col_11-1704x858.jpg"
         },
         {
-          "url": "https://static.dezeen.com/uploads/2026/09/dyson-uk-award-sivo.go_dezeen_2364_col_11-852x429.jpg"
-        },
-        {
-          "url": "https://static.dezeen.com/uploads/2026/09/dyson-uk-award-sivo.go_dezeen_2364_col_2-852x428.jpg"
+          "url": "https://static.dezeen.com/uploads/2026/09/dyson-uk-award-sivo.go_dezeen_2364_col_2-1704x856.jpg"
         }
       ],
       "titleZh": "听不见警报时，让震动和闪光来提醒",
@@ -7211,7 +9058,7 @@
       "publishedAt": "2026-09-15T22:30:30+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 59,
+      "score": 56,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/bathers-cabin/bathers_cabin_yanko_design_01.jpg"
@@ -7266,7 +9113,7 @@
       "publishedAt": "2026-09-15T21:30:53+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 59,
+      "score": 56,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/finally-a-pepper-grinder-your-hands-actually-understand/salt-pepper-spice-00.jpg"
@@ -7317,7 +9164,7 @@
       "publishedAt": "2026-09-15T21:18:05+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 44,
+      "score": 56,
       "titleZh": "中间航平的新短片，继续探索奇异的三维运动",
       "summaryZh": "东京动画创作者中间航平发布新的动态实验短片，以难以预料的三维变化构成视觉叙事。",
       "reading": {
@@ -7357,7 +9204,7 @@
       "publishedAt": "2026-09-15T20:52:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 44,
+      "score": 56,
       "images": [
         {
           "url": "https://cdn.sanity.io/images/599r6htc/regionalized/87c3e7174e710a675e43248881d677c62504cfcc-1920x1080.png?w=804&q=75&fit=max&auto=format&dpr=2"
@@ -7403,7 +9250,7 @@
       "publishedAt": "2026-09-15T20:39:44+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 59,
+      "score": 56,
       "titleZh": "七组南非设计力量，带来家具与材料的新视角",
       "summaryZh": "巴黎家居装饰展的新锐人才奖聚焦七位南非设计师及工作室，涵盖家具、灯具与纺织设计。",
       "reading": {
@@ -7431,7 +9278,7 @@
       "publishedAt": "2026-09-15T19:15:48+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 59,
+      "score": 55,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/the-mac-mini-form-factor-is-so-perfect-literally-everyone-is-copying-it/mac_mini_design_template_1.jpeg"
@@ -7491,7 +9338,7 @@
       "publishedAt": "2026-09-15T18:10:57+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 59,
+      "score": 55,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/zav-architects-gelareh-house-iran-designboom-01-768x432.jpg"
@@ -7533,7 +9380,7 @@
       "publishedAt": "2026-09-15T18:00:15+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 59,
+      "score": 55,
       "titleZh": "波哥大顶层住宅：用色彩与图案容纳日常和聚会",
       "summaryZh": "设计师维罗妮卡·米沙安更新一套五百八十平方米住宅，在家庭生活、待客与艺术收藏之间寻找平衡。",
       "reading": {
@@ -7559,7 +9406,7 @@
       "publishedAt": "2026-09-15T17:20:05+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/these-30-chopsticks-were-refined-40-times-to-fix-your-tired-hand/FineLine-Chopstick-Rest-YD-Select-2_1728x.jpg"
@@ -7622,7 +9469,7 @@
       "publishedAt": "2026-09-15T16:20:21+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/a-backyard-greenhouse-that-moonlights-as-an-outdoor-living-room/the-eco-oasis-pavilion-concept-08.jpg"
@@ -7688,7 +9535,7 @@
       "publishedAt": "2026-09-15T16:03:15+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 43,
+      "score": 40,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/66rqLhvazcgp3ZTScQCRyM-320-80.jpg"
@@ -7736,7 +9583,7 @@
       "publishedAt": "2026-09-15T15:55:32+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 43,
+      "score": 40,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/dbsub/391083/2026-09-14/house-in-musashi-koyama-8-6aa7ae03c49df.jpg"
@@ -7802,7 +9649,7 @@
       "publishedAt": "2026-09-15T15:30:28+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "titleZh": "怪物与幽灵角色集：将多年草图整理成视觉世界",
       "summaryZh": "创作者汇集万圣节角色、私人实验与想象中的生物，形成具有共同气质的插画系列。",
       "reading": {
@@ -7828,7 +9675,7 @@
       "publishedAt": "2026-09-15T15:24:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/4HfCvHTyM2JmxQcV2rrnYE-320-80.jpg"
@@ -7867,7 +9714,7 @@
       "publishedAt": "2026-09-15T15:20:17+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/hkc-debus-a-48-3-inch-4k-curved-monitor-that-can-be-split-into-two-or-three-sections/HKC-Tianqi-43H180C-Ultra-Wide-Monitor-1.jpg"
@@ -7915,7 +9762,7 @@
       "publishedAt": "2026-09-15T15:19:21+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/3oSk4YWHXoi4v7JauMDyFC-320-80.jpg"
@@ -7972,7 +9819,7 @@
       "publishedAt": "2026-09-15T15:15:18+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/AEUr64iM2rgWPG74Crs4e4-320-80.jpg"
@@ -8050,7 +9897,7 @@
       "publishedAt": "2026-09-15T15:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "titleZh": "让卫生间设备隐入柜体：不锈钢卫浴系统",
       "summaryZh": "工业设计网介绍一套不锈钢卫浴系统，关闭时弱化马桶外观，并可搭配木材或大理石饰面。",
       "reading": {
@@ -8086,7 +9933,7 @@
       "publishedAt": "2026-09-15T15:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/w9gHb3kR3LQYWyR6LgQouf-320-80.jpg"
@@ -8176,7 +10023,7 @@
       "publishedAt": "2026-09-15T14:45:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 43,
+      "score": 55,
       "images": [
         {
           "url": "https://www.artofvfx.com/wp-content/uploads/2026/09/LastHouse_ILM_ITW_01-1068x713.jpg"
@@ -8256,7 +10103,7 @@
       "publishedAt": "2026-09-15T14:30:32+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "titleZh": "拉斯维加斯体育场入口改造，将停车场变成交通与步行空间",
       "summaryZh": "格里姆肖公布体育场入口广场改造方案，把交通设施和步行网络纳入原停车区域。",
       "reading": {
@@ -8284,7 +10131,7 @@
       "publishedAt": "2026-09-15T14:20:59+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/the-traffic-cone-charger-that-actually-keeps-you-off-your-phone/cone-00.jpg"
@@ -8329,7 +10176,7 @@
       "publishedAt": "2026-09-15T14:15:42+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/compressed-agricultural-waste-complete-building-system-new-york-house-ltl-architects-designboom-03-768x929.jpg"
@@ -8383,7 +10230,7 @@
       "publishedAt": "2026-09-15T14:00:12+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/yont-studio_designboom_05-768x512.jpg"
@@ -8425,7 +10272,7 @@
       "publishedAt": "2026-09-15T14:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "titleZh": "把雨水储存做成墙：节省空间的集水容器",
       "summaryZh": "工业设计网介绍墙体式雨水储存产品，将传统大容器的占地问题作为设计切口。",
       "reading": {
@@ -8452,7 +10299,7 @@
       "publishedAt": "2026-09-15T14:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/dHZHaoZt9M8CQ2HWRS4U5j-320-80.jpg"
@@ -8506,7 +10353,7 @@
       "publishedAt": "2026-09-15T14:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/VRiEFD7N5Tog993meE7nZn-320-80.jpg"
@@ -8599,7 +10446,7 @@
       "publishedAt": "2026-09-15T13:51:11+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/MYreKiWeMZmwR5NVG7oB8f-320-80.jpg"
@@ -8647,7 +10494,7 @@
       "publishedAt": "2026-09-15T13:20:31+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/finally-a-cd-player-gen-z-actually-wants-to-own/r400-00.jpg"
@@ -8710,7 +10557,7 @@
       "publishedAt": "2026-09-15T13:00:39+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "titleZh": "可倾斜圆盘灯罩，为便携灯带来光影变化",
       "summaryZh": "德泽恩产品栏目介绍一款便携台灯，将圆柱底座、可倾斜圆盘灯罩与半透明扩散罩结合。",
       "reading": {
@@ -8737,7 +10584,7 @@
       "publishedAt": "2026-09-15T13:00:04+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "titleZh": "维纳斯·威廉姆斯的新家居系列，连接米兰与网球场",
       "summaryZh": "家居系列将米兰设计影响、中世纪现代风格与网球线索融入成人及儿童家具和装饰。",
       "reading": {
@@ -8765,7 +10612,7 @@
       "publishedAt": "2026-09-15T13:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "titleZh": "一台老体重秤的附加信息，暴露了设计中的价值判断",
       "summaryZh": "工业设计网回顾带身高体重对照表的旧式体重秤，讨论测量工具如何同时传递规范。",
       "reading": {
@@ -8792,7 +10639,7 @@
       "publishedAt": "2026-09-15T13:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-17",
-      "score": 58,
+      "score": 55,
       "images": [
         {
           "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/image-1-16.png?w=1808&quality=80&ssl=1"
@@ -8833,7 +10680,7 @@
       "publishedAt": "2026-09-15T12:16:49+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "titleZh": "同一个网页任务，两款生成式设计工具的作者对比",
       "summaryZh": "用户体验星球作者用相同网页任务比较两款生成式设计工具，讨论自然语言生成界面的实践。",
       "reading": {
@@ -8860,7 +10707,7 @@
       "publishedAt": "2026-09-15T11:32:20+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 43,
+      "score": 55,
       "titleZh": "悉尼将迎来动态设计与动画交流活动",
       "summaryZh": "动态影像精选报道一场计划于十一月在悉尼举行的活动，安排主题演讲与行业交流。",
       "reading": {
@@ -8900,7 +10747,7 @@
       "publishedAt": "2026-09-15T11:30:33+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 58,
+      "score": 55,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/QDTCEbKFd9mGYB8w5hHLWQ-320-80.jpg"
@@ -8957,7 +10804,7 @@
       "publishedAt": "2026-09-15T11:13:46+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "titleZh": "生成式工具里的文化默认值，从哪里来",
       "summaryZh": "用户体验集刊的作者讨论人工智能输出偏向某些文化惯例的现象及其设计影响。",
       "reading": {
@@ -8984,7 +10831,7 @@
       "publishedAt": "2026-09-15T11:13:45+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/Aqci6YRmKTcy4HrWbZeACn-320-80.jpg"
@@ -9029,7 +10876,7 @@
       "publishedAt": "2026-09-15T11:13:17+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 42,
+      "score": 39,
       "titleZh": "用户很自信却理解错了，界面该如何回应",
       "summaryZh": "用户体验集刊作者讨论模糊术语和错误自信带来的问题，关注如何避免用户误解任务。",
       "reading": {
@@ -9049,7 +10896,7 @@
     {
       "id": "6b78564bb402238c",
       "url": "https://www.creativeboom.com/news/canva-launches-prosuite-bringing-affinity-cavalry-flourish-and-leonardo-together-with-more-than-new-100-features/",
-      "title": "Canva launches ProSuite bringing Affinity, Cavalry, Flourish and Leonardo together with more than new 100 features",
+      "title": "Canva launches ProSuite bringing Affinity, Cavalry, Flourish and Leonardo together with more than 100 new features",
       "summary": "Affinity and Cavalry stay free, a long-requested Blend Tool finally arrives (thank God), and Canva makes its biggest move yet to support the professional designer. There's no doubt Canva did things",
       "source": "Creative Boom",
       "category": "人工智能设计",
@@ -9057,7 +10904,7 @@
       "publishedAt": "2026-09-15T11:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "titleZh": "创意工具套件整合，设计流程的边界继续变化",
       "summaryZh": "创意浪潮报道一套整合多种设计、动态和生成式工具的专业创作套件，以及相关功能更新。",
       "reading": {
@@ -9095,7 +10942,7 @@
       "publishedAt": "2026-09-15T10:49:11+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/spectator-spectacle-chapter-editor-letter-designboom-8-768x614.jpg"
@@ -9137,7 +10984,7 @@
       "publishedAt": "2026-09-15T10:30:54+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "titleZh": "让两棵芒果树成为住宅最重要的遮阳条件",
       "summaryZh": "印度住宅保留场地中的大树，结合木百叶，为室内带来阴影和过滤后的日光。",
       "reading": {
@@ -9165,7 +11012,7 @@
       "publishedAt": "2026-09-15T10:22:03+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/z4UeYM3Nc9gbzbchnSBzbS-320-80.jpg"
@@ -9204,7 +11051,7 @@
       "publishedAt": "2026-09-15T10:15:11+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/hussein-chalayan-after-words-fw2000-london-designboom-01-768x515.jpg"
@@ -9259,7 +11106,7 @@
       "publishedAt": "2026-09-15T10:00:46+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/lasvit_designboom_01-768x512.jpg"
@@ -9301,7 +11148,7 @@
       "publishedAt": "2026-09-15T10:00:19+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "titleZh": "建筑色彩不只是表面装饰：一本新书的六个案例",
       "summaryZh": "新书作者选取不同时期的彩色建筑，讨论色彩如何成为建筑表达的内在组成。",
       "reading": {
@@ -9329,7 +11176,7 @@
       "publishedAt": "2026-09-15T09:45:44+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/vuRRoreV24MeyUMmHYtJXg-320-80.jpg"
@@ -9376,7 +11223,7 @@
       "publishedAt": "2026-09-15T09:45:18+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "titleZh": "纽约地标与熊形象，进入新的服装视觉系列",
       "summaryZh": "乔纳森·艾夫的设计团队为服装品牌创作系列，以熊攀登帝国大厦等图形呼应纽约门店。",
       "reading": {
@@ -9404,7 +11251,7 @@
       "publishedAt": "2026-09-15T09:30:29+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "titleZh": "瓷砖模拟水泥树脂肌理，探索材料的视觉替身",
       "summaryZh": "德泽恩产品栏目介绍一组瓷质砖，以表面纹理再现水泥树脂的矿物感。",
       "reading": {
@@ -9431,7 +11278,7 @@
       "publishedAt": "2026-09-15T09:25:49+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/safety-curtain-designboom-07-768x543.jpg"
@@ -9470,7 +11317,7 @@
       "publishedAt": "2026-09-15T09:00:10+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "titleZh": "伦敦设计节的新街区，试图重建本地设计连接",
       "summaryZh": "设计活动负责人在访谈中讨论肖尔迪奇的新设计周，关注社区、建筑与室内设计的关系。",
       "reading": {
@@ -9498,7 +11345,7 @@
       "publishedAt": "2026-09-15T09:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/MnYKWnwm2n5SCpgCNaYaZL-320-80.jpg"
@@ -9543,7 +11390,7 @@
       "publishedAt": "2026-09-15T08:20:57+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/luca-battaglia-ghostly-glow-disappearing-carousels-long-exposure-photography-designboom-09-768x576.jpg"
@@ -9603,7 +11450,7 @@
       "publishedAt": "2026-09-15T08:00:17+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "titleZh": "玻璃砖灯具构成展场，唤起七十年代的氛围",
       "summaryZh": "李·布鲁姆在伦敦展示空间中以模块化玻璃砖灯具构建装置，呈现便携灯、壁灯与线性吊灯等组合。",
       "reading": {
@@ -9631,7 +11478,7 @@
       "publishedAt": "2026-09-15T08:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/hunter-harvey-art-itsnicethat-9.jpg?class=w1440"
@@ -9706,7 +11553,7 @@
       "publishedAt": "2026-09-15T08:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/Ntsal_Cairo_Panorama_of_the_European_Film_2025_Poster.jpg?class=w1920"
@@ -9781,7 +11628,7 @@
       "publishedAt": "2026-09-15T08:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 57,
+      "score": 54,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/WYiR_SocialTile_v2.png?class=w1080"
@@ -9927,7 +11774,7 @@
       "publishedAt": "2026-09-15T05:04:14+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-18",
-      "score": 42,
+      "score": 39,
       "titleZh": "交付物正在退场，设计过程被重新定义",
       "summaryZh": "作者认为生成式工具没有消灭线框图，而是暴露出交付物本来就不等于设计本身。",
       "reading": {
@@ -9955,7 +11802,7 @@
       "publishedAt": "2026-09-15T04:30:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-18",
-      "score": 56,
+      "score": 54,
       "images": [
         {
           "url": "https://media.creativeboom.com/02ab366f-4408-401a-9cbc-5c016cddb8af/conversions/2a918533e99cb2a9dff2fff407df69b2d142c186-medium.webp"
@@ -10012,7 +11859,7 @@
       "publishedAt": "2026-09-15T01:00:36+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 56,
+      "score": 53,
       "titleZh": "北海道球形客房方案，将流行文化转为空间体验",
       "summaryZh": "旅宿品牌公布以精灵球为造型的湖畔客房设计，报道中的项目仍处于计划建设阶段。",
       "reading": {
@@ -10040,7 +11887,7 @@
       "publishedAt": "2026-09-14T20:51:55+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-17",
-      "score": 55,
+      "score": 53,
       "images": [
         {
           "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/1000066062.jpg?w=1052&quality=89&ssl=1"
@@ -10091,7 +11938,7 @@
       "publishedAt": "2026-09-14T14:00:00+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-18",
-      "score": 55,
+      "score": 52,
       "images": [
         {
           "url": "https://s3files.core77.com/blog/images/1849768_81_145347_KCB8oSgto.jpg"
@@ -10146,7 +11993,7 @@
       "publishedAt": "2026-09-14T08:50:00+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-18",
-      "score": 54,
+      "score": 52,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/s4HqtzNYxyJe66hw5b9VGS-320-80.jpg"
@@ -10242,7 +12089,7 @@
       "publishedAt": "2026-09-14T05:45:00+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-18",
-      "score": 54,
+      "score": 51,
       "images": [
         {
           "url": "https://media.creativeboom.com/7ed79438-3436-4b5d-b753-c609874fd76b/conversions/66d761e2e47cc6583846e26363f9c42fc177149e-medium.webp"
@@ -10304,7 +12151,7 @@
       "publishedAt": "2026-09-11T21:04:03+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-16",
-      "score": 49,
+      "score": 47,
       "titleZh": "信息流为何总让人觉得自己落后了",
       "summaryZh": "用户体验集刊作者讨论科技行业的信息流如何放大他人进展，并影响个人对行业速度的判断。",
       "reading": {
@@ -10331,7 +12178,7 @@
       "publishedAt": "2026-09-11T15:25:00+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-18",
-      "score": 33,
+      "score": 32,
       "images": [
         {
           "url": "https://cdn.sanity.io/images/599r6htc/regionalized/88176a9c7ec801b005fa542330d1c925b381d77d-1608x1608.png?w=528&q=75&fit=max&auto=format&dpr=2"
@@ -10364,7 +12211,7 @@
       "publishedAt": "2026-09-11T10:50:00+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-17",
-      "score": 33,
+      "score": 32,
       "images": [
         {
           "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/IMG_9866-scaled.jpeg?resize=750%2C576&quality=89&ssl=1"
@@ -10406,7 +12253,7 @@
       "publishedAt": "2026-09-10T22:38:12+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-16",
-      "score": 47,
+      "score": 46,
       "titleZh": "从人因研究到生成式时代，回看体验设计的五个阶段",
       "summaryZh": "作者回顾体验设计的发展，将早期人因研究与今天的人工智能设计问题连接起来。",
       "reading": {
@@ -10435,7 +12282,7 @@
       "publishedAt": "2026-09-10T16:09:22+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-17",
-      "score": 47,
+      "score": 46,
       "images": [
         {
           "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/08/Combo-06.png?resize=750%2C415&quality=80&ssl=1"
@@ -10480,7 +12327,7 @@
       "publishedAt": "2026-09-10T14:43:34+00:00",
       "date": "2026-09-10",
       "firstSeen": "2026-09-18",
-      "score": 47,
+      "score": 46,
       "images": [
         {
           "url": "https://miro.medium.com/v2/resize:fit:700/1*dt3CJc_o9t-UsAKuJRdorw.png"
@@ -10513,7 +12360,7 @@
       "publishedAt": "2026-09-09T19:23:00+00:00",
       "date": "2026-09-10",
       "firstSeen": "2026-09-18",
-      "score": 16,
+      "score": 15,
       "images": [
         {
           "url": "https://cdn.sanity.io/images/599r6htc/regionalized/e769df59b15d762409b9edd956b77e853040b0d7-720x400.png?w=804&q=75&fit=max&auto=format&dpr=2"
@@ -10546,7 +12393,7 @@
       "publishedAt": "2026-09-09T14:11:57+00:00",
       "date": "2026-09-09",
       "firstSeen": "2026-09-16",
-      "score": 31,
+      "score": 30,
       "images": [
         {
           "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/09/MJ_Still-768x576.png?x61424"
@@ -10617,7 +12464,7 @@
       "publishedAt": "2026-09-09T08:00:00+00:00",
       "date": "2026-09-09",
       "firstSeen": "2026-09-16",
-      "score": 45,
+      "score": 44,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/SqnSqS6MFhUVeFXRxKanMo-320-80.jpg"
@@ -10671,7 +12518,7 @@
       "publishedAt": "2026-09-09T06:45:00+00:00",
       "date": "2026-09-09",
       "firstSeen": "2026-09-18",
-      "score": 45,
+      "score": 44,
       "images": [
         {
           "url": "https://media.creativeboom.com/1ff41846-19f0-47b9-98aa-6fdd2d9e1688/conversions/b81affb4d8a3a4db60935abc0d7e6f2ef2f168aa-medium.webp"
@@ -10762,7 +12609,7 @@
       "publishedAt": "2026-09-07T23:27:18+00:00",
       "date": "2026-09-08",
       "firstSeen": "2026-09-17",
-      "score": 44,
+      "score": 43,
       "images": [
         {
           "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/At-Times-Square-with-my-typewriter-2.jpg?w=1000&quality=89&ssl=1"
@@ -10828,7 +12675,7 @@
       "publishedAt": "2026-09-07T14:01:56+00:00",
       "date": "2026-09-07",
       "firstSeen": "2026-09-16",
-      "score": 29,
+      "score": 28,
       "images": [
         {
           "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/08/Biab-1536x1152.png?x61424"
@@ -10886,7 +12733,7 @@
       "publishedAt": "2026-09-06T13:09:52+00:00",
       "date": "2026-09-06",
       "firstSeen": "2026-09-16",
-      "score": 28,
+      "score": 27,
       "images": [
         {
           "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/09/3dfacemask-768x576.png?x61424"
@@ -10933,7 +12780,7 @@
       "publishedAt": "2026-09-05T12:50:25+00:00",
       "date": "2026-09-05",
       "firstSeen": "2026-09-16",
-      "score": 27,
+      "score": 26,
       "images": [
         {
           "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/09/unvowen_cover-768x576.png?x61424"
@@ -11006,7 +12853,7 @@
       "publishedAt": "2026-09-03T15:49:00+00:00",
       "date": "2026-09-03",
       "firstSeen": "2026-09-18",
-      "score": 26,
+      "score": 40,
       "images": [
         {
           "url": "https://cdn.sanity.io/images/599r6htc/regionalized/ad9f6e020fca5424924c47792919d803e9af2b74-1920x1080.png?w=804&q=75&fit=max&auto=format&dpr=2"
@@ -11343,6 +13190,51 @@
         "lead": "把目光，",
         "title": "落回使用的人。",
         "subtitle": "挥杆数据、便签提醒与手边的充电器，今天的设计都在回答日常里的小问题。"
+      }
+    },
+    {
+      "date": "2026-09-21",
+      "articleIds": [
+        "bf17a99f5671cadb",
+        "3badf57c43928564",
+        "9f95f5f2b122ecc2",
+        "aeda1bfffa32cfee",
+        "f646038af373b1ce",
+        "b436a33893f856ca",
+        "569cd3451e5ee1bb",
+        "d75036b973c1441e",
+        "9a8d96ded803dd0d",
+        "0af1257d554bf552",
+        "6404bdcab6d6ea43",
+        "95a814b181bf9878",
+        "2494761d39394382",
+        "533ed6a92137dbc2",
+        "54084c114fcc2f84",
+        "169d2701f5af2430",
+        "eb110062b8606c47",
+        "f4b900d1bd1994dd",
+        "0cd35bff46864da3",
+        "960c9e54fc583d5d",
+        "e3cd54ed47ceb935",
+        "d9cdd13b84a70303",
+        "0b326012680c75c2",
+        "9ef82366ab2d02c1",
+        "f2933e93c7616fbb",
+        "175202db4231f8da",
+        "6453c8832bf5e327",
+        "b09ab905954908e6",
+        "5a3d498e8be6008a",
+        "c123c37be4ddd888",
+        "bd2bd85f2871b60d",
+        "a40e68405a76e394",
+        "4485b28b3a7a1d2a",
+        "8dc3776bf1ecdf82"
+      ],
+      "updatedAt": "2026-09-21T09:07:34.219041+08:00",
+      "masthead": {
+        "lead": "把空间，",
+        "title": "做得刚好够用。",
+        "subtitle": "从二十五平方米的小屋到一座临时小城，这一天的设计都在尺度和需要之间找平衡。"
       }
     }
   ],
