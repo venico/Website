@@ -635,7 +635,7 @@
       "publishedAt": "2026-09-22T02:10:56+00:00",
       "date": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "score": 99,
+      "score": 80.2,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/sobo-paris-listening-restaurant-oak-vintage-furniture-acoustic-panels-designboom-2-768x1126.jpg"
@@ -669,6 +669,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 15.0,
+        "completeness": 19.2,
+        "source": 16.0
       }
     },
     {
@@ -682,7 +688,7 @@
       "publishedAt": "2026-09-22T01:56:53+08:00",
       "date": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "score": 77,
+      "score": 88.8,
       "images": [
         {
           "url": "https://image.uisdc.com/wp-content/uploads/2026/09/slt202609226.webp"
@@ -766,6 +772,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 25.0,
+        "completeness": 17.8,
+        "source": 16.0
       }
     },
     {
@@ -779,7 +791,7 @@
       "publishedAt": "2026-09-22T01:46:37+00:00",
       "date": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "score": 99,
+      "score": 85.0,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/flashlights-usually-dont-have-personalities-olights-oclip-2-ultra-kind-of-does/Olight-Oclip-2-series-hero.jpg"
@@ -828,6 +840,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 25.0,
+        "completeness": 20.0,
+        "source": 10.0
       }
     },
     {
@@ -841,7 +859,7 @@
       "publishedAt": "2026-09-21T23:55:06+00:00",
       "date": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "score": 97,
+      "score": 89.7,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/dbsub/468171/2026-09-18/erre-completes-the-marina-de-empresas-campus-with-a-third-building-facing-the-sea-1-6aad2229839e6.jpg"
@@ -899,6 +917,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 25.0,
+        "completeness": 18.7,
+        "source": 16.0
       }
     },
     {
@@ -912,7 +936,7 @@
       "publishedAt": "2026-09-21T23:30:58+00:00",
       "date": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "score": 97,
+      "score": 77.2,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/null-house/null_house_yanko_design_01.jpg"
@@ -951,6 +975,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 19.1,
+        "source": 10.0
       }
     },
     {
@@ -964,7 +994,7 @@
       "publishedAt": "2026-09-21T22:47:57+00:00",
       "date": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "score": 96,
+      "score": 53.5,
       "titleZh": "我们一直在对自己重复的那个监管谎言",
       "summaryZh": "作者认为拿没人能就如何监管达成一致当借口站不住脚，早期互联网的自组织治理经验恰恰说明这种说法不成立。",
       "reading": {
@@ -979,6 +1009,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 3.0,
+        "completeness": 10.6,
+        "source": 10.0
       }
     },
     {
@@ -992,7 +1028,7 @@
       "publishedAt": "2026-09-21T22:30:27+00:00",
       "date": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "score": 96,
+      "score": 76.2,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/the-kitchenaid-luminaire-mixer-that-glows-on-your-countertop/luminaire-00.jpg"
@@ -1040,6 +1076,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.2,
+        "source": 10.0
       }
     },
     {
@@ -1053,7 +1095,7 @@
       "publishedAt": "2026-09-21T21:30:09+00:00",
       "date": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "score": 95,
+      "score": 77.8,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/a-tiny-osaka-cafe-that-refuses-to-line-up-with-its-own-street/2050-coffee-01.jpg"
@@ -1113,6 +1155,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 19.8,
+        "source": 10.0
       }
     },
     {
@@ -1126,7 +1174,7 @@
       "publishedAt": "2026-09-21T19:00:00+00:00",
       "date": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "score": 78,
+      "score": 81.5,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6ab1/8679/c765/2000/0134/7162/newsletter/Copia_de_08_La_Haya__PH_Tipo_Casa_-___Federico_Cairoli.jpg?1790019306"
@@ -1164,6 +1212,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.6,
+        "source": 16.0
       }
     },
     {
@@ -1177,7 +1231,7 @@
       "publishedAt": "2026-09-21T18:20:25+00:00",
       "date": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "score": 92,
+      "score": 77.6,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/this-672-pound-camper-lets-you-escape-without-needing-a-heavy-duty-tow-vehicle/Aliner-Alite-Camper-Trailer-1.jpg"
@@ -1222,6 +1276,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 19.6,
+        "source": 10.0
       }
     },
     {
@@ -1235,7 +1295,7 @@
       "publishedAt": "2026-09-21T18:00:00+00:00",
       "date": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "score": 77,
+      "score": 73.6,
       "video": {
         "provider": "youtube",
         "id": "U7z1GduGdqA",
@@ -1263,6 +1323,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 10.0,
+        "completeness": 17.6,
+        "source": 16.0
       }
     },
     {
@@ -1276,7 +1342,7 @@
       "publishedAt": "2026-09-21T17:20:23+00:00",
       "date": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "score": 92,
+      "score": 78.0,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/the-fpgb-mini-is-barely-wider-than-a-game-boy-cartridge-and-plays-one/fpgb-mini-handheld-console-07.jpg"
@@ -1318,6 +1384,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 19.9,
+        "source": 10.0
       }
     },
     {
@@ -1331,7 +1403,7 @@
       "publishedAt": "2026-09-21T17:00:00+00:00",
       "date": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "score": 76,
+      "score": 81.1,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6ab1/6cb3/3c90/2a01/8a12/4bb2/newsletter/casa-muxarabi-mf-plus-arquitetos_42.jpg?1790012746"
@@ -1369,6 +1441,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.1,
+        "source": 16.0
       }
     },
     {
@@ -1382,7 +1460,7 @@
       "publishedAt": "2026-09-21T16:57:00+00:00",
       "date": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "score": 91,
+      "score": 77.7,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/08/manhattan-detention-facility-new-york-hok_dezeen_2364_hero-1704x959.jpg"
@@ -1412,6 +1490,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 12.0,
+        "completeness": 19.7,
+        "source": 16.0
       }
     },
     {
@@ -1425,7 +1509,7 @@
       "publishedAt": "2026-09-21T16:20:12+00:00",
       "date": "2026-09-22",
       "firstSeen": "2026-09-22",
-      "score": 91,
+      "score": 77.5,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/nook-stack-is-the-floor-lamp-that-moonlights-as-a-bookshelf/nook-stack-02.jpg"
@@ -1476,6 +1560,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 19.5,
+        "source": 10.0
       }
     },
     {
@@ -1489,7 +1579,7 @@
       "publishedAt": "2026-09-21T15:45:26+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 90,
+      "score": 72.3,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/bruit-bois-sound-wood-france-aunave-peyrot-steenhaut-loviton-festival-cabanes-designboom-01-768x512.jpg"
@@ -1522,6 +1612,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 15.0,
+        "completeness": 18.8,
+        "source": 16.0
       }
     },
     {
@@ -1535,7 +1631,7 @@
       "publishedAt": "2026-09-21T15:10:24+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 90,
+      "score": 69.7,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/prada-galleria-eight-floors-fashion-art-history-pastry-milan-designboom-8-768x512.jpg"
@@ -1566,6 +1662,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 19.2,
+        "source": 16.0
       }
     },
     {
@@ -1579,7 +1681,7 @@
       "publishedAt": "2026-09-21T15:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 75,
+      "score": 65.9,
       "video": {
         "provider": "youtube",
         "id": "Nl9AVKKFe4s",
@@ -1607,6 +1709,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 10.0,
+        "completeness": 17.4,
+        "source": 16.0
       }
     },
     {
@@ -1620,7 +1728,7 @@
       "publishedAt": "2026-09-21T13:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 88,
+      "score": 75.0,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/E3n9NatybR4vh8vRyAdmH7-320-80.jpg"
@@ -1737,6 +1845,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.5,
+        "source": 16.0
       }
     },
     {
@@ -1750,7 +1864,7 @@
       "publishedAt": "2026-09-21T12:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 73,
+      "score": 72.1,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/9kGMDnugdbeytmqCubhjSm-320-80.jpg"
@@ -1781,6 +1895,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 21.6,
+        "source": 16.0
       }
     },
     {
@@ -1794,7 +1914,7 @@
       "publishedAt": "2026-09-21T12:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 73,
+      "score": 66.7,
       "video": {
         "provider": "vimeo",
         "id": "1227667813",
@@ -1823,6 +1943,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 10.0,
+        "completeness": 18.1,
+        "source": 16.0
       }
     },
     {
@@ -1836,7 +1962,7 @@
       "publishedAt": "2026-09-21T12:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 73,
+      "score": 74.2,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aad/8575/066f/0900/0145/7718/newsletter/Kaohsiung_Port_Terminal_RUR_4693.jpg?1789757197"
@@ -1874,6 +2000,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.7,
+        "source": 16.0
       }
     },
     {
@@ -1887,7 +2019,7 @@
       "publishedAt": "2026-09-21T11:36:07+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 87,
+      "score": 46.1,
       "titleZh": "设计周刊：交付物之死与新形态手机的交互",
       "summaryZh": "本周设计资源合集讨论设计师角色的重新定义、交付物为什么正在失去意义，以及新形态手机带来的交互变化。",
       "reading": {
@@ -1902,6 +2034,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 3.0,
+        "completeness": 10.6,
+        "source": 10.0
       }
     },
     {
@@ -1915,7 +2053,7 @@
       "publishedAt": "2026-09-21T10:58:44+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 87,
+      "score": 63.3,
       "images": [
         {
           "url": "https://www.blender.org/wp-content/uploads/2026/09/projects_roadmap.webp"
@@ -1935,6 +2073,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 3.0,
+        "completeness": 17.8,
+        "source": 20.0
       }
     },
     {
@@ -1948,7 +2092,7 @@
       "publishedAt": "2026-09-21T10:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 71,
+      "score": 74.2,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aa7/f3f3/a74d/1200/0125/e238/newsletter/Skovsporet_-_SAGA_Space_Architects_9.jpg?1789391924"
@@ -1986,6 +2130,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.7,
+        "source": 16.0
       }
     },
     {
@@ -1999,7 +2149,7 @@
       "publishedAt": "2026-09-21T08:06:25+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 85,
+      "score": 69.2,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/gYstVjtvdqs2zKpkzxJevm-320-80.jpg"
@@ -2028,6 +2178,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 18.7,
+        "source": 16.0
       }
     },
     {
@@ -2041,7 +2197,7 @@
       "publishedAt": "2026-09-21T08:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 85,
+      "score": 74.7,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/2yf3ivHgZsWXyPpGRMuMGa-320-80.jpg"
@@ -2082,6 +2238,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.2,
+        "source": 16.0
       }
     },
     {
@@ -2095,7 +2257,7 @@
       "publishedAt": "2026-09-21T08:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 70,
+      "score": 76.5,
       "images": [
         {
           "url": "https://media.creativeboom.com/98220997-9540-498c-99e5-cb054989089e/conversions/dffe2f9de5df3017c4d83067aaebbbfd347f6da4-large.webp"
@@ -2188,6 +2350,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 20.0,
+        "source": 16.0
       }
     },
     {
@@ -2201,7 +2369,7 @@
       "publishedAt": "2026-09-21T08:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 85,
+      "score": 75.5,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/Screenshot_2026-09-17_at_10.16.34.png?class=w828"
@@ -2266,6 +2434,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 19.0,
+        "source": 16.0
       }
     },
     {
@@ -2279,7 +2453,7 @@
       "publishedAt": "2026-09-21T08:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 85,
+      "score": 71.7,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/CCC_Square_HOW_DO_I_INVEST_IN_A_CAREER_THAT_FEELS_ON_ROCKY_GROUND.png?class=w1080"
@@ -2312,6 +2486,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 15.0,
+        "completeness": 18.2,
+        "source": 16.0
       }
     },
     {
@@ -2325,7 +2505,7 @@
       "publishedAt": "2026-09-21T08:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 85,
+      "score": 74.8,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/ALAENA-03.gif?class=w1080"
@@ -2390,6 +2570,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.3,
+        "source": 16.0
       }
     },
     {
@@ -2403,7 +2589,7 @@
       "publishedAt": "2026-09-21T08:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 85,
+      "score": 74.8,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/lia-sued-illustration-itsnicethat-BABY_CARMELA.jpg?class=w1920"
@@ -2462,6 +2648,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.3,
+        "source": 16.0
       }
     },
     {
@@ -2475,7 +2667,7 @@
       "publishedAt": "2026-09-21T06:15:51+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 84,
+      "score": 66.5,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/dbsub/468038/2026-09-11/overlapping-spaces-2-6aa344cd59c6b.jpg"
@@ -2502,6 +2694,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 9.0,
+        "completeness": 19.0,
+        "source": 16.0
       }
     },
     {
@@ -2515,7 +2713,7 @@
       "publishedAt": "2026-09-21T06:15:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 84,
+      "score": 81.8,
       "images": [
         {
           "url": "https://media.creativeboom.com/05d36e08-e2d7-40ae-a702-79ae03c633f2/conversions/0f3539821e648f23c4356e4b6419181562015f62-large.webp"
@@ -2615,6 +2813,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 25.0,
+        "completeness": 18.3,
+        "source": 16.0
       }
     },
     {
@@ -2628,7 +2832,7 @@
       "publishedAt": "2026-09-21T06:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 84,
+      "score": 75.1,
       "images": [
         {
           "url": "https://media.creativeboom.com/fd9c0689-3be4-4ea5-93bd-aa04e53411a9/conversions/cbb8177450e22f9c02f2fe7400970bf0780c1455-large.webp"
@@ -2748,6 +2952,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.6,
+        "source": 16.0
       }
     },
     {
@@ -2761,7 +2971,7 @@
       "publishedAt": "2026-09-21T05:45:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 84,
+      "score": 75.6,
       "images": [
         {
           "url": "https://media.creativeboom.com/a5622b9b-99cd-4f01-a3f6-84c269d58895/conversions/15b4d507652ceba722a25442b1d122a45a2948a2-large.webp"
@@ -2872,6 +3082,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 19.1,
+        "source": 16.0
       }
     },
     {
@@ -2885,7 +3101,7 @@
       "publishedAt": "2026-09-21T05:00:43+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 83,
+      "score": 75.0,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/motion-sickness-isabel-helen_dezeen_2364_col_12-1704x2272.jpg"
@@ -2924,6 +3140,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.5,
+        "source": 16.0
       }
     },
     {
@@ -2937,7 +3159,7 @@
       "publishedAt": "2026-09-21T03:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 67,
+      "score": 74.9,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aac/29d6/d8c8/8201/89ac/d11a/newsletter/tea-boutique-at-araksa-tea-garden-simple-architecture-plus-thirteenthree_29.jpg?1789667826"
@@ -2976,6 +3198,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.4,
+        "source": 16.0
       }
     },
     {
@@ -2989,7 +3217,7 @@
       "publishedAt": "2026-09-21T02:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-21",
-      "score": 82,
+      "score": 81.3,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/CjrFdruNXwfVo7e5VLT9Vn-320-80.jpg"
@@ -3024,6 +3252,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.3,
+        "source": 16.0
       }
     },
     {
@@ -3037,7 +3271,7 @@
       "publishedAt": "2026-09-21T02:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 67,
+      "score": 74.5,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aaa/a491/1057/6a00/017e/a67b/newsletter/00_DSC05557.jpg?1789568259"
@@ -3075,6 +3309,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.0,
+        "source": 16.0
       }
     },
     {
@@ -3088,7 +3328,7 @@
       "publishedAt": "2026-09-21T01:07:54+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-21",
-      "score": 66,
+      "score": 81.7,
       "images": [
         {
           "url": "https://www.stashmedia.tv/wp-content/uploads/Yeti-Pictures-Opens-Motion-Plus-Design-New-York-STASH-MAGAZINE7-300x135.jpg"
@@ -3168,6 +3408,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.7,
+        "source": 16.0
       }
     },
     {
@@ -3181,7 +3427,7 @@
       "publishedAt": "2026-09-21T00:52:28+08:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-22",
-      "score": 62,
+      "score": 74.8,
       "images": [
         {
           "url": "https://image.uisdc.com/wp-content/uploads/2026/09/slt202609214.webp"
@@ -3235,6 +3481,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.3,
+        "source": 16.0
       }
     },
     {
@@ -3248,7 +3500,7 @@
       "publishedAt": "2026-09-20T23:30:30+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-21",
-      "score": 81,
+      "score": 75.5,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/08/adirondack-home/adirondack_yanko_design_01.jpg"
@@ -3298,6 +3550,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.5,
+        "source": 10.0
       }
     },
     {
@@ -3311,7 +3569,7 @@
       "publishedAt": "2026-09-20T22:30:36+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-21",
-      "score": 80,
+      "score": 75.4,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/a-side-table-that-actually-hides-books-in-plain-sight/nudge-00.jpg"
@@ -3355,6 +3613,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 10.0
       }
     },
     {
@@ -3368,7 +3632,7 @@
       "publishedAt": "2026-09-20T21:07:28+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-21",
-      "score": 79,
+      "score": 75.3,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/big-shakira-temporary-city-madrid-reusable-structures-designboom-7-768x534.jpg"
@@ -3397,6 +3661,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 12.0,
+        "completeness": 17.3,
+        "source": 16.0
       }
     },
     {
@@ -3410,7 +3680,7 @@
       "publishedAt": "2026-09-20T21:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-21",
-      "score": 64,
+      "score": 81.1,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aac/74e2/8d91/7901/8920/54de/medium_jpg/sukoon-tubb_7.jpg?1789687064"
@@ -3448,6 +3718,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.1,
+        "source": 16.0
       }
     },
     {
@@ -3461,7 +3737,7 @@
       "publishedAt": "2026-09-20T20:45:42+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-21",
-      "score": 79,
+      "score": 74.9,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/luna-cottage/luna_cottage_yanko_design_01.jpg"
@@ -3505,6 +3781,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 16.9,
+        "source": 10.0
       }
     },
     {
@@ -3518,7 +3800,7 @@
       "publishedAt": "2026-09-20T20:35:14+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-21",
-      "score": 64,
+      "score": 84.7,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/dbsub/389375/2026-09-15/auruboros-urban-memory-and-collective-dream-1-6aa9b2ee3e1ba.jpg"
@@ -3563,6 +3845,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 22.0,
+        "completeness": 16.7,
+        "source": 16.0
       }
     },
     {
@@ -3576,7 +3864,7 @@
       "publishedAt": "2026-09-20T19:15:20+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-21",
-      "score": 78,
+      "score": 81.7,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/649401/vaio_t_series_laptop_1.jpeg"
@@ -3627,6 +3915,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 25.0,
+        "completeness": 16.7,
+        "source": 10.0
       }
     },
     {
@@ -3640,7 +3934,7 @@
       "publishedAt": "2026-09-20T17:20:35+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-21",
-      "score": 78,
+      "score": 74.8,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/the-499-lapis-one-is-a-tiny-mac-mini-alternative-built-just-to-run-your-ai-agents/lapis_one_1.jpg"
@@ -3681,6 +3975,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 16.8,
+        "source": 10.0
       }
     },
     {
@@ -3694,7 +3994,7 @@
       "publishedAt": "2026-09-20T17:00:55+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-21",
-      "score": 77,
+      "score": 68.9,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/bugatti-skyscraper-miami-brandon-haw-yabu-pushelberg_dezeen_2364_col_3-1704x2059.jpg"
@@ -3717,6 +4017,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 6.0,
+        "completeness": 16.9,
+        "source": 16.0
       }
     },
     {
@@ -3730,7 +4036,7 @@
       "publishedAt": "2026-09-20T17:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-21",
-      "score": 62,
+      "score": 81.0,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aaa/749b/4f64/5201/8803/147a/newsletter/tojiro-knife-gallery-tokyo-hanare-l-o-katata-yoshishito-design_1.jpg?1789555894"
@@ -3768,6 +4074,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.0,
+        "source": 16.0
       }
     },
     {
@@ -3781,7 +4093,7 @@
       "publishedAt": "2026-09-20T16:55:25+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-20",
-      "score": 77,
+      "score": 81.4,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/friedman-benda-wendell-castle-living-designboom-01-768x679.jpg"
@@ -3816,6 +4128,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 16.0
       }
     },
     {
@@ -3829,7 +4147,7 @@
       "publishedAt": "2026-09-20T16:00:00+00:00",
       "date": "2026-09-21",
       "firstSeen": "2026-09-21",
-      "score": 62,
+      "score": 80.7,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6ab0/1f75/8d91/7901/8920/5a19/newsletter/pabellon-la-grieta-weyes-plus-cedim-onda-pavilion_14.jpg?1789927301"
@@ -3867,6 +4185,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 16.7,
+        "source": 16.0
       }
     },
     {
@@ -3880,7 +4204,7 @@
       "publishedAt": "2026-09-20T15:20:25+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 77,
+      "score": 61.3,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/649343/yoniq_portal_1.jpeg"
@@ -3909,6 +4233,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 16.8,
+        "source": 10.0
       }
     },
     {
@@ -3922,7 +4252,7 @@
       "publishedAt": "2026-09-20T15:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 62,
+      "score": 73.3,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aa8/4b33/a74d/1200/0125/e416/newsletter/technology-park-1.jpg?1789414226"
@@ -3960,6 +4290,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.8,
+        "source": 16.0
       }
     },
     {
@@ -3973,7 +4309,7 @@
       "publishedAt": "2026-09-20T14:45:51+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 76,
+      "score": 67.3,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/nick-caves-soundsuits-body-stage-sound-movement-identity-designboom-16-768x576.jpg"
@@ -4002,6 +4338,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 16.8,
+        "source": 16.0
       }
     },
     {
@@ -4015,7 +4357,7 @@
       "publishedAt": "2026-09-20T13:42:38+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 76,
+      "score": 64.1,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/the-humidifier-that-refuses-to-use-synthetic-scent/potpourri-00.jpg"
@@ -4047,6 +4389,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 15.0,
+        "completeness": 16.6,
+        "source": 10.0
       }
     },
     {
@@ -4060,7 +4408,7 @@
       "publishedAt": "2026-09-20T13:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 76,
+      "score": 73.1,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/R4AssyLorPyG8oY6VrHiQb-320-80.jpg"
@@ -4122,6 +4470,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.6,
+        "source": 16.0
       }
     },
     {
@@ -4135,7 +4489,7 @@
       "publishedAt": "2026-09-20T12:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 60,
+      "score": 72.8,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/8qHdY9vNjGDBrta7B2MRam-320-80.jpg"
@@ -4185,6 +4539,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.3,
+        "source": 16.0
       }
     },
     {
@@ -4198,7 +4558,7 @@
       "publishedAt": "2026-09-20T11:40:32+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 75,
+      "score": 67.2,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/the-bali-yoga-studio-quietly-refusing-to-use-air-conditioning/lotus-yoga-01.jpg"
@@ -4245,6 +4605,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.6,
+        "source": 10.0
       }
     },
     {
@@ -4258,7 +4624,7 @@
       "publishedAt": "2026-09-20T11:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 60,
+      "score": 73.1,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aa2/e02d/05b6/9900/01b5/3a95/newsletter/Music_Studio_01___NAHE_ARCHITECTS.jpg?1789059267"
@@ -4296,6 +4662,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.6,
+        "source": 16.0
       }
     },
     {
@@ -4309,7 +4681,7 @@
       "publishedAt": "2026-09-20T10:00:58+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 74,
+      "score": 73.0,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/house-of-shadows-cadence-architects-bangalore-india-residential-architecture_dezeen_2364_col_0-1704x2556.jpg"
@@ -4344,6 +4716,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.5,
+        "source": 16.0
       }
     },
     {
@@ -4357,7 +4735,7 @@
       "publishedAt": "2026-09-20T10:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 59,
+      "score": 72.9,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aa9/1f61/a74d/1200/0125/ec7d/newsletter/Le_Bruit_du_Bois__12_sur_26_.jpg?1789468552"
@@ -4395,6 +4773,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.4,
+        "source": 16.0
       }
     },
     {
@@ -4408,7 +4792,7 @@
       "publishedAt": "2026-09-20T09:16:16+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 74,
+      "score": 72.9,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/MTTUrJVnNp4KPBQiXEh3Uf-320-80.jpg"
@@ -4455,6 +4839,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.4,
+        "source": 16.0
       }
     },
     {
@@ -4468,7 +4858,7 @@
       "publishedAt": "2026-09-20T09:00:12+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 74,
+      "score": 73.2,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/bamboo-buildings-roundup-sq_dezeen_2364_col_3-1704x1704.jpg"
@@ -4506,6 +4896,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.7,
+        "source": 16.0
       }
     },
     {
@@ -4519,7 +4915,7 @@
       "publishedAt": "2026-09-20T09:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 59,
+      "score": 70.3,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/bBDiKYLdzf5qWRYuvmsr37-320-80.jpg"
@@ -4551,6 +4947,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 15.0,
+        "completeness": 16.8,
+        "source": 16.0
       }
     },
     {
@@ -4564,7 +4966,7 @@
       "publishedAt": "2026-09-20T08:51:30+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 74,
+      "score": 72.9,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/upBAPoXpRAFxCUTtytAaKm-320-80.jpg"
@@ -4602,6 +5004,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.4,
+        "source": 16.0
       }
     },
     {
@@ -4615,7 +5023,7 @@
       "publishedAt": "2026-09-20T08:30:19+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 74,
+      "score": 64.0,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/devoKzbqWjckiKEZuVxKwj-320-80.jpg"
@@ -4641,6 +5049,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 9.0,
+        "completeness": 16.5,
+        "source": 16.0
       }
     },
     {
@@ -4654,7 +5068,7 @@
       "publishedAt": "2026-09-20T08:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 59,
+      "score": 60.8,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/7YDpdPTHhDHwM8vj5aiUSi-320-80.jpg"
@@ -4677,6 +5091,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 6.0,
+        "completeness": 16.2,
+        "source": 16.0
       }
     },
     {
@@ -4690,7 +5110,7 @@
       "publishedAt": "2026-09-20T07:45:22+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 74,
+      "score": 73.1,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/dbsub/468038/2026-09-10/house-of-wall-forest-6-6aa33eed8b9b0.jpg"
@@ -4734,6 +5154,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.6,
+        "source": 16.0
       }
     },
     {
@@ -4747,7 +5173,7 @@
       "publishedAt": "2026-09-20T07:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 58,
+      "score": 63.8,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/3S7qj9dnzySDu4permZHRS-320-80.jpg"
@@ -4773,6 +5199,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 9.0,
+        "completeness": 16.3,
+        "source": 16.0
       }
     },
     {
@@ -4786,7 +5218,7 @@
       "publishedAt": "2026-09-20T06:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 58,
+      "score": 64.2,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/6XCmd6UQyCL6cA9sEknETJ-320-80.jpg"
@@ -4812,6 +5244,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 9.0,
+        "completeness": 16.6,
+        "source": 16.0
       }
     },
     {
@@ -4825,7 +5263,7 @@
       "publishedAt": "2026-09-20T06:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 58,
+      "score": 73.2,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aaa/b06c/4f64/5201/8803/1622/newsletter/the-button-vavi-mjolk-architekti_1.jpg?1789571252"
@@ -4863,6 +5301,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.6,
+        "source": 16.0
       }
     },
     {
@@ -4876,7 +5320,7 @@
       "publishedAt": "2026-09-20T06:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 73,
+      "score": 73.0,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/EQdh7JRnt3GxepLmZKjacL-320-80.jpg"
@@ -4920,6 +5364,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.5,
+        "source": 16.0
       }
     },
     {
@@ -4933,7 +5383,7 @@
       "publishedAt": "2026-09-20T05:00:07+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 73,
+      "score": 72.9,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/fritz-hansen-sound-club-technics_dezeen_2364_col_7-1704x2555.jpg"
@@ -4968,6 +5418,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.4,
+        "source": 16.0
       }
     },
     {
@@ -4981,7 +5437,7 @@
       "publishedAt": "2026-09-20T02:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 57,
+      "score": 73.2,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/693b/a143/e123/2a00/01c3/8774/newsletter/HENN_Kingdee_01_Exterior__TianFangfang.jpg?1765515645"
@@ -5019,6 +5475,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.7,
+        "source": 16.0
       }
     },
     {
@@ -5032,7 +5494,7 @@
       "publishedAt": "2026-09-20T01:45:20+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 71,
+      "score": 75.7,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/this-899-golf-launch-monitor-tracks-your-swing-in-3d-and-tells-you-how-to-fix-it/NeoPace-G10-Pro-Worlds-First-AI-3D-Replay-Golf-Monitor-hero.jpg"
@@ -5073,6 +5535,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.7,
+        "source": 10.0
       }
     },
     {
@@ -5086,7 +5554,7 @@
       "publishedAt": "2026-09-19T22:30:54+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 70,
+      "score": 75.7,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/poco-f9-ultra-review-great-sound-grown-up-design/poco-f9-ultra-review-09.jpg"
@@ -5181,6 +5649,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.6,
+        "source": 10.0
       }
     },
     {
@@ -5194,7 +5668,7 @@
       "publishedAt": "2026-09-19T22:00:04+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 55,
+      "score": 75.5,
       "titleZh": "用摄影重塑一台经典双座跑车",
       "summaryZh": "摄影师以海滩与暗光为题拍摄宝马一款经典双座跑车，把车身线条放进克制的光影里。",
       "reading": {
@@ -5304,7 +5778,13 @@
         {
           "url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/36095a255891535.6aacc22a48023.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.5,
+        "source": 10.0
+      }
     },
     {
       "id": "8dc3776bf1ecdf82",
@@ -5317,7 +5797,7 @@
       "publishedAt": "2026-09-19T21:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-21",
-      "score": 55,
+      "score": 73.0,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aaa/5c16/1057/6a00/017e/a419/newsletter/IMG_00.jpg?1789549625"
@@ -5355,6 +5835,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.5,
+        "source": 16.0
       }
     },
     {
@@ -5368,7 +5854,7 @@
       "publishedAt": "2026-09-19T20:45:41+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 70,
+      "score": 75.2,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/this-21-charger-powers-your-iphone-apple-watch-and-airpods-at-once/1.jpg"
@@ -5406,6 +5892,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.2,
+        "source": 10.0
       }
     },
     {
@@ -5419,7 +5911,7 @@
       "publishedAt": "2026-09-19T20:35:24+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 70,
+      "score": 81.5,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/director-interiors-designboom-31-2048x1364.jpg"
@@ -5454,6 +5946,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.5,
+        "source": 16.0
       }
     },
     {
@@ -5467,7 +5965,7 @@
       "publishedAt": "2026-09-19T19:15:44+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 69,
+      "score": 75.2,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/mate-works-like-a-sticky-note-that-sets-its-own-alarm-when-you-write/mate-smart-note-taking-concept-03.jpg"
@@ -5526,6 +6024,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.2,
+        "source": 10.0
       }
     },
     {
@@ -5539,7 +6043,7 @@
       "publishedAt": "2026-09-19T18:00:08+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 54,
+      "score": 75.2,
       "titleZh": "为打猎犬做一套宠物食品品牌",
       "summaryZh": "概念作品为狩猎与高运动量的犬只设计宠物食品品牌，用视觉语言强调体能与户外场景。",
       "reading": {
@@ -5589,7 +6093,13 @@
         {
           "url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/1e4ad9255861433.6aabe64e6fa19.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.2,
+        "source": 10.0
+      }
     },
     {
       "id": "1155a64a51012487",
@@ -5602,7 +6112,7 @@
       "publishedAt": "2026-09-19T17:20:50+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 69,
+      "score": 75.4,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/vista-tiny-house/vista_tiny_house_yanko_design_01.jpg"
@@ -5649,6 +6159,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 10.0
       }
     },
     {
@@ -5662,7 +6178,7 @@
       "publishedAt": "2026-09-19T17:00:45+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 69,
+      "score": 78.6,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/guzema-soho-boutique_victoria-yakusha-studio_dezeen_2364_col_6-1704x1119.jpg"
@@ -5694,6 +6210,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 15.0,
+        "completeness": 17.6,
+        "source": 16.0
       }
     },
     {
@@ -5707,7 +6229,7 @@
       "publishedAt": "2026-09-19T17:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 54,
+      "score": 81.3,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aaa/6da9/4f64/5201/8803/13c6/newsletter/phan-chau-trinh-sports-hall-scale50_2.jpg?1789554104"
@@ -5745,6 +6267,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 16.0
       }
     },
     {
@@ -5758,7 +6286,7 @@
       "publishedAt": "2026-09-19T16:00:00+00:00",
       "date": "2026-09-20",
       "firstSeen": "2026-09-20",
-      "score": 53,
+      "score": 81.4,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aad/c36a/066f/0900/0145/7773/newsletter/IHOUSE_PINAR-0001.jpg?1789773288"
@@ -5796,6 +6324,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 16.0
       }
     },
     {
@@ -5809,7 +6343,7 @@
       "publishedAt": "2026-09-19T15:20:03+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 68,
+      "score": 68.2,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/the-wooden-box-that-refuses-to-let-your-phone-win/faraday-01.jpg"
@@ -5856,6 +6390,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.8,
+        "source": 10.0
       }
     },
     {
@@ -5869,7 +6409,7 @@
       "publishedAt": "2026-09-19T15:00:00+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 53,
+      "score": 73.3,
       "images": [
         {
           "url": "https://www.artofvfx.com/wp-content/uploads/2026/09/LastHouse_ILM_ITW_06A-1068x601.jpg"
@@ -5904,6 +6444,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 16.8,
+        "source": 16.0
       }
     },
     {
@@ -5917,7 +6463,7 @@
       "publishedAt": "2026-09-19T14:56:35+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 53,
+      "score": 69.3,
       "images": [
         {
           "url": "https://img.youtube.com/vi/CniycUnvcX4/maxresdefault.jpg"
@@ -5953,6 +6499,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 13.0,
+        "completeness": 17.8,
+        "source": 16.0
       }
     },
     {
@@ -5966,7 +6518,7 @@
       "publishedAt": "2026-09-19T14:00:05+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 53,
+      "score": 67.8,
       "titleZh": "为经济学人画一杯咖啡的未来",
       "summaryZh": "插画系列配合一篇关于咖啡种植前景的报道，用图形解释气候变暖对阿拉比卡咖啡的影响。",
       "reading": {
@@ -6028,7 +6580,13 @@
         {
           "url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/4e1650254826765.6a8ed906a5c09.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.3,
+        "source": 10.0
+      }
     },
     {
       "id": "87af7690a116205d",
@@ -6041,7 +6599,7 @@
       "publishedAt": "2026-09-19T10:00:38+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 67,
+      "score": 68.2,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/eagle-house-ifdo-hastings-architecture-uk-adaptive-reuse_dezeen_2364_col_17-1704x1363.jpg"
@@ -6070,6 +6628,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 17.7,
+        "source": 16.0
       }
     },
     {
@@ -6083,7 +6647,7 @@
       "publishedAt": "2026-09-19T10:00:00+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 67,
+      "score": 67.5,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/XpmDzMzUaiivAPVjPTt9vN-320-80.jpg"
@@ -6112,6 +6676,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 17.1,
+        "source": 16.0
       }
     },
     {
@@ -6125,7 +6695,7 @@
       "publishedAt": "2026-09-19T09:00:05+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 66,
+      "score": 73.8,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2025/07/sq-earth-holiday-home-sou-fujimoto-japan-not-a-hotel_dezeen_2364_col_3-1704x1704.jpg"
@@ -6166,6 +6736,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 16.0
       }
     },
     {
@@ -6179,7 +6755,7 @@
       "publishedAt": "2026-09-19T09:00:00+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 51,
+      "score": 62.0,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/NYgoQTXkfg3QAJuswazSph-320-80.jpg"
@@ -6202,6 +6778,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 6.0,
+        "completeness": 17.5,
+        "source": 16.0
       }
     },
     {
@@ -6215,7 +6797,7 @@
       "publishedAt": "2026-09-19T07:45:59+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 66,
+      "score": 70.8,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/homme-plisse-issey-miyake-performance-matisse-one-one-one-designboom-01-768x512.jpg"
@@ -6247,6 +6829,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 15.0,
+        "completeness": 17.3,
+        "source": 16.0
       }
     },
     {
@@ -6260,7 +6848,7 @@
       "publishedAt": "2026-09-19T05:00:00+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 65,
+      "score": 73.8,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/hQFHupEDQHRfXK7o7UJ9fP-320-80.jpg"
@@ -6298,6 +6886,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.3,
+        "source": 16.0
       }
     },
     {
@@ -6311,7 +6905,7 @@
       "publishedAt": "2026-09-19T01:45:28+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 65,
+      "score": 68.1,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/makerphone-2-0-assembles-like-lego-calls-like-a-real-4g-phone/MAKERphone-2-0-an-educational-DIY-mobile-phone-hero.jpg"
@@ -6352,6 +6946,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.6,
+        "source": 10.0
       }
     },
     {
@@ -6365,7 +6965,7 @@
       "publishedAt": "2026-09-18T21:20:51+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 64,
+      "score": 46.1,
       "titleZh": "应用商店按钮，为什么从页面上消失了",
       "summaryZh": "作者回顾应用商店下载徽章从网页上淡出的过程，讨论它如何被二维码与自动跳转取代。",
       "reading": {
@@ -6380,6 +6980,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 3.0,
+        "completeness": 10.6,
+        "source": 10.0
       }
     },
     {
@@ -6393,7 +6999,7 @@
       "publishedAt": "2026-09-18T20:35:39+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 63,
+      "score": 68.0,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/dbsub/468138/2026-09-17/basque-luxury-studio-opens-azken-natura-an-exhibition-by-jesus-mari-lazkano-9-6aaba6ab78788.jpg"
@@ -6422,6 +7028,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 17.5,
+        "source": 16.0
       }
     },
     {
@@ -6435,7 +7047,7 @@
       "publishedAt": "2026-09-18T18:39:28+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 63,
+      "score": 65.0,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/basura-big-data_dezeen_2364_col_1-1704x959.jpg"
@@ -6461,6 +7073,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 9.0,
+        "completeness": 17.5,
+        "source": 16.0
       }
     },
     {
@@ -6474,7 +7092,7 @@
       "publishedAt": "2026-09-18T18:10:44+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 63,
+      "score": 73.9,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/dbsub/467864/2026-09-15/biomaterial-designers-reimagine-the-future-cafe-1-6aa9b0fe5d90d.jpg"
@@ -6515,6 +7133,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 16.0
       }
     },
     {
@@ -6528,7 +7152,7 @@
       "publishedAt": "2026-09-18T18:00:00+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 63,
+      "score": 66.1,
       "video": {
         "provider": "youtube",
         "id": "A2nFnutIqEA",
@@ -6556,6 +7180,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 10.0,
+        "completeness": 17.6,
+        "source": 16.0
       }
     },
     {
@@ -6569,7 +7199,7 @@
       "publishedAt": "2026-09-18T17:00:00+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 63,
+      "score": 66.5,
       "video": {
         "provider": "youtube",
         "id": "gLqGgw8Zlaw",
@@ -6597,6 +7227,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 10.0,
+        "completeness": 18.0,
+        "source": 16.0
       }
     },
     {
@@ -6610,7 +7246,7 @@
       "publishedAt": "2026-09-18T17:00:00+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 48,
+      "score": 59.6,
       "images": [
         {
           "url": "https://media.nngroup.com/media/editor/2026/09/18/the-three-types-of-ai-context-1-1.png"
@@ -6630,6 +7266,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 3.0,
+        "completeness": 18.1,
+        "source": 16.0
       }
     },
     {
@@ -6643,7 +7285,7 @@
       "publishedAt": "2026-09-18T16:25:04+00:00",
       "date": "2026-09-19",
       "firstSeen": "2026-09-20",
-      "score": 48,
+      "score": 61.9,
       "titleZh": "芝加哥老市政中心，公布改造后的新效果图",
       "summaryZh": "谷歌公布汤普森中心的室内外新效果图，改造由原建筑事务所参与，并委托艺术家创作永久作品。",
       "reading": {
@@ -6666,7 +7308,13 @@
         {
           "url": "https://www.archpaper.com/wp-content/uploads/2026/09/Carousel_A_1.width-1000.format-webp-675x900.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 6.0,
+        "completeness": 17.4,
+        "source": 16.0
+      }
     },
     {
       "id": "71a87dd1ad320507",
@@ -6679,7 +7327,7 @@
       "publishedAt": "2026-09-18T15:33:11+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 62,
+      "score": 71.0,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/MALBA-frida-escobedo-extension-announcement-designboom-01-768x512.jpg"
@@ -6711,6 +7359,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 15.0,
+        "completeness": 17.5,
+        "source": 16.0
       }
     },
     {
@@ -6724,7 +7378,7 @@
       "publishedAt": "2026-09-18T15:23:22+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-20",
-      "score": 62,
+      "score": 68.9,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/oTB9DQwmxriRcvLZ4P5yQo-320-80.jpg"
@@ -6783,6 +7437,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 18.0,
+        "media": 18.0,
+        "completeness": 16.9,
+        "source": 16.0
       }
     },
     {
@@ -6796,7 +7456,7 @@
       "publishedAt": "2026-09-18T15:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 62,
+      "score": 66.2,
       "video": {
         "provider": "youtube",
         "id": "ZNEGDySpQvg",
@@ -6824,6 +7484,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 10.0,
+        "completeness": 17.7,
+        "source": 16.0
       }
     },
     {
@@ -6837,7 +7503,7 @@
       "publishedAt": "2026-09-18T14:48:44+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 62,
+      "score": 45.5,
       "titleZh": "两个智能设计工具，做同一个移动应用",
       "summaryZh": "作者用同一套需求分别交给谷歌与菲格玛的智能功能，比较生成界面的结构与可修改性。",
       "reading": {
@@ -6852,6 +7518,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 3.0,
+        "completeness": 10.0,
+        "source": 10.0
       }
     },
     {
@@ -6865,7 +7537,7 @@
       "publishedAt": "2026-09-18T14:06:59+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 62,
+      "score": 80.9,
       "video": {
         "provider": "vimeo",
         "id": "1227307667",
@@ -6958,7 +7630,13 @@
         {
           "url": "https://www.stashmedia.tv/wp-content/uploads/Forever-Expands-With-Addition-of-Tokyo-Studio-Onesal-STASH-MAGAZINE-300x169.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 25.0,
+        "completeness": 17.4,
+        "source": 16.0
+      }
     },
     {
       "id": "52c3405f23a06efe",
@@ -6971,7 +7649,7 @@
       "publishedAt": "2026-09-18T14:00:15+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 62,
+      "score": 77.7,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/lifeline-tote-bag-life-jacket_dezeen_2364_col_2-1704x2561.jpg"
@@ -7016,6 +7694,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 22.0,
+        "completeness": 17.1,
+        "source": 16.0
       }
     },
     {
@@ -7029,7 +7713,7 @@
       "publishedAt": "2026-09-18T14:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 62,
+      "score": 73.8,
       "titleZh": "一九七三年的菲亚特皮卡，被修复回原样",
       "summaryZh": "二十世纪有车主委托车身作坊把菲亚特五百改成皮卡，这辆一九七三年的车由法国团队修复。",
       "reading": {
@@ -7091,7 +7775,13 @@
         {
           "url": "https://s3files.core77.com/images/c77_directory/ribbon-c77da.png"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 16.0
+      }
     },
     {
       "id": "72ee723bb41eb617",
@@ -7104,7 +7794,7 @@
       "publishedAt": "2026-09-18T13:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 62,
+      "score": 73.7,
       "titleZh": "脚轮藏在底座里的圆凳",
       "summaryZh": "日本设计师把脚轮收进底座，让圆凳看起来像实心坐具，同时能在工作室里轻松移动。",
       "reading": {
@@ -7154,7 +7844,13 @@
         {
           "url": "https://s3files.core77.com/images/c77_directory/ribbon-c77da.png"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.2,
+        "source": 16.0
+      }
     },
     {
       "id": "6bc6e0221352f785",
@@ -7167,7 +7863,7 @@
       "publishedAt": "2026-09-18T12:45:12+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 62,
+      "score": 58.6,
       "titleZh": "把香料罐做成印度菜的邀请",
       "summaryZh": "概念包装把香料罐的开启方式与排版结合，让货架上的容器承担解释风味的角色。",
       "reading": {
@@ -7182,6 +7878,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 3.0,
+        "completeness": 17.1,
+        "source": 16.0
       }
     },
     {
@@ -7195,7 +7897,7 @@
       "publishedAt": "2026-09-18T12:40:33+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 62,
+      "score": 74.9,
       "images": [
         {
           "url": "https://s35726.pcdn.co/wp-content/uploads/2026/09/MD_NYC_2025_01-scaled.jpg"
@@ -7237,6 +7939,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 19.0,
+        "completeness": 17.4,
+        "source": 16.0
       }
     },
     {
@@ -7250,7 +7958,7 @@
       "publishedAt": "2026-09-18T12:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 47,
+      "score": 68.8,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/8rfcWbwotsaS9L6sx7fQJ9-320-80.jpg"
@@ -7279,6 +7987,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 18.3,
+        "source": 16.0
       }
     },
     {
@@ -7292,7 +8006,7 @@
       "publishedAt": "2026-09-18T12:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 47,
+      "score": 55.8,
       "titleZh": "怪兽剧集第二季，视效团队怎么做泰坦",
       "summaryZh": "视效工作室公开为剧集第二季制作的泰坦镜头，承担了本季多场主要战斗。",
       "reading": {
@@ -7307,6 +8021,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 0.0,
+        "completeness": 17.2,
+        "source": 16.0
       }
     },
     {
@@ -7320,7 +8040,7 @@
       "publishedAt": "2026-09-18T10:00:33+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 61,
+      "score": 74.1,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/slancha-hanging-baskets_dezeen_2364_col_6-1704x2130.jpg"
@@ -7361,6 +8081,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.6,
+        "source": 16.0
       }
     },
     {
@@ -7374,7 +8100,7 @@
       "publishedAt": "2026-09-18T09:30:45+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 61,
+      "score": 61.8,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/khoy-sofa-bed-design_dezeen_2364_col_5-1704x1136.jpg"
@@ -7397,6 +8123,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 6.0,
+        "completeness": 17.3,
+        "source": 16.0
       }
     },
     {
@@ -7410,7 +8142,7 @@
       "publishedAt": "2026-09-18T09:25:26+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 61,
+      "score": 73.8,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/gunia-assouline-visual-history-ukrainian-folk-art-naive-my-love-designboom-01-768x740.jpg"
@@ -7451,6 +8183,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.3,
+        "source": 16.0
       }
     },
     {
@@ -7464,7 +8202,7 @@
       "publishedAt": "2026-09-18T09:00:12+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 61,
+      "score": 70.8,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/brompton-design-district-rca-design-graduates-one-tool-one-stool-exhibition-london-design-festival_dezeen_2364_col_7-1704x2271.jpg"
@@ -7496,6 +8234,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 15.0,
+        "completeness": 17.3,
+        "source": 16.0
       }
     },
     {
@@ -7509,7 +8253,7 @@
       "publishedAt": "2026-09-18T07:38:53+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 61,
+      "score": 45.5,
       "titleZh": "智能安全争论里的修辞与真实风险",
       "summaryZh": "作者借两家公司近期争论，讨论智能系统的安全讨论如何被口号式的表达带偏。",
       "reading": {
@@ -7524,6 +8268,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 3.0,
+        "completeness": 10.1,
+        "source": 10.0
       }
     },
     {
@@ -7537,7 +8287,7 @@
       "publishedAt": "2026-09-18T07:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 61,
+      "score": 74.4,
       "titleZh": "九月新字体，从衬线到怪诞体的更新",
       "summaryZh": "月度字体合集收录多款新字，其中一套绘制了三十余年才完成，作者用大理石路牌纪念。",
       "reading": {
@@ -7761,7 +8511,13 @@
         {
           "url": "https://www.creativeboom.com/img/illustrations/newsletter.webp"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.9,
+        "source": 16.0
+      }
     },
     {
       "id": "41dfecee1589dcd9",
@@ -7774,7 +8530,7 @@
       "publishedAt": "2026-09-18T06:45:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 61,
+      "score": 73.9,
       "titleZh": "把花样滑冰冠军拍进客厅",
       "summaryZh": "摄影师用十年时间记录年轻冠军的居家场景，把运动叙事从赛场移回日常空间。",
       "reading": {
@@ -7893,7 +8649,13 @@
         {
           "url": "https://www.creativeboom.com/img/illustrations/newsletter.webp"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 16.0
+      }
     },
     {
       "id": "b20412d1d3029947",
@@ -7906,7 +8668,7 @@
       "publishedAt": "2026-09-18T06:30:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 46,
+      "score": 67.8,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aad/065e/8d91/7901/8920/558d/newsletter/rshp-and-erre-selected-to-design-new-valencia-central-station_1.jpg?1789724275"
@@ -7935,6 +8697,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 17.3,
+        "source": 16.0
       }
     },
     {
@@ -7948,7 +8716,7 @@
       "publishedAt": "2026-09-18T06:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 60,
+      "score": 82.4,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/sRQMQaHBENooJDEnepydCe-320-80.jpg"
@@ -8034,6 +8802,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.4,
+        "source": 16.0
       }
     },
     {
@@ -8047,7 +8821,7 @@
       "publishedAt": "2026-09-18T05:00:44+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 60,
+      "score": 82.4,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/tom-pearson-studio-10000-rivets_dezeen_2364_col_12-1704x2556.jpg"
@@ -8082,6 +8856,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.4,
+        "source": 16.0
       }
     },
     {
@@ -8095,7 +8875,7 @@
       "publishedAt": "2026-09-18T04:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 45,
+      "score": 74.0,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aa3/a3d0/9637/5601/88df/3d0f/newsletter/asmara-heritage-project-documenting-a-colonial-project-that-became-a-national-symbol_4.jpg?1789109216"
@@ -8130,6 +8910,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 16.0
       }
     },
     {
@@ -8143,7 +8929,7 @@
       "publishedAt": "2026-09-18T03:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 45,
+      "score": 73.7,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aab/aa3f/8d91/7901/8920/4fd2/newsletter/lorne-road-house-foomann-architects_20.jpg?1789635165"
@@ -8181,6 +8967,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.2,
+        "source": 16.0
       }
     },
     {
@@ -8194,7 +8986,7 @@
       "publishedAt": "2026-09-18T02:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 45,
+      "score": 82.4,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aaa/7262/8a93/3f01/88f2/30b8/newsletter/dong-trieu-retreat-naqi-and-partners_25.jpg?1789555306"
@@ -8232,6 +9024,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.4,
+        "source": 16.0
       }
     },
     {
@@ -8245,7 +9043,7 @@
       "publishedAt": "2026-09-18T01:45:19+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 60,
+      "score": 75.7,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/draft-portalo/PORTALO-The-Portable-Pressurized-Water-Sprayer.jpg"
@@ -8286,6 +9084,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.6,
+        "source": 10.0
       }
     },
     {
@@ -8299,7 +9103,7 @@
       "publishedAt": "2026-09-18T00:30:42+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 60,
+      "score": 76.2,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/aluminum_bike_1.jpg"
@@ -8337,6 +9141,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.1,
+        "source": 10.0
       }
     },
     {
@@ -8350,7 +9160,7 @@
       "publishedAt": "2026-09-18T00:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 44,
+      "score": 82.0,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6973/cb88/2755/8a01/8794/b8f3/newsletter/shenzhen-futian-lvzhou-primary-school-ccdi-dongxiying-studio_3.jpg?1769196442"
@@ -8388,6 +9198,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.0,
+        "source": 16.0
       }
     },
     {
@@ -8401,7 +9217,7 @@
       "publishedAt": "2026-09-17T23:30:05+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 59,
+      "score": 75.6,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/the-diffuser-that-refuses-to-plug-in-beep-or-buzz/ritual_card_diffuser_01_1512x.jpg"
@@ -8445,6 +9261,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.6,
+        "source": 10.0
       }
     },
     {
@@ -8458,7 +9280,7 @@
       "publishedAt": "2026-09-17T21:34:12+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 59,
+      "score": 62.9,
       "titleZh": "折叠屏不该只是把界面拉宽",
       "summaryZh": "作者整理折叠屏适配原则，强调按可用空间与折叠姿态组织层级，而不是简单拉伸布局。",
       "reading": {
@@ -8473,6 +9295,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 3.0,
+        "completeness": 19.9,
+        "source": 10.0
       }
     },
     {
@@ -8486,7 +9314,7 @@
       "publishedAt": "2026-09-17T21:33:43+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 59,
+      "score": 53.5,
       "titleZh": "写满一百篇设计文章之后，重新理解写作",
       "summaryZh": "作者回顾一百篇设计写作，讨论思考、摩擦与在人工智能影响下继续写作的意义。",
       "reading": {
@@ -8501,6 +9329,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 3.0,
+        "completeness": 10.5,
+        "source": 10.0
       }
     },
     {
@@ -8514,7 +9348,7 @@
       "publishedAt": "2026-09-17T21:29:20+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 59,
+      "score": 53.2,
       "titleZh": "办公室的平面图，本身就是一套制度",
       "summaryZh": "作者从空间布局与弹性政策出发，讨论工作场所设计如何被有意选择并影响后来的结果。",
       "reading": {
@@ -8529,6 +9363,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 3.0,
+        "completeness": 10.2,
+        "source": 10.0
       }
     },
     {
@@ -8542,7 +9382,7 @@
       "publishedAt": "2026-09-17T20:35:27+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 44,
+      "score": 72.8,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/dbsub/437705/2026-09-16/casa-pop-by-gon-architects-1-6aaab5d024d03.jpg"
@@ -8568,6 +9408,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 9.0,
+        "completeness": 17.8,
+        "source": 16.0
       }
     },
     {
@@ -8581,7 +9427,7 @@
       "publishedAt": "2026-09-17T18:00:24+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-19",
-      "score": 58,
+      "score": 73.7,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/06/mystone-pietra-di-sicilia-marazzi-design_dezeen_2364_col_12-1-1704x2282.jpg"
@@ -8616,6 +9462,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.2,
+        "source": 16.0
       }
     },
     {
@@ -8629,7 +9481,7 @@
       "publishedAt": "2026-09-17T18:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 58,
+      "score": 79.6,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/Fhib8oEsFVFTKemJuLDHU9-320-80.jpg"
@@ -8661,6 +9513,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 15.0,
+        "completeness": 18.6,
+        "source": 16.0
       }
     },
     {
@@ -8674,7 +9532,7 @@
       "publishedAt": "2026-09-17T18:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 58,
+      "score": 79.5,
       "images": [
         {
           "url": "https://www.artofvfx.com/wp-content/uploads/2026/07/resident_evil_ver4_xlg-1068x1583.jpg"
@@ -8726,7 +9584,13 @@
       "videoGallery": [
         "https://i.ytimg.com/vi/Ae9jaHSQ3gY/hqdefault.jpg",
         "https://i.ytimg.com/vi/pzJOWDJ3c2w/hqdefault.jpg"
-      ]
+      ],
+      "heat": {
+        "recency": 30.0,
+        "media": 16.0,
+        "completeness": 17.5,
+        "source": 16.0
+      }
     },
     {
       "id": "4a6edb7d4931b29c",
@@ -8739,7 +9603,7 @@
       "publishedAt": "2026-09-17T18:00:00+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 58,
+      "score": 81.0,
       "images": [
         {
           "url": "https://media.creativeboom.com/cc94b11e-f6b1-408d-8ac0-94212335335d/conversions/aabdb5c2c4863ffde4749fa32d64795ec1c910f4-large.webp"
@@ -8849,6 +9713,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.0,
+        "source": 16.0
       }
     },
     {
@@ -8862,7 +9732,7 @@
       "publishedAt": "2026-09-17T16:20:03+00:00",
       "date": "2026-09-18",
       "firstSeen": "2026-09-18",
-      "score": 58,
+      "score": 75.9,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/holy-moly-is-the-swiss-army-knife-of-flat-pack-furniture-hardware/holy-moly-cabinet-05.jpg"
@@ -8900,6 +9770,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.9,
+        "source": 10.0
       }
     },
     {
@@ -8913,7 +9789,7 @@
       "publishedAt": "2026-09-17T15:31:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 58,
+      "score": 74.9,
       "images": [
         {
           "url": "https://s3files.core77.com/blog/images/1850432_4_145386_3snKpW2M6.png"
@@ -8954,6 +9830,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.4,
+        "source": 16.0
       }
     },
     {
@@ -8967,7 +9849,7 @@
       "publishedAt": "2026-09-17T15:30:47+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 43,
+      "score": 73.8,
       "images": [
         {
           "url": "https://www.stashmedia.tv/wp-content/uploads/KEF-LS-Luxe-x-Ross-Lovegrove-launch-film-by-James-Brocklebank-_-STASH-MAGAZINE.jpg"
@@ -9047,6 +9929,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.2,
+        "source": 16.0
       }
     },
     {
@@ -9060,7 +9948,7 @@
       "publishedAt": "2026-09-17T14:45:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 58,
+      "score": 81.5,
       "images": [
         {
           "url": "https://www.artofvfx.com/wp-content/uploads/2026/09/TheDogStars_CharleyHenley_ITW-1068x1601.jpg"
@@ -9160,7 +10048,13 @@
       "videoGallery": [
         "https://i.ytimg.com/vi/4KsZOT1qeyo/hqdefault.jpg",
         "https://i.ytimg.com/vi/-xSxaE1ClEE/hqdefault.jpg"
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 25.0,
+        "completeness": 18.0,
+        "source": 16.0
+      }
     },
     {
       "id": "cbb9a87ec874c156",
@@ -9173,7 +10067,7 @@
       "publishedAt": "2026-09-17T14:10:47+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 58,
+      "score": 68.6,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/commanders-stadium-interior-renderings-hks_dezeen_2364_col_2-1704x959.jpg"
@@ -9202,6 +10096,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 18.1,
+        "source": 16.0
       }
     },
     {
@@ -9215,7 +10115,7 @@
       "publishedAt": "2026-09-17T14:00:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 58,
+      "score": 74.6,
       "images": [
         {
           "url": "https://s3files.core77.com/blog/images/1850349_81_145392_FSgIwXLS5.jpg"
@@ -9271,6 +10171,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.1,
+        "source": 16.0
       }
     },
     {
@@ -9284,7 +10190,7 @@
       "publishedAt": "2026-09-17T13:45:41+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 58,
+      "score": 53.0,
       "titleZh": "三款网页设计助手技能，同一任务的实测对比",
       "summaryZh": "作者用同一个清洁服务落地页任务，比较三款人工智能编程助手技能的输出质量。",
       "reading": {
@@ -9304,7 +10210,13 @@
         {
           "url": "https://uxplanet.org/ive-tested-3-popular-claude-code-skills-for-web-design-24b7866e05a7"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 3.0,
+        "completeness": 17.5,
+        "source": 10.0
+      }
     },
     {
       "id": "3eb67b51f8c9fd8a",
@@ -9317,7 +10229,7 @@
       "publishedAt": "2026-09-17T13:00:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 58,
+      "score": 75.3,
       "images": [
         {
           "url": "https://s3files.core77.com/blog/images/1850309_81_145389_uQjObTSwc.jpg"
@@ -9391,6 +10303,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.8,
+        "source": 16.0
       }
     },
     {
@@ -9404,7 +10322,7 @@
       "publishedAt": "2026-09-17T13:00:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 58,
+      "score": 75.5,
       "images": [
         {
           "url": "https://media.creativeboom.com/2e3379dd-606d-44d7-9c38-40bc9f9223ed/conversions/75ae1a408b7258e04c3850cfd5b72147579bb3b3-large.webp"
@@ -9526,6 +10444,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 19.0,
+        "source": 16.0
       }
     },
     {
@@ -9539,7 +10463,7 @@
       "publishedAt": "2026-09-17T12:00:00+08:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-21",
-      "score": 41,
+      "score": 67.4,
       "images": [
         {
           "url": "https://image.uisdc.com/wp-content/uploads/2026/09/slt202609173.webp"
@@ -9587,6 +10511,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 12.9,
+        "media": 18.0,
+        "completeness": 20.5,
+        "source": 16.0
       }
     },
     {
@@ -9600,7 +10530,7 @@
       "publishedAt": "2026-09-17T12:00:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 57,
+      "score": 65.5,
       "video": {
         "provider": "youtube",
         "id": "4KsZOT1qeyo",
@@ -9628,6 +10558,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 10.0,
+        "completeness": 17.0,
+        "source": 16.0
       }
     },
     {
@@ -9641,7 +10577,7 @@
       "publishedAt": "2026-09-17T10:00:50+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 57,
+      "score": 74.4,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/mushlume_designboom_01-768x512.jpg"
@@ -9679,6 +10615,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.9,
+        "source": 16.0
       }
     },
     {
@@ -9692,7 +10634,7 @@
       "publishedAt": "2026-09-17T09:30:11+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 57,
+      "score": 62.7,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/nina-lounge-chair-patricia-urquiola-andreu-world-design_dezeen_2364_col_3-1704x2556.jpg"
@@ -9715,6 +10657,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 6.0,
+        "completeness": 18.2,
+        "source": 16.0
       }
     },
     {
@@ -9728,7 +10676,7 @@
       "publishedAt": "2026-09-17T09:03:42+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 57,
+      "score": 74.3,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/kmxk5DWLJRGix7dfndumQ3-320-80.jpg"
@@ -9766,6 +10714,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.9,
+        "source": 16.0
       }
     },
     {
@@ -9779,7 +10733,7 @@
       "publishedAt": "2026-09-17T08:00:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 57,
+      "score": 74.8,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/Studio-Trikken-Banana-Art-Book-Publication-ItsNiceThat-16.jpg?class=w1080"
@@ -9847,6 +10801,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.3,
+        "source": 16.0
       }
     },
     {
@@ -9860,7 +10820,7 @@
       "publishedAt": "2026-09-17T07:00:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 42,
+      "score": 69.7,
       "images": [
         {
           "url": "https://img.youtube.com/vi/bJQGtSeLPII/maxresdefault.jpg"
@@ -9896,7 +10856,13 @@
       },
       "videoGallery": [
         "https://i.ytimg.com/vi/bJQGtSeLPII/hqdefault.jpg"
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 13.0,
+        "completeness": 18.2,
+        "source": 16.0
+      }
     },
     {
       "id": "27f9b47713517fac",
@@ -9909,7 +10875,7 @@
       "publishedAt": "2026-09-17T06:44:33+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 57,
+      "score": 68.9,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/ssEfigFQsefZWDv82HaDdU-320-80.jpg"
@@ -9938,6 +10904,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 18.4,
+        "source": 16.0
       }
     },
     {
@@ -9951,7 +10923,7 @@
       "publishedAt": "2026-09-17T06:15:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 57,
+      "score": 81.5,
       "images": [
         {
           "url": "https://media.creativeboom.com/b8ca4866-abcf-4032-a2ca-8841f986ec45/conversions/21a57d4660958eacd9ed0bce09675970aea7af67-large.webp"
@@ -10056,6 +11028,12 @@
         "author": "",
         "duration": 0,
         "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 25.0,
+        "completeness": 17.9,
+        "source": 16.0
       }
     },
     {
@@ -10069,7 +11047,7 @@
       "publishedAt": "2026-09-17T05:30:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 42,
+      "score": 75.0,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aaa/ce65/8a93/3f01/88f2/3369/newsletter/benghazi-2050_12.jpg?1789578859"
@@ -10116,6 +11094,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.5,
+        "source": 16.0
       }
     },
     {
@@ -10129,7 +11113,7 @@
       "publishedAt": "2026-09-17T02:10:37+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-18",
-      "score": 41,
+      "score": 68.4,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/dbsub/450426/2026-08-07/2050-coffee-shinsaibashi-12-6a7572c80a35c.jpg"
@@ -10158,6 +11142,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 17.9,
+        "source": 16.0
       }
     },
     {
@@ -10171,7 +11161,7 @@
       "publishedAt": "2026-09-17T00:30:50+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 56,
+      "score": 76.3,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/casa-del-loro/casa_del_toro_yanko_design_01.jpg"
@@ -10215,6 +11205,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.3,
+        "source": 10.0
       }
     },
     {
@@ -10228,7 +11224,7 @@
       "publishedAt": "2026-09-17T00:30:05+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 56,
+      "score": 84.0,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/virtual-pet-that-wont-let-you-waste-your-life-scrolling/ai-pet-01.jpg"
@@ -10285,7 +11281,13 @@
       },
       "videoGallery": [
         "https://i.ytimg.com/vi/Tyy3dYI-5ds/hqdefault.jpg"
-      ]
+      ],
+      "heat": {
+        "recency": 30.0,
+        "media": 25.0,
+        "completeness": 18.9,
+        "source": 10.0
+      }
     },
     {
       "id": "7d16f97c48b1e22b",
@@ -10298,7 +11300,7 @@
       "publishedAt": "2026-09-17T00:05:57+08:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-21",
-      "score": 40,
+      "score": 67.5,
       "images": [
         {
           "url": "https://image.uisdc.com/wp-content/uploads/2026/09/slt202609171.webp"
@@ -10352,6 +11354,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 12.9,
+        "media": 18.0,
+        "completeness": 20.6,
+        "source": 16.0
       }
     },
     {
@@ -10365,7 +11373,7 @@
       "publishedAt": "2026-09-16T23:30:42+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 56,
+      "score": 76.6,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/103g-over-ears-that-actually-disappear-into-your-outfit/stillframe-00.jpg"
@@ -10415,6 +11423,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.6,
+        "source": 10.0
       }
     },
     {
@@ -10428,7 +11442,7 @@
       "publishedAt": "2026-09-16T23:01:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 56,
+      "score": 78.3,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/UiKj677ivfAz6A2LBfUMfH-320-80.jpg"
@@ -10459,6 +11473,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 15.0,
+        "completeness": 17.3,
+        "source": 16.0
       }
     },
     {
@@ -10472,7 +11492,7 @@
       "publishedAt": "2026-09-16T22:30:15+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 56,
+      "score": 76.3,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/a-speaker-that-clips-to-city-poles-and-leaves-no-mark/orchid-0.jpg"
@@ -10513,6 +11533,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.3,
+        "source": 10.0
       }
     },
     {
@@ -10526,7 +11552,7 @@
       "publishedAt": "2026-09-16T21:38:45+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 56,
+      "score": 83.0,
       "images": [
         {
           "url": "https://design-milk.com/images/2026/09/Laneige-Seoul-Flagship.png"
@@ -10600,6 +11626,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 19.0,
+        "source": 16.0
       }
     },
     {
@@ -10613,7 +11645,7 @@
       "publishedAt": "2026-09-16T21:33:09+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 55,
+      "score": 73.6,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/aston-martin-brough-superior-superbike-AMB-002-Roadster-designboom-113-768x491.jpg"
@@ -10639,6 +11671,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 9.0,
+        "completeness": 18.6,
+        "source": 16.0
       }
     },
     {
@@ -10652,7 +11690,7 @@
       "publishedAt": "2026-09-16T20:35:59+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 55,
+      "score": 82.2,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/emerald-vysions-pulls-cinematic-imagery-apart-and-rebuilds-it-through-makeup-designboom-04-768x960.jpg"
@@ -10723,6 +11761,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.2,
+        "source": 16.0
       }
     },
     {
@@ -10736,7 +11780,7 @@
       "publishedAt": "2026-09-16T20:30:41+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 55,
+      "score": 76.5,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/this-award-winning-cookware-finds-better-design-in-the-details-we-usually-ignore/Artisan_cast_cookware_01.jpg"
@@ -10771,6 +11815,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.5,
+        "source": 10.0
       }
     },
     {
@@ -10784,7 +11834,7 @@
       "publishedAt": "2026-09-16T20:20:33+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 55,
+      "score": 73.9,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/zha-benghazi-libya-urban-growth-digital-planning-hub-designboom-5-768x499.jpg"
@@ -10810,6 +11860,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 9.0,
+        "completeness": 18.9,
+        "source": 16.0
       }
     },
     {
@@ -10823,7 +11879,7 @@
       "publishedAt": "2026-09-16T19:20:11+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 55,
+      "score": 83.6,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/literal_rock_guitar_1.jpg"
@@ -10880,7 +11936,13 @@
       },
       "videoGallery": [
         "https://i.ytimg.com/vi/yC1QtqEJNIQ/hqdefault.jpg"
-      ]
+      ],
+      "heat": {
+        "recency": 30.0,
+        "media": 25.0,
+        "completeness": 18.6,
+        "source": 10.0
+      }
     },
     {
       "id": "ff9188e118a8263a",
@@ -10893,7 +11955,7 @@
       "publishedAt": "2026-09-16T19:00:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 40,
+      "score": 82.5,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aaa/a2ee/1057/6a00/017e/a654/newsletter/04_SALLE-Alejandro_Arango.jpg?1789567770"
@@ -10931,6 +11993,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.4,
+        "source": 16.0
       }
     },
     {
@@ -10944,7 +12012,7 @@
       "publishedAt": "2026-09-16T18:27:49+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 55,
+      "score": 82.9,
       "images": [
         {
           "url": "https://design-milk.com/images/2026/09/336-DH-ElizabethVenice-e1789581722231.jpeg"
@@ -10991,6 +12059,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.9,
+        "source": 16.0
       }
     },
     {
@@ -11004,7 +12078,7 @@
       "publishedAt": "2026-09-16T18:20:36+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 55,
+      "score": 76.3,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/porsches-550-j-is-a-racing-legend-shrunk-into-an-electric-track-day-car/Porsche-Hedley-Studios-Porsche-550-Spyder-J-Replica-16.jpg"
@@ -11072,6 +12146,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.3,
+        "source": 10.0
       }
     },
     {
@@ -11085,7 +12165,7 @@
       "publishedAt": "2026-09-16T18:10:44+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 55,
+      "score": 79.5,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/chibik-kristof-jihlava-municipal-arena-designboom-01-768x512.jpg"
@@ -11117,6 +12197,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 15.0,
+        "completeness": 18.4,
+        "source": 16.0
       }
     },
     {
@@ -11130,7 +12216,7 @@
       "publishedAt": "2026-09-16T18:00:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 55,
+      "score": 72.5,
       "images": [
         {
           "url": "https://www.artofvfx.com/wp-content/uploads/2026/09/neagley_xlg-1068x1335.jpg"
@@ -11176,6 +12262,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 10.0,
+        "completeness": 16.4,
+        "source": 16.0
       }
     },
     {
@@ -11189,7 +12281,7 @@
       "publishedAt": "2026-09-16T17:00:00+00:00",
       "date": "2026-09-17",
       "firstSeen": "2026-09-17",
-      "score": 40,
+      "score": 81.9,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aa8/43c8/a74d/1200/0125/e3f0/newsletter/_08A4889-Edit_copyright_manuel_sa_b.jpg?1789412313"
@@ -11227,6 +12319,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 17.9,
+        "source": 16.0
       }
     },
     {
@@ -11240,7 +12338,7 @@
       "publishedAt": "2026-09-16T15:40:04+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 55,
+      "score": 68.5,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/HF3W3vnMSUMqTuMZA3wUjB-320-80.jpg"
@@ -11269,6 +12367,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 18.0,
+        "source": 16.0
       }
     },
     {
@@ -11282,7 +12386,7 @@
       "publishedAt": "2026-09-16T15:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 55,
+      "score": 73.8,
       "titleZh": "磨损留下的形状，是另一份使用说明",
       "summaryZh": "旧物表面的磨痕记录接触、握持和长期使用。",
       "reading": {
@@ -11373,7 +12477,13 @@
         {
           "url": "https://s3files.core77.com/images/c77_directory/ribbon-c77da.png"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.3,
+        "source": 16.0
+      }
     },
     {
       "id": "d32d26265971a93d",
@@ -11386,7 +12496,7 @@
       "publishedAt": "2026-09-16T14:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 55,
+      "score": 73.8,
       "titleZh": "不用真正编织，两片钢板做出篮子的方向感",
       "summaryZh": "垂直交错的视觉关系由薄钢板连接实现。",
       "reading": {
@@ -11441,7 +12551,13 @@
         {
           "url": "https://s3files.core77.com/images/c77_directory/ribbon-c77da.png"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.3,
+        "source": 16.0
+      }
     },
     {
       "id": "c87d385020ab6145",
@@ -11454,7 +12570,7 @@
       "publishedAt": "2026-09-16T13:53:06+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 40,
+      "score": 71.7,
       "images": [
         {
           "url": "https://s35726.pcdn.co/wp-content/uploads/2026/09/SAGA_Manifesto_Porsche-scaled.jpg"
@@ -11492,7 +12608,13 @@
       },
       "videoGallery": [
         "https://i.vimeocdn.com/video/2157044951-7fe8835a9bf9eca632709163a976086c73c8b25e9d4bf40c7e970cba8eb589fa-d_1280?region=us"
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 16.0,
+        "completeness": 17.2,
+        "source": 16.0
+      }
     },
     {
       "id": "e318813b402246c9",
@@ -11505,7 +12627,7 @@
       "publishedAt": "2026-09-16T13:45:21+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 55,
+      "score": 58.6,
       "titleZh": "把马戏延伸到爆米花包装上",
       "summaryZh": "概念包装让杂技演员绕着罐身与纸盒展开表演。",
       "reading": {
@@ -11519,6 +12641,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 3.0,
+        "completeness": 17.1,
+        "source": 16.0
       }
     },
     {
@@ -11532,7 +12660,7 @@
       "publishedAt": "2026-09-16T13:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 75.2,
       "images": [
         {
           "url": "https://files.smashing.media/partners/smashing/smashing-friskies-300x250.png"
@@ -11579,6 +12707,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.7,
+        "source": 16.0
       }
     },
     {
@@ -11592,7 +12726,7 @@
       "publishedAt": "2026-09-16T13:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 81.6,
       "titleZh": "四轮独立驱动的个人代步设备，兼顾操纵与避障",
       "summaryZh": "摇杆控制配合摄像头和传感器，探索日常近距离移动。",
       "reading": {
@@ -11667,7 +12801,13 @@
         {
           "url": "https://s3files.core77.com/images/c77_directory/ribbon-c77da.png"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 25.0,
+        "completeness": 18.1,
+        "source": 16.0
+      }
     },
     {
       "id": "490340eed3ce1fa3",
@@ -11680,7 +12820,7 @@
       "publishedAt": "2026-09-16T13:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 39,
+      "score": 75.0,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6aa2/baec/05b6/9900/01b5/3818/newsletter/_DSC9333-Editar.jpg?1789049640"
@@ -11718,6 +12858,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.5,
+        "source": 16.0
       }
     },
     {
@@ -11731,7 +12877,7 @@
       "publishedAt": "2026-09-16T12:52:23+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 46.2,
       "titleZh": "从设计稿到交付说明，减少重复整理",
       "summaryZh": "以语言学习应用为例，探索生成式工具辅助设计交付。",
       "reading": {
@@ -11745,6 +12891,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 3.0,
+        "completeness": 10.7,
+        "source": 10.0
       }
     },
     {
@@ -11758,7 +12910,7 @@
       "publishedAt": "2026-09-16T12:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 39,
+      "score": 64.3,
       "images": [
         {
           "url": "https://cdn.sanity.io/images/599r6htc/regionalized/1d8a96586c8f831c85b73be5fb3d0fa20786c696-3982x2240.png?w=528&q=75&fit=max&auto=format&dpr=2"
@@ -11778,6 +12930,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 3.0,
+        "completeness": 18.8,
+        "source": 20.0
       }
     },
     {
@@ -11791,7 +12949,7 @@
       "publishedAt": "2026-09-16T12:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 65.3,
       "images": [
         {
           "url": "https://www.artofvfx.com/wp-content/uploads/2026/09/animals_xxlg-1068x1581.jpg"
@@ -11837,6 +12995,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 10.0,
+        "completeness": 16.8,
+        "source": 16.0
       }
     },
     {
@@ -11850,7 +13014,7 @@
       "publishedAt": "2026-09-16T11:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 74.6,
       "images": [
         {
           "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-14-at-5.09.01-PM.png?resize=218%2C300&quality=80&ssl=1"
@@ -11900,6 +13064,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.1,
+        "source": 16.0
       }
     },
     {
@@ -11913,7 +13083,7 @@
       "publishedAt": "2026-09-16T10:55:43+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 73.8,
       "titleZh": "冷冻食品包装，把气候地图变成蔬菜轮廓",
       "summaryZh": "学生项目用等值线图形讨论食物保存与浪费。",
       "reading": {
@@ -11947,7 +13117,13 @@
         {
           "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/Wedge-scaled.jpeg?resize=600%2C338&quality=70&ssl=1"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.2,
+        "source": 16.0
+      }
     },
     {
       "id": "df4e4f662f17841d",
@@ -11960,7 +13136,7 @@
       "publishedAt": "2026-09-16T10:50:40+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 73.8,
       "images": [
         {
           "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/LUAK-3-788eb33eae37ebaa11f256f4a2c0c45b-1.jpg?resize=600%2C338&quality=70&ssl=1"
@@ -11994,6 +13170,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.3,
+        "source": 16.0
       }
     },
     {
@@ -12007,7 +13189,7 @@
       "publishedAt": "2026-09-16T10:50:36+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 74.5,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/chasing-clouds-metropolitan-museum-art-designboom-01-768x526.jpg"
@@ -12042,6 +13224,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.1,
+        "source": 16.0
       }
     },
     {
@@ -12055,7 +13243,7 @@
       "publishedAt": "2026-09-16T10:47:52+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 73.6,
       "images": [
         {
           "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/760566387_18609277120044187_8772130169633703193_n.jpg?resize=2048%2C1152&quality=70&ssl=1"
@@ -12089,6 +13277,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.1,
+        "source": 16.0
       }
     },
     {
@@ -12102,7 +13296,7 @@
       "publishedAt": "2026-09-16T10:14:47+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 74.4,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/Z5J8zwVYsufuHvCG3LviLa-320-80.jpg"
@@ -12143,6 +13337,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.9,
+        "source": 16.0
       }
     },
     {
@@ -12156,7 +13356,7 @@
       "publishedAt": "2026-09-16T10:10:41+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 68.9,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/04/three-axis-joint-eugenio-costa-raw-branches-structure-screws-designboom-10-768x614.jpg"
@@ -12185,6 +13385,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 18.4,
+        "source": 16.0
       }
     },
     {
@@ -12198,7 +13404,7 @@
       "publishedAt": "2026-09-16T10:00:19+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 71.2,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/yinka-illori-bins-ironing-board-brabantia_dezeen_2364_sq_9-1704x1704.jpg"
@@ -12230,6 +13436,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 15.0,
+        "completeness": 17.7,
+        "source": 16.0
       }
     },
     {
@@ -12243,7 +13455,7 @@
       "publishedAt": "2026-09-16T10:00:17+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 74.7,
       "titleZh": "两条三十米金属脊柱，撑起关于混乱的展览",
       "summaryZh": "巴黎设计周展览用可重复组装的结构连接物件与讨论。",
       "reading": {
@@ -12281,7 +13493,13 @@
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/pli_office_designboom_11-768x897.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.2,
+        "source": 16.0
+      }
     },
     {
       "id": "7e0dc6b434da8d0b",
@@ -12294,7 +13512,7 @@
       "publishedAt": "2026-09-16T09:30:25+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 62.2,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/terre-radiator-sebastian-herkner-tubes-design_dezeen_2364_col_6-1704x2518.jpg"
@@ -12317,6 +13535,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 6.0,
+        "completeness": 17.7,
+        "source": 16.0
       }
     },
     {
@@ -12330,7 +13554,7 @@
       "publishedAt": "2026-09-16T08:30:55+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 74.7,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/collate-lobby_dezeen_2364_col_17-1704x1065.jpg"
@@ -12371,6 +13595,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.2,
+        "source": 16.0
       }
     },
     {
@@ -12384,7 +13614,7 @@
       "publishedAt": "2026-09-16T08:03:06+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 65.8,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/bethan-laura-wood-max-lamb-andu-masebo-material-language-contemporary-home-designboom-9-768x501.jpg"
@@ -12410,6 +13640,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 9.0,
+        "completeness": 18.3,
+        "source": 16.0
       }
     },
     {
@@ -12423,7 +13659,7 @@
       "publishedAt": "2026-09-16T08:00:11+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 76.1,
       "images": [
         {
           "url": "https://pps.services.adobe.com/api/profile/0DDE380552697B340A490D4C@AdobeID/image/c40013a0-096e-471d-96e8-f6ef02d1d3f0/276"
@@ -12627,7 +13863,13 @@
       },
       "videoGallery": [
         "https://i.vimeocdn.com/video/2168343750-b27f1d519e6724803b129a4639019e3b6b3109b1edab23d3e29f0df5514739c2-d_1280?region=us"
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 25.0,
+        "completeness": 18.6,
+        "source": 10.0
+      }
     },
     {
       "id": "42b6272a4794e700",
@@ -12640,7 +13882,7 @@
       "publishedAt": "2026-09-16T08:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 75.3,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/Mater-ItsNiceThat-0.png?class=w1920"
@@ -12705,6 +13947,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.8,
+        "source": 16.0
       }
     },
     {
@@ -12718,7 +13966,7 @@
       "publishedAt": "2026-09-16T08:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 74.5,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/BFILFF_Gala_S-ezgif.com-video-to-gif-converter.gif?class=w640"
@@ -12765,6 +14013,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.0,
+        "source": 16.0
       }
     },
     {
@@ -12778,7 +14032,7 @@
       "publishedAt": "2026-09-16T07:45:33+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 75.4,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/studio-drift-suspended-garden-moving-flowers-las-vegas-designboom-01-768x576.jpg"
@@ -12820,7 +14074,13 @@
       },
       "videoGallery": [
         "https://i.ytimg.com/vi/VuBNZsOR8HQ/hqdefault.jpg"
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 19.0,
+        "completeness": 17.9,
+        "source": 16.0
+      }
     },
     {
       "id": "7dd2544e33897faf",
@@ -12833,7 +14093,7 @@
       "publishedAt": "2026-09-16T07:27:23+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 54.4,
       "titleZh": "别让生成式产品变成没有总图的房子",
       "summaryZh": "共享对象、交互模式与失败状态，比不断增加新按钮更重要。",
       "reading": {
@@ -12848,6 +14108,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 3.0,
+        "completeness": 18.9,
+        "source": 10.0
       }
     },
     {
@@ -12861,7 +14127,7 @@
       "publishedAt": "2026-09-16T06:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 39,
+      "score": 74.3,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/npp7chNoCDNkXMSAEuQSwX-320-80.jpg"
@@ -12896,6 +14162,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.8,
+        "source": 16.0
       }
     },
     {
@@ -12909,7 +14181,7 @@
       "publishedAt": "2026-09-16T06:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 39,
+      "score": 72.7,
       "images": [
         {
           "url": "https://img.youtube.com/vi/6V_kA8KloN0/maxresdefault.jpg"
@@ -12961,7 +14233,13 @@
       "videoGallery": [
         "https://i.ytimg.com/vi/6V_kA8KloN0/hqdefault.jpg",
         "https://i.ytimg.com/vi/CsBa8HbMgh8/hqdefault.jpg"
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 16.0,
+        "completeness": 18.2,
+        "source": 16.0
+      }
     },
     {
       "id": "86c20a2af94b5e6f",
@@ -12974,7 +14252,7 @@
       "publishedAt": "2026-09-16T06:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 54,
+      "score": 74.8,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/gusfFpn5NEciLM3ATqeyVg-320-80.jpg"
@@ -13081,6 +14359,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.3,
+        "source": 16.0
       }
     },
     {
@@ -13094,7 +14378,7 @@
       "publishedAt": "2026-09-16T04:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 53,
+      "score": 74.8,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/fehwGSWUBReK8iuESNXaSe-320-80.jpg"
@@ -13144,6 +14428,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.2,
+        "source": 16.0
       }
     },
     {
@@ -13157,7 +14447,7 @@
       "publishedAt": "2026-09-16T03:32:09+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 53,
+      "score": 60.6,
       "images": [
         {
           "url": "https://pps.services.adobe.com/api/profile/41134BC2570BE8AE7F000101@AdobeID/image/eebf6577-7a7d-4530-a4a1-b1377c90db77/276"
@@ -13221,6 +14511,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 10.1,
+        "source": 10.0
       }
     },
     {
@@ -13234,7 +14530,7 @@
       "publishedAt": "2026-09-16T02:36:18+08:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-22",
-      "score": 37,
+      "score": 62.9,
       "images": [
         {
           "url": "https://image.uisdc.com/wp-content/uploads/2026/09/slt202609162222.webp"
@@ -13273,6 +14569,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 10.0,
+        "media": 18.0,
+        "completeness": 18.9,
+        "source": 16.0
       }
     },
     {
@@ -13286,7 +14588,7 @@
       "publishedAt": "2026-09-16T01:30:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 38,
+      "score": 75.2,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/mh2TXe66oa7inzq7pRbhR4-320-80.jpg"
@@ -13321,6 +14623,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.6,
+        "source": 16.0
       }
     },
     {
@@ -13334,7 +14642,7 @@
       "publishedAt": "2026-09-15T23:01:24+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 53,
+      "score": 72.3,
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/09/dyson-uk-award-sivo.go_dezeen_2364_col_8-1704x840.jpg"
@@ -13366,6 +14674,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 15.0,
+        "completeness": 18.8,
+        "source": 16.0
       }
     },
     {
@@ -13379,7 +14693,7 @@
       "publishedAt": "2026-09-15T22:30:30+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 53,
+      "score": 77.6,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/bathers-cabin/bathers_cabin_yanko_design_01.jpg"
@@ -13421,6 +14735,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 19.6,
+        "source": 10.0
       }
     },
     {
@@ -13434,7 +14754,7 @@
       "publishedAt": "2026-09-15T21:30:53+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 53,
+      "score": 76.8,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/finally-a-pepper-grinder-your-hands-actually-understand/salt-pepper-spice-00.jpg"
@@ -13472,6 +14792,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.8,
+        "source": 10.0
       }
     },
     {
@@ -13485,7 +14811,7 @@
       "publishedAt": "2026-09-15T21:18:05+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 53,
+      "score": 88.3,
       "titleZh": "中间航平的新短片，继续探索奇异的三维运动",
       "summaryZh": "东京动画创作者中间航平发布新的动态实验短片，以难以预料的三维变化构成视觉叙事。",
       "reading": {
@@ -13577,7 +14903,13 @@
         {
           "url": "https://www.stashmedia.tv/wp-content/uploads/Forever-Expands-With-Addition-of-Tokyo-Studio-Onesal-STASH-MAGAZINE-300x169.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 30.0,
+        "media": 25.0,
+        "completeness": 17.4,
+        "source": 16.0
+      }
     },
     {
       "id": "bbe50b60581b8e7a",
@@ -13590,7 +14922,7 @@
       "publishedAt": "2026-09-15T20:52:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-17",
-      "score": 53,
+      "score": 70.8,
       "images": [
         {
           "url": "https://cdn.sanity.io/images/599r6htc/regionalized/d43d87f14738a553ee67cae0104ce1db58dbb246-1949x1095.png?w=528&q=75&fit=max&auto=format&dpr=2"
@@ -13623,7 +14955,13 @@
       },
       "videoGallery": [
         "https://i.ytimg.com/vi/-BomvzRo6N4/hqdefault.jpg"
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 10.0,
+        "completeness": 18.4,
+        "source": 20.0
+      }
     },
     {
       "id": "1f0047cb5a4861d2",
@@ -13636,7 +14974,7 @@
       "publishedAt": "2026-09-15T20:39:44+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 53,
+      "score": 83.9,
       "titleZh": "七组南非设计力量，带来家具与材料的新视角",
       "summaryZh": "巴黎家居装饰展的新锐人才奖聚焦七位南非设计师及工作室，涵盖家具、灯具与纺织设计。",
       "reading": {
@@ -13701,7 +15039,13 @@
         {
           "url": "https://design-milk.com/images/2026/09/Oageng-Manana-Tshegofatso-Ramothibe_Meetlo-Studios-©Mathlatsi-Mogalanyane.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 19.9,
+        "source": 16.0
+      }
     },
     {
       "id": "ca3c651142eb8212",
@@ -13714,7 +15058,7 @@
       "publishedAt": "2026-09-15T19:15:48+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 77.0,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/the-mac-mini-form-factor-is-so-perfect-literally-everyone-is-copying-it/mac_mini_design_template_1.jpeg"
@@ -13761,6 +15105,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.9,
+        "source": 10.0
       }
     },
     {
@@ -13774,7 +15124,7 @@
       "publishedAt": "2026-09-15T18:10:57+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 79.9,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/zav-architects-gelareh-house-iran-designboom-01-768x432.jpg"
@@ -13806,6 +15156,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 15.0,
+        "completeness": 18.9,
+        "source": 16.0
       }
     },
     {
@@ -13819,7 +15175,7 @@
       "publishedAt": "2026-09-15T18:00:15+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 72.8,
       "titleZh": "波哥大顶层住宅：用色彩与图案容纳日常和聚会",
       "summaryZh": "设计师维罗妮卡·米沙安更新一套五百八十平方米住宅，在家庭生活、待客与艺术收藏之间寻找平衡。",
       "reading": {
@@ -13852,7 +15208,13 @@
         {
           "url": "https://static.dezeen.com/uploads/2026/09/bogota-apartment-veronica-mishaan_dezeen_2364_col_13-1704x1278.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 8.8,
+        "source": 16.0
+      }
     },
     {
       "id": "cb8cdba87d64977c",
@@ -13865,7 +15227,7 @@
       "publishedAt": "2026-09-15T18:00:00+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 72.8,
       "images": [
         {
           "url": "https://www.artofvfx.com/wp-content/uploads/2026/09/violent_night_two_xxlg-1068x1690.jpg"
@@ -13898,6 +15260,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 10.0,
+        "completeness": 16.8,
+        "source": 16.0
       }
     },
     {
@@ -13911,7 +15279,7 @@
       "publishedAt": "2026-09-15T17:20:05+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 76.8,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/these-30-chopsticks-were-refined-40-times-to-fix-your-tired-hand/FineLine-Chopstick-Rest-YD-Select-2_1728x.jpg"
@@ -13961,6 +15329,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.9,
+        "source": 10.0
       }
     },
     {
@@ -13974,7 +15348,7 @@
       "publishedAt": "2026-09-15T16:20:21+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 77.3,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/a-backyard-greenhouse-that-moonlights-as-an-outdoor-living-room/the-eco-oasis-pavilion-concept-08.jpg"
@@ -14027,6 +15401,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 19.3,
+        "source": 10.0
       }
     },
     {
@@ -14040,7 +15420,7 @@
       "publishedAt": "2026-09-15T16:03:15+00:00",
       "date": "2026-09-16",
       "firstSeen": "2026-09-16",
-      "score": 37,
+      "score": 82.2,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/66rqLhvazcgp3ZTScQCRyM-320-80.jpg"
@@ -14075,6 +15455,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 30.0,
+        "media": 18.0,
+        "completeness": 18.1,
+        "source": 16.0
       }
     },
     {
@@ -14088,7 +15474,7 @@
       "publishedAt": "2026-09-15T15:55:32+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 37,
+      "score": 75.6,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/dbsub/391083/2026-09-14/house-in-musashi-koyama-8-6aa7ae03c49df.jpg"
@@ -14141,6 +15527,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 19.1,
+        "source": 16.0
       }
     },
     {
@@ -14154,7 +15546,7 @@
       "publishedAt": "2026-09-15T15:30:28+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 59.1,
       "titleZh": "怪物与幽灵角色集：将多年草图整理成视觉世界",
       "summaryZh": "创作者汇集万圣节角色、私人实验与想象中的生物，形成具有共同气质的插画系列。",
       "reading": {
@@ -14235,7 +15627,13 @@
         {
           "url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/63935e255608379.6aa4c6ab0295a.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 8.6,
+        "source": 10.0
+      }
     },
     {
       "id": "ca006845b3d12421",
@@ -14248,7 +15646,7 @@
       "publishedAt": "2026-09-15T15:24:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 65.9,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/4HfCvHTyM2JmxQcV2rrnYE-320-80.jpg"
@@ -14274,6 +15672,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 9.0,
+        "completeness": 18.4,
+        "source": 16.0
       }
     },
     {
@@ -14287,7 +15691,7 @@
       "publishedAt": "2026-09-15T15:20:17+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 68.5,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/hkc-debus-a-48-3-inch-4k-curved-monitor-that-can-be-split-into-two-or-three-sections/HKC-Tianqi-43H180C-Ultra-Wide-Monitor-1.jpg"
@@ -14322,6 +15726,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.0,
+        "source": 10.0
       }
     },
     {
@@ -14335,7 +15745,7 @@
       "publishedAt": "2026-09-15T15:19:21+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 75.3,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/3oSk4YWHXoi4v7JauMDyFC-320-80.jpg"
@@ -14379,6 +15789,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.8,
+        "source": 16.0
       }
     },
     {
@@ -14392,7 +15808,7 @@
       "publishedAt": "2026-09-15T15:15:18+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 75.5,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/AEUr64iM2rgWPG74Crs4e4-320-80.jpg"
@@ -14457,6 +15873,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.9,
+        "source": 16.0
       }
     },
     {
@@ -14470,7 +15892,7 @@
       "publishedAt": "2026-09-15T15:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 79.7,
       "titleZh": "让卫生间设备隐入柜体：不锈钢卫浴系统",
       "summaryZh": "工业设计网介绍一套不锈钢卫浴系统，关闭时弱化马桶外观，并可搭配木材或大理石饰面。",
       "reading": {
@@ -14528,7 +15950,13 @@
         {
           "url": "https://s3files.core77.com/images/c77_directory/ribbon-c77da.png"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 25.0,
+        "completeness": 16.1,
+        "source": 16.0
+      }
     },
     {
       "id": "2e09cc65581a7cf7",
@@ -14541,7 +15969,7 @@
       "publishedAt": "2026-09-15T15:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 75.4,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/w9gHb3kR3LQYWyR6LgQouf-320-80.jpg"
@@ -14618,6 +16046,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.9,
+        "source": 16.0
       }
     },
     {
@@ -14631,7 +16065,7 @@
       "publishedAt": "2026-09-15T14:45:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 84.7,
       "images": [
         {
           "url": "https://www.artofvfx.com/wp-content/uploads/2026/09/LastHouse_ILM_ITW_01-1068x713.jpg"
@@ -14710,7 +16144,13 @@
       },
       "videoGallery": [
         "https://i.ytimg.com/vi/MLxgaz2Zp1k/hqdefault.jpg"
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 25.0,
+        "completeness": 21.2,
+        "source": 16.0
+      }
     },
     {
       "id": "7c39b6dbc787d0ac",
@@ -14723,7 +16163,7 @@
       "publishedAt": "2026-09-15T14:30:32+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 68.9,
       "titleZh": "拉斯维加斯体育场入口改造，将停车场变成交通与步行空间",
       "summaryZh": "格里姆肖公布体育场入口广场改造方案，把交通设施和步行网络纳入原停车区域。",
       "reading": {
@@ -14752,7 +16192,13 @@
         {
           "url": "https://static.dezeen.com/uploads/2026/09/grimshaw-north-plaza-allegiant-stadium-las-vegas_dezeen_2364_col_5-1704x951.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 18.4,
+        "source": 16.0
+      }
     },
     {
       "id": "3460cfe418ac5dce",
@@ -14765,7 +16211,7 @@
       "publishedAt": "2026-09-15T14:20:59+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 65.7,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/the-traffic-cone-charger-that-actually-keeps-you-off-your-phone/cone-00.jpg"
@@ -14797,6 +16243,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 15.0,
+        "completeness": 18.1,
+        "source": 10.0
       }
     },
     {
@@ -14810,7 +16262,7 @@
       "publishedAt": "2026-09-15T14:15:42+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 75.3,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/compressed-agricultural-waste-complete-building-system-new-york-house-ltl-architects-designboom-03-768x929.jpg"
@@ -14851,6 +16303,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.8,
+        "source": 16.0
       }
     },
     {
@@ -14864,7 +16322,7 @@
       "publishedAt": "2026-09-15T14:00:12+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 69.5,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/yont-studio_designboom_05-768x512.jpg"
@@ -14893,6 +16351,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 19.0,
+        "source": 16.0
       }
     },
     {
@@ -14906,7 +16370,7 @@
       "publishedAt": "2026-09-15T14:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 73.7,
       "titleZh": "把雨水储存做成墙：节省空间的集水容器",
       "summaryZh": "工业设计网介绍墙体式雨水储存产品，将传统大容器的占地问题作为设计切口。",
       "reading": {
@@ -14985,7 +16449,13 @@
         {
           "url": "https://s3files.core77.com/images/c77_directory/ribbon-c77da.png"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.2,
+        "source": 16.0
+      }
     },
     {
       "id": "62036522f50c7d98",
@@ -14998,7 +16468,7 @@
       "publishedAt": "2026-09-15T14:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 76.1,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/dHZHaoZt9M8CQ2HWRS4U5j-320-80.jpg"
@@ -15039,6 +16509,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 19.6,
+        "source": 16.0
       }
     },
     {
@@ -15052,7 +16528,7 @@
       "publishedAt": "2026-09-15T14:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 75.0,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/VRiEFD7N5Tog993meE7nZn-320-80.jpg"
@@ -15132,6 +16608,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.5,
+        "source": 16.0
       }
     },
     {
@@ -15145,7 +16627,7 @@
       "publishedAt": "2026-09-15T13:51:11+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 75.2,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/MYreKiWeMZmwR5NVG7oB8f-320-80.jpg"
@@ -15180,6 +16662,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.7,
+        "source": 16.0
       }
     },
     {
@@ -15193,7 +16681,7 @@
       "publishedAt": "2026-09-15T13:20:31+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 69.3,
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/09/finally-a-cd-player-gen-z-actually-wants-to-own/r400-00.jpg"
@@ -15243,6 +16731,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.8,
+        "source": 10.0
       }
     },
     {
@@ -15256,7 +16750,7 @@
       "publishedAt": "2026-09-15T13:00:39+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 61.6,
       "titleZh": "可倾斜圆盘灯罩，为便携灯带来光影变化",
       "summaryZh": "德泽恩产品栏目介绍一款便携台灯，将圆柱底座、可倾斜圆盘灯罩与半透明扩散罩结合。",
       "reading": {
@@ -15278,7 +16772,13 @@
         {
           "url": "https://static.dezeen.com/uploads/2026/09/topo-portable-lamp-felix-pottinger-design-studio-maytoni_dezeen_2364_col_3-1704x2556.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 6.0,
+        "completeness": 17.1,
+        "source": 16.0
+      }
     },
     {
       "id": "59cc724d4ab241c9",
@@ -15291,7 +16791,7 @@
       "publishedAt": "2026-09-15T13:00:04+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 75.1,
       "titleZh": "维纳斯·威廉姆斯的新家居系列，连接米兰与网球场",
       "summaryZh": "家居系列将米兰设计影响、中世纪现代风格与网球线索融入成人及儿童家具和装饰。",
       "reading": {
@@ -15386,7 +16886,13 @@
         {
           "url": "https://design-milk.com/images/2026/09/CB_SP26_GS_01_746_Vert__204.jpeg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.6,
+        "source": 16.0
+      }
     },
     {
       "id": "172a581d479e80d9",
@@ -15399,7 +16905,7 @@
       "publishedAt": "2026-09-15T13:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 74.0,
       "titleZh": "一台老体重秤的附加信息，暴露了设计中的价值判断",
       "summaryZh": "工业设计网回顾带身高体重对照表的旧式体重秤，讨论测量工具如何同时传递规范。",
       "reading": {
@@ -15439,7 +16945,13 @@
         {
           "url": "https://s3files.core77.com/images/c77_directory/ribbon-c77da.png"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 16.0
+      }
     },
     {
       "id": "51c8ea2c8f6cb370",
@@ -15452,7 +16964,7 @@
       "publishedAt": "2026-09-15T13:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-17",
-      "score": 52,
+      "score": 63.0,
       "images": [
         {
           "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/image-1-16.png?w=1808&quality=80&ssl=1"
@@ -15480,6 +16992,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 18.0,
+        "media": 12.0,
+        "completeness": 17.0,
+        "source": 16.0
       }
     },
     {
@@ -15493,7 +17011,7 @@
       "publishedAt": "2026-09-15T12:16:49+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 46.2,
       "titleZh": "同一个网页任务，两款生成式设计工具的作者对比",
       "summaryZh": "用户体验星球作者用相同网页任务比较两款生成式设计工具，讨论自然语言生成界面的实践。",
       "reading": {
@@ -15507,6 +17025,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 3.0,
+        "completeness": 10.7,
+        "source": 10.0
       }
     },
     {
@@ -15520,7 +17044,7 @@
       "publishedAt": "2026-09-15T12:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 68.6,
       "images": [
         {
           "url": "https://www.artofvfx.com/wp-content/uploads/2026/08/mayday_ver2_xlg-1068x1335.jpg"
@@ -15569,6 +17093,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 13.0,
+        "completeness": 17.1,
+        "source": 16.0
       }
     },
     {
@@ -15582,7 +17112,7 @@
       "publishedAt": "2026-09-15T11:32:20+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 81.1,
       "titleZh": "悉尼将迎来动态设计与动画交流活动",
       "summaryZh": "动态影像精选报道一场计划于十一月在悉尼举行的活动，安排主题演讲与行业交流。",
       "reading": {
@@ -15659,7 +17189,13 @@
         {
           "url": "https://www.stashmedia.tv/wp-content/uploads/Forever-Expands-With-Addition-of-Tokyo-Studio-Onesal-STASH-MAGAZINE-300x169.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 25.0,
+        "completeness": 17.6,
+        "source": 16.0
+      }
     },
     {
       "id": "ebfde60ef1afb103",
@@ -15672,7 +17208,7 @@
       "publishedAt": "2026-09-15T11:30:33+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 75.3,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/QDTCEbKFd9mGYB8w5hHLWQ-320-80.jpg"
@@ -15716,6 +17252,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.8,
+        "source": 16.0
       }
     },
     {
@@ -15729,7 +17271,7 @@
       "publishedAt": "2026-09-15T11:13:46+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 46.2,
       "titleZh": "生成式工具里的文化默认值，从哪里来",
       "summaryZh": "用户体验集刊的作者讨论人工智能输出偏向某些文化惯例的现象及其设计影响。",
       "reading": {
@@ -15743,6 +17285,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 3.0,
+        "completeness": 10.7,
+        "source": 10.0
       }
     },
     {
@@ -15756,7 +17304,7 @@
       "publishedAt": "2026-09-15T11:13:45+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 72.1,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/Aqci6YRmKTcy4HrWbZeACn-320-80.jpg"
@@ -15788,6 +17336,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 15.0,
+        "completeness": 18.6,
+        "source": 16.0
       }
     },
     {
@@ -15801,7 +17355,7 @@
       "publishedAt": "2026-09-15T11:13:17+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 37,
+      "score": 47.4,
       "titleZh": "用户很自信却理解错了，界面该如何回应",
       "summaryZh": "用户体验集刊作者讨论模糊术语和错误自信带来的问题，关注如何避免用户误解任务。",
       "reading": {
@@ -15816,6 +17370,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 3.0,
+        "completeness": 11.9,
+        "source": 10.0
       }
     },
     {
@@ -15829,7 +17389,7 @@
       "publishedAt": "2026-09-15T11:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 82.3,
       "titleZh": "创意工具套件整合，设计流程的边界继续变化",
       "summaryZh": "创意浪潮报道一套整合多种设计、动态和生成式工具的专业创作套件，以及相关功能更新。",
       "reading": {
@@ -15943,7 +17503,13 @@
         {
           "url": "https://www.creativeboom.com/img/illustrations/newsletter.webp"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 25.0,
+        "completeness": 18.8,
+        "source": 16.0
+      }
     },
     {
       "id": "cd62df528f32ac2a",
@@ -15956,7 +17522,7 @@
       "publishedAt": "2026-09-15T10:49:11+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 73.0,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/spectator-spectacle-chapter-editor-letter-designboom-8-768x614.jpg"
@@ -15988,6 +17554,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 15.0,
+        "completeness": 19.5,
+        "source": 16.0
       }
     },
     {
@@ -16001,7 +17573,7 @@
       "publishedAt": "2026-09-15T10:30:54+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 72.0,
       "titleZh": "让两棵芒果树成为住宅最重要的遮阳条件",
       "summaryZh": "印度住宅保留场地中的大树，结合木百叶，为室内带来阴影和过滤后的日光。",
       "reading": {
@@ -16033,7 +17605,13 @@
         {
           "url": "https://static.dezeen.com/uploads/2026/09/house-beyond-the-mango-trees-indian-home-inle-architects_dezeen_2364_col_14-1704x1136.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 15.0,
+        "completeness": 18.5,
+        "source": 16.0
+      }
     },
     {
       "id": "7de20400939656f0",
@@ -16046,7 +17624,7 @@
       "publishedAt": "2026-09-15T10:22:03+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 66.1,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/z4UeYM3Nc9gbzbchnSBzbS-320-80.jpg"
@@ -16072,6 +17650,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 9.0,
+        "completeness": 18.6,
+        "source": 16.0
       }
     },
     {
@@ -16085,7 +17669,7 @@
       "publishedAt": "2026-09-15T10:15:11+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 75.7,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/hussein-chalayan-after-words-fw2000-london-designboom-01-768x515.jpg"
@@ -16127,7 +17711,13 @@
       },
       "videoGallery": [
         "https://i.ytimg.com/vi/hgG_vsIpXW4/hqdefault.jpg"
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 19.0,
+        "completeness": 18.2,
+        "source": 16.0
+      }
     },
     {
       "id": "c00f7c2a22a13126",
@@ -16140,7 +17730,7 @@
       "publishedAt": "2026-09-15T10:00:46+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 68.8,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/lasvit_designboom_01-768x512.jpg"
@@ -16169,6 +17759,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 18.3,
+        "source": 16.0
       }
     },
     {
@@ -16182,7 +17778,7 @@
       "publishedAt": "2026-09-15T10:00:19+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 75.0,
       "titleZh": "建筑色彩不只是表面装饰：一本新书的六个案例",
       "summaryZh": "新书作者选取不同时期的彩色建筑，讨论色彩如何成为建筑表达的内在组成。",
       "reading": {
@@ -16220,7 +17816,13 @@
         {
           "url": "https://static.dezeen.com/uploads/2026/09/chromatic-architecture_dezeen_2364_col_1-1704x1137.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.5,
+        "source": 16.0
+      }
     },
     {
       "id": "383dd26e15bc1840",
@@ -16233,7 +17835,7 @@
       "publishedAt": "2026-09-15T09:45:44+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 74.0,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/vuRRoreV24MeyUMmHYtJXg-320-80.jpg"
@@ -16267,6 +17869,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 17.5,
+        "source": 16.0
       }
     },
     {
@@ -16280,7 +17888,7 @@
       "publishedAt": "2026-09-15T09:45:18+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 69.0,
       "titleZh": "纽约地标与熊形象，进入新的服装视觉系列",
       "summaryZh": "乔纳森·艾夫的设计团队为服装品牌创作系列，以熊攀登帝国大厦等图形呼应纽约门店。",
       "reading": {
@@ -16309,7 +17917,13 @@
         {
           "url": "https://static.dezeen.com/uploads/2026/09/lovefrom-moncler-jony-ive-new-york_dezeen_2364_col_0-1704x2130.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 18.5,
+        "source": 16.0
+      }
     },
     {
       "id": "82daac0c4f20a323",
@@ -16322,7 +17936,7 @@
       "publishedAt": "2026-09-15T09:30:29+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 61.1,
       "titleZh": "瓷砖模拟水泥树脂肌理，探索材料的视觉替身",
       "summaryZh": "德泽恩产品栏目介绍一组瓷质砖，以表面纹理再现水泥树脂的矿物感。",
       "reading": {
@@ -16344,7 +17958,13 @@
         {
           "url": "https://static.dezeen.com/uploads/2026/09/resincode-collection-vitra-dezeen-showroom_dezeen_2364_col_3-1704x2410.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 6.0,
+        "completeness": 16.6,
+        "source": 16.0
+      }
     },
     {
       "id": "71c5d62c64b26deb",
@@ -16357,7 +17977,7 @@
       "publishedAt": "2026-09-15T09:25:49+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 69.3,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/safety-curtain-designboom-05-768x543.jpg"
@@ -16386,6 +18006,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 12.0,
+        "completeness": 18.8,
+        "source": 16.0
       }
     },
     {
@@ -16399,7 +18025,7 @@
       "publishedAt": "2026-09-15T09:00:10+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 63.1,
       "titleZh": "伦敦设计节的新街区，试图重建本地设计连接",
       "summaryZh": "设计活动负责人在访谈中讨论肖尔迪奇的新设计周，关注社区、建筑与室内设计的关系。",
       "reading": {
@@ -16422,7 +18048,13 @@
         {
           "url": "https://static.dezeen.com/uploads/2026/09/ldf-dispatch-duncan-riches-interview_dezeen_2364_col_2-1704x1137.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 6.0,
+        "completeness": 18.6,
+        "source": 16.0
+      }
     },
     {
       "id": "217b1394f40880fc",
@@ -16435,7 +18067,7 @@
       "publishedAt": "2026-09-15T09:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 52,
+      "score": 72.3,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/MnYKWnwm2n5SCpgCNaYaZL-320-80.jpg"
@@ -16467,6 +18099,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 15.0,
+        "completeness": 18.8,
+        "source": 16.0
       }
     },
     {
@@ -16480,7 +18118,7 @@
       "publishedAt": "2026-09-15T08:20:57+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 51,
+      "score": 75.0,
       "images": [
         {
           "url": "https://static.designboom.com/wp-content/uploads/2026/09/luca-battaglia-ghostly-glow-disappearing-carousels-long-exposure-photography-designboom-09-768x576.jpg"
@@ -16527,6 +18165,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.5,
+        "source": 16.0
       }
     },
     {
@@ -16540,7 +18184,7 @@
       "publishedAt": "2026-09-15T08:00:17+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 51,
+      "score": 75.0,
       "titleZh": "玻璃砖灯具构成展场，唤起七十年代的氛围",
       "summaryZh": "李·布鲁姆在伦敦展示空间中以模块化玻璃砖灯具构建装置，呈现便携灯、壁灯与线性吊灯等组合。",
       "reading": {
@@ -16575,7 +18219,13 @@
         {
           "url": "https://static.dezeen.com/uploads/2026/09/chant-chambers-lee-broom_dezeen_2364_col_33-1704x2399.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.5,
+        "source": 16.0
+      }
     },
     {
       "id": "f8df79e07dc421e0",
@@ -16588,7 +18238,7 @@
       "publishedAt": "2026-09-15T08:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 51,
+      "score": 74.9,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/hunter-harvey-art-itsnicethat-9.jpg?class=w1440"
@@ -16644,6 +18294,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.4,
+        "source": 16.0
       }
     },
     {
@@ -16657,7 +18313,7 @@
       "publishedAt": "2026-09-15T08:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 51,
+      "score": 75.1,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/Ntsal_Cairo_Panorama_of_the_European_Film_2025_Poster.jpg?class=w1920"
@@ -16716,6 +18372,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 22.5,
+        "media": 18.0,
+        "completeness": 18.6,
+        "source": 16.0
       }
     },
     {
@@ -16729,7 +18391,7 @@
       "publishedAt": "2026-09-15T08:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 51,
+      "score": 82.5,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/WYiR_SocialTile_v2.png?class=w1080"
@@ -16862,7 +18524,13 @@
       "videoGallery": [
         "https://i.vimeocdn.com/video/2174248625-699bf91a92b53c589611673851a4ebd5733ce1e01b4957137be6c64b98770be4-d_1280?region=us",
         "https://i.vimeocdn.com/video/2196063238-330403ddb79cb0e1b4a8e7ebaf0103140c56c4cf7adc12dd45cf1878c005ea70-d_1280?region=us"
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 25.0,
+        "completeness": 18.9,
+        "source": 16.0
+      }
     },
     {
       "id": "12dd1f0d1c3003cc",
@@ -16875,7 +18543,7 @@
       "publishedAt": "2026-09-15T05:04:14+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-18",
-      "score": 36,
+      "score": 46.0,
       "titleZh": "交付物正在退场，设计过程被重新定义",
       "summaryZh": "作者认为生成式工具没有消灭线框图，而是暴露出交付物本来就不等于设计本身。",
       "reading": {
@@ -16895,7 +18563,13 @@
         {
           "url": "https://uxdesign.cc/the-death-of-the-deliverable-cbaea0123895"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 18.0,
+        "source": 10.0
+      }
     },
     {
       "id": "5e52dd1514b4c928",
@@ -16908,7 +18582,7 @@
       "publishedAt": "2026-09-15T04:30:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-18",
-      "score": 51,
+      "score": 67.3,
       "images": [
         {
           "url": "https://media.creativeboom.com/02ab366f-4408-401a-9cbc-5c016cddb8af/conversions/2a918533e99cb2a9dff2fff407df69b2d142c186-large.webp"
@@ -17024,6 +18698,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 18.3,
+        "source": 16.0
       }
     },
     {
@@ -17037,7 +18717,7 @@
       "publishedAt": "2026-09-15T01:00:36+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-16",
-      "score": 51,
+      "score": 65.5,
       "titleZh": "北海道球形客房方案，将流行文化转为空间体验",
       "summaryZh": "旅宿品牌公布以精灵球为造型的湖畔客房设计，报道中的项目仍处于计划建设阶段。",
       "reading": {
@@ -17063,7 +18743,13 @@
         {
           "url": "https://static.dezeen.com/uploads/2026/09/poke-ball-themed-hotel-not-a-hotel_dezeen_2364_col_0-1704x1435.jpg"
         }
-      ]
+      ],
+      "heat": {
+        "recency": 22.5,
+        "media": 9.0,
+        "completeness": 18.0,
+        "source": 16.0
+      }
     },
     {
       "id": "a8c169d2dc512265",
@@ -17076,7 +18762,7 @@
       "publishedAt": "2026-09-14T20:51:55+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-17",
-      "score": 50,
+      "score": 69.8,
       "images": [
         {
           "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/1000066062.jpg?w=1052&quality=89&ssl=1"
@@ -17114,6 +18800,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 18.0,
+        "media": 18.0,
+        "completeness": 17.8,
+        "source": 16.0
       }
     },
     {
@@ -17127,7 +18819,7 @@
       "publishedAt": "2026-09-14T18:00:00+00:00",
       "date": "2026-09-15",
       "firstSeen": "2026-09-18",
-      "score": 50,
+      "score": 63.9,
       "images": [
         {
           "url": "https://www.artofvfx.com/wp-content/uploads/2026/03/star_wars_the_mandalorian_and_grogu_ver4_xlg-1068x1583.jpg"
@@ -17179,6 +18871,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 16.0,
+        "completeness": 16.9,
+        "source": 16.0
       }
     },
     {
@@ -17192,7 +18890,7 @@
       "publishedAt": "2026-09-14T15:00:00+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-18",
-      "score": 50,
+      "score": 55.6,
       "images": [
         {
           "url": "https://www.artofvfx.com/wp-content/uploads/2026/09/carrie_ver2_xlg-1068x1335.jpg"
@@ -17238,6 +18936,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 12.9,
+        "media": 10.0,
+        "completeness": 16.8,
+        "source": 16.0
       }
     },
     {
@@ -17251,7 +18955,7 @@
       "publishedAt": "2026-09-14T14:00:00+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-18",
-      "score": 50,
+      "score": 72.4,
       "images": [
         {
           "url": "https://s3files.core77.com/blog/images/1849768_81_145347_KCB8oSgto.jpg"
@@ -17302,7 +19006,13 @@
       },
       "videoGallery": [
         "https://i.ytimg.com/vi/BLsH9ctKH4I/hqdefault.jpg"
-      ]
+      ],
+      "heat": {
+        "recency": 12.9,
+        "media": 25.0,
+        "completeness": 18.5,
+        "source": 16.0
+      }
     },
     {
       "id": "b01c6077183bfb3a",
@@ -17315,7 +19025,7 @@
       "publishedAt": "2026-09-14T12:00:00+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-18",
-      "score": 50,
+      "score": 55.3,
       "images": [
         {
           "url": "https://www.artofvfx.com/wp-content/uploads/2026/07/uprising_xlg-1068x1423.jpg"
@@ -17361,6 +19071,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 12.9,
+        "media": 10.0,
+        "completeness": 16.4,
+        "source": 16.0
       }
     },
     {
@@ -17374,7 +19090,7 @@
       "publishedAt": "2026-09-14T08:50:00+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-18",
-      "score": 50,
+      "score": 64.8,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/s4HqtzNYxyJe66hw5b9VGS-320-80.jpg"
@@ -17457,6 +19173,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 12.9,
+        "media": 18.0,
+        "completeness": 18.0,
+        "source": 16.0
       }
     },
     {
@@ -17470,7 +19192,7 @@
       "publishedAt": "2026-09-14T08:00:00+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-18",
-      "score": 49,
+      "score": 70.8,
       "images": [
         {
           "url": "https://m.itsnicethat.com/original_images/ed-sayers-film-itsnicethat-5_wWGsigT.png?class=w1920"
@@ -17551,6 +19273,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 12.9,
+        "media": 25.0,
+        "completeness": 17.0,
+        "source": 16.0
       }
     },
     {
@@ -17564,7 +19292,7 @@
       "publishedAt": "2026-09-14T05:45:00+00:00",
       "date": "2026-09-14",
       "firstSeen": "2026-09-18",
-      "score": 49,
+      "score": 72.1,
       "images": [
         {
           "url": "https://media.creativeboom.com/7ed79438-3436-4b5d-b753-c609874fd76b/conversions/66d761e2e47cc6583846e26363f9c42fc177149e-large.webp"
@@ -17682,7 +19410,13 @@
       "videoGallery": [
         "https://i.ytimg.com/vi/nLGqhn116w8/hqdefault.jpg",
         "https://i.ytimg.com/vi/OyMmilZgzSw/hqdefault.jpg"
-      ]
+      ],
+      "heat": {
+        "recency": 12.9,
+        "media": 25.0,
+        "completeness": 18.2,
+        "source": 16.0
+      }
     },
     {
       "id": "e2ec008abc6ac994",
@@ -17695,7 +19429,7 @@
       "publishedAt": "2026-09-11T21:04:03+00:00",
       "date": "2026-09-12",
       "firstSeen": "2026-09-16",
-      "score": 46,
+      "score": 36.5,
       "titleZh": "信息流为何总让人觉得自己落后了",
       "summaryZh": "用户体验集刊作者讨论科技行业的信息流如何放大他人进展，并影响个人对行业速度的判断。",
       "reading": {
@@ -17709,6 +19443,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 12.9,
+        "media": 3.0,
+        "completeness": 10.6,
+        "source": 10.0
       }
     },
     {
@@ -17722,7 +19462,7 @@
       "publishedAt": "2026-09-11T15:25:00+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-18",
-      "score": 31,
+      "score": 49.8,
       "images": [
         {
           "url": "https://cdn.sanity.io/images/599r6htc/regionalized/88176a9c7ec801b005fa542330d1c925b381d77d-1608x1608.png?w=528&q=75&fit=max&auto=format&dpr=2"
@@ -17742,6 +19482,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 9.0,
+        "media": 3.0,
+        "completeness": 17.8,
+        "source": 20.0
       }
     },
     {
@@ -17755,7 +19501,7 @@
       "publishedAt": "2026-09-11T12:00:00+08:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-21",
-      "score": 30,
+      "score": 59.2,
       "images": [
         {
           "url": "https://image.uisdc.com/wp-content/uploads/2026/09/slt202609104.webp"
@@ -17803,6 +19549,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 6.9,
+        "media": 18.0,
+        "completeness": 18.2,
+        "source": 16.0
       }
     },
     {
@@ -17816,7 +19568,7 @@
       "publishedAt": "2026-09-11T10:50:00+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-17",
-      "score": 30,
+      "score": 56.0,
       "images": [
         {
           "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/IMG_9866-scaled.jpeg?resize=750%2C576&quality=89&ssl=1"
@@ -17845,6 +19597,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 10.0,
+        "media": 12.0,
+        "completeness": 18.0,
+        "source": 16.0
       }
     },
     {
@@ -17858,7 +19616,7 @@
       "publishedAt": "2026-09-10T22:38:12+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-16",
-      "score": 45,
+      "score": 44.2,
       "titleZh": "从人因研究到生成式时代，回看体验设计的五个阶段",
       "summaryZh": "作者回顾体验设计的发展，将早期人因研究与今天的人工智能设计问题连接起来。",
       "reading": {
@@ -17874,6 +19632,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 11.2,
+        "media": 3.0,
+        "completeness": 19.9,
+        "source": 10.0
       }
     },
     {
@@ -17887,7 +19651,7 @@
       "publishedAt": "2026-09-10T16:09:22+00:00",
       "date": "2026-09-11",
       "firstSeen": "2026-09-17",
-      "score": 45,
+      "score": 59.1,
       "images": [
         {
           "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/08/Combo-06.png?resize=750%2C415&quality=80&ssl=1"
@@ -17919,6 +19683,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 10.0,
+        "media": 15.0,
+        "completeness": 18.1,
+        "source": 16.0
       }
     },
     {
@@ -17932,7 +19702,7 @@
       "publishedAt": "2026-09-10T14:43:34+00:00",
       "date": "2026-09-10",
       "firstSeen": "2026-09-18",
-      "score": 44,
+      "score": 39.0,
       "images": [
         {
           "url": "https://uxplanet.org/can-gpt-6-actually-do-ux-design-1fe818e91794"
@@ -17952,6 +19722,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 8.2,
+        "media": 3.0,
+        "completeness": 17.9,
+        "source": 10.0
       }
     },
     {
@@ -17965,7 +19741,7 @@
       "publishedAt": "2026-09-09T19:23:00+00:00",
       "date": "2026-09-10",
       "firstSeen": "2026-09-18",
-      "score": 14,
+      "score": 48.9,
       "images": [
         {
           "url": "https://cdn.sanity.io/images/599r6htc/regionalized/e769df59b15d762409b9edd956b77e853040b0d7-720x400.png?w=804&q=75&fit=max&auto=format&dpr=2"
@@ -17985,6 +19761,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 8.2,
+        "media": 3.0,
+        "completeness": 17.7,
+        "source": 20.0
       }
     },
     {
@@ -17998,7 +19780,7 @@
       "publishedAt": "2026-09-09T14:17:00+00:00",
       "date": "2026-09-09",
       "firstSeen": "2026-09-18",
-      "score": 44,
+      "score": 29.8,
       "titleZh": "用生成式模型推进网页项目的四步流程",
       "summaryZh": "作者分享自己用人工智能模型推进新网页项目的四步流程，起点是设计一个可用的落地页。",
       "reading": {
@@ -18012,6 +19794,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 7.5,
+        "media": 3.0,
+        "completeness": 9.3,
+        "source": 10.0
       }
     },
     {
@@ -18025,7 +19813,7 @@
       "publishedAt": "2026-09-09T14:11:57+00:00",
       "date": "2026-09-09",
       "firstSeen": "2026-09-16",
-      "score": 29,
+      "score": 69.8,
       "images": [
         {
           "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/09/MJ_Still-768x576.png?x33418"
@@ -18086,6 +19874,12 @@
         "author": "",
         "duration": 0,
         "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "heat": {
+        "recency": 9.0,
+        "media": 25.0,
+        "completeness": 19.8,
+        "source": 16.0
       }
     },
     {
@@ -18099,7 +19893,7 @@
       "publishedAt": "2026-09-09T08:00:00+00:00",
       "date": "2026-09-09",
       "firstSeen": "2026-09-16",
-      "score": 43,
+      "score": 61.5,
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/SqnSqS6MFhUVeFXRxKanMo-320-80.jpg"
@@ -18140,6 +19934,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 9.0,
+        "media": 18.0,
+        "completeness": 18.5,
+        "source": 16.0
       }
     },
     {
@@ -18153,7 +19953,7 @@
       "publishedAt": "2026-09-09T06:45:00+00:00",
       "date": "2026-09-09",
       "firstSeen": "2026-09-18",
-      "score": 43,
+      "score": 66.3,
       "images": [
         {
           "url": "https://media.creativeboom.com/1ff41846-19f0-47b9-98aa-6fdd2d9e1688/conversions/b81affb4d8a3a4db60935abc0d7e6f2ef2f168aa-large.webp"
@@ -18261,6 +20061,12 @@
         "author": "",
         "duration": 0,
         "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "heat": {
+        "recency": 7.5,
+        "media": 25.0,
+        "completeness": 17.8,
+        "source": 16.0
       }
     },
     {
@@ -18274,7 +20080,7 @@
       "publishedAt": "2026-09-08T14:00:00+00:00",
       "date": "2026-09-08",
       "firstSeen": "2026-09-17",
-      "score": 43,
+      "score": 50.3,
       "images": [
         {
           "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/J-Type-101-2-scaled.jpg?resize=1568%2C1176&quality=89&ssl=1"
@@ -18300,6 +20106,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 7.5,
+        "media": 9.0,
+        "completeness": 17.8,
+        "source": 16.0
       }
     },
     {
@@ -18313,7 +20125,7 @@
       "publishedAt": "2026-09-07T23:27:18+00:00",
       "date": "2026-09-08",
       "firstSeen": "2026-09-17",
-      "score": 42,
+      "score": 59.4,
       "images": [
         {
           "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/At-Times-Square-with-my-typewriter-2.jpg?w=1000&quality=89&ssl=1"
@@ -18366,6 +20178,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 7.5,
+        "media": 18.0,
+        "completeness": 17.9,
+        "source": 16.0
       }
     },
     {
@@ -18379,7 +20197,7 @@
       "publishedAt": "2026-09-07T14:01:56+00:00",
       "date": "2026-09-07",
       "firstSeen": "2026-09-16",
-      "score": 27,
+      "score": 67.9,
       "images": [
         {
           "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/08/Biab-1536x1152.png?x33418"
@@ -18424,6 +20242,12 @@
         "author": "",
         "duration": 0,
         "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "heat": {
+        "recency": 7.5,
+        "media": 25.0,
+        "completeness": 19.4,
+        "source": 16.0
       }
     },
     {
@@ -18437,7 +20261,7 @@
       "publishedAt": "2026-09-06T13:09:52+00:00",
       "date": "2026-09-06",
       "firstSeen": "2026-09-16",
-      "score": 26,
+      "score": 56.0,
       "images": [
         {
           "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/09/3dfacemask-768x576.png?x33418"
@@ -18471,6 +20295,12 @@
         "author": "",
         "duration": 0,
         "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "heat": {
+        "recency": 6.9,
+        "media": 13.0,
+        "completeness": 20.0,
+        "source": 16.0
       }
     },
     {
@@ -18484,7 +20314,7 @@
       "publishedAt": "2026-09-05T12:50:25+00:00",
       "date": "2026-09-05",
       "firstSeen": "2026-09-16",
-      "score": 26,
+      "score": 53.9,
       "images": [
         {
           "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/09/unvowen_cover-768x576.png?x33418"
@@ -18517,6 +20347,12 @@
         "author": "",
         "duration": 0,
         "verifiedAt": "2026-09-20T09:57:03+00:00"
+      },
+      "heat": {
+        "recency": 6.4,
+        "media": 13.0,
+        "completeness": 18.5,
+        "source": 16.0
       }
     },
     {
@@ -18530,7 +20366,7 @@
       "publishedAt": "2026-09-04T16:14:00+00:00",
       "date": "2026-09-05",
       "firstSeen": "2026-09-16",
-      "score": 40,
+      "score": 29.1,
       "titleZh": "用生成式工具审视设计稿，作者分享界面评审实践",
       "summaryZh": "用户体验星球作者讨论将设计插件用于设计评审，探索生成式工具在界面反馈中的用途。",
       "reading": {
@@ -18544,6 +20380,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 6.4,
+        "media": 3.0,
+        "completeness": 9.7,
+        "source": 10.0
       }
     },
     {
@@ -18557,7 +20399,7 @@
       "publishedAt": "2026-09-03T15:49:00+00:00",
       "date": "2026-09-03",
       "firstSeen": "2026-09-18",
-      "score": 40,
+      "score": 52.5,
       "images": [
         {
           "url": "https://cdn.sanity.io/images/599r6htc/regionalized/d43d87f14738a553ee67cae0104ce1db58dbb246-1949x1095.png?w=528&q=75&fit=max&auto=format&dpr=2"
@@ -18590,7 +20432,13 @@
       },
       "videoGallery": [
         "https://i.ytimg.com/vi/V19x5yo-Sa8/hqdefault.jpg"
-      ]
+      ],
+      "heat": {
+        "recency": 5.0,
+        "media": 10.0,
+        "completeness": 17.5,
+        "source": 20.0
+      }
     },
     {
       "id": "f74713a94ce6c93a",
@@ -18603,7 +20451,7 @@
       "publishedAt": "2026-09-02T20:28:00+00:00",
       "date": "2026-09-03",
       "firstSeen": "2026-09-16",
-      "score": 24,
+      "score": 47.9,
       "images": [
         {
           "url": "https://cdn.sanity.io/images/599r6htc/regionalized/13aeb37a574d8fe89b2d6ccc8b8137b36cf46ceb-3264x1836.jpg?w=804&q=75&fit=max&auto=format&dpr=2"
@@ -18623,6 +20471,12 @@
             ]
           }
         ]
+      },
+      "heat": {
+        "recency": 5.6,
+        "media": 3.0,
+        "completeness": 19.3,
+        "source": 20.0
       }
     }
   ],
@@ -18647,15 +20501,15 @@
         "d78b41efd7fca6c4",
         "c527474e333c2d3c",
         "78b779a31e6e5a1a",
-        "2e09cc65581a7cf7",
         "919e24c682795072",
+        "2e09cc65581a7cf7",
         "3e34662aefd34abe",
         "7c39b6dbc787d0ac",
         "3460cfe418ac5dce",
         "9725df3713342333",
         "b0e5a84ce07b3b92",
-        "62036522f50c7d98",
         "7a5fa556fdd79070",
+        "62036522f50c7d98",
         "2d34d2940c1ca0f0",
         "81f200dce3a074f5",
         "9d5fb9660d406915",
@@ -18684,8 +20538,8 @@
         "217b1394f40880fc",
         "3edd48eb3a4cc769",
         "e8dce337cc26fc60",
-        "e8f78a78423bc64d",
         "f8df79e07dc421e0",
+        "e8f78a78423bc64d",
         "002367242f682f6f",
         "9f4a978857bafe12",
         "e2ec008abc6ac994",
@@ -18730,9 +20584,9 @@
         "d32d26265971a93d",
         "c87d385020ab6145",
         "e318813b402246c9",
-        "411f9af58df78c3f",
         "5c9d13f97faabce4",
         "490340eed3ce1fa3",
+        "411f9af58df78c3f",
         "d4f00f9ccd8eee07",
         "c32af710ddba70cf",
         "951cc2d99ee7083e",
@@ -18749,13 +20603,13 @@
         "cc54aea647dddf8c",
         "3bca98f9b1af51e1",
         "c0dda98d5ce591f9",
-        "42b6272a4794e700",
         "a840f9c368c575d3",
+        "42b6272a4794e700",
         "9211f2f063c48971",
         "7dd2544e33897faf",
-        "7b3f0df0df2a9832",
         "e024a0ef6b0d33f6",
         "86c20a2af94b5e6f",
+        "7b3f0df0df2a9832",
         "a5448d26275b8357",
         "5d91988bb969bbd0",
         "c43660af53ec6122",
@@ -18789,8 +20643,8 @@
         "222ad6d5116a293e",
         "37f53f865b405ba3",
         "cbb57ccf80a5bea5",
-        "4a6edb7d4931b29c",
         "d1a39005c8a224a2",
+        "4a6edb7d4931b29c",
         "16c40fb39c714617",
         "87d903b7da3bb790",
         "419101989e099d41",
@@ -18799,8 +20653,8 @@
         "cbb9a87ec874c156",
         "1cf4bd13afd06f4f",
         "debc4231d7ceab5c",
-        "3eb67b51f8c9fd8a",
         "4cb1c18650bdd8d1",
+        "3eb67b51f8c9fd8a",
         "1cb8832bf0ec4aa6",
         "051e7207ef1b6ee6",
         "3dffcc248d8098f6",
@@ -18944,9 +20798,9 @@
         "175202db4231f8da",
         "6453c8832bf5e327",
         "b09ab905954908e6",
-        "5a3d498e8be6008a",
-        "bd2bd85f2871b60d",
         "c123c37be4ddd888",
+        "bd2bd85f2871b60d",
+        "5a3d498e8be6008a",
         "a40e68405a76e394",
         "4485b28b3a7a1d2a",
         "8dc3776bf1ecdf82",
@@ -18983,19 +20837,19 @@
         "87dbb5970d16e967",
         "23d3cc1f6a164324",
         "4c5b5cb1fddb982e",
-        "2a5e864bc6dabd83",
-        "88e3468bd09c2c87",
         "fe8cbca943039d25",
+        "88e3468bd09c2c87",
+        "2a5e864bc6dabd83",
         "1e57e66ae5f8d7ef",
         "ebd954154b9e9265",
         "6a60c6f7f56243f8",
         "ac9c55403ee60292",
-        "509befce539b0748",
         "dfd970623e29ccba",
         "bc2bff26f12de016",
-        "3b54dde89975b238",
-        "56a0a3cf2667f379",
         "9a13269aa171ae0f",
+        "56a0a3cf2667f379",
+        "509befce539b0748",
+        "3b54dde89975b238",
         "eb29ec65c0cfb9e9",
         "9f65b4f8a8d10c04",
         "914f06b0ea085d88",
