@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:01:06.800391+08:00",
+  "updatedAt": "2026-09-28T11:28:36.910562+08:00",
   "sources": [
     {
       "name": "Dezeen",
@@ -26,7 +26,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 16,
-      "latestPublishedAt": "2026-09-27T23:30:43+00:00"
+      "latestPublishedAt": "2026-09-28T01:45:50+00:00"
     },
     {
       "name": "Smashing Magazine",
@@ -94,11 +94,11 @@
     {
       "name": "Codrops",
       "label": "网页交互实验室",
+      "url": "https://feeds.feedburner.com/tympanus",
       "category": "动态设计",
-      "url": "https://tympanus.net/codrops/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP Error 410: Gone"
+      "ok": true,
+      "count": 10,
+      "latestPublishedAt": "2026-09-14T11:30:10+00:00"
     },
     {
       "name": "Awwwards",
@@ -307,7 +307,7 @@
       "category": "建筑设计",
       "ok": true,
       "count": 24,
-      "latestPublishedAt": "2026-09-27T17:00:00+00:00"
+      "latestPublishedAt": "2026-09-27T21:00:00+00:00"
     },
     {
       "name": "Wallpaper",
@@ -346,11 +346,11 @@
     {
       "name": "PRINT",
       "label": "印刷与视觉设计杂志",
-      "category": "视觉设计",
       "url": "https://www.printmag.com/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP Error 403: Forbidden"
+      "category": "视觉设计",
+      "ok": true,
+      "count": 40,
+      "latestPublishedAt": "2026-09-28T03:11:46+00:00"
     },
     {
       "name": "Brand New",
@@ -621,6 +621,51 @@
       "ok": false,
       "count": 0,
       "latestPublishedAt": null
+    },
+    {
+      "name": "Baymard Institute",
+      "label": "贝亚德用户体验研究",
+      "url": "https://feeds.baymard.com/baymard",
+      "category": "用户体验设计",
+      "ok": true,
+      "count": 10,
+      "latestPublishedAt": "2026-09-24T08:31:00+00:00"
+    },
+    {
+      "name": "UX Design Institute",
+      "label": "用户体验设计学院",
+      "url": "https://www.uxdesigninstitute.com/blog/feed/",
+      "category": "用户体验设计",
+      "ok": true,
+      "count": 10,
+      "latestPublishedAt": "2026-09-25T08:54:15+00:00"
+    },
+    {
+      "name": "Fast Company UX",
+      "label": "快公司用户体验",
+      "url": "https://www.fastcompany.com/section/ux-design/rss",
+      "category": "用户体验设计",
+      "ok": true,
+      "count": 14,
+      "latestPublishedAt": "2026-09-21T10:30:00+00:00"
+    },
+    {
+      "name": "Google AI Blog",
+      "label": "谷歌人工智能博客",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "category": "人工智能设计",
+      "ok": true,
+      "count": 20,
+      "latestPublishedAt": "2026-09-23T18:00:00+00:00"
+    },
+    {
+      "name": "Adobe Developers Blog",
+      "label": "奥多比创意开发者博客",
+      "url": "https://blog.developer.adobe.com/rss.xml",
+      "category": "用户体验设计",
+      "ok": true,
+      "count": 60,
+      "latestPublishedAt": "2026-09-24T00:00:00+00:00"
     }
   ],
   "articles": [
@@ -31176,43 +31221,6 @@
       }
     },
     {
-      "date": "2026-09-28",
-      "articleIds": [
-        "9c281e91721d8c8e",
-        "e50a510c20b237e1",
-        "2f154db3ddfdc6b7",
-        "54bfbd23dfe6e72b",
-        "7ae945176526db5b",
-        "107f858e9b9ba2a0",
-        "42ca01ee72c770d6",
-        "3a7504ff9f5693ea",
-        "8d7a6fd4d78e3555",
-        "8693fea08a83421b",
-        "3b5dac3987ba852f",
-        "ed80c6afd04fd85d",
-        "1fc1cd48dbe0d504",
-        "3d31f12f3542da3f",
-        "ed34b5bf17a25133",
-        "2e105f6385b3cc13",
-        "27fad50076df84a3",
-        "c7c42d706e545c03",
-        "314d07bb1aef916a",
-        "439b9fd74bd76cb6",
-        "22911938deaa9741",
-        "419d742341de21b6",
-        "781954bb084feaef",
-        "00b6f30d935323c1",
-        "e6538aeebc4db818",
-        "12b5653710b50e83"
-      ],
-      "updatedAt": "2026-09-28T09:01:06.800391+08:00",
-      "masthead": {
-        "lead": "从日常器物到城市空间，",
-        "title": "设计持续回应生活。",
-        "subtitle": "展厅、住宅、公共装置与数字工具在新的使用方式中彼此连接。"
-      }
-    },
-    {
       "date": "2026-09-25",
       "articleIds": [
         "d9f0ad564eb90612",
@@ -31248,6 +31256,43 @@
         "lead": "从一处展厅，到一座城市，",
         "title": "设计重组日常体验。",
         "subtitle": "产品、建筑、动态影像与视觉表达，在新的使用情境中连接起来。"
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "articleIds": [
+        "9c281e91721d8c8e",
+        "e50a510c20b237e1",
+        "2f154db3ddfdc6b7",
+        "54bfbd23dfe6e72b",
+        "7ae945176526db5b",
+        "107f858e9b9ba2a0",
+        "42ca01ee72c770d6",
+        "3a7504ff9f5693ea",
+        "8d7a6fd4d78e3555",
+        "8693fea08a83421b",
+        "3b5dac3987ba852f",
+        "ed80c6afd04fd85d",
+        "1fc1cd48dbe0d504",
+        "3d31f12f3542da3f",
+        "ed34b5bf17a25133",
+        "2e105f6385b3cc13",
+        "27fad50076df84a3",
+        "c7c42d706e545c03",
+        "314d07bb1aef916a",
+        "439b9fd74bd76cb6",
+        "22911938deaa9741",
+        "419d742341de21b6",
+        "781954bb084feaef",
+        "00b6f30d935323c1",
+        "e6538aeebc4db818",
+        "12b5653710b50e83"
+      ],
+      "updatedAt": "2026-09-28T11:28:36.910562+08:00",
+      "masthead": {
+        "lead": "从日常器物到城市空间，",
+        "title": "设计持续回应生活。",
+        "subtitle": "展厅、住宅、公共装置与数字工具在新的使用方式中彼此连接。"
       }
     }
   ],
@@ -31310,7 +31355,12 @@
     "Communication Arts": "传播艺术杂志",
     "Wrap": "插画与创意杂志",
     "Interior Design": "室内设计杂志",
-    "EXHIBITOR": "展览展示专业杂志"
+    "EXHIBITOR": "展览展示专业杂志",
+    "Baymard Institute": "贝亚德用户体验研究",
+    "UX Design Institute": "用户体验设计学院",
+    "Fast Company UX": "快公司用户体验",
+    "Google AI Blog": "谷歌人工智能博客",
+    "Adobe Developers Blog": "奥多比创意开发者博客"
   },
   "sourceCatalog": [
     {
@@ -31439,12 +31489,12 @@
     },
     {
       "name": "Codrops",
-      "url": "https://tympanus.net/codrops/feed/",
+      "url": "https://tympanus.net/codrops/",
       "category": "动态设计",
       "label": "网页交互实验室",
       "mode": "feed",
-      "feedUrl": "https://tympanus.net/codrops/feed/",
-      "homepage": "https://tympanus.net/codrops/feed/",
+      "feedUrl": "https://feeds.feedburner.com/tympanus",
+      "homepage": "https://tympanus.net/codrops/",
       "categories": [
         "动态设计"
       ]
@@ -31981,6 +32031,72 @@
       "mode": "feed",
       "access": "public",
       "feedUrl": "http://www.exhibitoronline.com/r630/ExhibitorNewsNetwork.xml"
+    },
+    {
+      "name": "Baymard Institute",
+      "label": "贝亚德用户体验研究",
+      "url": "https://baymard.com/research-articles",
+      "homepage": "https://baymard.com/research-articles",
+      "categories": [
+        "用户体验设计"
+      ],
+      "category": "用户体验设计",
+      "mode": "feed",
+      "access": "public",
+      "feedUrl": "https://feeds.baymard.com/baymard"
+    },
+    {
+      "name": "UX Design Institute",
+      "label": "用户体验设计学院",
+      "url": "https://www.uxdesigninstitute.com/blog/",
+      "homepage": "https://www.uxdesigninstitute.com/blog/",
+      "categories": [
+        "用户体验设计"
+      ],
+      "category": "用户体验设计",
+      "mode": "feed",
+      "access": "public",
+      "feedUrl": "https://www.uxdesigninstitute.com/blog/feed/"
+    },
+    {
+      "name": "Fast Company UX",
+      "label": "快公司用户体验",
+      "url": "https://www.fastcompany.com/section/ux-design/",
+      "homepage": "https://www.fastcompany.com/section/ux-design/",
+      "categories": [
+        "用户体验设计"
+      ],
+      "category": "用户体验设计",
+      "mode": "feed",
+      "access": "public",
+      "feedUrl": "https://www.fastcompany.com/section/ux-design/rss"
+    },
+    {
+      "name": "Google AI Blog",
+      "label": "谷歌人工智能博客",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/",
+      "homepage": "https://blog.google/innovation-and-ai/technology/ai/",
+      "categories": [
+        "人工智能设计"
+      ],
+      "category": "人工智能设计",
+      "mode": "feed",
+      "access": "public",
+      "feedUrl": "https://blog.google/innovation-and-ai/technology/ai/rss/"
+    },
+    {
+      "name": "Adobe Developers Blog",
+      "label": "奥多比创意开发者博客",
+      "url": "https://blog.developer.adobe.com/",
+      "homepage": "https://blog.developer.adobe.com/",
+      "categories": [
+        "用户体验设计",
+        "人工智能设计"
+      ],
+      "category": "用户体验设计",
+      "mode": "feed",
+      "access": "public",
+      "feedUrl": "https://blog.developer.adobe.com/rss.xml"
     }
   ]
 }
