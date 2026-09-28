@@ -2761,6 +2761,45 @@
       }
     },
     {
+      "id": "51695adb52b788b9",
+      "url": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
+      "title": "Adobe Max 2026's lineup tells us a lot about the company's AI priorities right now",
+      "summary": "Tom May reviews the published schedule for Adobe MAX 2026, which lists 208 sessions, including a 25-session AI track. His reading of the agenda is that Adobe is emphasizing creative control while increasingly addressing enterprise buyers and large-scale branded content production.",
+      "source": "Creative Bloq",
+      "category": "人工智能设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/yKBFcArtA44UhYWZb4eXtL-1920-80.jpg",
+      "publishedAt": "2026-09-26T08:00:00+00:00",
+      "date": "2026-09-26",
+      "firstSeen": "2026-09-27",
+      "score": 61.0,
+      "titleZh": "奥多比创意大会议程折射生成式人工智能的企业化方向",
+      "summaryZh": "创意媒体作者梳理奥多比创意大会公布的二百零八场议程，认为人工智能专题突出创作控制、规模化与品牌内容生产；这是对预告议程的解读，活动尚未举行。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "已公布的大会议程",
+            "paragraphs": [
+              "创意媒体作者汤姆·梅检视奥多比创意大会二〇二六的公开议程。大会安排在十一月十日至十二日于迈阿密海滩举行，二百零八场活动中有二十五场列入人工智能专题。",
+              "相关议题涉及生成式影像、视频后期与自动化创意流程。议程文案多次强调创作控制、专业技艺与人工智能协作，另有案例聚焦品牌资产规模化制作。"
+            ]
+          },
+          {
+            "heading": "作者对受众的判断",
+            "paragraphs": [
+              "作者认为，议程同时把目光投向营销负责人、代理公司管理层与企业软件采购者，并以品牌治理、规模化制作和固定预算下增加产量为重点。这是对活动预告内容的评论；大会尚未举行，不能据此当作现场结论或产品发布。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 19.0,
+        "source": 24.0
+      }
+    },
+    {
       "id": "8096c52c086a497f",
       "url": "https://www.wallpaper.com/design-interiors/design-events/venice-glass-week-2026-norman-foster-chandelier",
       "title": "Creative glassmaking like you've never seen before: 12 contemporary chandeliers illuminate St Mark’s Square",
@@ -30668,6 +30707,46 @@
         "completeness": 19.3,
         "source": 30.0
       }
+    },
+    {
+      "id": "3ace203903dafb4e",
+      "url": "https://www.lukew.com/ff/2163/skip-the-tools-make-the-outcomes",
+      "title": "Skip the Tools, Make the Outcomes",
+      "summary": "The software profession has spent years designing, developing, and shipping tools. But in a world of AI, product teams may be able to skip the tools and go directly to the outcomes they enable. The author describes Exposit, an AI-powered newsroom whose users increasingly preferred personalized reports to browsing headlines, articles, and categories.",
+      "source": "LukeW",
+      "category": "用户体验设计",
+      "image": null,
+      "publishedAt": "2026-09-24",
+      "date": "2026-09-24",
+      "firstSeen": "2026-09-28",
+      "issueDate": "2026-09-27",
+      "titleZh": "跳过工具，直接交付用户想要的结果",
+      "summaryZh": "卢克·沃罗布列夫斯基以人工智能新闻项目为例，观察用户从浏览新闻转向直接获取个性化报告，讨论产品能否从交付结果开始设计。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "文章内容",
+            "paragraphs": [
+              "卢克·沃罗布列夫斯基回顾人工智能新闻项目的产品演进。团队起初把它做成传统新闻网站，供读者搜索、浏览标题与分类；后来加入按主题或新闻生成个性化报告的功能，这种直接给出所需内容的方式很快成为主要用法。",
+              "他把这种做法称为即时内容：系统根据特定读者、需求和时刻实时组合信息。读者先看到所需结果，之后仍可继续查看文章、主题、人物、地点和来源。作者也提到，他的网站每天自动整理近期发布的内容，先呈现一份可读答复。"
+            ]
+          },
+          {
+            "heading": "作者观点",
+            "paragraphs": [
+              "作者主张人工智能产品团队重新检查工作流程：用户需要的究竟是另一个供其操作的工具，还是工具原本承诺带来的结果。文章以个人产品实践支撑这一观点，并非一项对所有产品都适用的实证结论。"
+            ]
+          }
+        ]
+      },
+      "score": 43.4,
+      "heat": {
+        "recency": 8.6,
+        "media": 0.0,
+        "completeness": 19.8,
+        "source": 15.0
+      }
     }
   ],
   "issues": [
@@ -31205,13 +31284,15 @@
         "303e5b5ccbd97dcc",
         "2cd667bd3da7560c",
         "2512bf07e81f1318",
+        "51695adb52b788b9",
         "8096c52c086a497f",
         "262be818a5fa7c87",
         "60413e6d62f57b16",
         "444863027d093833",
         "3dd1219247b40a18",
         "2bb3d8b162fff796",
-        "b9c8c2f208c14d63"
+        "b9c8c2f208c14d63",
+        "3ace203903dafb4e"
       ],
       "updatedAt": "2026-09-27T09:01:27.990332+08:00",
       "masthead": {
@@ -31360,7 +31441,8 @@
     "UX Design Institute": "用户体验设计学院",
     "Fast Company UX": "快公司用户体验",
     "Google AI Blog": "谷歌人工智能博客",
-    "Adobe Developers Blog": "奥多比创意开发者博客"
+    "Adobe Developers Blog": "奥多比创意开发者博客",
+    "LukeW": "卢克·沃罗布列夫斯基"
   },
   "sourceCatalog": [
     {
@@ -32097,6 +32179,17 @@
       "mode": "feed",
       "access": "public",
       "feedUrl": "https://blog.developer.adobe.com/rss.xml"
+    },
+    {
+      "name": "LukeW",
+      "url": "https://www.lukew.com/",
+      "category": "用户体验设计",
+      "label": "卢克·沃罗布列夫斯基",
+      "mode": "curated",
+      "homepage": "https://www.lukew.com/",
+      "categories": [
+        "用户体验设计"
+      ]
     }
   ]
 }
