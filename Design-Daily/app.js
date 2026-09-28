@@ -56,7 +56,7 @@ function render(){
  $('weekday').textContent=new Date(selectedDate+'T12:00:00+08:00').toLocaleDateString('zh-CN',{weekday:'long',timeZone:'Asia/Shanghai'});
  $('issueMonth').textContent=selectedDate.slice(5).replace('-','.');$('issueYear').textContent=selectedDate.slice(0,4)+' 年 · 第 '+String(Math.max(1,dates.indexOf(selectedDate)+1)).padStart(3,'0')+' 期';
  $('previousDay').disabled=!dates.some(d=>d<selectedDate);$('nextDay').disabled=!dates.some(d=>d>selectedDate);
- $('articleCount').textContent=`${items.length} 条资讯 · ${new Set(items.map(a=>a.source)).size} 个来源`;
+
  $('categories').innerHTML=CATEGORIES.map(c=>`<button data-category="${c}" class="${category===c?'active':''}" aria-pressed="${category===c}">${categoryLabel(c)}<small>${c==='全部'?issue.length:issue.filter(a=>a.category===c).length}</small></button>`).join('');
  $('sortHot').classList.toggle('selected',sort==='hot');$('sortNew').classList.toggle('selected',sort==='new');$('sortHot').setAttribute('aria-pressed',sort==='hot');$('sortNew').setAttribute('aria-pressed',sort==='new');
  if(!items.length){$('news').innerHTML=`<div class="empty-state"><span class="eyebrow">给好奇心一点留白</span><h2>${currentIssue()?'这一期，暂时没有这个领域的资讯。':'这一天还没有日报。'}</h2><p>只收录已采集的内容。可以切换设计领域，或回到最近一期。</p><button id="resetFilters">查看最近一期 · 全部设计</button></div>`;$('resetFilters').onclick=()=>{category='全部';selectedDate=dates.at(-1);limit=11;render()};$('loadMoreStatus').hidden=true;return}
@@ -96,25 +96,6 @@ loadObserver.observe($('loadMoreStatus'));
 
 function changeDate(value){selectedDate=value;limit=11;activeArticle=null;showListing();render();syncListURL()}
 function archives(){showInfo('每一天，都值得翻阅。',`<p>按采集日期归档，文章卡片保留原始发布日期。</p>${[...data.issues].sort((a,b)=>b.date.localeCompare(a.date)).map(i=>`<button class="archive-day" data-date="${i.date}">${fmtDate(i.date)}<span>${i.articleIds.length} 条资讯 ↗</span></button>`).join('')}`)}
-function sources(scope=null){
- const catalog=data.sourceCatalog||data.sources;
- const cats=scope&&scope!=='全部'?[scope]:CATEGORIES.filter(c=>c!=='全部');
- const issued=issueArticles().filter(a=>!scope||scope==='全部'||a.category===scope);
- const names=new Set(issued.map(a=>a.source));
- const count=catalog.filter(s=>!scope||scope==='全部'||(s.categories||[s.category]).includes(scope)).length;
- const supplements=[...new Map(issued.filter(a=>!catalog.some(s=>s.name===a.source)).map(a=>[a.source,a])).values()];
- const extra=supplements.length?'<section class="source-group"><h3>本期补充来源</h3><ul class="source-list">'+supplements.map(a=>`<li class="source-row"><a href="${safeURL(a.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(sourceName(a.source))} ↗</a><small>人工核实原文</small></li>`).join('')+'</ul></section>':'';
- const groups=cats.map(c=>{
-  const list=catalog.filter(s=>(s.categories||[s.category]).includes(c));
-  return `<section class="source-group"><h3>${escapeHTML(categoryLabel(c))}<small>${list.length} 个来源</small></h3><ul class="source-list">${list.map(s=>{
-   const status=data.sources.find(x=>x.name===s.name);
-   const note=s.mode==='curated'?'网页精选来源':status?.ok?'订阅采集正常':'订阅源 · 待下次采集验证';
-   return `<li class="source-row"><a href="${safeURL(s.homepage||s.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(s.label)} ↗</a><small>${names.has(s.name)?'本期有收录 · ':''}${note}</small></li>`;
-  }).join('')}</ul></section>`;
- }).join('');
- showInfo(scope&&scope!=='全部'?categoryLabel(scope)+' · 资讯来源':'全部资讯来源',`<p>共 ${count} 个来源。跨领域媒体会列在多个分类中，总数按来源去重。${scope?'本期实际收录 '+names.size+' 个来源。':''}</p>${groups}${extra}<p>插画、包装归入视觉设计；室内、展示归入空间设计。来源目录不等于本期收录数量；文章保留原文入口。</p>`);
-}
-
 $('closeDialog').onclick=()=>$('infoDialog').close();$('infoDialog').addEventListener('click',e=>{if(e.target===$('infoDialog')){const b=e.target.getBoundingClientRect();if(e.clientX<b.left||e.clientX>b.right||e.clientY<b.top||e.clientY>b.bottom)e.target.close()}});
 $('dialogBody').addEventListener('click',e=>{const b=e.target.closest('[data-date]');if(b){changeDate(b.dataset.date);$('infoDialog').close()}});
 $('categories').addEventListener('click',e=>{const b=e.target.closest('[data-category]');if(b){category=b.dataset.category;limit=11;render();syncListURL()}});
@@ -122,9 +103,9 @@ $('datePicker').onchange=e=>{if(e.target.value)changeDate(e.target.value)};
 $('previousDay').onclick=()=>{const d=data.issues.map(i=>i.date).filter(d=>d<selectedDate).sort().at(-1);if(d)changeDate(d)};
 $('nextDay').onclick=()=>{const d=data.issues.map(i=>i.date).filter(d=>d>selectedDate).sort()[0];if(d)changeDate(d)};
 $('sortHot').onclick=()=>{sort='hot';render();syncListURL()};$('sortNew').onclick=()=>{sort='new';render();syncListURL()};
-$('todayButton').onclick=()=>{category='全部';changeDate(data.issues.map(i=>i.date).sort().at(-1))};$('archiveButton').onclick=archives;$('sourcesButton').onclick=()=>sources();$('articleCount').onclick=()=>sources(category);
+$('todayButton').onclick=()=>{category='全部';changeDate(data.issues.map(i=>i.date).sort().at(-1))};$('archiveButton').onclick=archives;
 $('aboutButton').onclick=()=>showInfo('设计，每天发生。','<p>象素之间 是一份跨领域的设计资讯日报。从工业产品到交互界面，从动态影像到家具与出行，每天整理设计的新动向。</p><p>首页浏览简介，详情页阅读中文整理与设计解读，也可前往原文深入了解。日报按采集日期归档，各条资讯标注原始发布日期。</p><p>人工智能设计栏目收录人工智能工具、生成式创作与相关设计实践。动效关注交互与界面运动，动态设计关注影像、动画与视觉叙事。</p><p>编辑关注指数满分 100 分：时效 20 分按原始发布日衰减（本站另有专门的「按时间」排序，所以这里只留五分之一，避免重复同一个维度），媒体 25 分来自正文配图与已核实视频，完整度 25 分来自是否通读原文与中文整理篇幅，来源 30 分按编辑核实程度同比计官方 30／专业媒体 24／社区平台 15。七期实测下来，两种排序首屏平均只有约四成卡片重合（旧公式是八成，其中一期完全相同）。本站不采集阅读量与点赞，指数只代表编辑关注程度。</p>');
-async function start(){try{const r=await fetch('./data.json',{cache:'no-cache'});if(!r.ok)throw Error('HTTP '+r.status);data=await r.json();if(!data.issues?.length)throw Error('No editions');const params=new URLSearchParams(location.search);selectedDate=params.get('date')||data.issues.map(i=>i.date).sort().at(-1);if(!/^\d{4}-\d{2}-\d{2}$/.test(selectedDate))selectedDate=data.issues.map(i=>i.date).sort().at(-1);category=CATEGORIES.includes(params.get('category'))?params.get('category'):'全部';sort=params.get('sort')==='new'?'new':'hot';$('scheduleNote').textContent=data.schedule?.active?'每天 09:00（北京时间）更新':'每日简报计划：北京时间 09:00，推送尚未启用。';render();if(params.get('article'))openArticle(params.get('article'),false)}catch(e){$('news').innerHTML='<div class="empty-state"><h2>日报暂时没有展开。</h2><p>资讯读取失败，请稍后重试。</p><button id="retry">重新加载</button></div>';$('retry').onclick=start;$('articleCount').textContent='连接暂时中断'}}
+async function start(){try{const r=await fetch('./data.json',{cache:'no-cache'});if(!r.ok)throw Error('HTTP '+r.status);data=await r.json();if(!data.issues?.length)throw Error('No editions');const params=new URLSearchParams(location.search);selectedDate=params.get('date')||data.issues.map(i=>i.date).sort().at(-1);if(!/^\d{4}-\d{2}-\d{2}$/.test(selectedDate))selectedDate=data.issues.map(i=>i.date).sort().at(-1);category=CATEGORIES.includes(params.get('category'))?params.get('category'):'全部';sort=params.get('sort')==='new'?'new':'hot';$('scheduleNote').textContent=data.schedule?.active?'每天 09:00（北京时间）更新':'每日简报计划：北京时间 09:00，推送尚未启用。';render();if(params.get('article'))openArticle(params.get('article'),false)}catch(e){$('news').innerHTML='<div class="empty-state"><h2>日报暂时没有展开。</h2><p>资讯读取失败，请稍后重试。</p><button id="retry">重新加载</button></div>';$('retry').onclick=start}}
 
 function listURL(){const p=new URLSearchParams({date:selectedDate,category,sort});return '?'+p.toString()}
 function syncListURL(){if(!activeArticle)history.replaceState(null,'',listURL())}
