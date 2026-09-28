@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T09:01:27.990332+08:00",
+  "updatedAt": "2026-09-28T09:01:06.800391+08:00",
   "sources": [
     {
       "name": "Dezeen",
@@ -8,7 +8,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-09-26T17:00:07+00:00"
+      "latestPublishedAt": "2026-09-27T09:00:45+00:00"
     },
     {
       "name": "designboom",
@@ -17,7 +17,7 @@
       "category": "空间设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-09-26T20:35:55+00:00"
+      "latestPublishedAt": "2026-09-27T21:15:10+00:00"
     },
     {
       "name": "Yanko Design",
@@ -25,8 +25,8 @@
       "url": "https://www.yankodesign.com/feed/",
       "category": "工业设计",
       "ok": true,
-      "count": 10,
-      "latestPublishedAt": "2026-09-26T23:30:47+00:00"
+      "count": 16,
+      "latestPublishedAt": "2026-09-27T23:30:43+00:00"
     },
     {
       "name": "Smashing Magazine",
@@ -71,7 +71,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 25,
-      "latestPublishedAt": "2026-09-26T16:00:00+00:00"
+      "latestPublishedAt": "2026-09-27T12:00:00+00:00"
     },
     {
       "name": "UX Collective",
@@ -80,7 +80,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-09-25T21:51:14+00:00"
+      "latestPublishedAt": "2026-09-27T19:38:02+00:00"
     },
     {
       "name": "UX Planet",
@@ -143,7 +143,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 6,
-      "latestPublishedAt": "2026-09-25T14:46:40+00:00"
+      "latestPublishedAt": "2026-09-27T20:40:04+00:00"
     },
     {
       "name": "Art of VFX",
@@ -307,7 +307,7 @@
       "category": "建筑设计",
       "ok": true,
       "count": 24,
-      "latestPublishedAt": "2026-09-26T13:00:00+00:00"
+      "latestPublishedAt": "2026-09-27T17:00:00+00:00"
     },
     {
       "name": "Wallpaper",
@@ -316,7 +316,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-09-26T09:00:00+00:00"
+      "latestPublishedAt": "2026-09-27T09:42:30+00:00"
     },
     {
       "name": "Its Nice That",
@@ -346,11 +346,11 @@
     {
       "name": "PRINT",
       "label": "印刷与视觉设计杂志",
-      "url": "https://www.printmag.com/feed/",
       "category": "视觉设计",
-      "ok": true,
-      "count": 40,
-      "latestPublishedAt": "2026-09-25T16:46:42+00:00"
+      "url": "https://www.printmag.com/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "name": "Brand New",
@@ -433,7 +433,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 36,
-      "latestPublishedAt": "2026-09-26T21:00:06+00:00"
+      "latestPublishedAt": "2026-09-27T09:00:08+00:00"
     },
     {
       "name": "Figma",
@@ -625,6 +625,1496 @@
   ],
   "articles": [
     {
+      "id": "9c281e91721d8c8e",
+      "url": "https://www.yankodesign.com/2026/09/27/7-reasons-non-artists-need-a-drawing-pad-on-their-desk/",
+      "title": "7 Reasons Non-Artists Need a Drawing Pad on Their Desk",
+      "summary": "7 Reasons Non-Artists Need a Drawing Pad on Their Desk I’ve established in my previous articles that I’m not an artist and can only draw stick figures, or maybe follow paint-by-numbers-style sketches. That hasn’t",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/7-reasons-non-artists-need-a-drawing-pad-on-their-desk/Ito-Bindery-Yanko-Design-Drawing-Pad-1_1512x.jpg",
+      "publishedAt": "2026-09-27T23:30:43+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "score": 61.7,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/7-reasons-non-artists-need-a-drawing-pad-on-their-desk/Ito-Bindery-Yanko-Design-Drawing-Pad-1_1512x-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/7-reasons-non-artists-need-a-drawing-pad-on-their-desk/Ito-Bindery-Yanko-Design-Drawing-Pad-3_1512x-960x960.webp"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/7-reasons-non-artists-need-a-drawing-pad-on-their-desk/itobinderydrawingpada6todolist_1512x-960x960.webp"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/7-reasons-non-artists-need-a-drawing-pad-on-their-desk/itobinderydrawingpada6ontable_1512x-960x960.webp"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/7-reasons-non-artists-need-a-drawing-pad-on-their-desk/itobinderydrawingpadpackaging_1512x-960x960.webp"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/7-reasons-non-artists-need-a-drawing-pad-on-their-desk/Ito-Bindery-Yanko-Design-Drawing-Pad-4_1512x-960x960.webp"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/7-reasons-non-artists-need-a-drawing-pad-on-their-desk/itobinderydrawingpadcloseupofheader_1512x-960x960.webp"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/7-reasons-non-artists-need-a-drawing-pad-on-their-desk/Ito-Bindery-Yanko-Design-Drawing-Pad-5_1512x-960x960.webp"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/standard-earplugs-dig-in-or-fall-out-ears-360-silence-does-neither/Ears-360-Silence-_-The-Earplug-That-Disappears-in-Your-Ear-hero-1.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/fall-camping-gadgets-that-actually-earn-their-pack-weight-in-2026/9_best_fall_camping_gadgets_yanko_design_hero.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/reach-is-a-modular-gps-sports-computer-built-to-snap-into-any-sport/REACH-Worlds-First-Modular-Multi-Sport-GPS-Computer-hero.jpg"
+        }
+      ],
+      "titleZh": "绘图板如何成为非专业创作者的桌面工具",
+      "summaryZh": "文章从非专业绘画者的使用经验讨论桌面绘图板，关注实体绘画工具如何降低开始创作的门槛。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "文章从非专业绘画者的使用经验讨论桌面绘图板，关注实体绘画工具如何降低开始创作的门槛。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 8.7,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "e50a510c20b237e1",
+      "url": "https://www.yankodesign.com/2026/09/27/this-tokyo-furniture-showroom-vanished-into-a-traditional-japanese-inn/",
+      "title": "This Tokyo Furniture Showroom Vanished Into a Traditional Japanese Inn",
+      "summary": "This Tokyo Furniture Showroom Vanished Into a Traditional Japanese Inn A noren hangs at the entrance of Karimoku Commons Tokyo. Step past it and the showroom disappears, replaced by something closer to memory: the",
+      "source": "Yanko Design",
+      "category": "空间设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/oyado-mas/oyado_mas_yanko_design_01.jpg",
+      "publishedAt": "2026-09-27T22:40:52+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "score": 61.7,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/oyado-mas/oyado_mas_yanko_design_01-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/oyado-mas/ayado_mas_yanko_design_04-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/oyado-mas/oyado_mas_yanko_design_02-481x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/oyado-mas/oyado_mas_yanko_design_03-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/oyado-mas/oyado_mas_yanko_design_05-457x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/oyado-mas/oyado_mas_yanko_design_06-457x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/oyado-mas/oyado_mas_yanko_design_07-457x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/oyado-mas/oyado_mas_yanko_design_08-457x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/oyado-mas/oyado_mas_yanko_design_09-457x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/oyado-mas/oyado_mas_yanko_design_10-457x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/san_francisco_street_1.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/druim-extension/druim_extension_yanko_design_01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-frame-bunkhouse/a_frame_bunkhouse_yanko_design_01.jpg"
+        }
+      ],
+      "titleZh": "东京家具展厅把现代家具藏进传统旅馆体验",
+      "summaryZh": "卡里木库东京共享空间 以日式门帘和旅馆氛围重组家具展厅，让参观动线更接近日常空间体验。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "卡里木库东京共享空间 以日式门帘和旅馆氛围重组家具展厅，让参观动线更接近日常空间体验。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 8.7,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "2f154db3ddfdc6b7",
+      "url": "https://www.designboom.com/architecture/planted-roof-concrete-casa-cieno-tac-taller-alberto-calleja-oaxacan-coast/",
+      "title": "planted roof connects concrete casa cieno by TAC to oaxacan coast",
+      "summary": "the residence’s rectangular volume frames a central courtyard around the",
+      "source": "designboom",
+      "category": "建筑设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/461020/2026-09-18/casa-cieno-by-tac-an-inward-facing-retreat-on-the-coast-of-oaxaca-12-6aad6f9f79d97.jpg",
+      "publishedAt": "2026-09-27T21:15:10+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "score": 61.7,
+      "images": [
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/461020/2026-09-18/casa-cieno-by-tac-an-inward-facing-retreat-on-the-coast-of-oaxaca-12-6aad6f9f79d97.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/461020/2026-09-18/casa-cieno-by-tac-an-inward-facing-retreat-on-the-coast-of-oaxaca-2-6aad6f9f79ae9.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/dbsub/461020/2026-09-18/casa-cieno-by-tac-an-inward-facing-retreat-on-the-coast-of-oaxaca-4-6aad6f9f79b6c.jpg"
+        }
+      ],
+      "titleZh": "植被屋顶把海岸住宅与瓦哈卡地景连接起来",
+      "summaryZh": "西耶诺之家 以矩形体量围绕中央庭院组织住宅，并通过种植屋顶回应墨西哥瓦哈卡海岸环境。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "西耶诺之家 以矩形体量围绕中央庭院组织住宅，并通过种植屋顶回应墨西哥瓦哈卡海岸环境。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 9.0,
+        "completeness": 8.7,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "54bfbd23dfe6e72b",
+      "url": "https://www.yankodesign.com/2026/09/27/san-franciscos-most-iconic-buildings-are-now-a-4200-brick-lego-diorama/",
+      "title": "San Francisco’s most iconic buildings are now a 4,200 brick LEGO diorama",
+      "summary": "San Francisco’s most iconic buildings are now a 4,200 brick LEGO diorama Every city has one view that ends up on the fridge magnets, and San Francisco settled that argument a long time ago. It’s the",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/san_francisco_street_1.jpeg",
+      "publishedAt": "2026-09-27T20:45:01+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "score": 61.7,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/san_francisco_street_1-774x580.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/san_francisco_street_2-774x580.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/san_francisco_street_3-774x580.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/san_francisco_street_4-773x580.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/san_francisco_street_5-774x580.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/san_francisco_street_6-774x580.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/san_francisco_street_7-774x580.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/san_francisco_street_8-774x580.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/san_francisco_street_9-774x580.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/oyado-mas/oyado_mas_yanko_design_01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/druim-extension/druim_extension_yanko_design_01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-frame-bunkhouse/a_frame_bunkhouse_yanko_design_01.jpg"
+        }
+      ],
+      "titleZh": "四千二百块积木搭出旧金山城市微缩景观",
+      "summaryZh": "一件城市微缩作品用约四千二百块积木重现旧金山标志性建筑，借模块化积木呈现城市轮廓。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "一件城市微缩作品用约四千二百块积木重现旧金山标志性建筑，借模块化积木呈现城市轮廓。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 8.7,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "7ae945176526db5b",
+      "url": "https://www.stashmedia.tv/aim-creative-adds-fuel-to-ubcs-biotech-boom/",
+      "title": "AIM Creative Adds Fuel to UBC’s Biotech Boom",
+      "summary": "Following up on their launch film for the University of British Columbia’s Push Forward campaign, AIM Creative re-teams with agency ONE23WEST to showcase the school's innovations at the forefront of biotech.",
+      "source": "Stash",
+      "category": "动态设计",
+      "image": "https://i.vimeocdn.com/video/2203250232-ba29f081f1edbe9a7d4550e0726d3328587f9f9f59e83e7d5b23bd29cd1de6b4-d_1280?region=us",
+      "publishedAt": "2026-09-27T20:40:04+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "score": 77.7,
+      "images": [
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/UBC-Biotech-Boom-video-by-AIM-Creative-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/UBC-Biotech-Boom-video-by-AIM-Creative-STASH-MAGAZINE3-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/UBC-Biotech-Boom-video-by-AIM-Creative-STASH-MAGAZINE5-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/UBC-Biotech-Boom-video-by-AIM-Creative-STASH-MAGAZINE2-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/UBC-Biotech-Boom-video-by-AIM-Creative-STASH-MAGAZINE4-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/SP-headshot-interior-640x640.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Blinkink-Signs-Australian-Director-Radheya-Jang-for-Worldwide-Representation-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Christopher-Rutledge-joins-Hornet-Roster-_-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Monumental-VFX-Expands-to-New-York-with-Modern-Post-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Blinkink-to-Represent-Director-Lea-Esmaili-in-the-US-Market-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Joseph-Mann-Signs-with-Caviar-for-US-Commercial-Representation-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Caviar-sign-Nicolas-Mendez-for-French-representation-_-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Nexus-signs-director-Devon-Crane-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Little-Bird-Signs-CARAVAN-Signs-for-East-Coast-Representation-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Make-Animation-Thesis-Grant-2026-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Director-Liam-Archibald-Signs-to-Blinkink-Roster-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Jonny-Tully-Colorist-Electric-Theatre-Collective-_-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/FutureDeluxe-Appoints-Mercedes-Perez-Bode-as-First-Business-Director-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Lux-Aeterna-appoints-Richard-Stay-as-Compositing-Supervisor-_-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Heckler-Singapore-Managing-Director-Jonathan-Gerard-STASH-MAGAZINE2-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/DAD-AI-REPORT-2026-STASH-MAGAZINE-300x169.jpg"
+        }
+      ],
+      "video": {
+        "provider": "vimeo",
+        "id": "1228751386",
+        "url": "https://player.vimeo.com/video/1228751386",
+        "thumbnail": "https://i.vimeocdn.com/video/2203250232-ba29f081f1edbe9a7d4550e0726d3328587f9f9f59e83e7d5b23bd29cd1de6b4-d_1280?region=us",
+        "title": "University of British Columbia | Biotech Boom",
+        "author": "AIM Creative Studios",
+        "duration": 30,
+        "verifiedAt": "2026-09-28T01:04:16+00:00"
+      },
+      "videoGallery": [
+        "https://i.vimeocdn.com/video/2203250232-ba29f081f1edbe9a7d4550e0726d3328587f9f9f59e83e7d5b23bd29cd1de6b4-d_1280?region=us"
+      ],
+      "titleZh": "动态影像呈现不列颠哥伦比亚大学生物科技研究",
+      "summaryZh": "艾姆创意 为不列颠哥伦比亚大学制作宣传影片，以动态影像呈现其生物科技研究与创新项目。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "艾姆创意 为不列颠哥伦比亚大学制作宣传影片，以动态影像呈现其生物科技研究与创新项目。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 25.0,
+        "completeness": 8.7,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "107f858e9b9ba2a0",
+      "url": "https://www.designboom.com/technology/meadow-shrinks-smartphone-essential-apps/",
+      "title": "forget doomscrolling: meadow shrinks the smartphone down to only the most essential apps",
+      "summary": "meadow packs maps, music and messaging into a three-inch phone designed for leaving the smartphone",
+      "source": "designboom",
+      "category": "工业设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/09/meadow-smartphone-essentials-designboom-02-1.jpg",
+      "publishedAt": "2026-09-27T20:35:04+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "score": 67.8,
+      "images": [
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/meadow-smartphone-essentials-designboom-02-1-768x614.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/meadow-smartphone-essentials-designboom-01-768x614.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/meadow-smartphone-essentials-designboom-03-768x768.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/meadow-smartphone-essentials-designboom-04-768x672.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/meadow-smartphone-essentials-designboom-05-768x614.jpg"
+        }
+      ],
+      "titleZh": "草甸 极简手机只保留地图、音乐与通讯",
+      "summaryZh": "草甸 概念手机将屏幕缩至三英寸，并聚焦地图、音乐和消息等基本功能，尝试减少智能手机带来的持续干扰。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "草甸 概念手机将屏幕缩至三英寸，并聚焦地图、音乐和消息等基本功能，尝试减少智能手机带来的持续干扰。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 15.0,
+        "completeness": 8.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "42ca01ee72c770d6",
+      "url": "https://www.stashmedia.tv/dog-rabbit-nail-the-socials-for-dog-judo-series/",
+      "title": "Dog & Rabbit Nail The Socials for Dog Judo Series",
+      "summary": "New projects from London's Dog & Rabbit are always a fun trip into eccentric hand-made irreverence (see here and here ) and this new episode of their cult hit Dog Judo is certainly no exception.",
+      "source": "Stash",
+      "category": "动态设计",
+      "image": "https://i.vimeocdn.com/video/2201474277-0ceba11f5f04a2d388531a2bb5ed221f1f1f3fb0a784803a9a337e19b3efc771-d_1280?region=us",
+      "publishedAt": "2026-09-27T19:55:13+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "score": 77.8,
+      "images": [
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Dog-Rabbit-Nail-The-Socials-for-Dog-Judo-Series-STASH-MAGAZINE5-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Dog-Rabbit-Nail-The-Socials-for-Dog-Judo-Series-STASH-MAGAZINE3-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Dog-Rabbit-Nail-The-Socials-for-Dog-Judo-Series-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Dog-Rabbit-Nail-The-Socials-for-Dog-Judo-Series-STASH-MAGAZINE2-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Dog-Rabbit-Nail-The-Socials-for-Dog-Judo-Series-STASH-MAGAZINE7-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/SP-headshot-interior-640x640.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Blinkink-Signs-Australian-Director-Radheya-Jang-for-Worldwide-Representation-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Christopher-Rutledge-joins-Hornet-Roster-_-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Monumental-VFX-Expands-to-New-York-with-Modern-Post-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Blinkink-to-Represent-Director-Lea-Esmaili-in-the-US-Market-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Joseph-Mann-Signs-with-Caviar-for-US-Commercial-Representation-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Caviar-sign-Nicolas-Mendez-for-French-representation-_-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Nexus-signs-director-Devon-Crane-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Little-Bird-Signs-CARAVAN-Signs-for-East-Coast-Representation-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Make-Animation-Thesis-Grant-2026-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Director-Liam-Archibald-Signs-to-Blinkink-Roster-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Jonny-Tully-Colorist-Electric-Theatre-Collective-_-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/FutureDeluxe-Appoints-Mercedes-Perez-Bode-as-First-Business-Director-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Lux-Aeterna-appoints-Richard-Stay-as-Compositing-Supervisor-_-STASH-MAGAZINE-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Heckler-Singapore-Managing-Director-Jonathan-Gerard-STASH-MAGAZINE2-300x169.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/DAD-AI-REPORT-2026-STASH-MAGAZINE-300x169.jpg"
+        }
+      ],
+      "video": {
+        "provider": "vimeo",
+        "id": "1227290777",
+        "url": "https://player.vimeo.com/video/1227290777",
+        "thumbnail": "https://i.vimeocdn.com/video/2201474277-0ceba11f5f04a2d388531a2bb5ed221f1f1f3fb0a784803a9a337e19b3efc771-d_1280?region=us",
+        "title": "Dog Judo Wins Social Media. The All New Dog Judo Show Ep. 2",
+        "author": "Dog & Rabbit",
+        "duration": 364,
+        "verifiedAt": "2026-09-28T01:04:16+00:00"
+      },
+      "videoGallery": [
+        "https://i.vimeocdn.com/video/2201474277-0ceba11f5f04a2d388531a2bb5ed221f1f1f3fb0a784803a9a337e19b3efc771-d_1280?region=us"
+      ],
+      "titleZh": "手作动画短片延续《狗狗柔道》的古怪喜剧风格",
+      "summaryZh": "伦敦动画团队 狗与兔工作室 为系列作品《狗狗柔道》制作新一集，以手作质感和夸张动作延续其荒诞幽默。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "伦敦动画团队 狗与兔工作室 为系列作品《狗狗柔道》制作新一集，以手作质感和夸张动作延续其荒诞幽默。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 25.0,
+        "completeness": 8.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "3a7504ff9f5693ea",
+      "url": "https://uxdesign.cc/how-we-save-entry-level-ux-work-that-teaches-craft-in-the-time-of-ai-our-field-depends-on-this-e1684a0d67eb",
+      "title": "How we save entry-level UX work that teaches craft in the time of AI. Our field depends on this.",
+      "summary": "The craft was learned at this table, one marked-up screen at a time. AI assisted, Automation is taking tasks juniors learned on. Here are seven tasks that put the practice back so we keep human element of user experience and build the bench for 2030. Many teams I know have stopped assigning transcript tagging because now AI…",
+      "source": "UX Collective",
+      "category": "用户体验设计",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*jEoYbMBhs4xVSaPrjdi6Tg.png",
+      "publishedAt": "2026-09-27T19:38:02+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "score": 46.9,
+      "titleZh": "人工智能时代如何保留初级体验设计师的练习机会",
+      "summaryZh": "文章提出体验设计行业需要重新设计初级岗位的学习任务，让从业者继续通过界面标注、方案比较等实践积累设计判断。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "文章提出体验设计行业需要重新设计初级岗位的学习任务，让从业者继续通过界面标注、方案比较等实践积累设计判断。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 8.9,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "8d7a6fd4d78e3555",
+      "url": "https://www.yankodesign.com/2026/09/27/this-walnut-console-has-faders-that-move-themselves-to-match-your-lights/",
+      "title": "This Walnut Console Has Faders That Move Themselves to Match Your Lights",
+      "summary": "This Walnut Console Has Faders That Move Themselves to Match Your Lights Smart home hardware has a quiet, persistent problem nobody bothers fixing: physical switches and sliders forget the truth the moment someone changes a light",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/this-walnut-console-has-faders-that-move-themselves-to-match-your-lights/physical-console-smart-lights-05.jpg",
+      "publishedAt": "2026-09-27T19:15:44+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "score": 68.8,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/this-walnut-console-has-faders-that-move-themselves-to-match-your-lights/physical-console-smart-lights-05-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/this-walnut-console-has-faders-that-move-themselves-to-match-your-lights/physical-console-smart-lights-06-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/this-walnut-console-has-faders-that-move-themselves-to-match-your-lights/physical-console-smart-lights-01-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/this-walnut-console-has-faders-that-move-themselves-to-match-your-lights/physical-console-smart-lights-02-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/this-walnut-console-has-faders-that-move-themselves-to-match-your-lights/physical-console-smart-lights-03-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/this-walnut-console-has-faders-that-move-themselves-to-match-your-lights/physical-console-smart-lights-04-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/this-walnut-console-has-faders-that-move-themselves-to-match-your-lights/physical-console-smart-lights-07-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/this-walnut-console-has-faders-that-move-themselves-to-match-your-lights/physical-console-smart-lights-08-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/this-walnut-console-has-faders-that-move-themselves-to-match-your-lights/physical-console-smart-lights-09-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-wolverine-dualsense-controller-so-feral-it-makes-the-actual-game-look-tame/wolverine_ps5_dualsense_controller_0.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/diy-airpower-desk-charges-your-phone-anywhere-on-its-glass-top-also-reminds-you-to-drink-water/DIY-AirDesk-powers-your-smartphone-reminds-you-to-drink-water-10.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/charging-pads-save-your-phone-bionics-also-clears-your-counter/bionic-valet-charger-01.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "P0wlPy0ad0s",
+        "url": "https://www.youtube.com/embed/P0wlPy0ad0s",
+        "thumbnail": "https://i.ytimg.com/vi/P0wlPy0ad0s/hqdefault.jpg",
+        "title": "I built a physical console for my smart lights (motorized faders)",
+        "author": "Sacrebleu Studio",
+        "duration": 0,
+        "verifiedAt": "2026-09-28T01:04:16+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/P0wlPy0ad0s/hqdefault.jpg"
+      ],
+      "titleZh": "木质智能家居控制台让实体滑杆同步灯光状态",
+      "summaryZh": "这款胡桃木控制台尝试让实体滑杆随智能灯光状态变化，解决实体开关与数字设备状态不同步的问题。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "这款胡桃木控制台尝试让实体滑杆随智能灯光状态变化，解决实体开关与数字设备状态不同步的问题。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 25.0,
+        "completeness": 8.8,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "8693fea08a83421b",
+      "url": "https://www.archdaily.com/1185824/jordnara-cafe-and-phomi-showroom-ady-putra-architect-design-firm",
+      "title": "Jordnära Cafe & PHOMI Showroom / Ady Putra Architect Design Firm",
+      "summary": "Located in the heart of Pantai Indah Kapuk, Jordnära Cafe is designed as a calm and welcoming space where people can pause, connect, and unwind. Created by Ady Putra Architect, the project transforms two existing shophouses into a layered spatial experience where light, tactility, and material connection define the rhythm of…",
+      "source": "ArchDaily",
+      "category": "空间设计",
+      "image": null,
+      "publishedAt": "2026-09-27T17:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "score": 70.8,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/812a/24f6/1700/013b/f38d/newsletter/IMG_9262.jpg?1790345574"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/812b/24f6/1700/013b/f399/thumb_jpg/11.jpg?1790345676"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/812b/24f6/1700/013b/f39b/thumb_jpg/13.jpg?1790345592"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/812a/24f6/1700/013b/f391/thumb_jpg/2.jpg?1790345582"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/812b/24f6/1700/013b/f397/thumb_jpg/9.jpg?1790345655"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/812b/24f6/1700/013b/f397/newsletter/9.jpg?1790345655"
+        }
+      ],
+      "titleZh": "咖啡馆与材料展厅改造雅加达两处店屋",
+      "summaryZh": "建筑师阿迪·普特拉将两处既有店屋改为咖啡馆与材料展厅，以安静、开放的空间回应印尼雅加达北部社区场所。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "建筑师阿迪·普特拉将两处既有店屋改为咖啡馆与材料展厅，以安静、开放的空间回应印尼雅加达北部社区场所。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 8.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "3b5dac3987ba852f",
+      "url": "https://www.archdaily.com/1185872/office-101-casa-andina-caliza-arquitectura",
+      "title": "Office 101 Casa Andina / Caliza Arquitectura",
+      "summary": "The intervention is located in the Laureles neighborhood of Medellín , inside a structure representative of the area's traditional residential architecture. In response to new urban dynamics, the building was adapted over time to host other uses—first a printing press and currently a coworking space for architecture firms. The…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-27T16:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-28",
+      "score": 70.8,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ab1/88d8/c765/2000/0134/71c2/newsletter/15_OFICINA_A101_ALEJANDRO_ARANGO.jpg?1790019886"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab1/88d7/c765/2000/0134/71b9/thumb_jpg/03_OFICINA_A101_MARIANA_V_LEZ.jpg?1790019829"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab1/88d8/c765/2000/0134/71c8/thumb_jpg/05_OFICINA_A101_ALEJANDRO_ARANGO.jpg?1790019974"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab1/88d8/c765/2000/0134/71c0/thumb_jpg/13_OFICINA_A101_ALEJANDRO_ARANGO.jpg?1790019850"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab1/88d8/c765/2000/0134/71c1/thumb_jpg/14_OFICINA_A101_ALEJANDRO_ARANGO.jpg?1790019843"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab1/88d8/c765/2000/0134/71c8/newsletter/05_OFICINA_A101_ALEJANDRO_ARANGO.jpg?1790019974"
+        }
+      ],
+      "titleZh": "麦德林旧住宅建筑适应新的城市使用方式",
+      "summaryZh": "安第纳之家 位于麦德林传统住宅街区，设计团队对既有建筑进行适应性改造，以回应街区新的使用需求。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "安第纳之家 位于麦德林传统住宅街区，设计团队对既有建筑进行适应性改造，以回应街区新的使用需求。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 8.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "ed80c6afd04fd85d",
+      "url": "https://www.yankodesign.com/2026/09/27/a-reoriented-stair-and-a-glass-walled-dining-room-just-fixed-this-houses-worst-flaw/",
+      "title": "A Reoriented Stair and a Glass-Walled Dining Room Just Fixed This House’s Worst Flaw",
+      "summary": "A Reoriented Stair and a Glass-Walled Dining Room Just Fixed This House’s Worst Flaw When RX Architects first completed Druim in Sussex roughly seven years ago, the house faced outward, toward a nature reserve and the sea. That",
+      "source": "Yanko Design",
+      "category": "空间设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/druim-extension/druim_extension_yanko_design_01.jpg",
+      "publishedAt": "2026-09-27T13:20:42+00:00",
+      "date": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "score": 56.8,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/druim-extension/druim_extension_yanko_design_01-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/druim-extension/druim_extension_yanko_design_02-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/druim-extension/druim_extension_yanko_design_03-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/druim-extension/druim_extension_yanko_design_04-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/druim-extension/druim_extension_yanko_design_05-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/druim-extension/druim_extension_yanko_design_06-395x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/druim-extension/druim_extension_yanko_design_09-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/oyado-mas/oyado_mas_yanko_design_01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/auto-draft/san_francisco_street_1.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-frame-bunkhouse/a_frame_bunkhouse_yanko_design_01.jpg"
+        }
+      ],
+      "titleZh": "重新布置楼梯与玻璃餐厅改善住宅朝向",
+      "summaryZh": "英国住宅 德鲁姆住宅 重新调整楼梯并增设玻璃围合餐厅，让起居空间更好地面对周边自然保护地与景观。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "英国住宅 德鲁姆住宅 重新调整楼梯并增设玻璃围合餐厅，让起居空间更好地面对周边自然保护地与景观。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 8.8,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "1fc1cd48dbe0d504",
+      "url": "https://www.yankodesign.com/2026/09/27/the-aluminum-pen-that-actually-lets-you-see-what-youre-drawing/",
+      "title": "The Aluminum Pen That Actually Lets You See What You’re Drawing",
+      "summary": "The Aluminum Pen That Actually Lets You See What You’re Drawing Every designer who has ever sketched with a fat marker or a clumsy ballpoint knows the same small frustration. The barrel gets in the",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/the-aluminum-pen-that-actually-lets-you-see-what-youre-drawing/exclamation-pen-00.jpg",
+      "publishedAt": "2026-09-27T11:40:45+00:00",
+      "date": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "score": 56.8,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-aluminum-pen-that-actually-lets-you-see-what-youre-drawing/exclamation-pen-00-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-aluminum-pen-that-actually-lets-you-see-what-youre-drawing/exclamation-pen-01-464x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-aluminum-pen-that-actually-lets-you-see-what-youre-drawing/exclamation-pen-02-464x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-aluminum-pen-that-actually-lets-you-see-what-youre-drawing/exclamation-pen-05-464x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-aluminum-pen-that-actually-lets-you-see-what-youre-drawing/exclamation-pen-04-464x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-aluminum-pen-that-actually-lets-you-see-what-youre-drawing/exclamation-pen-06-464x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-aluminum-pen-that-actually-lets-you-see-what-youre-drawing/exclamation-pen-03-464x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/7-reasons-non-artists-need-a-drawing-pad-on-their-desk/Ito-Bindery-Yanko-Design-Drawing-Pad-1_1512x.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/cricuts-new-machine-actually-makes-custom-stickers-in-minutes/cricut-01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/an-1165-pencil-sharpener-that-refuses-to-stay-boring/caran-dache-00.jpg"
+        }
+      ],
+      "titleZh": "铝制绘图笔通过透明笔身改善落笔视野",
+      "summaryZh": "这款铝制绘图笔尝试通过笔身结构改善创作者观察笔尖和绘制轨迹的视野，回应粗笔杆遮挡视线的问题。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "这款铝制绘图笔尝试通过笔身结构改善创作者观察笔尖和绘制轨迹的视野，回应粗笔杆遮挡视线的问题。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 8.8,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "3d31f12f3542da3f",
+      "url": "https://www.creativebloq.com/professional-development/creative-careers/gary-a-lippincott-offers-a-tour-of-his-warm-and-inspiring-art-studio",
+      "title": "Gary A. Lippincott takes us on a tour of his inspiring home art studio",
+      "summary": "We find the renowned fantasy artist surrounded by an oddball cast of characters and shelves of reference books to inspire the",
+      "source": "Creative Bloq",
+      "category": "视觉设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/wbLSBMx9oqZubVP62QwzmA-1920-80.jpg",
+      "publishedAt": "2026-09-27T11:00:00+00:00",
+      "date": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "score": 65.8,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/wbLSBMx9oqZubVP62QwzmA-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/KPmYD2jPBDWcYEDN4hWp47-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/j9Wuav3rQVoFjnf6pVduq6-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/8eHhz9sL7SJjwbTV4VQhr6-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/LJaYsCLhaQsvPUWjq9gWH7-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/mmXgtisKpThrT5FaVs3WM8-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7y6gXNioKtN2EPC7gPbDc8-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2VAesVWMCVTrMcGdU3pbE9-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4CnTQHj5SBnv58kiz5HGN9-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/aHfGfw3Ltr34fuXa7eFqX9-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/SfR7H7p39sezgDx9hVLgD9-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ivXfjfZy78DfLX8vuu8eC8-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ghVpXgswLZud6k69hECGD9-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3NuwTGhsxKGugxNb7o9C88-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7U2hdcGUCJhHVqMbZdHGg6-320-80.jpg"
+        }
+      ],
+      "titleZh": "走进奇幻艺术家加里·利平科特的家庭工作室",
+      "summaryZh": "创作者工作室展示了奇幻艺术家加里·利平科特的绘画环境、参考资料和收藏，呈现个人视觉创作的日常工作条件。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "创作者工作室展示了奇幻艺术家加里·利平科特的绘画环境、参考资料和收藏，呈现个人视觉创作的日常工作条件。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 8.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "ed34b5bf17a25133",
+      "url": "https://www.archdaily.com/1185028/house-of-people-dinelljohansson",
+      "title": "House of People / DinellJohansson",
+      "summary": "Folkets Hus has been refurbished and restored with the care and attention it deserves. The original building architect was the excellent Kockum Luttinger Söderström. DinellJohansson won the competition for the interior design and sought to tread lightly, taking great care with Sven Markelius' masterful and wonderfully…",
+      "source": "ArchDaily",
+      "category": "空间设计",
+      "image": null,
+      "publishedAt": "2026-09-27T10:00:00+00:00",
+      "date": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "score": 65.8,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6aa7/c7f0/a74d/1200/0125/e127/newsletter/FOLKETS_HUS_8_Victor_Johansson.jpg?1789380647"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa7/c7f0/a74d/1200/0125/e12a/thumb_jpg/FOLKETS_HUS_14_Victor_Johansson.jpg?1789380677"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa7/c7ef/a74d/1200/0125/e11e/thumb_jpg/FOLKETS_HUS_13_Victor_Johansson.jpg?1789380611"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa7/c7f0/a74d/1200/0125/e12e/thumb_jpg/FOLKETS_HUS_18_Victor_Johansson.jpg?1789380741"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa7/c7ef/a74d/1200/0125/e123/thumb_jpg/FOLKETS_HUS_4_Victor_Johansson.jpg?1789380628"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aa7/c7f0/a74d/1200/0125/e12a/newsletter/FOLKETS_HUS_14_Victor_Johansson.jpg?1789380677"
+        }
+      ],
+      "titleZh": "瑞典人民之家修复后以室内设计延续公共记忆",
+      "summaryZh": "迪内尔·约翰松 对瑞典人民之家进行修复与室内更新，在保留原建筑特征的同时回应其社区公共空间用途。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "迪内尔·约翰松 对瑞典人民之家进行修复与室内更新，在保留原建筑特征的同时回应其社区公共空间用途。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 8.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "2e105f6385b3cc13",
+      "url": "https://www.dezeen.com/2026/09/27/buildings-dramatic-charred-timber-facades/",
+      "title": "Eight buildings with dramatic charred-timber facades",
+      "summary": "For our latest roundup, we've collected buildings clad in charred timber, including a dark-hued yoga retreat and a cabin \"shaped by fire\". Charred timber is used in projects across the world to create a dramatic, tactile exterior. The effect is sometimes made using a Japanese technique known as shou sugi ban. Here, we have…",
+      "source": "Dezeen",
+      "category": "建筑设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/copeland-road-gresford-architects-london-residential-architecture_dezeen_2364_sq-1704x1704-1-852x852.jpg",
+      "publishedAt": "2026-09-27T09:00:45+00:00",
+      "date": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "score": 50.8,
+      "titleZh": "八座建筑以炭化木外墙呈现不同的材料质感",
+      "summaryZh": "德泽恩 汇集八个采用炭化木饰面的建筑项目，展示这种处理方式如何形成深色、耐候且具有触感的建筑外观。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "德泽恩 汇集八个采用炭化木饰面的建筑项目，展示这种处理方式如何形成深色、耐候且具有触感的建筑外观。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 8.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "27fad50076df84a3",
+      "url": "https://www.creativebloq.com/design/we-have-the-kind-of-stuff-ai-wishes-it-could-make-why-trust-is-more-important-than-ever-for-the-nasa-brand",
+      "title": "\"We have the kind of stuff AI wishes it could make\": Why trust is more important than ever for the NASA brand",
+      "summary": "We talk to NASA creative director David Rager about the space agency's",
+      "source": "Creative Bloq",
+      "category": "人工智能设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/7U2hdcGUCJhHVqMbZdHGg6-1920-80.jpg",
+      "publishedAt": "2026-09-27T09:00:00+00:00",
+      "date": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "score": 57.0,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7U2hdcGUCJhHVqMbZdHGg6-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/m6HvK9EYCBeHa5GgR9y9yG-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7Kzwc4chMwguwHXbMzEVJi-320-80.jpg"
+        }
+      ],
+      "titleZh": "美国国家航空航天局 品牌负责人谈人工智能时代的创作信任",
+      "summaryZh": "美国国家航空航天局 创意负责人讨论机构品牌如何凭借真实的探索成果与创作经验建立信任，并回应人工智能生成内容带来的辨识挑战。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "美国国家航空航天局 创意负责人讨论机构品牌如何凭借真实的探索成果与创作经验建立信任，并回应人工智能生成内容带来的辨识挑战。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 9.0,
+        "completeness": 9.0,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "c7c42d706e545c03",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/spinocchia-freund-chalet",
+      "title": "This grand alpine residence designed by Spinocchia Freund has us excited for winter",
+      "summary": "This sprawling private home is a 30,000 sq ft winter wonderland with ski-in, ski-out access, plus a spa, cinema and bowling alley to boot. Take the",
+      "source": "Wallpaper",
+      "category": "空间设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/pzpojLtGdmYSP4LpbMBCLT-1920-80.jpg",
+      "publishedAt": "2026-09-27T08:00:00+00:00",
+      "date": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "score": 65.9,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/35tgpW3NgpcYi6ocyuzJ4T-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3XUNvkeFyCvrSMVvWGSp3T-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2sBrkKFi8sRjQGV3AV6vxR-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TNeNezi7nJQgiVRECw5A3S-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/k7JSCzthnkdmzQkY9BfUfS-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/QoDngeS73oAdqcvTDMJSTT-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rF5TEiR2oNGaNWGqnjA9LT-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Fg2PcvXCyiqi5buSKvfPKT-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/tVuJnNjbJzYZYwKjkRKJ4T-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/aCz8E2JjzBc3BF6xnKT2tS-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/SKsRPfa2TBPYHDLuGmuEsS-320-80.jpg"
+        }
+      ],
+      "titleZh": "阿尔卑斯山居把滑雪、休闲与娱乐设施纳入同一空间",
+      "summaryZh": "斯皮诺基亚·弗罗因德 设计的一处阿尔卑斯山私人住宅把滑雪出入、温泉、影院和保龄球等功能整合进大型度假居所。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "斯皮诺基亚·弗罗因德 设计的一处阿尔卑斯山私人住宅把滑雪出入、温泉、影院和保龄球等功能整合进大型度假居所。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 8.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "314d07bb1aef916a",
+      "url": "https://www.designboom.com/design/studio-panter-and-tourron-redefining-codes-luxury-design/",
+      "title": "studio panter&tourron on redefining the codes of luxury design",
+      "summary": "stefano panterotto and alexis tourron reveal how Swiss design, craftsmanship, and restraint shape their approach to",
+      "source": "designboom",
+      "category": "工业设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/09/panter-tourron-designboom-07.jpg",
+      "publishedAt": "2026-09-27T07:45:44+00:00",
+      "date": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "score": 66.0,
+      "images": [
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/panter-tourron-designboom-07-768x512.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/panter-tourron-designboom-02-768x960.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/panter-tourron-designboom-03-768x960.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/panter-tourron-designboom-01-768x590.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/panter-tourron-designboom-05-768x1151.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/09/panter-tourron-designboom-11-768x409.jpg"
+        }
+      ],
+      "titleZh": "潘特罗托 与 图龙 谈奢侈品设计中的工艺与克制",
+      "summaryZh": "设计师 斯特法诺·潘特罗托 与 亚历克西·图龙 分享他们对瑞士设计、手工技艺和克制表达的理解，以及这些原则如何塑造奢侈品设计。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "设计师 斯特法诺·潘特罗托 与 亚历克西·图龙 分享他们对瑞士设计、手工技艺和克制表达的理解，以及这些原则如何塑造奢侈品设计。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.1,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "439b9fd74bd76cb6",
+      "url": "https://www.wallpaper.com/fashion-beauty/bottega-veneta-sound-artist-florian-hecker-ss-2027-show",
+      "title": "Bottega Veneta taps sound artist Florian Hecker for its S/S 2027 showspace",
+      "summary": "The German artist’s one-off sonic installation, played across 20 loudspeakers in Milan’s Fabbrica Orobia yesterday evening (26 September 2026), set the scene for Louise Trotter’s latest runway",
+      "source": "Wallpaper",
+      "category": "空间设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/EFUBkLYrpgB94FCxD9zwcD-1920-80.jpg",
+      "publishedAt": "2026-09-27T07:24:21+00:00",
+      "date": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "score": 53.9,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/bNWY6M2AbhdVxLThhPqYZD-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/fUYJ9CVHPmESHb4qfdLwiD-320-80.jpg"
+        }
+      ],
+      "titleZh": "二十只扬声器为 葆蝶家 秀场构建声音空间",
+      "summaryZh": "声音艺术家 弗洛里安·赫克尔 为米兰时装秀创作现场声音装置，以二十只扬声器将秀场空间变成听觉体验的一部分。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "声音艺术家 弗洛里安·赫克尔 为米兰时装秀创作现场声音装置，以二十只扬声器将秀场空间变成听觉体验的一部分。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 6.0,
+        "completeness": 8.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "22911938deaa9741",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/henry-holland-royal-society-of-sculptors",
+      "title": "In a seductive new show, Henry Holland asks sculptors to consider the meaning of home",
+      "summary": "'There’s No Place Like It,' The Royal Society of Sculptors Summer exhibition, explores the beauty and mundanity of domestic life: ‘I was really looking for pieces that made me feel",
+      "source": "Wallpaper",
+      "category": "视觉设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/r3iVTg7oCecSiJtRy9mfz4-1920-80.jpg",
+      "publishedAt": "2026-09-27T07:00:00+00:00",
+      "date": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "score": 65.8,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/T3ByRibecBcqfEZsckYby-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/8DhSBb5eKSkNf9zwLsLuy4-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Bah8b3YJAwbTuDroYDFJ85-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/sHriNqZRnMttdysgJvso35-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/kKkgwmUC9ZzrzQMSvVGfu4-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/AVwB4Rff5dDAzTsyaU25D4-320-80.jpg"
+        }
+      ],
+      "titleZh": "雕塑展以“家”为主题观察日常生活",
+      "summaryZh": "英国皇家雕塑家协会夏季展邀请艺术家围绕家的意义创作，呈现家庭生活中的平凡经验如何成为雕塑表达主题。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "英国皇家雕塑家协会夏季展邀请艺术家围绕家的意义创作，呈现家庭生活中的平凡经验如何成为雕塑表达主题。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 8.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "419d742341de21b6",
+      "url": "https://www.archdaily.com/1185203/auruboros-urban-memory-and-collective-dream-plastique-fantastique",
+      "title": "auruBOROS - Urban Memory and Collective Dream / Plastique Fantastique",
+      "summary": "auruBOROS transforms the ancient image of the Ouroboros into a temporary urban organism that moves through New York City, connecting architecture, public space, and collective",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-27T06:00:00+00:00",
+      "date": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "score": 65.8,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/63f3/1057/6a00/017e/a466/newsletter/SP_auruBOROS_11_arch.jpg?1789551624"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/63f2/1057/6a00/017e/a45b/thumb_jpg/LF_auruBOROS_01_arch.jpg?1789551620"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/63f3/1057/6a00/017e/a464/thumb_jpg/SP_auruBOROS_06_arch.jpg?1789551642"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/63f2/1057/6a00/017e/a45f/thumb_jpg/MC_auruBOROS_01_arch.jpg?1789551623"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/63f3/1057/6a00/017e/a465/thumb_jpg/SP_auruBOROS_09_arch.jpg?1789551624"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aaa/63f2/1057/6a00/017e/a45b/newsletter/LF_auruBOROS_01_arch.jpg?1789551620"
+        }
+      ],
+      "titleZh": "临时城市装置把建筑、公共空间与集体记忆串联",
+      "summaryZh": "奥鲁博罗斯 将衔尾蛇意象转化为移动的临时城市装置，穿行纽约并连接建筑、公共空间与集体记忆。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "奥鲁博罗斯 将衔尾蛇意象转化为移动的临时城市装置，穿行纽约并连接建筑、公共空间与集体记忆。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 8.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "781954bb084feaef",
+      "url": "https://www.dezeen.com/2026/09/27/waste-wool-cladding-harvard-university-oslo-architecture-triennale/",
+      "title": "Harvard University transforms waste wool into cladding for retrofits",
+      "summary": "Grinham Research Group at Harvard University has developed an insulating cladding tile made from waste wool, which was presented at this year's Oslo Architecture Triennale. In an installation named Upcycling Wool Ecologies, Grinham Research Group showcased its tiles on a timber frame in Oslo's Sofienberg Church as part of the…",
+      "source": "Dezeen",
+      "category": "建筑设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/wool-tiles-oslo-architecture-triennale_dezeen_2364_col_1-852x852.jpg",
+      "publishedAt": "2026-09-27T05:00:23+00:00",
+      "date": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "score": 50.8,
+      "titleZh": "哈佛研究团队用废弃羊毛开发建筑保温覆层",
+      "summaryZh": "哈佛大学 格林汉姆 研究团队将废羊毛制成保温覆层砖片，并在奥斯陆建筑三年展展示材料循环利用方案。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "哈佛大学 格林汉姆 研究团队将废羊毛制成保温覆层砖片，并在奥斯陆建筑三年展展示材料循环利用方案。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 8.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "00b6f30d935323c1",
+      "url": "https://www.archdaily.com/1035956/osmanthus-moon-hcch-studio",
+      "title": "Osmanthus Moon / HCCH Studio",
+      "summary": "Osmanthus Moon is a short-term public art installation created to celebrate the traditional Chinese Mid-Autumn Festival. It is a projection, specially as well as metaphorically, of the widely beloved traditional osmanthus pattern — a signature plant and flavor of autumn — and forms a dialogue with the action paintings of a folk…",
+      "source": "ArchDaily",
+      "category": "空间设计",
+      "image": null,
+      "publishedAt": "2026-09-27T02:00:00+00:00",
+      "date": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "score": 65.7,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6914/3c0e/11d9/5601/88ba/ec67/newsletter/osmanthus-moon-hcch-studio_16.jpg?1762933793"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6914/3c0d/f323/4f01/8a73/8105/thumb_jpg/osmanthus-moon-hcch-studio_17.jpg?1762933792"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6914/3c0e/f323/4f01/8a73/8106/thumb_jpg/osmanthus-moon-hcch-studio_15.jpg?1762933794"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6914/3c04/3682/eb01/7f61/0c5e/thumb_jpg/osmanthus-moon-hcch-studio_13.jpg?1762933783"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6914/3c0a/f323/4f01/8a73/8104/thumb_jpg/osmanthus-moon-hcch-studio_19.jpg?1762933793"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6914/3c0d/f323/4f01/8a73/8105/newsletter/osmanthus-moon-hcch-studio_17.jpg?1762933792"
+        }
+      ],
+      "titleZh": "桂花与月亮意象构成上海中秋公共艺术装置",
+      "summaryZh": "上海 华创城市工作室 创作短期公共艺术装置《桂花月》，以投影和桂花意象回应中秋节日文化。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "上海 华创城市工作室 创作短期公共艺术装置《桂花月》，以投影和桂花意象回应中秋节日文化。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 8.7,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "e6538aeebc4db818",
+      "url": "https://www.yankodesign.com/2026/09/26/standard-earplugs-dig-in-or-fall-out-ears-360-silence-does-neither/",
+      "title": "Standard Earplugs Dig In or Fall Out, Ears 360 Silence Does Neither",
+      "summary": "Standard Earplugs Dig In or Fall Out, Ears 360 Silence Does Neither Most earplugs are built for your ear canal. Ears 360 Silence was built for your pillow as well. The French-designed earplug swaps the usual",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/standard-earplugs-dig-in-or-fall-out-ears-360-silence-does-neither/Ears-360-Silence-_-The-Earplug-That-Disappears-in-Your-Ear-hero-1.jpg",
+      "publishedAt": "2026-09-27T01:45:28+00:00",
+      "date": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "score": 63.8,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/standard-earplugs-dig-in-or-fall-out-ears-360-silence-does-neither/Ears-360-Silence-_-The-Earplug-That-Disappears-in-Your-Ear-hero-1-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/standard-earplugs-dig-in-or-fall-out-ears-360-silence-does-neither/Ears-360-Silence-_-The-Earplug-That-Disappears-in-Your-Ear-773x580.jpg"
+        },
+        {
+          "url": "https://i.kickstarter.com/assets/055/002/425/2edcfce89f57ca91e922c317e2948250_original.gif?fit=scale-down&origin=ugc&q=92&v=1788528794&width=680&sig=4nVrzzjfO4e7OUpVnbSrpvnbRUg%2B81d2w3NufU6b4l0%3D"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/standard-earplugs-dig-in-or-fall-out-ears-360-silence-does-neither/Ears-360-Silence-_-The-Earplug-That-Disappears-in-Your-Ear-01-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/charging-pads-save-your-phone-bionics-also-clears-your-counter/bionic-valet-charger-01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/the-power-strip-that-actually-moves-with-your-desk/power-duck-00.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/keyboards-work-for-both-hands-the-new-surface-mouse-finally-does-too/surface-mouse-2nd-edition-01.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "9sCaprvgS5g",
+        "url": "https://www.youtube.com/embed/9sCaprvgS5g",
+        "thumbnail": "https://i.ytimg.com/vi/9sCaprvgS5g/hqdefault.jpg",
+        "title": "Ears 360 Silence | The Earplug That Disappears in Your Ear",
+        "author": "Yanko Design",
+        "duration": 0,
+        "verifiedAt": "2026-09-28T01:04:16+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/9sCaprvgS5g/hqdefault.jpg"
+      ],
+      "titleZh": "为侧睡设计的耳塞重新考虑耳廓受压问题",
+      "summaryZh": "法国设计的 耳朵三百六十静音 耳塞针对侧睡场景调整外形，试图避免传统耳塞在耳道内顶压或脱落。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "法国设计的 耳朵三百六十静音 耳塞针对侧睡场景调整外形，试图避免传统耳塞在耳道内顶压或脱落。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 25.0,
+        "completeness": 8.8,
+        "source": 15.0
+      }
+    },
+    {
       "id": "4e5ab665e3968a68",
       "url": "https://www.yankodesign.com/2026/09/26/uplay-fits-the-gaming-body-the-way-a-cycling-saddle-fits-a-rider/",
       "title": "Uplay Fits the Gaming Body the Way a Cycling Saddle Fits a Rider",
@@ -674,6 +2164,58 @@
         "media": 18.0,
         "completeness": 8.8,
         "source": 15.0
+      }
+    },
+    {
+      "id": "12b5653710b50e83",
+      "url": "https://www.archdaily.com/1185623/house-in-kagurazaka-takumi-wakui-plus-riho-wakui-architects",
+      "title": "House in Kagurazaka / Takumi Wakui + Riho Wakui Architects",
+      "summary": "Located in Kagurazaka, a historical neighborhood in Tokyo where traditional Japanese alleyways meet modern urban density, House in Kagurazaka is a single-family residence that reinterprets the boundaries between interior space, light, and urban",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-26T21:00:00+00:00",
+      "date": "2026-09-27",
+      "firstSeen": "2026-09-28",
+      "score": 65.8,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/5af3/7707/e600/01bb/35c8/medium_jpg/APJ_3.jpg?1790139214"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/5af3/7707/e600/01bb/35ca/thumb_jpg/APJ_5.jpg?1790139146"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/5af3/7707/e600/01bb/35c9/thumb_jpg/APJ_4.jpg?1790139183"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/5af5/7707/e600/01bb/35d3/thumb_jpg/APJ_14.jpg?1790139165"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/5af4/7707/e600/01bb/35d1/thumb_jpg/APJ_12.jpg?1790139210"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/5af3/7707/e600/01bb/35ca/newsletter/APJ_5.jpg?1790139146"
+        }
+      ],
+      "titleZh": "神乐坂住宅在密集街巷中重新划定内外边界",
+      "summaryZh": "位于东京神乐坂历史街区的独栋住宅，通过空间边界设计回应传统巷道与高密度城市环境之间的关系。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "位于东京神乐坂历史街区的独栋住宅，通过空间边界设计回应传统巷道与高密度城市环境之间的关系。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 8.8,
+        "source": 24.0
       }
     },
     {
@@ -28152,6 +29694,43 @@
         "lead": "在有限空间里，",
         "title": "设计打开更多可能。",
         "subtitle": "从可适应的产品、被重新组织的住宅，到公共艺术与视觉表达，设计持续回应真实生活。"
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "articleIds": [
+        "9c281e91721d8c8e",
+        "e50a510c20b237e1",
+        "2f154db3ddfdc6b7",
+        "54bfbd23dfe6e72b",
+        "7ae945176526db5b",
+        "107f858e9b9ba2a0",
+        "42ca01ee72c770d6",
+        "3a7504ff9f5693ea",
+        "8d7a6fd4d78e3555",
+        "8693fea08a83421b",
+        "3b5dac3987ba852f",
+        "ed80c6afd04fd85d",
+        "1fc1cd48dbe0d504",
+        "3d31f12f3542da3f",
+        "ed34b5bf17a25133",
+        "2e105f6385b3cc13",
+        "27fad50076df84a3",
+        "c7c42d706e545c03",
+        "314d07bb1aef916a",
+        "439b9fd74bd76cb6",
+        "22911938deaa9741",
+        "419d742341de21b6",
+        "781954bb084feaef",
+        "00b6f30d935323c1",
+        "e6538aeebc4db818",
+        "12b5653710b50e83"
+      ],
+      "updatedAt": "2026-09-28T09:01:06.800391+08:00",
+      "masthead": {
+        "lead": "从日常器物到城市空间，",
+        "title": "设计持续回应生活。",
+        "subtitle": "展厅、住宅、公共装置与数字工具在新的使用方式中彼此连接。"
       }
     }
   ],
