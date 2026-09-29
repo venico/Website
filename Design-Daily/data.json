@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T11:28:36.910562+08:00",
+  "updatedAt": "2026-09-29T09:01:26.013513+08:00",
   "sources": [
     {
       "name": "Dezeen",
@@ -8,7 +8,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-09-27T09:00:45+00:00"
+      "latestPublishedAt": "2026-09-28T19:00:42+00:00"
     },
     {
       "name": "designboom",
@@ -17,7 +17,7 @@
       "category": "空间设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-09-27T21:15:10+00:00"
+      "latestPublishedAt": "2026-09-28T23:55:19+00:00"
     },
     {
       "name": "Yanko Design",
@@ -26,7 +26,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 16,
-      "latestPublishedAt": "2026-09-28T01:45:50+00:00"
+      "latestPublishedAt": "2026-09-28T23:30:53+00:00"
     },
     {
       "name": "Smashing Magazine",
@@ -53,7 +53,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-09-25T01:03:14+00:00"
+      "latestPublishedAt": "2026-09-28T15:38:05+00:00"
     },
     {
       "name": "Core77",
@@ -62,7 +62,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 15,
-      "latestPublishedAt": "2026-09-25T15:00:00+00:00"
+      "latestPublishedAt": "2026-09-28T15:00:00+00:00"
     },
     {
       "name": "Creative Bloq",
@@ -71,7 +71,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 25,
-      "latestPublishedAt": "2026-09-27T12:00:00+00:00"
+      "latestPublishedAt": "2026-09-28T22:00:00+00:00"
     },
     {
       "name": "UX Collective",
@@ -80,7 +80,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-09-27T19:38:02+00:00"
+      "latestPublishedAt": "2026-09-28T22:29:04+00:00"
     },
     {
       "name": "UX Planet",
@@ -89,7 +89,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-09-25T12:16:48+00:00"
+      "latestPublishedAt": "2026-09-28T12:26:50+00:00"
     },
     {
       "name": "Codrops",
@@ -125,7 +125,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-09-25T08:30:00+00:00"
+      "latestPublishedAt": "2026-09-28T11:00:00+00:00"
     },
     {
       "name": "Car Body Design",
@@ -143,7 +143,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 6,
-      "latestPublishedAt": "2026-09-27T20:40:04+00:00"
+      "latestPublishedAt": "2026-09-28T14:09:25+00:00"
     },
     {
       "name": "Art of VFX",
@@ -152,7 +152,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-09-26T15:00:00+00:00"
+      "latestPublishedAt": "2026-09-28T18:00:00+00:00"
     },
     {
       "name": "Blender",
@@ -170,7 +170,7 @@
       "category": "人工智能设计",
       "ok": true,
       "count": 60,
-      "latestPublishedAt": "2026-09-24T14:08:57+00:00"
+      "latestPublishedAt": "2026-09-28T09:44:05+00:00"
     },
     {
       "name": "UISDC",
@@ -307,7 +307,7 @@
       "category": "建筑设计",
       "ok": true,
       "count": 24,
-      "latestPublishedAt": "2026-09-27T21:00:00+00:00"
+      "latestPublishedAt": "2026-09-28T19:00:00+00:00"
     },
     {
       "name": "Wallpaper",
@@ -316,7 +316,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-09-27T09:42:30+00:00"
+      "latestPublishedAt": "2026-09-28T19:00:00+00:00"
     },
     {
       "name": "Its Nice That",
@@ -325,7 +325,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-09-25T08:00:00+00:00"
+      "latestPublishedAt": "2026-09-28T09:00:00+00:00"
     },
     {
       "name": "Design Week",
@@ -350,7 +350,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 40,
-      "latestPublishedAt": "2026-09-28T03:11:46+00:00"
+      "latestPublishedAt": "2026-09-28T23:06:54+00:00"
     },
     {
       "name": "Brand New",
@@ -433,7 +433,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 36,
-      "latestPublishedAt": "2026-09-27T09:00:08+00:00"
+      "latestPublishedAt": "2026-09-28T21:01:21+00:00"
     },
     {
       "name": "Figma",
@@ -532,7 +532,7 @@
       "category": "建筑设计",
       "ok": true,
       "count": 9,
-      "latestPublishedAt": "2026-09-25T10:00:29+00:00"
+      "latestPublishedAt": "2026-09-28T06:00:07+00:00"
     },
     {
       "name": "Architects Newspaper",
@@ -550,7 +550,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-09-25T19:37:36+00:00"
+      "latestPublishedAt": "2026-09-28T12:55:25+00:00"
     },
     {
       "name": "Packaging of the World",
@@ -656,7 +656,7 @@
       "category": "人工智能设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-09-23T18:00:00+00:00"
+      "latestPublishedAt": "2026-09-28T19:00:00+00:00"
     },
     {
       "name": "Adobe Developers Blog",
@@ -666,9 +666,3086 @@
       "ok": true,
       "count": 60,
       "latestPublishedAt": "2026-09-24T00:00:00+00:00"
+    },
+    {
+      "name": "LukeW",
+      "url": "https://www.lukew.com/",
+      "category": "用户体验设计",
+      "label": "卢克·沃罗布列夫斯基",
+      "mode": "curated",
+      "homepage": "https://www.lukew.com/",
+      "categories": [
+        "用户体验设计"
+      ],
+      "ok": false,
+      "count": 0,
+      "status": "curated"
     }
   ],
   "articles": [
+    {
+      "id": "8b07cc5d281b67c2",
+      "url": "https://www.printmag.com/branding-identity-design/intuit-rethinks-its-brand-architecture-with-jkr/",
+      "title": "Intuit Rethinks Its Brand Architecture with JKR",
+      "summary": "We designers love design order. Here is the latest from Intuit and JKR Global, who are bringing order to a growing ecosystem of familiar brands with a new identity built around “One",
+      "source": "PRINT",
+      "category": "视觉设计",
+      "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-before-after-static-16x9-1.png?resize=1000%2C563&quality=80&ssl=1",
+      "publishedAt": "2026-09-28T23:06:54+00:00",
+      "date": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "score": 71.7,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-before-after-static-16x9-1-scaled.png?resize=748%2C421&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-system-before-16x9-1-scaled.png?resize=2048%2C1152&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-system-type-specimen-16x9-1-scaled.png?resize=748%2C421&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-system-illustration-hero-16x9-1-scaled.png?w=2048&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-merch-hoodie-16x9-1-scaled.png?resize=748%2C421&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-merch-sweater-16x9-1-scaled.png?resize=748%2C421&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-campus-reception-16x9-1-scaled.png?resize=2048%2C1152&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-merch-creditcard-16x9-1-scaled.png?resize=748%2C421&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-campus-desk-16x9-1-scaled.png?resize=2048%2C1152&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-campus-signage-16x9-1-scaled.png?resize=748%2C421&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-ooh-intelligence-16x9-1-scaled.png?resize=2048%2C1152&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-ooh-green-16x9-1-scaled.png?resize=748%2C421&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-merch-stickers-16x9-1-scaled.png?resize=2048%2C1152&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-campus-posters-16x9-1-scaled.png?resize=748%2C421&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-ooh-rebus-16x9-1-scaled.png?resize=2048%2C1152&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-merch-intitial-16x9-1-scaled.png?resize=2048%2C1152&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-campus-conference-16x9-1-scaled.png?resize=2048%2C1152&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-ooh-possible-16x9-1-scaled.png?resize=1319%2C742&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-merch-into-16x9-1-scaled.png?resize=2048%2C1152&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/intuit-campus-breakroom-16x9-1-scaled.png?resize=748%2C421&quality=80&ssl=1"
+        }
+      ],
+      "titleZh": "财务软件品牌以统一识别整理旗下品牌关系",
+      "summaryZh": "财务软件企业与品牌设计团队合作，将不断扩展的品牌体系纳入统一识别。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "财务软件品牌以统一识别整理旗下品牌关系",
+            "paragraphs": [
+              "财务软件企业与品牌设计团队合作，将不断扩展的品牌体系纳入统一识别。",
+              "报道把重点放在多个熟悉品牌之间的关系，以及统一品牌表达所要解决的秩序问题。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.7,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "d3ebd3e3d01ca802",
+      "url": "https://www.dezeen.com/2026/09/28/surf-road-house-coughlin-scheel-architects-fire-island/",
+      "title": "Coughlin Scheel lifts Fire Island house high above the beach",
+      "summary": "US studio Coughlin Scheel Architects has completed the cedar-clad Surf Road House, lifting it 10 feet above the ground because of environmental concerns. The house sits on Fire Island, a narrow barrier island in New York that is accessed by ferry. Motor vehicles are largely prohibited on the island, with its delicate landscape.…",
+      "source": "Dezeen",
+      "category": "建筑设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/surf-road-house-fire-island-coughlin-scheel-architects-sq_dezeen_2364_col_0-852x852.jpg",
+      "publishedAt": "2026-09-28T19:00:42+00:00",
+      "date": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "score": 56.8,
+      "titleZh": "火岛住宅抬高约三米回应海滨环境",
+      "summaryZh": "美国建筑团队完成一栋雪松包覆的海滨住宅，出于环境考虑将主体抬离地面约三米。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "火岛住宅抬高约三米回应海滨环境",
+            "paragraphs": [
+              "美国建筑团队完成一栋雪松包覆的海滨住宅，出于环境考虑将主体抬离地面约三米。",
+              "住宅位于纽约火岛，这座狭长的屏障岛主要依靠渡轮进入，并对机动车通行有较大限制。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "e3baf7e5e1f877ef",
+      "url": "https://www.archdaily.com/1185947/son-llodra-house-merge-into-the-landscape-bastidas-architecture",
+      "title": "Son Llodrà House: Merge into the Landscape / Bastidas Architecture",
+      "summary": "At the top of a Mediterranean hill, where low vegetation and the horizon define the landscape, this house seeks to disappear. Its main strategy is to merge with the terrain: semi-buried and covered by a layer of native vegetation that renders it invisible, it turns architecture into topographical continuity. The earth and…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-28T19:00:00+00:00",
+      "date": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "score": 71.9,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/d870/aa74/a600/0152/00d8/newsletter/bastidas-architecture-CT_by-_medseastudio-HR.jpg?1790630046"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/d871/aa74/a600/0152/00ee/thumb_jpg/bastidas-architecture-CT6A9974_by-_medseastudioHR.jpg?1790630272"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/d870/aa74/a600/0152/00dc/thumb_jpg/bastidas-architecture-CT6A0382_by-_medseastudioHR.jpg?1790630107"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/d871/aa74/a600/0152/00e7/thumb_jpg/bastidas-architecture-CT6A0727_by-_medseastudioHR.jpg?1790630163"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/d871/aa74/a600/0152/00ea/thumb_jpg/bastidas-architecture-CT6A0913_by-_medseastudioHR.jpg?1790630157"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/d871/aa74/a600/0152/00ee/medium_jpg/bastidas-architecture-CT6A9974_by-_medseastudioHR.jpg?1790630272"
+        }
+      ],
+      "titleZh": "半埋式住宅以原生植被延续地中海山地",
+      "summaryZh": "这栋住宅坐落在地中海山丘顶部，以半埋入地形的方式减弱建筑在景观中的存在感。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "半埋式住宅以原生植被延续地中海山地",
+            "paragraphs": [
+              "这栋住宅坐落在地中海山丘顶部，以半埋入地形的方式减弱建筑在景观中的存在感。",
+              "屋顶覆盖当地植被，让建筑表面成为地形的延续；公开摘要强调的是与低矮植被及远处地平线的关系。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "d34432c46bf63592",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/midcentury-modern-palm-springs-house-jessica-ayromloo",
+      "title": "Barbarella meets Polly Pocket in this fantasy Palm Springs house",
+      "summary": "LA-based interior designer Jessica Ayromloo combined cinematic sci-fi references and playful desaturated pastels while renovating this giant midcentury California",
+      "source": "Wallpaper",
+      "category": "空间设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/jnMfT6mtGzRS2Vwbg7n326-1920-80.jpg",
+      "publishedAt": "2026-09-28T18:15:00+00:00",
+      "date": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "score": 71.9,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7r9iFJWhvSuLy5Xwdhxbw6-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/H9DnSj6LUSSQPypvUjBpV6-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2AEgEnuyRzBdKC3qzUN4qj-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UzZ9mrQJn7stXxnCw4VMr6-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/jVPAFPd6azrSQxbMMUMbS6-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/oQXJiyT6LrFJZtgeEqJbE6-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/aBT8U6MGuvnKJqsbP6kHb7-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/mRHTABKUEC3ezKNWm6xYJ6-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/wLKZe8ReCpbAbF4dwdTDM7-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/coJspff2CAYqPkq3QHhSB7-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/KJDdNtUvcMH6KJu3Q4Bx37-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/mYWwhjXpGK8tzTEscAvFH7-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5T93RN43jrNBvrxZdHpsb7-320-80.jpg"
+        }
+      ],
+      "titleZh": "棕榈泉住宅翻新结合科幻想象与柔和色彩",
+      "summaryZh": "室内设计师杰西卡·艾罗姆鲁翻新加州一栋大型世纪中期住宅，将电影科幻意象带入室内。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "棕榈泉住宅翻新结合科幻想象与柔和色彩",
+            "paragraphs": [
+              "室内设计师杰西卡·艾罗姆鲁翻新加州一栋大型世纪中期住宅，将电影科幻意象带入室内。",
+              "项目采用带有游戏感的低饱和浅色，形成与住宅原有现代主义背景相结合的空间表达。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "118290afde8921ad",
+      "url": "https://www.dezeen.com/2026/09/28/grid-radiator-tubes-heating-furniture-lighting-surfaces-dezeen-showroom/",
+      "title": "Grid radiator by Tubes among seven new products on Dezeen Showroom",
+      "summary": "Dezeen Showroom: a radiator with interchangeable accessories informed by workbench pegboards is among seven new products featured on Dezeen Showroom. Grid radiator by Elisa Ossino for Tubes Pegboards found in garages and workshops informed the appearance and functionality of this modular radiator by designer Elisa Ossina for…",
+      "source": "Dezeen",
+      "category": "工业设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/grid-radiator-elisa-ossino-tubes-design_dezeen_2364_col_0-1-852x852.jpg",
+      "publishedAt": "2026-09-28T18:00:02+00:00",
+      "date": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "score": 56.8,
+      "titleZh": "洞洞板启发可更换配件的模块化散热器",
+      "summaryZh": "一款模块化散热器从车库与工作室的洞洞板中获得外形和功能灵感。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "洞洞板启发可更换配件的模块化散热器",
+            "paragraphs": [
+              "一款模块化散热器从车库与工作室的洞洞板中获得外形和功能灵感。",
+              "产品可以搭配可更换的附件；该文同时汇集其他家具、灯具和表面材料新品，属于产品展示报道。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "1fb5ed635a28dccb",
+      "url": "https://www.behance.net/gallery/256317143/BEACH-BUNCH",
+      "title": "BEACH BUNCH",
+      "summary": "Four personalities. One endless vacation. Set on a vibrant seaside resort, BEACH BUNCH follows four very different friends through beach games, sports and spontaneous vacation adventures. Every activity brings out a different side of the group, turning an ordinary holiday into a collection of small competitions, accidents and…",
+      "source": "Behance",
+      "category": "动态设计",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/5c8c46256317143.Y3JvcCwxNDcyLDExNTIsMjgwLDA.png",
+      "publishedAt": "2026-09-28T17:00:06+00:00",
+      "date": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "score": 48.1,
+      "titleZh": "海滨度假角色项目以四位朋友展开日常小冒险",
+      "summaryZh": "《海滩伙伴》围绕四种不同性格的朋友展开，在明亮的海滨度假场景中安排游戏、运动和临时起意的活动。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "海滨度假角色项目以四位朋友展开日常小冒险",
+            "paragraphs": [
+              "《海滩伙伴》围绕四种不同性格的朋友展开，在明亮的海滨度假场景中安排游戏、运动和临时起意的活动。",
+              "创作者用小型竞赛、意外和日常互动呈现人物差异；目前依据作品公开说明整理，不将其视为已上映的剧集。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 10.2,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "b6082b0ec8bedbd0",
+      "url": "https://www.archdaily.com/1185918/rice-husk-house-summary",
+      "title": "Rice Husk House / SUMMARY",
+      "summary": "The house is located on a flat, square-shaped plot oriented along a North-South axis, near a pine forest and the beach. The single-story structure fits within a context of similarly scaled, detached homes in a low-density",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-28T17:00:00+00:00",
+      "date": "2026-09-29",
+      "firstSeen": "2026-09-29",
+      "score": 71.8,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/7466/5c4d/8600/0165/6dd6/newsletter/e4d1b3bb-image.jpg?1790604546"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/7465/5c4d/8600/0165/6dd0/thumb_jpg/be089cd3-image.jpg?1790604539"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/7460/5c4d/8600/0165/6dcb/thumb_jpg/85412956-image.jpg?1790604457"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/7465/5c4d/8600/0165/6dd1/thumb_jpg/a884afda-image.jpg?1790604476"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/7466/5c4d/8600/0165/6dd8/thumb_jpg/d5de90cd-image.jpg?1790604560"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/7467/5c4d/8600/0165/6ddf/newsletter/02978743-image.jpg?1790604672"
+        }
+      ],
+      "titleZh": "稻壳之家以单层体量融入低密度住宅区",
+      "summaryZh": "项目位于靠近松林和海滩的平坦方形地块，沿南北方向组织。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "稻壳之家以单层体量融入低密度住宅区",
+            "paragraphs": [
+              "项目位于靠近松林和海滩的平坦方形地块，沿南北方向组织。",
+              "单层住宅延续周边独立住宅的尺度；摘要没有提供材料配比，因此不根据项目名称推断稻壳的具体使用方式。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "5cbafa00f4a559b2",
+      "url": "https://www.wallpaper.com/design-interiors/design-events/helsinki-design-week-2026-best-finnish-design",
+      "title": "12 uplifting design projects from Finland",
+      "summary": "Earlier this month, Helsinki Design Week demonstrated of how design spills into everyday life: from revamped classics to innovative products, these are 12 uplifting design stories we discovered in",
+      "source": "Wallpaper",
+      "category": "工业设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/vcL7N2eyzSFVrhBMpJkGZb-1920-80.jpg",
+      "publishedAt": "2026-09-28T15:49:32+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.8,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7tRc9jUHBQoe6B9wkSRat8-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/mqpCrHB5Q6vGJG5nDHb6DG-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/yKJfa3KBWFS5PsxpMwzxiN-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uudefBZwFaPAuavnS8QJqT-320-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HQEpKSf3cqRHK4zLUXKmtX-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Kggguwaq3RgkcTEaSmGp4B-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/aRH3qA4ejy5vxUibqHczzA-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rYmu9Jg9Ti6Urz7PZx4G7L-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/vzse6fTM4Z63CjBNik5K3b-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/h43KNDjYqCoeHaiUm8gdva-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/9QKmk8F5PS6xJnCy6Fq3vn-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YdghRwTsagNWtcWk5wqUyn-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5YrMVnf8icoLC852t6JJwn-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/yPvhkk7LwQPxPniCTnV4KK-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uXFn4jYAeZcKaA8bQXTSrP-320-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/gnRwSchVrhNwoprbYzsKuT-320-80.jpg"
+        }
+      ],
+      "titleZh": "赫尔辛基设计周呈现十二项日常设计探索",
+      "summaryZh": "报道从赫尔辛基设计周挑选十二个设计项目，观察设计如何进入日常生活。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "赫尔辛基设计周呈现十二项日常设计探索",
+            "paragraphs": [
+              "报道从赫尔辛基设计周挑选十二个设计项目，观察设计如何进入日常生活。",
+              "公开摘要提到经典产品更新与新产品探索；这是展会项目回顾，并非十二件产品同日上市的公告。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "bfc2136512c3e1e3",
+      "url": "https://www.designboom.com/architecture/volunteer-camp-thailand-school-toilet-reclaimed-wood-sep/",
+      "title": "volunteers in thailand hand-build school toilet from reclaimed wood",
+      "summary": "forty-one volunteers spent eleven days building a school toilet from reclaimed wood, learning about sanitary design, material reuse, and hands-on",
+      "source": "designboom",
+      "category": "建筑设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/468284/2026-09-27/starting-from-zero-the-aku-asa-volunteer-camp-builds-a-school-toilet-from-reclaimed-wood-1-6ab8bbcd4be02.jpg",
+      "publishedAt": "2026-09-28T15:15:01+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 51.8,
+      "images": [
+        {
+          "url": "https://www.designboom.com/shop/wp-content/uploads/2015/02/airframe02.jpg"
+        }
+      ],
+      "titleZh": "泰国志愿者用回收木材建造校园卫生间",
+      "summaryZh": "四十一名志愿者用十一天为学校建造卫生间，并在施工中使用回收木材。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "泰国志愿者用回收木材建造校园卫生间",
+            "paragraphs": [
+              "四十一名志愿者用十一天为学校建造卫生间，并在施工中使用回收木材。",
+              "项目同时涉及卫生空间设计、材料再利用与动手建造学习，公开摘要没有披露具体造价或性能测试。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "3753279298fd725d",
+      "url": "https://www.dezeen.com/2026/09/28/grt-architects-storefront-for-art-and-architecture-update/",
+      "title": "GRT Architects adds modular shelving in Storefront for Art and Architecture revamp",
+      "summary": "Architecture studio GRT Architects has modernised and updated New York architecture gallery Storefront for Art and Architecture, installing custom, removable shelving units and placing a doorknob on its facade for the first time. The scope for the renovation included updating electrical and HVAC systems in the single,…",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/storefront-for-art-architecture-new-york-city-grt-architects_dezeen_2364_sq-1-852x852.jpg",
+      "publishedAt": "2026-09-28T15:07:06+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 51.9,
+      "titleZh": "纽约建筑艺术画廊更新可拆卸模块化搁架",
+      "summaryZh": "纽约一处建筑艺术画廊完成更新，引入定制且可拆卸的搁架，并首次在立面上安装门把手。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "纽约建筑艺术画廊更新可拆卸模块化搁架",
+            "paragraphs": [
+              "纽约一处建筑艺术画廊完成更新，引入定制且可拆卸的搁架，并首次在立面上安装门把手。",
+              "改造范围还包括电气与暖通系统，报道将展示设施与基础设备更新放在同一项目中讨论。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "5281200d22c97783",
+      "url": "https://www.dezeen.com/2026/09/28/public-seating-people-animals-american-university-in-dubai-schoolshows/",
+      "title": "Animal friendly \"purch pod\" among projects from American University in Dubai",
+      "summary": "Dezeen School Shows: an animal-friendly public seating and shade structure informed by dunes in the UAE is among the projects from the American University in Dubai. Also featured is a pod with a puzzle-based feeding system for crows, and a cocoon-like space designed for peaceful interactions between humans and cats. American…",
+      "source": "Dezeen",
+      "category": "工业设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/American-University-in-Dubai_dezeen_2364_col_9-852x852.jpg",
+      "publishedAt": "2026-09-28T15:00:40+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 51.9,
+      "titleZh": "学生设计以公共座椅探索人与动物的共处",
+      "summaryZh": "迪拜美国大学学生作品展示包括受沙丘启发的座椅与遮阴构筑物。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "学生设计以公共座椅探索人与动物的共处",
+            "paragraphs": [
+              "迪拜美国大学学生作品展示包括受沙丘启发的座椅与遮阴构筑物。",
+              "其他方案还涉及乌鸦解谜喂食装置和供人与猫安静互动的茧状空间；这些是学生设计项目，不视为量产产品。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "56092eeb466c594b",
+      "url": "https://motionographer.com/2026/09/28/dear-upstairs-neighbors-how-connie-he-taught-a-machine-to-see-the-way-she-draws/",
+      "title": "Dear Upstairs Neighbors: How Connie He Taught a Machine to See the Way She Draws.",
+      "summary": "Pixar alum Connie He turned a sleepless pandemic night into a six-minute short, then taught custom Veo and Imagen models to reproduce her own concept art. Jesse Rylander talks with her about pre-production, control, and what it took for animators and Google DeepMind researchers to speak the same",
+      "source": "Motionographer",
+      "category": "人工智能设计",
+      "image": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Dear-Upstairs-Neighbors-Poster-474x700.jpg",
+      "publishedAt": "2026-09-28T15:00:18+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 74.1,
+      "images": [
+        {
+          "url": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Dear-Upstairs-Neighbors-Poster-scaled.jpg"
+        },
+        {
+          "url": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Dear-Upstairs-Neighbors_Still-1_Ada-Working-scaled.jpg"
+        },
+        {
+          "url": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Dear-Upstairs-Neighbors_Still-2_Angry-Ada-scaled.jpg"
+        },
+        {
+          "url": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Dear-Upstairs-Neighbors_Still-3_Ada-and-Drill-scaled.jpg"
+        },
+        {
+          "url": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Dear-Upstairs-Neighbors_Still-5_Ada-vs-Speaker-scaled.jpg"
+        },
+        {
+          "url": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Dear-Upstairs-Neighbors_Still-4_Ada-and-Fire-scaled.jpg"
+        },
+        {
+          "url": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Dear-Upstairs-Neighbors_Still-6_Sleeping-Ada-scaled.jpg"
+        },
+        {
+          "url": "https://s35726.pcdn.co/wp-content/uploads/2026/09/Dear-Upstairs-Neighbors-Photo-by-Jesse-Rylander-scaled.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "eCk5VFKKz08",
+        "url": "https://www.youtube.com/embed/eCk5VFKKz08",
+        "thumbnail": "https://i.ytimg.com/vi/eCk5VFKKz08/hqdefault.jpg",
+        "title": "“Dear Upstairs Neighbors” (Trailer)",
+        "author": "Google DeepMind",
+        "duration": 0,
+        "verifiedAt": "2026-09-29T01:05:09+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/eCk5VFKKz08/hqdefault.jpg"
+      ],
+      "titleZh": "动画导演训练定制模型延续自己的绘画语言",
+      "summaryZh": "曾在皮克斯工作的创作者将疫情期间一个失眠夜晚的想法发展成六分钟短片，并训练定制生成模型复现自己的概念画风。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "动画导演训练定制模型延续自己的绘画语言",
+            "paragraphs": [
+              "曾在皮克斯工作的创作者将疫情期间一个失眠夜晚的想法发展成六分钟短片，并训练定制生成模型复现自己的概念画风。",
+              "访谈关注前期制作、创作控制，以及动画师和人工智能研究团队如何建立共同的工作语言。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 25.0,
+        "completeness": 10.1,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "bdf0601fab4869d1",
+      "url": "https://www.core77.com/posts/145502/A-Utility-Trailer-that-Folds-Up-for-Storage",
+      "title": "A Utility Trailer that Folds Up for Storage",
+      "summary": "You might see this as a lame Autobot, but it's the only Transformer I'd have any actual use for: Adapt-X is the name of a utility trailer, that transforms into…a compact box. This allows you to store it in a space much smaller than its in-use footprint. The trailers are made primarily from aluminum, with stainless steel…",
+      "source": "Core77",
+      "category": "工业设计",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1851585_lead_400_145502_.jpg",
+      "publishedAt": "2026-09-28T15:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 73.8,
+      "images": [
+        {
+          "url": "https://s3files.core77.com/blog/images/1851587_81_145502_wgfbNcoQ6.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1851589_81_145502_6H4gvgoAb.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1851588_81_145502_JElGanYr6.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1851591_81_145502_FhBZDv8Qv.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1851594_81_145502_uF9DhlWND.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/images/FusionForward2026/resource_island_fusion_forward_desktop_text.png"
+        },
+        {
+          "url": "https://s3files.core77.com/images/FusionForward2026/resource_island_fusion_forward_mobile_text.png"
+        },
+        {
+          "url": "https://s3files.core77.com/images/c77_directory/ribbon-c77da.png"
+        }
+      ],
+      "video": {
+        "provider": "file",
+        "id": "https://i.imgur.com/aHm8ZPl.mp4",
+        "url": "https://i.imgur.com/aHm8ZPl.mp4",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-09-29T01:05:09+00:00"
+      },
+      "titleZh": "折叠工具拖车将使用体积压缩为收纳箱形态",
+      "summaryZh": "一款工具拖车可以从展开状态折叠为紧凑箱体，以减少闲置时的占地。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "折叠工具拖车将使用体积压缩为收纳箱形态",
+            "paragraphs": [
+              "一款工具拖车可以从展开状态折叠为紧凑箱体，以减少闲置时的占地。",
+              "公开摘要说明拖车主要采用铝材，并提到不锈钢部件；没有据此推断载重、折叠耗时或售价。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 25.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "b8f022dfc9a7505b",
+      "url": "https://www.core77.com/posts/145370/London-Design-Fair-2026-The-Victoria-n-Albert-Museum",
+      "title": "London Design Fair 2026: The Victoria & Albert Museum",
+      "summary": "The best place to start at LDF , and arguably the heart of the festival, is the Victoria & Albert Museum in South Kensington. It's home to the Global Design Forum , the Digital Design Weekend , and ten curated LDF installations hidden in endless corniced mazes of silverware, sculptures and sketch classes. V&A X LDF Awakenings.…",
+      "source": "Core77",
+      "category": "空间设计",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1850606_title__145370_FdS0NJdF4.jpg",
+      "publishedAt": "2026-09-28T14:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 73.9,
+      "images": [
+        {
+          "url": "https://s3files.core77.com/blog/images/lead_n_spotlight/1850606_title__145370_FdS0NJdF4.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1850610_249_145370_qoxSbY3Sb.jpeg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1850612_249_145370_ZuRihPJcF.jpeg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1850614_249_145370_ArzDE0_OZ.jpeg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1850616_249_145370_C2w6am4pb.jpeg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1850618_249_145370_TnBJmOvoc.jpeg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1850620_249_145370_IJZAfWZ7g.jpeg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1850634_249_145370_R7mroBSbY.jpeg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1850628_249_145370_uxriBZiJN.jpeg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1850630_249_145370_F5i_39i5Q.jpeg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1850632_249_145370_Bv9_HEGOo.jpeg"
+        },
+        {
+          "url": "https://s3files.core77.com/images/FusionForward2026/resource_island_fusion_forward_desktop_text.png"
+        },
+        {
+          "url": "https://s3files.core77.com/images/FusionForward2026/resource_island_fusion_forward_mobile_text.png"
+        },
+        {
+          "url": "https://s3files.core77.com/images/c77_directory/ribbon-c77da.png"
+        }
+      ],
+      "video": {
+        "provider": "file",
+        "id": "https://s3files.core77.com/images/FusionForward2026/three-versions.mp4",
+        "url": "https://s3files.core77.com/images/FusionForward2026/three-versions.mp4",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-09-29T01:05:09+00:00"
+      },
+      "titleZh": "伦敦设计节以博物馆装置连接展览与日常参观",
+      "summaryZh": "维多利亚与艾尔伯特博物馆在伦敦设计节期间容纳设计论坛、数字设计活动及十处策展装置。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "伦敦设计节以博物馆装置连接展览与日常参观",
+            "paragraphs": [
+              "维多利亚与艾尔伯特博物馆在伦敦设计节期间容纳设计论坛、数字设计活动及十处策展装置。",
+              "报道从观众穿行博物馆展厅的体验出发，介绍设计节如何进入既有收藏与参观空间。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 25.0,
+        "completeness": 9.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "24a5c23f8c0e5ad3",
+      "url": "https://www.dezeen.com/2026/09/28/silora-task-chair-ito-design-narbutas-dezeen-showroom/",
+      "title": "Silora task chair by ITO Design for Narbutas",
+      "summary": "Dezeen Showroom: ITO Design let function drive form when creating this task chair, which features a distinctive sculptural back, for office brand Narbutas. The Silora chair features a striking backrest, with two petals that wrap around from the front, continuing the organic curve of the seating design's adaptive dual lumbar…",
+      "source": "Dezeen",
+      "category": "工业设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/silora-task-chair-ito-design-narbutas_dezeen_2364_sq-852x852.jpg",
+      "publishedAt": "2026-09-28T13:00:17+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 51.9,
+      "titleZh": "任务椅以双瓣靠背表达腰部支撑结构",
+      "summaryZh": "一款办公任务椅以功能推动造型，靠背呈现两片从前侧向后包裹的瓣状结构。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "任务椅以双瓣靠背表达腰部支撑结构",
+            "paragraphs": [
+              "一款办公任务椅以功能推动造型，靠背呈现两片从前侧向后包裹的瓣状结构。",
+              "产品说明将这一形态与自适应双腰部支撑联系起来；本文属于新品展示，不据摘要宣称独立人体工学验证。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "11ff98b872b8edc2",
+      "url": "https://www.archdaily.com/1185847/melides-mg-house-pereira-miguel-arquitectos",
+      "title": "Melides MG House / Pereira Miguel Arquitectos",
+      "summary": "Located in Esteveira, Melides , this project is a single-family house consisting of several volumes and a swimming pool, all interconnected though outdoor spaces that form an angle, following the natural amphitheatre contours of the",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-28T13:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.6,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/b8c2/5355/6000/01b4/aa49/newsletter/MELIDES_MG_LOW-2.jpg?1790359760"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/b8c2/5355/6000/01b4/aa4d/thumb_jpg/MELIDES_MG_LOW-16.jpg?1790359779"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/b8c3/5355/6000/01b4/aa50/thumb_jpg/MELIDES_MG_LOW-27.jpg?1790359770"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/b8c3/5355/6000/01b4/aa54/thumb_jpg/MELIDES_MG_LOW-37.jpg?1790359771"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/b8c2/5355/6000/01b4/aa4e/thumb_jpg/MELIDES_MG_LOW-24.jpg?1790359769"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/b8c3/5355/6000/01b4/aa53/newsletter/MELIDES_MG_LOW-35.jpg?1790359763"
+        }
+      ],
+      "titleZh": "梅利德斯住宅以室外空间连接分散体量",
+      "summaryZh": "葡萄牙梅利德斯的一栋独立住宅由多个体量及泳池组成。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "梅利德斯住宅以室外空间连接分散体量",
+            "paragraphs": [
+              "葡萄牙梅利德斯的一栋独立住宅由多个体量及泳池组成。",
+              "连接这些部分的室外空间顺应场地近似露天剧场的自然地形组织，形成带有转折的布局。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.6,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "0ae0a0fa6feb5a90",
+      "url": "https://www.creativebloq.com/design/graphic-design-software/coreldraw-adds-text-to-vector-ai-in-the-september-update-is-it-a-good-move",
+      "title": "CorelDRAW adds Text-to-Vector AI in the September update – is it a good move?",
+      "summary": "The AI generates editable artwork, not another flat image to",
+      "source": "Creative Bloq",
+      "category": "人工智能设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/EHxixv8fQK56YzKNKNoAnb-1920-80.jpg",
+      "publishedAt": "2026-09-28T12:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 60.8,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/EHxixv8fQK56YzKNKNoAnb-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/VFQa5nt5aBA9ZghwZp5Hrb-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/nNbgWmSiqunhZau6enJ4ub-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/E2kMHco8GaiTRwj9SWHTJ8-320-80.jpg"
+        }
+      ],
+      "titleZh": "矢量绘图软件加入可编辑的文字生成矢量功能",
+      "summaryZh": "绘图软件九月更新加入文字生成矢量图形的人工智能功能。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "矢量绘图软件加入可编辑的文字生成矢量功能",
+            "paragraphs": [
+              "绘图软件九月更新加入文字生成矢量图形的人工智能功能。",
+              "公开摘要强调结果可以继续编辑，而非只输出一张平面图像；具体支持范围和使用限制仍需查看原文。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 12.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "89ef4cd3c8e69f3c",
+      "url": "https://www.artofvfx.com/in-the-hand-of-dante-monkey-rave-production-reveals-its-environment-and-ocean-vfx/",
+      "title": "In the Hand of Dante: Monkey Rave Production Reveals Its Environment and Ocean VFX",
+      "summary": "Armenian visual effects studio Monkey Rave Production has released this VFX breakdown showcasing its work on In the Hand of Dante, with a particular focus on the film’s environments and ocean shots. The breakdown highlights Monkey Rave’s work on the film’s coastal settings, revealing how visual effects were used to extend and…",
+      "source": "Art of VFX",
+      "category": "动态设计",
+      "image": "https://i.ytimg.com/vi/4xdPp-yhpW0/hqdefault.jpg",
+      "publishedAt": "2026-09-28T12:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 58.8,
+      "video": {
+        "provider": "youtube",
+        "id": "4xdPp-yhpW0",
+        "url": "https://www.youtube.com/embed/4xdPp-yhpW0",
+        "thumbnail": "https://i.ytimg.com/vi/4xdPp-yhpW0/hqdefault.jpg",
+        "title": "IN THE HAND OF DANTE VFX Breakdown by Monkey Rave",
+        "author": "Monkey Rave Production",
+        "duration": 0,
+        "verifiedAt": "2026-09-29T01:05:09+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/4xdPp-yhpW0/hqdefault.jpg"
+      ],
+      "titleZh": "《但丁之手》特效拆解展示海洋与环境扩展",
+      "summaryZh": "一家亚美尼亚视觉特效工作室公开影片《但丁之手》的制作拆解，重点展示环境和海洋镜头。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "《但丁之手》特效拆解展示海洋与环境扩展",
+            "paragraphs": [
+              "一家亚美尼亚视觉特效工作室公开影片《但丁之手》的制作拆解，重点展示环境和海洋镜头。",
+              "说明提到沿海场景的延伸与扩展，呈现后期特效如何参与影片场景构建。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 10.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "b6e98210a8196b47",
+      "url": "https://www.archdaily.com/1029387/koto-niwa-cabin-koto",
+      "title": "Koto Niwa Cabin / Koto",
+      "summary": "Koto's new Niwa flatpack collection is an evolution of our commitment to thoughtful, sustainable modular design. Born from a desire to create adaptable, nature-connected spaces in even the most remote locations, Niwa represents a blend of precision craftsmanship, sustainability, and effortless assembly. Inspired by Scandinavian…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-28T12:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 67.0,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6808/1530/5bb0/0401/8564/80cc/newsletter/koto-niwa-koto_1.jpg?1745360186"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6808/1518/9713/bf3e/379b/9f64/thumb_jpg/koto-niwa-koto_13.jpg?1745360167"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6808/1518/9713/bf01/888b/ec07/thumb_jpg/koto-niwa-koto_10.jpg?1745360175"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6808/152f/5bb0/0401/8564/80cb/thumb_jpg/koto-niwa-koto_8.jpg?1745360187"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6808/1520/9713/bf01/888b/ec0c/thumb_jpg/koto-niwa-koto_1.jpg?1745360169"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6808/1518/9713/bf3e/379b/9f64/newsletter/koto-niwa-koto_13.jpg?1745360167"
+        }
+      ],
+      "titleZh": "平板包装小屋探索偏远地点的模块化建造",
+      "summaryZh": "小屋系列采用平板包装的模块化思路，面向可调整并与自然相连的空间需求。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "平板包装小屋探索偏远地点的模块化建造",
+            "paragraphs": [
+              "小屋系列采用平板包装的模块化思路，面向可调整并与自然相连的空间需求。",
+              "公开项目说明强调精密制作和便于组装，也提到偏远地点的应用情境；可持续性表述来自项目方，未作独立性能验证。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 10.0,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "acff1b45ea4a0f59",
+      "url": "https://www.wallpaper.com/transportation/rossinavi-unveils-m-y-heed-an-aluminium-superyacht-with-interiors-by-achille-salvagni",
+      "title": "Rossinavi unveils M/Y HEED, an aluminium superyacht with interiors by Achille Salvagni",
+      "summary": "Making its global debut at the 2026 Monaco Yacht Show, M/Y HEED is the newest build from Italian shipyard Rossinavi. We take a tour of the unique Achille Salvagni-designed",
+      "source": "Wallpaper",
+      "category": "工业设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/Kf8NBGgtZWVFjUiRBRN2uV-1920-80.jpg",
+      "publishedAt": "2026-09-28T12:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.7,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/giFtjHxwUfKhezNEN2mWQf-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/FGq6PCtEDivDjT8JstcKMJ-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/dYs7HEAnorVnfdkXvs67MJ-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/iKDHQmK8Gx5L9ynt3ypC5S-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/zwW3daAJnKaeSnwvCv2X5S-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TAVUMx9Pt4Nhxw8GpCMNfb-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/WiBUae2T6nM3hvMsoXh5Wb-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/GoGp7xAhb9dKgxnjpE3Xfb-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6BLdxHkJqRiaiQW2QgmLM8-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/SGJ2zqynB3y5jzNxVTGNTo-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/q6uUBfdhxTauFr35gtwQ5-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/xWsCsmhyq6y2C7Avzpqa4-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/huZzn8wSVG2h44UdUVQPNo-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/CN5aKxRNWkzxSMrC7pA6o9-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/kQzSdsMDFscRZTFooakV9R-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/nbmXGu8bDxzTKQhWDb9iK3-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/t9oZJCDCJQvQW827qpjHad-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZpPJ7sRKmZi2Nqd9xSKVid-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6dwFJ5t5c4VGa5TBxiTNkd-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7vV2depeeLXWrbCeRxygkd-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/CWJ6Eg3dUGUJNRQqeLpkkd-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/t9oZJCDCJQvQW827qpjHad-415-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZpPJ7sRKmZi2Nqd9xSKVid-415-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6dwFJ5t5c4VGa5TBxiTNkd-415-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7vV2depeeLXWrbCeRxygkd-415-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/CWJ6Eg3dUGUJNRQqeLpkkd-415-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/z9JnoHC9oHVoZvzsJPEi6R-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ujC43R7abjhRGQKoyzMnND-320-80.jpg"
+        }
+      ],
+      "titleZh": "铝制超级游艇在摩纳哥亮相并展示定制内饰",
+      "summaryZh": "意大利船厂新建铝制超级游艇于二〇二六年摩纳哥游艇展全球亮相。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "铝制超级游艇在摩纳哥亮相并展示定制内饰",
+            "paragraphs": [
+              "意大利船厂新建铝制超级游艇于二〇二六年摩纳哥游艇展全球亮相。",
+              "报道走访由阿基莱·萨尔瓦尼设计的内饰；摘要没有提供航程、能耗或尺寸参数。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.7,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "3cda29b0c625a77b",
+      "url": "https://thedieline.com/moon-blessings-sends-the-mid-autumn-gift-box-into-orbit/",
+      "title": "Moon Blessings Sends the Mid-Autumn Gift Box Into Orbit",
+      "summary": "Moon Blessings sends Mid Autumn gifting into outer space, transforming familiar lunar symbolism into a futuristic journey. Silver spacecraft surfaces, a circular observation window and a floating moon rabbit turn the gift box into a playful meeting point between Chinese tradition and science",
+      "source": "Dieline",
+      "category": "视觉设计",
+      "image": "https://thedieline.com/wp-content/uploads/2026/09/Moon-Blessings-Mockup-0-86e4ed222060e2df3625a5a7d3da80da-scaled-1.jpg",
+      "publishedAt": "2026-09-28T11:52:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.6,
+      "images": [
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/Moon-Blessings-Mockup-0-86e4ed222060e2df3625a5a7d3da80da-scaled-1.jpg?resize=600%2C338&quality=70&ssl=1"
+        },
+        {
+          "url": "https://thedieline.com/wp-content/uploads/2026/09/Tech-featured-image375-2-600x338.avif"
+        },
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/91879010007-the-laughing-cow-spread-the-laugh-retouched-image-5.webp?resize=600%2C400&quality=65&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/STUDENT-WEEK-27.png?resize=600%2C338&quality=65&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/Athletic-Graza-082126-Athletic-Graza-082526-962-1-scaled.jpg?resize=600%2C400&quality=70&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-11.26.49-AM.png?resize=600%2C391&quality=65&ssl=1"
+        }
+      ],
+      "titleZh": "中秋礼盒以太空舷窗重构月兔意象",
+      "summaryZh": "中秋礼盒将传统月亮和月兔符号转化为太空旅行场景。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "中秋礼盒以太空舷窗重构月兔意象",
+            "paragraphs": [
+              "中秋礼盒将传统月亮和月兔符号转化为太空旅行场景。",
+              "银色航天器表面、圆形观察窗与漂浮月兔共同构成包装叙事，让节庆主题以科幻语言呈现。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.6,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "f5362de884b5e5b7",
+      "url": "https://thedieline.com/vinya-llarga-stretches-the-vineyard-across-the-bottle/",
+      "title": "Vinya Llarga Stretches the Vineyard Across the Bottle",
+      "summary": "Vinya Llarga stretches the vineyard across the bottle in sweeping bands of green, yellow and earthy brown. Atipus turns the landscape into abstraction, giving Maria Rigol Ordi’s first still wine a fresh identity built around movement, simplicity and the meaning behind its",
+      "source": "Dieline",
+      "category": "视觉设计",
+      "image": "https://thedieline.com/wp-content/uploads/2026/09/VL-1900x1070-04-9886aef318d6fa3dea7022f2b26184c9-scaled-1.jpg",
+      "publishedAt": "2026-09-28T11:49:18+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.8,
+      "images": [
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/VL-1900x1070-04-9886aef318d6fa3dea7022f2b26184c9-scaled-1.jpg?resize=600%2C338&quality=70&ssl=1"
+        },
+        {
+          "url": "https://thedieline.com/wp-content/uploads/2026/09/Tech-featured-image375-2-600x338.avif"
+        },
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/91879010007-the-laughing-cow-spread-the-laugh-retouched-image-5.webp?resize=600%2C400&quality=65&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/STUDENT-WEEK-27.png?resize=600%2C338&quality=65&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/Athletic-Graza-082126-Athletic-Graza-082526-962-1-scaled.jpg?resize=600%2C400&quality=70&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-11.26.49-AM.png?resize=600%2C391&quality=65&ssl=1"
+        }
+      ],
+      "titleZh": "葡萄酒包装以抽象色带延展葡萄园景观",
+      "summaryZh": "一款静态葡萄酒的新包装把葡萄园景观转化为绿色、黄色与大地棕色的流动带状图形。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "葡萄酒包装以抽象色带延展葡萄园景观",
+            "paragraphs": [
+              "一款静态葡萄酒的新包装把葡萄园景观转化为绿色、黄色与大地棕色的流动带状图形。",
+              "设计团队围绕简洁、运动感和名称含义建立识别，用抽象景观替代直接描绘的风景图像。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "7ebe34ba030747bc",
+      "url": "https://www.wallpaper.com/art/exhibitions-shows/zoya-cherkassky-makes-sense-of-american-life-with-rich-diverse-paintings-in-new-york",
+      "title": "Zoya Cherkassky makes sense of American life with rich, diverse paintings in New York",
+      "summary": "In 'American Cooking', at Fort Gansevoort, New York, Ukrainian artist Zoya Cherkassky captures life around",
+      "source": "Wallpaper",
+      "category": "视觉设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/SNuaBzzNhNdGDe6fDaZ2FU-1920-80.jpg",
+      "publishedAt": "2026-09-28T11:21:06+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.8,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/y8Be2rZoCzt24UHg6UMSqU-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/9tSBhY9SAuA7zVLSTaudWT-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/RgUsonkB48Ts4s4FKbLAiU-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/VhYuYwUT7i5Pq5N9D2pLVU-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Anzt6FDqJ8my2NH9prmTaU-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/L72GDdjP4nNCRKgPpXjXuU-320-80.jpg"
+        }
+      ],
+      "titleZh": "纽约绘画展以多样人物观察美国生活",
+      "summaryZh": "乌克兰艺术家佐娅·切尔卡斯基在纽约展出围绕美国生活的绘画。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "纽约绘画展以多样人物观察美国生活",
+            "paragraphs": [
+              "乌克兰艺术家佐娅·切尔卡斯基在纽约展出围绕美国生活的绘画。",
+              "展览以日常人物与生活环境为观察对象；当前只据公开摘要介绍展览主题，不扩展未核实的作品细节。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "339d21e98e740cfa",
+      "url": "https://www.printmag.com/daily-heller/the-daily-heller-letters-to-the-aspiring-editor/",
+      "title": "The Daily Heller: Letters to the Aspiring Editor",
+      "summary": "Among the more difficult things to detach from are letters from friends and",
+      "source": "PRINT",
+      "category": "视觉设计",
+      "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/Ronald-Searle-2.png?resize=712%2C1024&quality=80&ssl=1",
+      "publishedAt": "2026-09-28T11:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.6,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/Ronald-Searle-2-scaled.png?w=1779&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/Gary-Trudeau-2-1-1.jpeg?w=1720&quality=89&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/Gary-Trudeau-2-2.jpeg?w=1720&quality=89&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/Fritz-Eichenberg-1-3.png?w=1628&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/letters-lorant-2.jpeg?w=2000&quality=89&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/letters-lorant.jpeg?w=1620&quality=89&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/Fritz-Eichenberg-1-scaled.png?w=2000&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/Fritz-Eichenberg-1-1-scaled.png?w=2000&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/letters-lorant-3.jpeg?w=1769&quality=89&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/ed-sorel-scaled.png?w=1846&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/Ronald-Searle-4-scaled.jpeg?w=1988&quality=89&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/Andre-Francois-letter-scaled.png?w=1948&quality=80&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/09/Ronald-Searle.jpeg?resize=750%2C549&quality=89&ssl=1"
+        }
+      ],
+      "titleZh": "编辑写作回顾以私人书信保存同行联系",
+      "summaryZh": "设计出版评论文章从朋友来信出发，讨论写给有志编辑者的书信。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "编辑写作回顾以私人书信保存同行联系",
+            "paragraphs": [
+              "设计出版评论文章从朋友来信出发，讨论写给有志编辑者的书信。",
+              "公开订阅只提供简短引言，本条限于介绍文章主题，完整论述请见原文。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.6,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "654f88d7691104d2",
+      "url": "https://www.dezeen.com/2026/09/28/rezen-alchemy-saunas/",
+      "title": "Rezen transforms hotel stables in Australia into \"raw and direct\" wellness centre",
+      "summary": "Arched openings and rough brick walls evoke the feel of a Roman bathhouse at Alchemy Saunas, a wellness centre in Australia by interior design studio Rezen. The project involved transforming a former stable and cellar at the base of the Royal George Hotel in Fremantle, which dates back to 1903 and is currently undergoing…",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/alchemy-saunas-rezen-architecture-interiors-public-leisure-australia_dezeen_2364_sq-852x852.jpg",
+      "publishedAt": "2026-09-28T10:30:28+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 51.9,
+      "titleZh": "澳大利亚旧马厩改造成粗砖与拱洞桑拿空间",
+      "summaryZh": "一处健康休闲空间由酒店旧马厩与地窖改造而来，保留粗糙砖墙并采用拱形开口。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "澳大利亚旧马厩改造成粗砖与拱洞桑拿空间",
+            "paragraphs": [
+              "一处健康休闲空间由酒店旧马厩与地窖改造而来，保留粗糙砖墙并采用拱形开口。",
+              "项目位于弗里曼特尔，原酒店可追溯至一九〇三年；室内设计借这些元素营造近似罗马浴场的氛围。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "2c9b59f2d6e5559d",
+      "url": "https://www.designboom.com/design/sabine-marcelis-solidnature-event-decoration-collectible-design/",
+      "title": "sabine marcelis and solidnature transform ephemeral event decoration into collectible design",
+      "summary": "sabine marcelis and solidnature transform a runway dinner setting into 400 limited-edition candleholders in travertine and",
+      "source": "designboom",
+      "category": "工业设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/09/solidnature-sabine-marcelis-candleholder-designboom-01.jpg",
+      "publishedAt": "2026-09-28T10:00:41+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 51.8,
+      "images": [
+        {
+          "url": "https://www.designboom.com/shop/wp-content/uploads/2015/02/airframe02.jpg"
+        }
+      ],
+      "titleZh": "秀场晚宴装饰转化为四百件限量烛台",
+      "summaryZh": "设计师与石材品牌将临时秀场晚宴布置转化为四百件限量烛台。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "秀场晚宴装饰转化为四百件限量烛台",
+            "paragraphs": [
+              "设计师与石材品牌将临时秀场晚宴布置转化为四百件限量烛台。",
+              "公开摘要提到洞石材料，关注短期活动装饰转为可保留物件的过程，不补写被截断的其他材料信息。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "cac2e8eea9edab7d",
+      "url": "https://www.archdaily.com/1185665/lifescience-incubator-villejuif-baumschlager-eberle-architekten",
+      "title": "LifeScience Incubator, Villejuif / Baumschlager Eberle Architekten + SAME architectes",
+      "summary": "Nestled atop a hill and adjacent to the Hautes Bruyères park, the Gustave Roussy Institute now has a new scientific hub dedicated to cancer research, designed by Baumschlager Eberle Architectes in collaboration with Studio SAME Architectes, the associate",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-28T10:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.6,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ab4/0b52/59bf/5a01/8bd6/83d1/newsletter/lifescience-incubator-villejuif-baumschlager-eberle-architekten_20.jpg?1790184290"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab4/0b52/e78f/b301/883c/f31c/thumb_jpg/lifescience-incubator-villejuif-baumschlager-eberle-architekten_12.jpg?1790184300"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab4/0b51/59bf/5a01/8bd6/83c9/thumb_jpg/lifescience-incubator-villejuif-baumschlager-eberle-architekten_8.jpg?1790184291"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab4/0b52/59bf/5a01/8bd6/83ce/thumb_jpg/lifescience-incubator-villejuif-baumschlager-eberle-architekten_15.jpg?1790184306"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab4/0b52/e78f/b301/883c/f319/thumb_jpg/lifescience-incubator-villejuif-baumschlager-eberle-architekten_5.jpg?1790184316"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab4/0b52/e78f/b301/883c/f318/newsletter/lifescience-incubator-villejuif-baumschlager-eberle-architekten_13.jpg?1790184297"
+        }
+      ],
+      "titleZh": "维勒瑞夫生命科学孵化器连接科研与公园环境",
+      "summaryZh": "新的癌症研究科研设施位于山丘之上，毗邻公园。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "维勒瑞夫生命科学孵化器连接科研与公园环境",
+            "paragraphs": [
+              "新的癌症研究科研设施位于山丘之上，毗邻公园。",
+              "项目由两家建筑团队合作完成，服务于古斯塔夫·鲁西研究机构；摘要聚焦其位置和科研用途。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.6,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "30233e0b87ea1de6",
+      "url": "https://www.dezeen.com/2026/09/28/v-flex-vitra-tiles-dezeen-showroom/",
+      "title": "V-Flex by VitrA Tiles",
+      "summary": "Dezeen Showroom: surfaces brand VitrA Tiles has developed V-Flex, a method of installation that aims to meet evolving architectural expectations by being simple and adhesive-free. The company's V-Flex system provides a quick and simple installation option for projects that seek efficiency, the flexibility to make changes over…",
+      "source": "Dezeen",
+      "category": "工业设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/v-flex-vitra-tiles_dezeen_2364_col_0-852x852.jpg",
+      "publishedAt": "2026-09-28T09:30:22+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 51.8,
+      "titleZh": "瓷砖安装系统以免胶方式支持后续调整",
+      "summaryZh": "一款瓷砖安装系统提出免粘合剂的安装方式，面向希望提高施工效率并便于调整的项目。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "瓷砖安装系统以免胶方式支持后续调整",
+            "paragraphs": [
+              "一款瓷砖安装系统提出免粘合剂的安装方式，面向希望提高施工效率并便于调整的项目。",
+              "这些效果来自品牌产品说明，公开摘要没有给出独立测试或适用基层的完整条件。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "64d6c21781d00422",
+      "url": "https://www.wallpaper.com/architecture/architecture-events/home-of-the-future-exhibition-lacma-usa",
+      "title": "Step inside the ‘Home of the Future’, from design fantasies to modernist architecture",
+      "summary": "A new Los Angeles show explores the 'Home of the Future'; LACMA shines a light on the 20th century's exploration of domestic",
+      "source": "Wallpaper",
+      "category": "空间设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/JpwvNYAUNYJZbiDaAa2kcN-1920-80.jpg",
+      "publishedAt": "2026-09-28T09:30:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.9,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/seigqgAtNnNuegRkHxAzoN-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5uPpZkpa2PngbNSbk5WgKN-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/QJyTsgtdmSNX4w9BiVUJCP-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5BwUVjJrxci7BYfF64NM9N-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ztDFS2v6q6xJxKmSYYMyyN-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3B8nbHZQQvxawQSDzfoVYN-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/hv4LYymr2sRP7gJjpZN2JN-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/mnFeKK8Dx6S64gWVJWDh4N-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7Yz2ux4GZtq8LexY4DwEyM-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/jyJwpva2JnDDcUaJ4BdVUN-320-80.jpg"
+        }
+      ],
+      "titleZh": "洛杉矶展览回看二十世纪的未来住宅想象",
+      "summaryZh": "洛杉矶县立艺术博物馆展览以未来之家为主题，回顾二十世纪对家庭空间的设想。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "洛杉矶展览回看二十世纪的未来住宅想象",
+            "paragraphs": [
+              "洛杉矶县立艺术博物馆展览以未来之家为主题，回顾二十世纪对家庭空间的设想。",
+              "报道把设计幻想与现代主义建筑并置，呈现住宅想象的历史语境，而非预告即将落成的新住宅。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "3a0ae2e870a7fdb3",
+      "url": "https://www.archdaily.com/1185903/zanine-caldas-creating-worlds",
+      "title": "Zanine Caldas – Creating Worlds",
+      "summary": "Zanine Caldas – Creating Worlds runs through November 7, 2026, at the Tomie Ohtake House-Studio, the artist's former residence in Campo Belo, São Paulo. Curated by Sabrina Fontenele with assistance from Lahayda Mamani Poma, the exhibition brings together furniture, models, drawings, architectural projects, photographs, films,…",
+      "source": "ArchDaily",
+      "category": "工业设计",
+      "image": null,
+      "publishedAt": "2026-09-28T09:10:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 51.9,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/6b34/5c4d/8600/0165/6c7c/newsletter/260917EEO_tomie_casa_061.jpg?1790602140"
+        }
+      ],
+      "titleZh": "圣保罗展览汇集卡尔达斯家具与建筑档案",
+      "summaryZh": "扎尼内·卡尔达斯展览在圣保罗一处艺术家故居展出，汇集家具、模型、图纸、建筑项目和影像资料。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "圣保罗展览汇集卡尔达斯家具与建筑档案",
+            "paragraphs": [
+              "扎尼内·卡尔达斯展览在圣保罗一处艺术家故居展出，汇集家具、模型、图纸、建筑项目和影像资料。",
+              "展览公开信息给出的结束日期为二〇二六年十一月七日，材料横跨不同创作媒介。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "9f7d1516996c108a",
+      "url": "https://www.dezeen.com/2026/09/28/farshid-moussavi-2026-soane-medal/",
+      "title": "Farshid Moussavi wins 2026 Soane Medal for architecture",
+      "summary": "British-Iranian architect Farshid Moussavi has been awarded this year's Soane Medal for her \"sustained and rigorous\" contribution to architecture through building, teaching and writing. Moussavi, who founded Farshid Moussavi Architects in 2011 and is an architecture professor at the Harvard University Graduate School of Design,…",
+      "source": "Dezeen",
+      "category": "建筑设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/farshid-moussavi-2026-soane-medal_dezeen_2364_col_0-852x852.jpg",
+      "publishedAt": "2026-09-28T09:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 51.5,
+      "titleZh": "法尔希德·穆萨维获二〇二六年索恩建筑奖章",
+      "summaryZh": "公开报道宣布建筑师法尔希德·穆萨维获得二〇二六年索恩奖章。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "法尔希德·穆萨维获二〇二六年索恩建筑奖章",
+            "paragraphs": [
+              "公开报道宣布建筑师法尔希德·穆萨维获得二〇二六年索恩奖章。",
+              "当前摘要未提供完整评奖理由，本条不延伸评价其具体获奖依据。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "b0c7983df7cf5eb6",
+      "url": "https://www.yankodesign.com/2026/09/28/a-fan-imagined-nokias-comeback-with-one-feature-worth-stealing/",
+      "title": "A Fan Imagined Nokia’s Comeback With One Feature Worth Stealing",
+      "summary": "A Fan Imagined Nokia’s Comeback With One Feature Worth Stealing Nokia’s phone business has been fading for years, reduced mostly to budget handsets sold under license, so a concept calling itself the N90 Ultra",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/a-fan-imagined-nokias-comeback-with-one-feature-worth-stealing/nokia-n90-ultra-concept-06.jpg",
+      "publishedAt": "2026-09-28T08:23:38+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 64.6,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-fan-imagined-nokias-comeback-with-one-feature-worth-stealing/nokia-n90-ultra-concept-06-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-fan-imagined-nokias-comeback-with-one-feature-worth-stealing/nokia-n90-ultra-concept-05-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-fan-imagined-nokias-comeback-with-one-feature-worth-stealing/nokia-n90-ultra-concept-01-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-fan-imagined-nokias-comeback-with-one-feature-worth-stealing/nokia-n90-ultra-concept-02-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-fan-imagined-nokias-comeback-with-one-feature-worth-stealing/nokia-n90-ultra-concept-03-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-fan-imagined-nokias-comeback-with-one-feature-worth-stealing/nokia-n90-ultra-concept-07-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-fan-imagined-nokias-comeback-with-one-feature-worth-stealing/nokia-n90-ultra-concept-08-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-fan-imagined-nokias-comeback-with-one-feature-worth-stealing/nokia-n90-ultra-concept-10-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-fan-imagined-nokias-comeback-with-one-feature-worth-stealing/nokia-n90-ultra-concept-09-773x580.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/09/a-fan-imagined-nokias-comeback-with-one-feature-worth-stealing/nokia-n90-ultra-concept-04-773x580.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "bdJzYd8SkD0",
+        "url": "https://www.youtube.com/embed/bdJzYd8SkD0",
+        "thumbnail": "https://i.ytimg.com/vi/bdJzYd8SkD0/hqdefault.jpg",
+        "title": "NOKIA N90 Ultra",
+        "author": "AndroidLeo",
+        "duration": 0,
+        "verifiedAt": "2026-09-29T01:05:09+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/bdJzYd8SkD0/hqdefault.jpg"
+      ],
+      "titleZh": "诺基亚回归想象以独立手机概念提出新功能",
+      "summaryZh": "一位爱好者构想诺基亚手机回归的概念方案。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "诺基亚回归想象以独立手机概念提出新功能",
+            "paragraphs": [
+              "一位爱好者构想诺基亚手机回归的概念方案。",
+              "该方案是独立设计想象，并非诺基亚官方发布的新机，不能据此判断上市时间或实际规格。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 25.0,
+        "completeness": 9.6,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "9ddd655fb3379f27",
+      "url": "https://www.designboom.com/design/bottega-veneta-cardboard-boxes-sculptural-stools-summer-2027-show-illya-goldman-gubin/",
+      "title": "illya goldman gubin embraces cardboard boxes, shaping them into stools for bottega veneta",
+      "summary": "the ukrainian artist shapes each box through direct physical contact, leaving its folds, creases, and irregularities visible in a series of individually formed",
+      "source": "designboom",
+      "category": "工业设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/09/bottega-veneta-cardboard-boxes-sculptural-stools-summer-2027-show-illya-goldman-gubin-designboom-01.jpg",
+      "publishedAt": "2026-09-28T08:17:09+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 51.7,
+      "images": [
+        {
+          "url": "https://www.designboom.com/shop/wp-content/uploads/2015/02/airframe02.jpg"
+        }
+      ],
+      "titleZh": "纸箱折痕成为时装秀雕塑座凳的形态语言",
+      "summaryZh": "乌克兰艺术家通过直接身体接触塑造纸箱，将其变成各不相同的座凳形态。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "纸箱折痕成为时装秀雕塑座凳的形态语言",
+            "paragraphs": [
+              "乌克兰艺术家通过直接身体接触塑造纸箱，将其变成各不相同的座凳形态。",
+              "作品保留折痕、褶皱与不规则边缘，为葆蝶家秀场提供具有雕塑感的物件。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.7,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "cb7fbc9ffa9bed49",
+      "url": "https://www.creativeboom.com/insight/wildwood-art-director-matthew-maldonado-on-why-laika-still-builds-everything-by-hand-and-why-theyre-coming-to-londons-design-musuem/",
+      "title": "Matthew Maldonado on why LAIKA made everything by hand for new film Wildwood",
+      "summary": "The stop-motion studio behind Coraline, The Boxtrolls and Kubo and the Two Strings is bringing its puppets and sets to London. Its art director explains how and why they were made. Remember when the",
+      "source": "Creative Boom",
+      "category": "动态设计",
+      "image": "https://media.creativeboom.com/5d531f28-6fb8-4dbb-9e4e-942d36651e96/conversions/35166b2ee4a6df2185696f43fc944abb9389af9b-medium.webp",
+      "publishedAt": "2026-09-28T08:15:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 73.7,
+      "images": [
+        {
+          "url": "https://media.creativeboom.com/ad8d028a-c868-46e4-aef4-5b3fdc76dc30/conversions/cc0c39a28ff64c7e5374d436536f843c55f22c38-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/5d531f28-6fb8-4dbb-9e4e-942d36651e96/conversions/35166b2ee4a6df2185696f43fc944abb9389af9b-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/97a807d0-a355-41ff-8c82-3886ea4b4600/conversions/212da88a4bf7f5629c3dd6e7ed4e1905ad8e72ea-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/c3a10b02-123e-48c7-a78c-d17fc062e2fb/conversions/522feb2ef2e6d138c95264cda959aababb36a511-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/b42e236f-f2bb-4779-a0f0-3707dd343b4f/conversions/34a4430acadc3261c1cd77f8c2d4f0471685d3fc-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/ce86e2c5-cfef-41ab-87ee-661597907822/conversions/0cb7d5ad68bc554b0887224f4a3aee06e66bc524-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/4ccffea9-e2b9-4040-84bc-8cc7a63f8c3d/conversions/ff17ff86b2d73360d444359eaa44bcf3890b3dd8-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/f13fe1e1-8097-4756-9c55-a69819a5e471/conversions/2cd73ec6aac4d656b7dc11317911a4f4ec014525-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/011edc6d-0fdf-4cf7-8d70-63a6a5473603/conversions/349e2caf4d2ed96463a0619b7dbf5a75992c1ff5-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/cd8ced49-d7b8-435e-b94b-0e0ad07eeb9b/conversions/c3ad45aabcc0114a83d73a16290eb64cbf84f523-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/e565879a-ef09-471d-91fc-f67da9d457d0/conversions/9665f77a2fec083968d8df857f15ea4e6154bedb-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/796c254d-49d6-404a-88f8-4381ea3cb643/conversions/f0ca6e1cae9528b0fd16700877c82cff79cd6f3a-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/1d9719ee-6993-48e0-a315-4a9b32aae557/conversions/ed5e93a78a6ba678892fc671e697151b76daa595-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/b191c2c5-17bc-451f-af10-7ac73f11c060/conversions/ee9572b4d826a3016c57e56122b5e1596d2484e3-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/71b8fe8a-2e18-40cd-b3f9-5dc844a3c5f3/conversions/654f1ea4f092f45e68df06091dbe040ccbc02a14-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/2a870dd1-0a0c-4818-825c-adb900d2cbb6/conversions/c531298dac1c0f0d7a827aef3dad31f5db897520-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/29d1f5b7-e0b0-4730-a81f-02404b6194cd/conversions/83ce5c5e23792c71838695ad22ec83b414f1096b-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/ed2ed019-1f13-41ec-b5a7-582d09857661/conversions/939fd795a344ec2a865c7ba821455d5c0f12ad5f-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/0f564da4-5d3d-4d7a-b747-2105d08094c0/conversions/31a09947b2b7c0b337adbf5b29fbe628f71c0281-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/afded463-dce2-40b7-a4a4-37d7dbd75980/conversions/239223a7090c48257dc0f9abf6ba7d044c5f38a9-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/e9f0f82b-7ae3-416d-9bfa-7495d59e4e63/conversions/11459353b2967d0a8a4530f33da128da5be67d3a-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/becc81a4-b13d-49af-a723-1bf8710e88e7/conversions/ea12a52e06cf2105372332693455b0f2239a0a3d-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/86df4c52-d689-454b-a0a5-fae586a0a7ce/conversions/c1510ffab0ba68787162c976a9975222cf804286-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/1f6a628c-937f-4f80-a13a-a82a0e96ca74/conversions/a65389dcf7ad5fca77eb02f6fb3752e61f3b2f33-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/4ab7f899-d1fc-437a-8ddb-1a90bd994115/conversions/a563ab48d6ff780bfc47f0090d03a3301811d5b1-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/85872437-e2bf-4314-b592-32e55a0761ff/conversions/80eb1e961d5e0317497ba56e0137abf347eea743-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/96d662db-626a-499a-a9f5-1edf48d791a8/conversions/50da61f25581ea1ab06da5f603af2ca1bef0d9f0-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/35e6be73-8fe7-45c3-9388-261bf5a8fdab/conversions/bd9978aeca85a65c95dcf3b8d128ed4dbb6bbaab-medium.webp"
+        },
+        {
+          "url": "https://www.creativeboom.com/img/illustrations/newsletter.webp"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "bJQGtSeLPII",
+        "url": "https://www.youtube.com/embed/bJQGtSeLPII",
+        "thumbnail": "https://i.ytimg.com/vi/bJQGtSeLPII/hqdefault.jpg",
+        "title": "Wildwood – Final Trailer | Get Tickets Now",
+        "author": "LAIKA Studios",
+        "duration": 0,
+        "verifiedAt": "2026-09-29T01:05:09+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/bJQGtSeLPII/hqdefault.jpg"
+      ],
+      "titleZh": "定格动画美术指导谈手工木偶与场景制作",
+      "summaryZh": "莱卡工作室新片《野林》的美术指导介绍木偶和场景为何继续采用手工制作。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "定格动画美术指导谈手工木偶与场景制作",
+            "paragraphs": [
+              "莱卡工作室新片《野林》的美术指导介绍木偶和场景为何继续采用手工制作。",
+              "报道还提到相关木偶与布景将来到伦敦，讨论定格动画中实体制作的创作选择。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 25.0,
+        "completeness": 9.7,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "168de6d949093a34",
+      "url": "https://www.dezeen.com/2026/09/28/kashef-chowdhury-book-roundup/",
+      "title": "Six civic projects by Kashef Chowdhury that put people first",
+      "summary": "Bangladeshi architect Kashef Chowdhury has published a monograph collating works from his three-decade-long career. In this roundup, we spotlight six key examples. Published by Park Books, the Meditations in Entropy monograph sees the architect recount his years focused on creating sustainable infrastructure for those who need…",
+      "source": "Dezeen",
+      "category": "建筑设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/kashef-chowdhury-meditations-in-entropy-roundup_dezeen_2364_col_6-852x852.jpg",
+      "publishedAt": "2026-09-28T08:00:52+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 52.0,
+      "titleZh": "乔杜里新专著回顾六项以人为本的公共项目",
+      "summaryZh": "孟加拉国建筑师卡谢夫·乔杜里出版回顾三十年职业经历的专著，媒体从中选出六项公共项目。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "乔杜里新专著回顾六项以人为本的公共项目",
+            "paragraphs": [
+              "孟加拉国建筑师卡谢夫·乔杜里出版回顾三十年职业经历的专著，媒体从中选出六项公共项目。",
+              "报道关注为有需要的人群建设可持续基础设施；这是作品回顾，不将既有项目写成当天完工。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "b843d3f481ac1679",
+      "url": "https://www.creativeboom.com/state-of-play/joseph-clark-on-why-hes-keeping-ai-out-of-oh-studio-and-the-protest-film-that-went-viral-saying-so/",
+      "title": "Joseph Clark on why he's keeping AI out of Oh Studio, and the protest film that went viral saying so",
+      "summary": "The animation director behind this summer's viral We Are Better Than This film says AI has nothing to offer his work. And he's built a remote studio to prove his point. If anyone can make anything",
+      "source": "Creative Boom",
+      "category": "人工智能设计",
+      "image": "https://media.creativeboom.com/b71b6ae0-53ef-4a5f-b137-86ca515cd3cb/conversions/7d20b1fbf67668e2eb5b70309deec5641726b730-medium.webp",
+      "publishedAt": "2026-09-28T08:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 73.9,
+      "images": [
+        {
+          "url": "https://media.creativeboom.com/b71b6ae0-53ef-4a5f-b137-86ca515cd3cb/conversions/7d20b1fbf67668e2eb5b70309deec5641726b730-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/c4409f74-f60b-49a9-80d4-dee111783a5d/conversions/49cae34f3627bf2d1fe8b7fbef2276c44b5f60d1-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/08174f44-4da7-4b5d-9bfe-ed3a2a215072/conversions/cc196e4c68c7b0e6f848769305dcc25bf7636418-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/f13fe1e1-8097-4756-9c55-a69819a5e471/conversions/2cd73ec6aac4d656b7dc11317911a4f4ec014525-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/011edc6d-0fdf-4cf7-8d70-63a6a5473603/conversions/349e2caf4d2ed96463a0619b7dbf5a75992c1ff5-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/cd8ced49-d7b8-435e-b94b-0e0ad07eeb9b/conversions/c3ad45aabcc0114a83d73a16290eb64cbf84f523-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/e565879a-ef09-471d-91fc-f67da9d457d0/conversions/9665f77a2fec083968d8df857f15ea4e6154bedb-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/796c254d-49d6-404a-88f8-4381ea3cb643/conversions/f0ca6e1cae9528b0fd16700877c82cff79cd6f3a-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/1d9719ee-6993-48e0-a315-4a9b32aae557/conversions/ed5e93a78a6ba678892fc671e697151b76daa595-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/b191c2c5-17bc-451f-af10-7ac73f11c060/conversions/ee9572b4d826a3016c57e56122b5e1596d2484e3-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/71b8fe8a-2e18-40cd-b3f9-5dc844a3c5f3/conversions/654f1ea4f092f45e68df06091dbe040ccbc02a14-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/2a870dd1-0a0c-4818-825c-adb900d2cbb6/conversions/c531298dac1c0f0d7a827aef3dad31f5db897520-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/29d1f5b7-e0b0-4730-a81f-02404b6194cd/conversions/83ce5c5e23792c71838695ad22ec83b414f1096b-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/ed2ed019-1f13-41ec-b5a7-582d09857661/conversions/939fd795a344ec2a865c7ba821455d5c0f12ad5f-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/0f564da4-5d3d-4d7a-b747-2105d08094c0/conversions/31a09947b2b7c0b337adbf5b29fbe628f71c0281-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/afded463-dce2-40b7-a4a4-37d7dbd75980/conversions/239223a7090c48257dc0f9abf6ba7d044c5f38a9-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/e9f0f82b-7ae3-416d-9bfa-7495d59e4e63/conversions/11459353b2967d0a8a4530f33da128da5be67d3a-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/becc81a4-b13d-49af-a723-1bf8710e88e7/conversions/ea12a52e06cf2105372332693455b0f2239a0a3d-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/3fa21d05-eba2-4821-b249-3e6193f5d687/conversions/aca26ad45b9e0c59c81915dfbe2cf34dbb780f80-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/74a03fd3-ec15-4603-959d-9af95cfc4d23/conversions/edb43b6d3338f70bda45a6c2a5d43b95b6bbc467-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/04575de5-86b0-439c-9f1d-4ce4b7fe92e7/conversions/83a950402968c028f4ac154c1871f52dca9ec84a-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/56cb3480-3592-401b-a53a-3eec0416fd7a/conversions/d8f91d0592c04fc42380ac211434044370719920-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/ad8c55bd-868b-4597-afbd-7e3486362dba/conversions/46a74479a8fd4507b3745cfc9156513e35667daf-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/6a6b7fbd-f95c-4abd-8e65-7c2e8c993ba7/conversions/4f2bb06fdcd669590731edebb7d66371e2c4f817-medium.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/914feed0-2e28-4fd4-8d85-ce28894e383e/conversions/2c47329772d0b7922883ec36286229cb18300df6-medium.webp"
+        },
+        {
+          "url": "https://www.creativeboom.com/img/illustrations/newsletter.webp"
+        }
+      ],
+      "video": {
+        "provider": "file",
+        "id": "https://media.creativeboom.com/cc54afbe-bd91-4070-b64e-893c43b6f184/conversions/b8c9bcd0a3680e54b6d0568ff5ee45d35a8d7fe5-animated.mp4",
+        "url": "https://media.creativeboom.com/cc54afbe-bd91-4070-b64e-893c43b6f184/conversions/b8c9bcd0a3680e54b6d0568ff5ee45d35a8d7fe5-animated.mp4",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-09-29T01:05:09+00:00"
+      },
+      "titleZh": "动画导演说明工作室坚持不用生成式人工智能",
+      "summaryZh": "动画导演约瑟夫·克拉克谈及其拒绝在工作室创作中使用人工智能的立场。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "动画导演说明工作室坚持不用生成式人工智能",
+            "paragraphs": [
+              "动画导演约瑟夫·克拉克谈及其拒绝在工作室创作中使用人工智能的立场。",
+              "文章结合此前传播的抗议短片及远程工作室实践展开；这是创作者观点，不代表整个动画行业的共识。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 25.0,
+        "completeness": 9.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "b22b7b9677b3e88d",
+      "url": "https://www.itsnicethat.com/articles/ross-gendels-zane-miller-quest-magazine-graphic-design-publication-project-280926",
+      "title": "Quest is a highly designed sci-fi and fantasy magazine built for web fiction",
+      "summary": "Every story gets its own typeface, artwork and visual world, with gaming-inspired navigation, sound and video bringing each piece to life",
+      "source": "Its Nice That",
+      "category": "用户体验设计",
+      "image": "https://admin.itsnicethat.com/images/H6aOLjmN32vflXzKChfy3D_MeAw=/281917/width-1440%7Cformat-jpeg/quest-publication-itsnicethat--Issue-01-Alexa-Velasquez.png",
+      "publishedAt": "2026-09-28T08:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.8,
+      "images": [
+        {
+          "url": "https://m.itsnicethat.com/original_images/quest-publication-itsnicethat--Issue-01-Alexa-Velasquez.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/quest-publication-itsnicethat--Issue-01-ePub-ezgif.com-video-to-gif-conver.gif?class=w640"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/quest-publication-itsnicethat--Issue-02-Promo-2.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/quest-publication-itsnicethat--Issue-02-Promo-1.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/quest-publication-itsnicethat--Issue-02-John-Provencher.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/quest-publication-itsnicethat--Issue-02-Kogan.png?class=w1440"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/quest-publication-itsnicethat--Issue-01-Simon-Heller.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/quest-publication-itsnicethat--Issue-02-Jody-Agus.png?class=w1080"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/quest-publication-itsnicethat--Issue-01-Jeffrey-Kam.png.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Mater-ItsNiceThat-0.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/clay-new-website-illustration-project-sponsored-content-itsnicethat-1.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/MRxSSENSE-XX-3.jpeg?class=w1080"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Zara_List.jpg?class=w1080"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/ALAENA-POST-11.png?class=w1080"
+        }
+      ],
+      "titleZh": "网络小说杂志以游戏式导航构建独立故事世界",
+      "summaryZh": "一本科幻与奇幻网络杂志为每篇故事配置独立字体、艺术图像与视觉世界。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "网络小说杂志以游戏式导航构建独立故事世界",
+            "paragraphs": [
+              "一本科幻与奇幻网络杂志为每篇故事配置独立字体、艺术图像与视觉世界。",
+              "游戏化导航结合声音和视频，形成面向网络阅读的叙事体验；不同媒介共同参与内容呈现。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "39e6252bb84923ad",
+      "url": "https://www.itsnicethat.com/articles/alexis-cros-graphic-design-discover-280926",
+      "title": "Designer Alexis Cros champions his local community through grungy, distorted graphics",
+      "summary": "Working across posters, records, garments and merchandise, the Lyon-based designer combines Xerox, airbrush and Letraset with digital tools to create textured graphics rooted in music and DIY",
+      "source": "Its Nice That",
+      "category": "视觉设计",
+      "image": "https://admin.itsnicethat.com/images/xueBMImNSLrgG-T_7Uuh-pGenak=/282967/width-1440/alexis-cros-graphic-design-itsnicethat-4AD_2024.jpg",
+      "publishedAt": "2026-09-28T08:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.7,
+      "images": [
+        {
+          "url": "https://m.itsnicethat.com/original_images/alexis-cros-graphic-design-itsnicethat-4AD_2024.jpg?class=w828"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/alexis-cros-graphic-design-itsnicethat-4AD_2024.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/alexis-cros-graphic-design-itsnicethat-Escape-ism_2025.jpg?class=w828"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/alexis-cros-graphic-design-itsnicethat-Descente_Chromatique_2025.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/alexis-cros-graphic-design-itsnicethat-Exek__Eat_Girls_2025.jpg?class=w828"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/alexis-cros-graphic-design-itsnicethat-Foncedalle_2025.jpg?class=w1440"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/alexis-cros-graphic-design-itsnicethat-Michel_Chemin_2024.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/alexis-cros-graphic-design-itsnicethat-Hatch_x_GZ_2025.jpg?class=w1080"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/alexis-cros-graphic-design-itsnicethat-Hoka_x_Distance_2024.jpg?class=w828"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/alexis-cros-graphic-design-itsnicethat-Marie_E10_2024.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/alexis-cros-graphic-design-itsnicethat-Michel_Chemin_2024_1.jpg?class=w1440"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/alexis-cros-graphic-design-itsnicethat-Osees_2026.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/alexis-cros-graphic-design-itsnicethat-Ville_Morte_2023.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Heim_Residents.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/003_F8uDqUZ.png?class=w640"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/007_6ACzAaI.png?class=w640"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Zara_List.jpg?class=w1080"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/the-warehouse-project-photography-itsnicethat-51.jpg?class=w1920"
+        }
+      ],
+      "titleZh": "里昂设计师以复印与喷绘质感连接本地音乐社群",
+      "summaryZh": "设计师阿莱克西·克罗斯跨海报、唱片、服装和周边开展创作。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "里昂设计师以复印与喷绘质感连接本地音乐社群",
+            "paragraphs": [
+              "设计师阿莱克西·克罗斯跨海报、唱片、服装和周边开展创作。",
+              "他把复印、喷绘与转印字工具同数字工具结合，形成植根音乐和自主制作文化的粗粝图形。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.7,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "bdab777eb10c6fbc",
+      "url": "https://www.designboom.com/design/formafantasma-santa-maria-novella-creative-directors-andrea-trimarchi-simone-farresin/",
+      "title": "formafantasma joins santa maria novella as creative directors after eight centuries of history",
+      "summary": "the italian design studio will shape products, packaging, communication and retail for the historic florentine fragrance",
+      "source": "designboom",
+      "category": "视觉设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/09/formafantasma-santa-maria-novella-creative-directors-andrea-trimarchi-simone-farresin-designboom-14.jpeg",
+      "publishedAt": "2026-09-28T07:56:33+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 51.8,
+      "images": [
+        {
+          "url": "https://www.designboom.com/shop/wp-content/uploads/2015/02/airframe02.jpg"
+        }
+      ],
+      "titleZh": "设计工作室接任历史香氛品牌创意方向",
+      "summaryZh": "一家意大利设计工作室出任佛罗伦萨历史香氛品牌的创意总监。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "设计工作室接任历史香氛品牌创意方向",
+            "paragraphs": [
+              "一家意大利设计工作室出任佛罗伦萨历史香氛品牌的创意总监。",
+              "职责涵盖产品、包装、传播和零售，体现这次合作涉及整体品牌体验；其他媒体的同题报道不重复收录。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "0720cf529f62b300",
+      "url": "https://thedieline.com/fishwife-boat-display-retail-merchandising/",
+      "title": "Shelf Life 129: Former DTC Brands Are Making Grocery Displays Good Again",
+      "summary": "Fishwife’s boat-shaped grocery display is turning heads at Sprouts. Here’s what it reveals about how digital-first food brands are bringing their worlds into",
+      "source": "Dieline",
+      "category": "空间设计",
+      "image": "https://thedieline.com/wp-content/uploads/2026/09/Untitled-design-3.png",
+      "publishedAt": "2026-09-28T07:35:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.9,
+      "images": [
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/Untitled-design-3.png?resize=600%2C338&quality=65&ssl=1"
+        },
+        {
+          "url": "https://thedieline.com/wp-content/uploads/2026/09/Tech-featured-image375-2-600x338.avif"
+        },
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/91879010007-the-laughing-cow-spread-the-laugh-retouched-image-5.webp?resize=600%2C400&quality=65&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/STUDENT-WEEK-27.png?resize=600%2C338&quality=65&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/Athletic-Graza-082126-Athletic-Graza-082526-962-1-scaled.jpg?resize=600%2C400&quality=70&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-11.26.49-AM.png?resize=600%2C391&quality=65&ssl=1"
+        }
+      ],
+      "titleZh": "船形超市陈列把食品品牌叙事带入实体货架",
+      "summaryZh": "一家食品品牌在超市使用船形陈列装置，将原本以数字渠道为主的品牌世界转为实体展示。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "船形超市陈列把食品品牌叙事带入实体货架",
+            "paragraphs": [
+              "一家食品品牌在超市使用船形陈列装置，将原本以数字渠道为主的品牌世界转为实体展示。",
+              "报道借这一案例讨论食品品牌如何进入线下零售，重点是陈列与品牌表达之间的关系。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "18f92d96b34b7c67",
+      "url": "https://www.archdaily.com/1185653/escapism-from-the-streets-how-air-conditioning-reshaped-the-asian-city",
+      "title": "Escapism from the Streets: How Air-Conditioning Reshaped the Asian City",
+      "summary": "In many Asian cities, the summer climate can increasingly be experienced from a distance. In Hong Kong , it is possible to move from an apartment tower through a podium mall , enter the Mass-Transit-Railway system (MTR), arrive beneath another commercial complex, and continue through enclosed footbridges or underground passages…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-28T07:30:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 67.0,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/fa49/e78f/b301/883c/f27b/newsletter/escapism-from-the-streets-the-mega-malls-and-giant-ac-structures-in-apac_1.jpg?1790179922"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/fa49/59bf/5a01/8bd6/835e/thumb_jpg/escapism-from-the-streets-the-mega-malls-and-giant-ac-structures-in-apac_2.jpg?1790179918"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/fa9c/59bf/5a01/8bd6/8363/thumb_jpg/escapism-from-the-streets-the-mega-malls-and-giant-ac-structures-in-apac_1.jpg?1790180000"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/fadf/59bf/5a01/8bd6/8366/thumb_jpg/escapism-from-the-streets-the-mega-malls-and-giant-ac-structures-in-apac_1.jpg?1790180070"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/fa67/e78f/b301/883c/f27c/thumb_jpg/escapism-from-the-streets-the-mega-malls-and-giant-ac-structures-in-apac_2.jpg?1790179949"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/fa49/59bf/5a01/8bd6/835e/medium_jpg/escapism-from-the-streets-the-mega-malls-and-giant-ac-structures-in-apac_2.jpg?1790179918"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/fb20/59bf/5a01/8bd6/8369/newsletter/escapism-from-the-streets-the-mega-malls-and-giant-ac-structures-in-apac_1.jpg?1790180133"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/fa9c/59bf/5a01/8bd6/8363/newsletter/escapism-from-the-streets-the-mega-malls-and-giant-ac-structures-in-apac_1.jpg?1790180000"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/fadf/59bf/5a01/8bd6/8366/newsletter/escapism-from-the-streets-the-mega-malls-and-giant-ac-structures-in-apac_1.jpg?1790180070"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/faed/59bf/5a01/8bd6/8367/newsletter/escapism-from-the-streets-the-mega-malls-and-giant-ac-structures-in-apac_1.jpg?1790180084"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/fa81/e78f/b301/883c/f27d/newsletter/escapism-from-the-streets-the-mega-malls-and-giant-ac-structures-in-apac_1.jpg?1790179977"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/fa67/59bf/5a01/8bd6/8362/newsletter/escapism-from-the-streets-the-mega-malls-and-giant-ac-structures-in-apac_1.jpg?1790179949"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab3/fafb/59bf/5a01/8bd6/8368/newsletter/escapism-from-the-streets-the-mega-malls-and-giant-ac-structures-in-apac_1.jpg?1790180097"
+        }
+      ],
+      "titleZh": "空调化通道如何改变亚洲城市的街道体验",
+      "summaryZh": "文章观察亚洲城市中由商场、轨道交通、天桥与地下通道组成的室内出行路径。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "空调化通道如何改变亚洲城市的街道体验",
+            "paragraphs": [
+              "文章观察亚洲城市中由商场、轨道交通、天桥与地下通道组成的室内出行路径。",
+              "香港案例说明人们可以在多个商业建筑之间持续穿行而少接触室外气候，文章由此讨论空调空间与城市生活的关系。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 10.0,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "c37d09f7ba638dac",
+      "url": "https://www.creativebloq.com/design/poster-design/a-library-of-over-10-000-abstract-models-is-the-starting-point-for-this-artists-compositions",
+      "title": "A library of over 10,000 abstract models is the starting point for this artist's compositions",
+      "summary": "3D artist Peter Olschinsky is interested in the relationship between architecture, technology and abstract visual",
+      "source": "Creative Bloq",
+      "category": "视觉设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/zoxUWrJXLi4cSrnhogXZfW-1920-80.jpg",
+      "publishedAt": "2026-09-28T07:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.8,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/zoxUWrJXLi4cSrnhogXZfW-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/gdj3tp3SG79zqS92yABfw-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/oP6vUFo7grCMyxWUsVjW54-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HHaDP9bq9UrUEzhqz8Jao3-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/CyydhusHMUYRK5yx2RCSZ3-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/5ptNmWCUEZHuJzfAtajvW3-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/hXvpHX33HWgZdF6JDkLby3-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3qRVWin9RRmpkcNHZtACzP-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/AQTuUu3kMoBBidxtavNSmM-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/q5fWGuEL9wLm4GdMswwxRm-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/97pprG2Sp63zEkohTDTerC-320-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/oaQx7Z2PQQEhisbPRZMNvF-320-80.jpg"
+        }
+      ],
+      "titleZh": "三维艺术家以逾万抽象模型构建视觉作品",
+      "summaryZh": "三维艺术家彼得·奥尔申斯基以超过一万个抽象模型组成的资料库作为构图起点。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "三维艺术家以逾万抽象模型构建视觉作品",
+            "paragraphs": [
+              "三维艺术家彼得·奥尔申斯基以超过一万个抽象模型组成的资料库作为构图起点。",
+              "其创作关注建筑、技术和抽象视觉之间的关系，本条归入视觉设计而非建筑项目报道。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "805e04d23144b26a",
+      "url": "https://www.archdaily.com/1185885/pavilia-farm-clubhouses-snohetta",
+      "title": "Pavilia Farm Clubhouses / Snøhetta",
+      "summary": "With the completion of Sky House, the final clubhouse at Pavilia Farm, Snøhetta's vision for a unique urban community centered around nature, wellbeing, and collective ownership is now realized in full. Located within New World Development's residential project in Tai Wai, Hong Kong, the four clubhouses create a vibrant green…",
+      "source": "ArchDaily",
+      "category": "空间设计",
+      "image": null,
+      "publishedAt": "2026-09-28T07:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.9,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/383c/df03/a301/88d4/b12b/newsletter/pavilia-farm-clubhouses-snohetta_14.jpg?1790589244"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/384f/df03/a301/88d4/b133/thumb_jpg/pavilia-farm-clubhouses-snohetta_12.jpg?1790589090"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/340b/df03/a301/88d4/b127/thumb_jpg/pavilia-farm-clubhouses-snohetta_5.jpg?1790588044"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/3843/df03/a301/88d4/b12e/thumb_jpg/pavilia-farm-clubhouses-snohetta_20.jpg?1790589118"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/384b/701b/1e01/88c7/9e5b/thumb_jpg/pavilia-farm-clubhouses-snohetta_28.jpg?1790589128"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aba/3849/701b/1e01/88c7/9e59/newsletter/pavilia-farm-clubhouses-snohetta_29.jpg?1790589114"
+        }
+      ],
+      "titleZh": "香港住宅会所以四处共享空间连接自然与社区",
+      "summaryZh": "香港大围住宅项目的最后一座会所完成，四处会所组成围绕自然、健康和共享使用的空间体系。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "香港住宅会所以四处共享空间连接自然与社区",
+            "paragraphs": [
+              "香港大围住宅项目的最后一座会所完成，四处会所组成围绕自然、健康和共享使用的空间体系。",
+              "建筑团队通过这些会所推动城市社区与绿地的联系；公开摘要未给出使用成效调查。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "4d4fd76b6b96db22",
+      "url": "https://www.archdaily.com/1040836/sharjah-architecture-triennial-presents-a-journey-into-architecture-archives-focused-on-baghdad-damascus-and-tunis",
+      "title": "Sharjah Architecture Triennial Presents \"A Journey into Architecture Archives\" Focused on Baghdad, Damascus, and Tunis",
+      "summary": "The Sharjah Architecture Triennial (SAT) has released the full documentary films from A Journey into Architecture Archives : Baghdad , Damascus , Tunis online. Curated by George Arbid , the project is part of SAT's long-term research program focused on documenting and safeguarding architectural archives across the Arab world.…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://i.ytimg.com/vi/NXGMvr4boE8/hqdefault.jpg",
+      "publishedAt": "2026-09-28T06:30:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 73.8,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/69e7/4453/1afd/7001/8891/46bc/newsletter/sharjah-architecture-triennial-presents-second-chapter-of-a-journey-into-architecture-archives-focused-on-baghdad-damascus-and-tunis_9.jpg?1776763991"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/69e7/43d4/8910/1e01/8027/2c5c/thumb_jpg/sharjah-architecture-triennial-presents-second-chapter-of-a-journey-into-architecture-archives-focused-on-baghdad-damascus-and-tunis_6.jpg?1776763867"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/69e7/43aa/1afd/7001/8891/46b9/thumb_jpg/sharjah-architecture-triennial-presents-second-chapter-of-a-journey-into-architecture-archives-focused-on-baghdad-damascus-and-tunis_5.jpg?1776763824"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/69e7/4387/63f5/ef01/884f/e4c6/thumb_jpg/sharjah-architecture-triennial-presents-second-chapter-of-a-journey-into-architecture-archives-focused-on-baghdad-damascus-and-tunis_4.jpg?1776763798"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/69e7/42d1/1afd/7001/8891/46b6/thumb_jpg/sharjah-architecture-triennial-presents-second-chapter-of-a-journey-into-architecture-archives-focused-on-baghdad-damascus-and-tunis_1.jpg?1776763647"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/69e7/43d4/8910/1e01/8027/2c5c/newsletter/sharjah-architecture-triennial-presents-second-chapter-of-a-journey-into-architecture-archives-focused-on-baghdad-damascus-and-tunis_6.jpg?1776763867"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/69e7/4407/8910/1e01/8027/2c5e/newsletter/sharjah-architecture-triennial-presents-second-chapter-of-a-journey-into-architecture-archives-focused-on-baghdad-damascus-and-tunis_7.jpg?1776763942"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/69e7/42f8/8910/1e01/8027/2c56/newsletter/sharjah-architecture-triennial-presents-second-chapter-of-a-journey-into-architecture-archives-focused-on-baghdad-damascus-and-tunis_2.jpg?1776763652"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "NXGMvr4boE8",
+        "url": "https://www.youtube.com/embed/NXGMvr4boE8",
+        "thumbnail": "https://i.ytimg.com/vi/NXGMvr4boE8/hqdefault.jpg",
+        "title": "A Journey Into Architecture Archives: Baghdad",
+        "author": "Sharjah Architecture Triennial ",
+        "duration": 0,
+        "verifiedAt": "2026-09-29T01:05:09+00:00"
+      },
+      "extraVideos": [
+        {
+          "provider": "youtube",
+          "id": "lZD3xXQtX4I",
+          "url": "https://www.youtube.com/embed/lZD3xXQtX4I",
+          "thumbnail": "https://i.ytimg.com/vi/lZD3xXQtX4I/hqdefault.jpg",
+          "title": "A Journey Into Architecture Archives: Damascus",
+          "author": "Sharjah Architecture Triennial ",
+          "duration": 0,
+          "verifiedAt": "2026-09-29T01:05:09+00:00"
+        }
+      ],
+      "videoGallery": [
+        "https://i.ytimg.com/vi/NXGMvr4boE8/hqdefault.jpg",
+        "https://i.ytimg.com/vi/lZD3xXQtX4I/hqdefault.jpg"
+      ],
+      "titleZh": "建筑档案纪录片公开巴格达等三城研究",
+      "summaryZh": "沙迦建筑三年展公开关于巴格达、大马士革和突尼斯建筑档案的完整纪录片。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "建筑档案纪录片公开巴格达等三城研究",
+            "paragraphs": [
+              "沙迦建筑三年展公开关于巴格达、大马士革和突尼斯建筑档案的完整纪录片。",
+              "该项目属于持续记录及保护阿拉伯地区建筑档案的研究计划，影片公开不意味着研究已经结束。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 25.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "2faaf48e704c8e95",
+      "url": "https://www.archdaily.com/1185754/community-center-gamlitz-gangoly-and-kristiner-architects",
+      "title": "Community Center Gamlitz / Gangoly & Kristiner Architects",
+      "summary": "There is no better symbol of community than a large roof that brings us all",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-28T06:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.6,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/47d9/e944/b300/0137/3ac2/newsletter/Haus_der_Vereine-12.jpg?1790330871"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/47d9/e944/b300/0137/3ac3/thumb_jpg/Haus_der_Vereine-19.jpg?1790330871"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/47da/e944/b300/0137/3ac6/thumb_jpg/Haus_der_Vereine-62.jpg?1790330873"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/47db/e944/b300/0137/3acd/thumb_jpg/Haus_der_Vereine-83.jpg?1790330875"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/47db/e944/b300/0137/3acc/thumb_jpg/Haus_der_Vereine-127.jpg?1790330874"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/47d9/e944/b300/0137/3ac3/medium_jpg/Haus_der_Vereine-19.jpg?1790330871"
+        }
+      ],
+      "titleZh": "大型屋顶成为格姆利茨社区中心的共同空间",
+      "summaryZh": "社区中心以一座将人们聚在一起的大屋顶表达公共建筑主题。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "大型屋顶成为格姆利茨社区中心的共同空间",
+            "paragraphs": [
+              "社区中心以一座将人们聚在一起的大屋顶表达公共建筑主题。",
+              "公开摘要较短，仅据此介绍屋顶与社区聚集的关系，不补写结构、材料或面积参数。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.6,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "991d7802b5f729ee",
+      "url": "https://www.archdaily.com/1185867/citizen-led-campaign-seeks-unesco-status-for-select-pre-colonial-sites-among-capitals-600-plus",
+      "title": "Citizen-Led Campaign Seeks UNESCO Status for Select Pre-Colonial Sites in Lima, Peru",
+      "summary": "A campaign led by Red Lima Milenaria is seeking UNESCO recognition for pre-colonial sites in the Peruvian capital. Today, more than 600 archaeological sites remain in Lima , a metropolis of 11 million people. The citizens' campaign seeks to improve conservation conditions and public awareness of the sites that resisted European…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-28T05:30:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.9,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ab8/6a67/701b/1e01/88c7/9d56/newsletter/citizen-led-campaign-seeks-unesco-status-for-select-pre-colonial-sites-among-capitals-600-plus_1.jpg?1790470766"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab8/6a66/701b/1e01/88c7/9d55/thumb_jpg/citizen-led-campaign-seeks-unesco-status-for-select-pre-colonial-sites-among-capitals-600-plus_1.jpg?1790470829"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab8/6b38/701b/1e01/88c7/9d59/thumb_jpg/citizen-led-campaign-seeks-unesco-status-for-select-pre-colonial-sites-among-capitals-600-plus_5.jpg?1790470983"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab8/6a77/701b/1e01/88c7/9d58/thumb_jpg/citizen-led-campaign-seeks-unesco-status-for-select-pre-colonial-sites-among-capitals-600-plus_1.jpg?1790470807"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab8/6a75/701b/1e01/88c7/9d57/thumb_jpg/citizen-led-campaign-seeks-unesco-status-for-select-pre-colonial-sites-among-capitals-600-plus_1.jpg?1790470799"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab9/4879/701b/1e01/88c7/9d6a/newsletter/citizen-led-campaign-seeks-unesco-status-for-select-pre-colonial-sites-among-capitals-600-plus_6.jpg?1790527620"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab8/6a66/701b/1e01/88c7/9d55/newsletter/citizen-led-campaign-seeks-unesco-status-for-select-pre-colonial-sites-among-capitals-600-plus_1.jpg?1790470829"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab8/6b38/701b/1e01/88c7/9d59/newsletter/citizen-led-campaign-seeks-unesco-status-for-select-pre-colonial-sites-among-capitals-600-plus_5.jpg?1790470983"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab9/4884/701b/1e01/88c7/9d6b/newsletter/citizen-led-campaign-seeks-unesco-status-for-select-pre-colonial-sites-among-capitals-600-plus_6.jpg?1790527627"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab8/6a75/701b/1e01/88c7/9d57/medium_jpg/citizen-led-campaign-seeks-unesco-status-for-select-pre-colonial-sites-among-capitals-600-plus_1.jpg?1790470799"
+        }
+      ],
+      "titleZh": "利马市民倡议为前殖民遗址争取国际保护",
+      "summaryZh": "利马市民团体正为当地部分前殖民遗址争取联合国教科文组织认可。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "利马市民倡议为前殖民遗址争取国际保护",
+            "paragraphs": [
+              "利马市民团体正为当地部分前殖民遗址争取联合国教科文组织认可。",
+              "报道指出这座约一千一百万人口的城市仍有六百多处考古遗址；倡议处于争取阶段，不代表已取得世界遗产身份。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "5c1d162547eff9f7",
+      "url": "https://www.architectural-review.com/buildings/room-for-recovery-bastion-wellness-centre-and-housing-in-new-orleans-louisiana-united-states-by-ojt",
+      "title": "Room for recovery: Bastion wellness centre and housing in New Orleans, Louisiana, United States by OJT",
+      "summary": "The Architectural Review Room for recovery: Bastion wellness centre and housing in New Orleans, Louisiana, United States by OJT Housing and a wellness centre for a veterans’ non‑profit in New Orleans, designed by OJT, provide a place to",
+      "source": "Architectural Review",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-28T05:00:39+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 51.7,
+      "images": [
+        {
+          "url": "https://cdn.ca.emap.com/wp-content/uploads/sites/12/2026/09/Bastion_wellness_Centre_new_orleans_louisiana_united_states_OJT_architectural_review_drawings_credit_-%C2%A9-Neil-Alexander%C2%A9NA_260730-03-1024x683.jpg"
+        }
+      ],
+      "titleZh": "新奥尔良退伍军人社区结合住宅与康复空间",
+      "summaryZh": "一家非营利组织的住宅及健康中心项目为退伍军人提供居住与恢复空间。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "新奥尔良退伍军人社区结合住宅与康复空间",
+            "paragraphs": [
+              "一家非营利组织的住宅及健康中心项目为退伍军人提供居住与恢复空间。",
+              "项目位于新奥尔良，公开订阅摘要强调其社会服务对象，未提供完整空间组织细节。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.7,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "cbbd63104174a747",
+      "url": "https://www.dezeen.com/2026/09/28/nest-egg-filament-piggy-bank/",
+      "title": "Nest Egg is a tech-based take on a children's piggy bank",
+      "summary": "Scottish design studio Filament has developed a financial learning platform for children based around a toy egg that reintroduces physical interaction to the process of saving and spending money. The conceptual project is Filament's response to the increasing digitisation of money, which can make it harder for parents to teach…",
+      "source": "Dezeen",
+      "category": "用户体验设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/sq-nest-egg-filament_dezeen_2364_col_0-852x852.jpg",
+      "publishedAt": "2026-09-28T05:00:31+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 51.8,
+      "titleZh": "玩具蛋储蓄概念以实体互动帮助儿童学习金钱",
+      "summaryZh": "苏格兰设计工作室提出围绕玩具蛋构建的儿童财务学习平台。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "玩具蛋储蓄概念以实体互动帮助儿童学习金钱",
+            "paragraphs": [
+              "苏格兰设计工作室提出围绕玩具蛋构建的儿童财务学习平台。",
+              "概念回应金钱日益数字化后家长难以解释储蓄和消费的问题，用实体互动重新连接抽象金额与日常学习。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "9ff85b16a66b037d",
+      "url": "https://www.archdaily.com/1185728/amman-architecture-city-guide-11-projects-in-a-capital-shaped-by-migration-and-stone",
+      "title": "Amman Architecture City Guide: 11 Projects in a Capital Shaped by Migration and Stone",
+      "summary": "Built across several hills, Amman has grown at a pace few Middle Eastern capitals have matched. The city has received successive waves of migration — Circassians in the late 19th century, Palestinian refugees in 1948 and 1967, the Iraqi population after 1990, and Syrians since 2011 — each reshaping its density and social…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-28T04:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 63.7,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/a648/5068/a601/88e2/419b/newsletter/amman-architecture-city-guide-11-projects-across-tradition-and-contemporary-architecture_16.jpg?1790355077"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab5/c435/0225/8301/88a5/11b7/thumb_jpg/amman-architecture-city-guide-11-projects-across-tradition-and-contemporary-architecture_2.jpg?1790297149"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/959e/785c/2701/8891/da21/thumb_jpg/amman-architecture-city-guide-11-projects-across-tradition-and-contemporary-architecture_5.jpg?1790350757"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/9972/785c/2701/8891/da3b/thumb_jpg/amman-architecture-city-guide-11-projects-across-tradition-and-contemporary-architecture_10.jpg?1790351752"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/959e/785c/2701/8891/da23/thumb_jpg/amman-architecture-city-guide-11-projects-across-tradition-and-contemporary-architecture_7.jpg?1790350759"
+        }
+      ],
+      "titleZh": "安曼建筑导览回看迁徙与石材塑造的城市",
+      "summaryZh": "城市导览选择安曼十一项建筑项目，回看多轮人口迁移与城市密度变化。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "安曼建筑导览回看迁徙与石材塑造的城市",
+            "paragraphs": [
+              "城市导览选择安曼十一项建筑项目，回看多轮人口迁移与城市密度变化。",
+              "文章将不同历史时期的迁徙放入城市发展背景，属于导览整理而非单一新项目发布。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 15.0,
+        "completeness": 9.7,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "e4ae5a517bba0f10",
+      "url": "https://www.archdaily.com/1185516/home-for-dependent-people-sv60-arquitectos",
+      "title": "Home for Dependent People / SV60 Arquitectos",
+      "summary": "Young and old have one thing in common: they are defined by their relationship with time. People's relationship with time is ephemeral and fleeting. The architecture we propose seeks to improve conditions so that all inhabitants, with varying degrees of dependence on others and on a comfortable and pleasant environment, find…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-28T03:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.5,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ab1/8a61/325b/9100/01c4/5d98/newsletter/17-JG1271-026.jpg?1790020237"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab1/8a60/325b/9100/01c4/5d93/thumb_jpg/05-JG1271-003_copia.jpg?1790020210"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab1/8a61/325b/9100/01c4/5d9c/thumb_jpg/20-JG1271-028_copia.jpg?1790020220"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab1/8a61/325b/9100/01c4/5d9d/thumb_jpg/25-JG1271-037.jpg?1790020235"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab1/8a61/325b/9100/01c4/5d9e/thumb_jpg/27-JG1271-049.jpg?1790020236"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab1/8a5e/325b/9100/01c4/5d8f/newsletter/01-JG1271-009.jpg?1790020208"
+        }
+      ],
+      "titleZh": "照护住宅以舒适环境回应不同依赖程度",
+      "summaryZh": "这处照护住宅面向需要不同程度日常协助的居住者。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "照护住宅以舒适环境回应不同依赖程度",
+            "paragraphs": [
+              "这处照护住宅面向需要不同程度日常协助的居住者。",
+              "项目说明关注环境舒适度与人们对时间的体验；目前仅依据摘要概述设计目标。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "8eb82f892d86b081",
+      "url": "https://www.archdaily.com/1185815/az-boroun-villa-crossarchitecture",
+      "title": "Az-Boroun Villa / CROSSARCHITECTURE",
+      "summary": "Az-Boroun — Persian for \"from outside\" — turns the edge between house and garden into a deep spatial threshold: three overlapping volumes form a deep frame, while two voids bring landscape, daylight, air, and movement into the section. Commissioned as a weekend villa with a lush garden, the project occupies two adjoining plots…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": null,
+      "publishedAt": "2026-09-28T02:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.6,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/78d5/e944/b300/0137/3d72/newsletter/01.jpg?1790343450"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/78d5/e944/b300/0137/3d74/thumb_jpg/03.jpg?1790343618"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/78d6/e944/b300/0137/3d84/thumb_jpg/19.jpg?1790343450"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/78d6/e944/b300/0137/3d83/thumb_jpg/18.jpg?1790343458"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/78d5/e944/b300/0137/3d76/thumb_jpg/05.jpg?1790343408"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab6/78d5/e944/b300/0137/3d76/newsletter/05.jpg?1790343408"
+        }
+      ],
+      "titleZh": "周末别墅以重叠体量加深住宅与花园的过渡",
+      "summaryZh": "一栋面向花园的周末别墅由三个相互重叠的体量形成深框架。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "周末别墅以重叠体量加深住宅与花园的过渡",
+            "paragraphs": [
+              "一栋面向花园的周末别墅由三个相互重叠的体量形成深框架。",
+              "两处空隙把景观、自然光、空气与行走动线带入剖面组织，强化室内外之间的过渡。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.6,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "f7768fbf2388b43d",
+      "url": "https://www.archdaily.com/1185737/yuelang-road-block-comprehensive-quality-enhancement-tjad-original-design-studio",
+      "title": "Yuelang Road Block Comprehensive Quality Enhancement / TJAD Original Design Studio",
+      "summary": "Yuelang Road is located in the core area of Qianjiang Century City, Hangzhou , surrounded by six high-density commercial and office towers. Before renewal, this approximately 330-meter internal street primarily served office commuting, garage access, temporary parking and building logistics. Motor vehicles, bicycles,…",
+      "source": "ArchDaily",
+      "category": "空间设计",
+      "image": null,
+      "publishedAt": "2026-09-28T00:00:00+00:00",
+      "date": "2026-09-28",
+      "firstSeen": "2026-09-29",
+      "score": 66.9,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ab5/ef76/8869/1701/89c2/d342/newsletter/yuelang-road-block-comprehensive-quality-enhancement-tjad-original-design-studio_15.jpg?1790308296"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab5/ef63/0225/8301/88a5/11f5/thumb_jpg/yuelang-road-block-comprehensive-quality-enhancement-tjad-original-design-studio_5.jpg?1790308297"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab5/ef75/0225/8301/88a5/11fa/thumb_jpg/yuelang-road-block-comprehensive-quality-enhancement-tjad-original-design-studio_12.jpg?1790308317"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab5/ef7f/8869/1701/89c2/d346/thumb_jpg/yuelang-road-block-comprehensive-quality-enhancement-tjad-original-design-studio_16.jpg?1790308325"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab5/f060/0225/8301/88a5/1207/thumb_jpg/yuelang-road-block-comprehensive-quality-enhancement-tjad-original-design-studio_23.jpg?1790308476"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ab5/ef75/0225/8301/88a5/11fa/newsletter/yuelang-road-block-comprehensive-quality-enhancement-tjad-original-design-studio_12.jpg?1790308317"
+        }
+      ],
+      "titleZh": "杭州月朗路更新重新组织办公街区日常动线",
+      "summaryZh": "杭州钱江世纪城一条约三百三十米长的内部街道开展品质提升。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "杭州月朗路更新重新组织办公街区日常动线",
+            "paragraphs": [
+              "杭州钱江世纪城一条约三百三十米长的内部街道开展品质提升。",
+              "更新前它主要承担办公通勤、车库出入、临时停车和后勤运输，项目面对高密度办公商业建筑之间的混合使用需求。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.9,
+        "source": 24.0
+      }
+    },
     {
       "id": "9c281e91721d8c8e",
       "url": "https://www.yankodesign.com/2026/09/27/7-reasons-non-artists-need-a-drawing-pad-on-their-desk/",
@@ -1614,6 +4691,40 @@
         "recency": 15.0,
         "media": 18.0,
         "completeness": 8.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "9d4972ec4a434608",
+      "url": "https://www.dezeen.com/2026/09/27/soda-otherwander-soho/",
+      "title": "SODA transforms hostel into \"design-conscious\" pod hotel",
+      "summary": "London studio SODA has converted a backpacker hostel into Otherwander Soho, a high-density capsule hotel in central London with vibrantly-coloured social spaces. Otherwander combines 566 sleeping pods, or \"nests\", with shared social spaces, targeted at young travellers and those seeking budget-friendly city-centre…",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static.dezeen.com/uploads/2026/09/otherwander-soda-capsule-pod-hotel-soho-london-england-uk-leisure_dezeen_2364_sq-852x852.jpg",
+      "publishedAt": "2026-09-27T10:00:12+00:00",
+      "date": "2026-09-27",
+      "firstSeen": "2026-09-29",
+      "score": 48.7,
+      "titleZh": "伦敦背包客旅舍改造为高密度胶囊酒店",
+      "summaryZh": "伦敦工作室将旅舍改造为设有五百六十六个睡眠单元的胶囊酒店。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "伦敦背包客旅舍改造为高密度胶囊酒店",
+            "paragraphs": [
+              "伦敦工作室将旅舍改造为设有五百六十六个睡眠单元的胶囊酒店。",
+              "项目以色彩鲜明的共享社交空间服务年轻旅客及希望控制预算的市中心住宿需求。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 12.0,
+        "media": 3.0,
+        "completeness": 9.7,
         "source": 24.0
       }
     },
@@ -2764,7 +5875,7 @@
       "id": "51695adb52b788b9",
       "url": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
       "title": "Adobe Max 2026's lineup tells us a lot about the company's AI priorities right now",
-      "summary": "Tom May reviews the published schedule for Adobe MAX 2026, which lists 208 sessions, including a 25-session AI track. His reading of the agenda is that Adobe is emphasizing creative control while increasingly addressing enterprise buyers and large-scale branded content production.",
+      "summary": "It's selling AI hard, but not necessary to",
       "source": "Creative Bloq",
       "category": "人工智能设计",
       "image": "https://cdn.mos.cms.futurecdn.net/yKBFcArtA44UhYWZb4eXtL-1920-80.jpg",
@@ -5822,7 +8933,7 @@
     {
       "id": "55d0a0a931b2e8f2",
       "url": "https://www.itsnicethat.com/articles/bea-korsch-intrusive-thots-art-project-240926",
-      "title": "Bea Korsch’s Intrusive Thots is an explosive zine about depression, treatment and recovery",
+      "title": "Bea Korsh’s Intrusive Thots is an explosive zine about depression, treatment and recovery",
       "summary": "Made during a year-long outpatient programme, the experimental comic combines drawings, journals, ephemera and text messages to document the artist’s turbulent inner",
       "source": "Its Nice That",
       "category": "视觉设计",
@@ -5911,7 +9022,7 @@
       "summary": "The racing marque's new look pays homage to a service station in Auckland, but keeps the Speedmark, the Papaya and the Speedy Kiwi. It's good to remember where we came from. It grounds us when life",
       "source": "Creative Boom",
       "category": "视觉设计",
-      "image": "https://media.creativeboom.com/93bd3978-8052-415d-a41e-73997cccebe3/conversions/e6b372db3cfc9ab0ff55e478c3d39ea88d53dc75-medium.webp",
+      "image": "https://media.creativeboom.com/4f81d2e2-7dab-4df5-afc9-be4def1cad93/conversions/4278f05602160a3e5b6e5b750efb4d23807c275b-medium.webp",
       "publishedAt": "2026-09-24T07:00:00+00:00",
       "date": "2026-09-24",
       "firstSeen": "2026-09-25",
@@ -6293,6 +9404,46 @@
         "recency": 20.0,
         "media": 3.0,
         "completeness": 8.9,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "3ace203903dafb4e",
+      "url": "https://www.lukew.com/ff/2163/skip-the-tools-make-the-outcomes",
+      "title": "Skip the Tools, Make the Outcomes",
+      "summary": "The software profession has spent years designing, developing, and shipping tools. But in a world of AI, product teams may be able to skip the tools and go directly to the outcomes they enable. The author describes Exposit, an AI-powered newsroom whose users increasingly preferred personalized reports to browsing headlines, articles, and categories.",
+      "source": "LukeW",
+      "category": "用户体验设计",
+      "image": null,
+      "publishedAt": "2026-09-24",
+      "date": "2026-09-24",
+      "firstSeen": "2026-09-28",
+      "issueDate": "2026-09-27",
+      "titleZh": "跳过工具，直接交付用户想要的结果",
+      "summaryZh": "卢克·沃罗布列夫斯基以人工智能新闻项目为例，观察用户从浏览新闻转向直接获取个性化报告，讨论产品能否从交付结果开始设计。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "文章内容",
+            "paragraphs": [
+              "卢克·沃罗布列夫斯基回顾人工智能新闻项目的产品演进。团队起初把它做成传统新闻网站，供读者搜索、浏览标题与分类；后来加入按主题或新闻生成个性化报告的功能，这种直接给出所需内容的方式很快成为主要用法。",
+              "他把这种做法称为即时内容：系统根据特定读者、需求和时刻实时组合信息。读者先看到所需结果，之后仍可继续查看文章、主题、人物、地点和来源。作者也提到，他的网站每天自动整理近期发布的内容，先呈现一份可读答复。"
+            ]
+          },
+          {
+            "heading": "作者观点",
+            "paragraphs": [
+              "作者主张人工智能产品团队重新检查工作流程：用户需要的究竟是另一个供其操作的工具，还是工具原本承诺带来的结果。文章以个人产品实践支撑这一观点，并非一项对所有产品都适用的实证结论。"
+            ]
+          }
+        ]
+      },
+      "score": 43.4,
+      "heat": {
+        "recency": 8.6,
+        "media": 0.0,
+        "completeness": 19.8,
         "source": 15.0
       }
     },
@@ -12356,6 +15507,45 @@
         "media": 3.0,
         "completeness": 17.8,
         "source": 30.0
+      }
+    },
+    {
+      "id": "5d885dc3ad47b07f",
+      "url": "https://www.fastcompany.com/91608928/mek-australia-branding-low-carbon-website?campaign_date=09292026&partner=newsletter&position=1",
+      "title": "How one branding agency redesigned its website to reduce carbon emissions",
+      "summary": "MEK, in Melbourne, Australia, ditched duplicated HTML tags and welcomed a new font in order to make its digital footprint more",
+      "source": "Fast Company UX",
+      "category": "用户体验设计",
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-91608928-MEK-website-redesign-reduce-carbon-emissions.jpg",
+      "publishedAt": "2026-09-21T10:30:00+00:00",
+      "date": "2026-09-21",
+      "firstSeen": "2026-09-29",
+      "score": 42.3,
+      "images": [
+        {
+          "url": "https://b.scorecardresearch.com/p?c1=2&c2=6916907&cv=2.0&cj=1"
+        }
+      ],
+      "titleZh": "品牌机构以精简网页结构降低网站数字负担",
+      "summaryZh": "墨尔本一家品牌机构重新设计网站，去除重复的页面标签并更换字体。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "品牌机构以精简网页结构降低网站数字负担",
+            "paragraphs": [
+              "墨尔本一家品牌机构重新设计网站，去除重复的页面标签并更换字体。",
+              "公开摘要将这些变化与减少数字环境足迹联系起来；本条为近期补录，保留原文九月二十一日发布日期。",
+              "本文依据来源公开订阅摘要整理；完整内容及项目图片请通过原文链接查阅。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 5.5,
+        "media": 3.0,
+        "completeness": 9.8,
+        "source": 24.0
       }
     },
     {
@@ -30707,46 +33897,6 @@
         "completeness": 19.3,
         "source": 30.0
       }
-    },
-    {
-      "id": "3ace203903dafb4e",
-      "url": "https://www.lukew.com/ff/2163/skip-the-tools-make-the-outcomes",
-      "title": "Skip the Tools, Make the Outcomes",
-      "summary": "The software profession has spent years designing, developing, and shipping tools. But in a world of AI, product teams may be able to skip the tools and go directly to the outcomes they enable. The author describes Exposit, an AI-powered newsroom whose users increasingly preferred personalized reports to browsing headlines, articles, and categories.",
-      "source": "LukeW",
-      "category": "用户体验设计",
-      "image": null,
-      "publishedAt": "2026-09-24",
-      "date": "2026-09-24",
-      "firstSeen": "2026-09-28",
-      "issueDate": "2026-09-27",
-      "titleZh": "跳过工具，直接交付用户想要的结果",
-      "summaryZh": "卢克·沃罗布列夫斯基以人工智能新闻项目为例，观察用户从浏览新闻转向直接获取个性化报告，讨论产品能否从交付结果开始设计。",
-      "reading": {
-        "basis": "article",
-        "sections": [
-          {
-            "heading": "文章内容",
-            "paragraphs": [
-              "卢克·沃罗布列夫斯基回顾人工智能新闻项目的产品演进。团队起初把它做成传统新闻网站，供读者搜索、浏览标题与分类；后来加入按主题或新闻生成个性化报告的功能，这种直接给出所需内容的方式很快成为主要用法。",
-              "他把这种做法称为即时内容：系统根据特定读者、需求和时刻实时组合信息。读者先看到所需结果，之后仍可继续查看文章、主题、人物、地点和来源。作者也提到，他的网站每天自动整理近期发布的内容，先呈现一份可读答复。"
-            ]
-          },
-          {
-            "heading": "作者观点",
-            "paragraphs": [
-              "作者主张人工智能产品团队重新检查工作流程：用户需要的究竟是另一个供其操作的工具，还是工具原本承诺带来的结果。文章以个人产品实践支撑这一观点，并非一项对所有产品都适用的实证结论。"
-            ]
-          }
-        ]
-      },
-      "score": 43.4,
-      "heat": {
-        "recency": 8.6,
-        "media": 0.0,
-        "completeness": 19.8,
-        "source": 15.0
-      }
     }
   ],
   "issues": [
@@ -31374,6 +34524,71 @@
         "lead": "从日常器物到城市空间，",
         "title": "设计持续回应生活。",
         "subtitle": "展厅、住宅、公共装置与数字工具在新的使用方式中彼此连接。"
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "articleIds": [
+        "8b07cc5d281b67c2",
+        "d3ebd3e3d01ca802",
+        "e3baf7e5e1f877ef",
+        "d34432c46bf63592",
+        "118290afde8921ad",
+        "1fb5ed635a28dccb",
+        "b6082b0ec8bedbd0",
+        "5cbafa00f4a559b2",
+        "bfc2136512c3e1e3",
+        "3753279298fd725d",
+        "5281200d22c97783",
+        "56092eeb466c594b",
+        "bdf0601fab4869d1",
+        "b8f022dfc9a7505b",
+        "24a5c23f8c0e5ad3",
+        "11ff98b872b8edc2",
+        "b6e98210a8196b47",
+        "acff1b45ea4a0f59",
+        "89ef4cd3c8e69f3c",
+        "0ae0a0fa6feb5a90",
+        "3cda29b0c625a77b",
+        "f5362de884b5e5b7",
+        "7ebe34ba030747bc",
+        "339d21e98e740cfa",
+        "654f88d7691104d2",
+        "2c9b59f2d6e5559d",
+        "cac2e8eea9edab7d",
+        "30233e0b87ea1de6",
+        "64d6c21781d00422",
+        "3a0ae2e870a7fdb3",
+        "9f7d1516996c108a",
+        "b0c7983df7cf5eb6",
+        "9ddd655fb3379f27",
+        "cb7fbc9ffa9bed49",
+        "168de6d949093a34",
+        "b843d3f481ac1679",
+        "b22b7b9677b3e88d",
+        "39e6252bb84923ad",
+        "bdab777eb10c6fbc",
+        "0720cf529f62b300",
+        "18f92d96b34b7c67",
+        "c37d09f7ba638dac",
+        "805e04d23144b26a",
+        "4d4fd76b6b96db22",
+        "2faaf48e704c8e95",
+        "991d7802b5f729ee",
+        "5c1d162547eff9f7",
+        "cbbd63104174a747",
+        "9ff85b16a66b037d",
+        "e4ae5a517bba0f10",
+        "8eb82f892d86b081",
+        "f7768fbf2388b43d",
+        "9d4972ec4a434608",
+        "5d885dc3ad47b07f"
+      ],
+      "updatedAt": "2026-09-29T09:01:26.013513+08:00",
+      "masthead": {
+        "lead": "从实体触感到数字叙事，",
+        "title": "设计连接不同的生活。",
+        "subtitle": "折叠物件、社区空间与创作工具，在新的使用关系中展开。"
       }
     }
   ],
