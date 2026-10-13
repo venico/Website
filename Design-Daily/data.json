@@ -66095,10 +66095,31 @@
       "publishedAt": "2026-10-13T02:24:38+00:00",
       "date": "2026-10-13",
       "firstSeen": "2026-10-13",
-      "score": 55.5,
+      "score": 70.5,
       "images": [
         {
           "url": "https://image.gcores.com/a5af7908b2d7f3be3badcaad8b1a9511-1270-713.webp?x-oss-process=image/resize,limit_1,m_lfit,w_1600/quality,q_90"
+        },
+        {
+          "url": "https://image.gcores.com/2d032ef123a3abca8ac5cc61d4ca2107-1270-713.png"
+        },
+        {
+          "url": "https://image.gcores.com/cc12c1a43ba2a6fdb1bba8cdff67a8d5-856-480.png"
+        },
+        {
+          "url": "https://image.gcores.com/f3199d53142ffa81bdab2b2617e59846-1068-600.png"
+        },
+        {
+          "url": "https://image.gcores.com/5d238dc1a3ca2a64e12f3ed1617d9c95-1068-600.png"
+        },
+        {
+          "url": "https://image.gcores.com/acbabb36850cd45bbee3bb4282ef695d-1068-600.png"
+        },
+        {
+          "url": "https://image.gcores.com/d2f45da9ee63b4722b9fadf1dcc4eff7-856-480.png"
+        },
+        {
+          "url": "https://image.gcores.com/1656f665c3cc92fa7469a203ef6c29f3-1270-713.png"
         }
       ],
       "titleZh": "动物咖啡店音游以日常声音连接节拍与故事",
@@ -66117,7 +66138,7 @@
       },
       "heat": {
         "recency": 20.0,
-        "media": 3.0,
+        "media": 18.0,
         "completeness": 17.5,
         "source": 15.0
       }
@@ -66133,10 +66154,22 @@
       "publishedAt": "2026-10-12T01:10:00+00:00",
       "date": "2026-10-12",
       "firstSeen": "2026-10-13",
-      "score": 50.3,
+      "score": 62.3,
       "images": [
         {
           "url": "https://image.gcores.com/6bde821cc291d4b4452e8f4f81293f9b-2560-1440.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1600/quality,q_90/format,webp"
+        },
+        {
+          "url": "https://image.gcores.com/8e86b48c434192e6da18962fcae87da0-1028-579.png"
+        },
+        {
+          "url": "https://image.gcores.com/4013cb6f15bcc2f8ea9588505a6b5fbd-1920-1080.jpg"
+        },
+        {
+          "url": "https://image.gcores.com/d8ecae18cb5fb1c18f32d9d7769e3f67-1920-1080.jpg"
+        },
+        {
+          "url": "https://image.gcores.com/0a87f20be0f6501174132cdef5051272-1920-1080.jpg"
         }
       ],
       "titleZh": "地块构筑成为俯视角动作游戏的战斗策略",
@@ -66155,7 +66188,7 @@
       },
       "heat": {
         "recency": 15.0,
-        "media": 3.0,
+        "media": 15.0,
         "completeness": 17.3,
         "source": 15.0
       }
@@ -66171,10 +66204,25 @@
       "publishedAt": "2026-10-12T00:55:00+00:00",
       "date": "2026-10-12",
       "firstSeen": "2026-10-13",
-      "score": 50.3,
+      "score": 65.3,
       "images": [
         {
           "url": "https://image.gcores.com/e8561986adcd83a6ec2d6b1ddd5ab21e-1582-890.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1600/quality,q_90/format,webp"
+        },
+        {
+          "url": "https://image.gcores.com/456830d41cb05394d697276a9905834d-1582-890.jpeg"
+        },
+        {
+          "url": "https://image.gcores.com/fad2494805d7cb9877c494b188b952c0-1920-1080.jpg"
+        },
+        {
+          "url": "https://image.gcores.com/ca9fa4abe38d9e34046b47d7b449bf69-1920-1080.jpg"
+        },
+        {
+          "url": "https://image.gcores.com/1b0588535c2101d827f53cb90f728cf3-1920-1080.jpg"
+        },
+        {
+          "url": "https://image.gcores.com/44b504ebafeaec1ea1210588bcb39ee7-1920-1080.jpg"
         }
       ],
       "titleZh": "铁路道口工作与生活照料组成恐怖游戏的时间压力",
@@ -66193,7 +66241,7 @@
       },
       "heat": {
         "recency": 15.0,
-        "media": 3.0,
+        "media": 18.0,
         "completeness": 17.3,
         "source": 15.0
       }
