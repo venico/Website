@@ -4261,7 +4261,7 @@
       "title": "Silver Pines review: this inky horror debut is one of the year’s most original games",
       "summary": "Twin Peaks meets Resident Evil in 2D, with a Mike Mignola feel; it's near",
       "source": "Creative Bloq",
-      "category": "动态设计",
+      "category": "游戏设计",
       "image": "https://cdn.mos.cms.futurecdn.net/vGdrkfHd8dJjttVv33hFLK-1920-80.jpg",
       "publishedAt": "2026-10-12T07:00:00+00:00",
       "date": "2026-10-12",
@@ -65764,6 +65764,477 @@
         "completeness": 19.3,
         "source": 30.0
       }
+    },
+    {
+      "id": "4179f56d3a8958e4",
+      "url": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
+      "title": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave",
+      "summary": "A co-dev partnership helped Fancy's hit game Escape The Backrooms reach over 4 million players.",
+      "source": "Game Developer",
+      "category": "游戏设计",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt6b0e02a1ca615f6b/6ac50cb9db91d718576c4723/backroomscodevfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "publishedAt": "2026-10-06T15:06:28+00:00",
+      "date": "2026-10-06",
+      "firstSeen": "2026-10-13",
+      "score": 63.8,
+      "images": [
+        {
+          "url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt6b0e02a1ca615f6b/6ac50cb9db91d718576c4723/backroomscodevfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2fbf9253c3811f7a/6ac50b775a08ce0e48df46dd/Screenshot_8.jpg?width=1400&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltc02aa133e8b7f2ff/6ac50bae3c18bab0e037cfe6/Screenshot_6.jpg?width=1400&auto=webp&quality=80&disable=upscale"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "ib-Nepqh19Y",
+        "url": "https://www.youtube.com/embed/ib-Nepqh19Y",
+        "thumbnail": "https://i.ytimg.com/vi/ib-Nepqh19Y/hqdefault.jpg",
+        "title": "Escape The Backrooms | Official Console Launch Trailer ☢️",
+        "author": "Secret Mode",
+        "duration": 0,
+        "verifiedAt": "2026-10-13T03:18:15+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/ib-Nepqh19Y/hqdefault.jpg"
+      ],
+      "titleZh": "多人恐怖游戏从独立开发走向协作制作",
+      "summaryZh": "网络适配、角色识别和团队流程共同影响跨平台体验。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "开发团队在案例文章中回顾《逃离后室》的协作制作：项目从单人工作方式转向多人团队，需要建立构建流程、整理插件与软件依赖，并理解既有系统之间的关系。作者来自参与开发的工作室，属于项目方自述。",
+              "主机网络适配暴露出不同连接条件下的匹配问题，团队因此调整发布安排。后续服装系统还回应了玩家难以区分同伴的体验问题，让外观变化承担多人协作中的识别功能。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 6.0,
+        "media": 16.0,
+        "completeness": 17.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "d3075729a48ace43",
+      "url": "https://80.lv/articles/this-soft-body-simulation-can-cut-peel-break-objects-in-real-time/",
+      "title": "This Soft-Body Simulation Can Cut, Peel & Break Objects in Real Time",
+      "summary": "KAIST researcher Jewoo Shin explains how OmniBody combines ellipsoidal particles, local XPBD constraints, and GPU parallelization to simulate deformable and destructible objects without global solvers or remeshing.",
+      "source": "80 Level",
+      "category": "游戏设计",
+      "image": "https://cdn.80.lv/api/upload/meta/50586/images/6ac96076bd550/contain_1200x630.jpg",
+      "publishedAt": "2026-10-12T22:25:00+00:00",
+      "date": "2026-10-13",
+      "firstSeen": "2026-10-13",
+      "score": 86.6,
+      "images": [
+        {
+          "url": "https://cdn.80.lv/api/upload/content/29/6ac95b5523326.gif"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/19/6ac95bb23e0cb.png"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/41/6ac95deda33b0.gif"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/b0/6ac95dfa60d54.png"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/7f/6ac95a8416d8d.png"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/7a/6ac95a91afd5f.png"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/1f/6ac95a67e065f.png"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/b9/6ac95e04bcd77.gif"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/d7/6ac95e145a156.png"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "bcFyjSjpjIY",
+        "url": "https://www.youtube.com/embed/bcFyjSjpjIY",
+        "thumbnail": "https://i.ytimg.com/vi/bcFyjSjpjIY/hqdefault.jpg",
+        "title": "OmniBody Soft-Body Simulation",
+        "author": "80 Level",
+        "duration": 0,
+        "verifiedAt": "2026-10-13T03:18:15+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/bcFyjSjpjIY/hqdefault.jpg"
+      ],
+      "titleZh": "实时软体模拟让切割与剥离成为可交互动作",
+      "summaryZh": "椭球粒子和局部约束探索沙盒与扩展现实中的可破坏物件。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "研究团队以定向椭球粒子替代传统连续网格，通过局部约束组织接触、弯曲、弹性和断裂。物件切开或剥离时，不必每次重建完整网格，目标是支持实时互动。",
+              "访谈讨论了图形处理器并行计算以及暴露内部表面的困难。报道中的运行时间来自研究者指定硬件和场景，不能视为所有游戏都能达到的性能；当前仍是研究框架，而非已普遍应用的游戏功能。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 25.0,
+        "completeness": 17.6,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "5e847f4de84d0872",
+      "url": "https://80.lv/articles/this-platformer-lets-you-use-shadows-of-real-life-objects-to-play/",
+      "title": "This Platformer Lets You Use Shadows of Real-Life Objects to Play",
+      "summary": "Renowned Australian director, animator, and video artist Tee Ken Ng shared Plato, his hypnotizing mixed reality game.",
+      "source": "80 Level",
+      "category": "游戏设计",
+      "image": "https://cdn.80.lv/api/upload/meta/50604/images/6accec5da2baa/contain_1200x630.jpg",
+      "publishedAt": "2026-10-12T15:35:00+00:00",
+      "date": "2026-10-12",
+      "firstSeen": "2026-10-13",
+      "score": 62.6,
+      "images": [
+        {
+          "url": "https://cdn.80.lv/api/upload/content/f3/6accf2001b1b1.jpg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/43/6accf20b26460.jpg"
+        }
+      ],
+      "titleZh": "现实物件的影子成为平台游戏中的道路",
+      "summaryZh": "摄像头与投影对齐，让手和日用品临时组成可碰撞关卡。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "创作者把摄像头看到的物件影子转成低分辨率碰撞表面，再交给游戏引擎生成物理几何。玩家摆放物品改变投影中的坡道，帮助小方块收集高处的金币。",
+              "摄像头、投影和游戏坐标映射到同一空间，画面上的影子才会与可行走区域重合。手部等移动物件也能参与，但会有一定延迟；这是创作者展示的混合现实作品，尚非无需配置即可使用的大众产品。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 6.0,
+        "completeness": 17.6,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "fbccbbd566d3232d",
+      "url": "https://80.lv/articles/this-game-where-you-replace-an-entire-city-with-shiny-parking-lots-is-out-in-early-access/",
+      "title": "This Game Where You Replace an Entire City with Shiny Parking Lots Is Out in Early Access",
+      "summary": "Car Park Capital, a Roller Coaster Tycoon-like game created by Hilko Janssen, encourages you to destroy homes and vegetation in the city to build the most beautiful car parks ever.",
+      "source": "80 Level",
+      "category": "游戏设计",
+      "image": "https://cdn.80.lv/api/upload/meta/50598/images/6acc96d644e18/contain_1200x630.jpg",
+      "publishedAt": "2026-10-12T12:10:00+00:00",
+      "date": "2026-10-12",
+      "firstSeen": "2026-10-13",
+      "score": 69.4,
+      "images": [
+        {
+          "url": "https://cdn.80.lv/api/upload/content/3c/6acc90549b308.jpg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/2f/6acc908b1f9e4.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "5U5B4BLsuT8",
+        "url": "https://www.youtube.com/embed/5U5B4BLsuT8",
+        "thumbnail": "https://i.ytimg.com/vi/5U5B4BLsuT8/hqdefault.jpg",
+        "title": "Car Park Capital | Launch Trailer | Out Now in Early Access",
+        "author": "MicroProse",
+        "duration": 0,
+        "verifiedAt": "2026-10-13T03:18:15+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/5U5B4BLsuT8/hqdefault.jpg"
+      ],
+      "titleZh": "停车场经营游戏以反向目标讽刺城市扩张",
+      "summaryZh": "拆除、宣传与设施布局共同构成夸张的资源经营循环。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "这款已进入抢先体验的独立游戏让玩家扮演停车场建设者，购买土地、拆除住宅和植被，再设计更多停车空间。它刻意把通常值得反思的城市行为设置成游戏目标。",
+              "玩家还要经营公众态度，使用宣传、雕像和夸张设施维持扩张。统计面板反馈经营结果，模拟系统与讽刺叙事彼此配合；游戏中的立场不应被当作现实城市规划建议。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 13.0,
+        "completeness": 17.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "5f265c111f975d9d",
+      "url": "https://80.lv/articles/srochet-your-own-cozy-isometric-city-with-cotton-in-this-cute-game/",
+      "title": "Crochet Your Own Cozy Isometric City with Cotton in This Cute Game",
+      "summary": "Cotton City by n1kozor lets you build bridges, lay roads, make houses, and plant trees that look like one big craft project.",
+      "source": "80 Level",
+      "category": "游戏设计",
+      "image": "https://cdn.80.lv/api/upload/meta/50597/images/6acc88c9a797b/contain_1200x630.jpg",
+      "publishedAt": "2026-10-12T11:53:00+00:00",
+      "date": "2026-10-12",
+      "firstSeen": "2026-10-13",
+      "score": 62.6,
+      "images": [
+        {
+          "url": "https://cdn.80.lv/api/upload/content/62/6acc8683794fa.jpeg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/fd/6acc8692c57b0.jpeg"
+        }
+      ],
+      "titleZh": "钩织城市把每一针变成可见的建造过程",
+      "summaryZh": "程序几何与资源模式让手工质感进入城市经营玩法。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "游戏用棉线道路、房屋、树木和车辆构成等距城市，玩家边规划布局边观察针脚生成。开发者说明，针脚来自程序化几何，并通过缓存复用、远处简化和后台准备控制计算量。",
+              "可选模式用带深度信息的缓存图像呈现静态建筑，移动物件仍使用三维。策略模式限制棉线资源，创作模式允许自由建造；当前为内容有限的早期演示，后续版本安排仍属于计划。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 6.0,
+        "completeness": 17.6,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "af02d5d3ca42255f",
+      "url": "https://80.lv/articles/bulkhead-wants-to-draw-more-players-to-blue-team-in-wardogs-season-2/",
+      "title": "Bulkhead Wants to Draw More Players to Blue Team in Wardogs Season 2",
+      "summary": "\"Lonestar needs you.\"",
+      "source": "80 Level",
+      "category": "游戏设计",
+      "image": "https://cdn.80.lv/api/upload/meta/50602/images/6accc88c3d095/contain_1200x630.jpg",
+      "publishedAt": "2026-10-12T11:46:00+00:00",
+      "date": "2026-10-12",
+      "firstSeen": "2026-10-13",
+      "score": 66.5,
+      "images": [
+        {
+          "url": "https://cdn.80.lv/api/upload/content/06/6accc74f23a80.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "J2VxjMnMDw4",
+        "url": "https://www.youtube.com/embed/J2VxjMnMDw4",
+        "thumbnail": "https://i.ytimg.com/vi/J2VxjMnMDw4/hqdefault.jpg",
+        "title": "WARDOGS | Road to Season 02",
+        "author": "BULKHEAD",
+        "duration": 0,
+        "verifiedAt": "2026-10-13T03:18:15+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/J2VxjMnMDw4/hqdefault.jpg"
+      ],
+      "titleZh": "阵营失衡促使射击游戏同时调整出生点与制服颜色",
+      "summaryZh": "奖励、基地布局和视觉识别共同回应玩家选队偏差。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "开发团队在日志中讨论蓝色阵营长期胜率较低、玩家倾向其他阵营的问题。报道提出制服表现、出生点与既有口碑可能彼此强化，这些解释不能直接视为已证明的单一原因。",
+              "计划措施包括重建基地、调整出生点、改变制服饱和度，并为选择和赢得蓝队比赛提供游戏内奖励。改动尚随新赛季安排展开，是否改善平衡需要后续玩家数据验证。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 10.0,
+        "completeness": 17.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "53c92c3812c39b80",
+      "url": "https://www.gcores.com/articles/220821",
+      "title": "将节拍融入进生活的烟火气：呆萌、搞怪、接地气的直觉系音游《动物城咖啡店》现已正式上线",
+      "summary": "由国内独立游戏团队一罐盐工作室开发的直觉系音游《动物城咖啡店》现已于10月13日正式登陆Steam。 游戏原价48元，首周购买可享10%优惠，优惠价43.2元。 《动物城咖啡店》是一款融合了原创音乐、手绘美术与日常故事的直觉系节奏游戏。玩家将以咖啡店店长的身份，认识生活在动物城中的居民，在一段段轻松诙谐的故事中跟随音乐完成挑战，感受藏在平凡日常里的点点滴滴乐趣。 与强调复杂操作或高强度反应的传统音游不同，《动物城咖啡店》让节奏回归到了一种“更自然”的体验。游戏的操作简单易懂，玩家只需听辨音乐、把握节拍，并在合适的时机按下按键，就能参与不同的节奏挑战。即使此前没有接触过音乐游戏，也可以从简单的关卡开始，逐步熟悉游戏的节奏与规律。 简单的操作背后，是开发团",
+      "source": "Gcores",
+      "category": "游戏设计",
+      "image": "https://image.gcores.com/a5af7908b2d7f3be3badcaad8b1a9511-1270-713.webp?x-oss-process=image/resize,limit_1,m_fill,w_200,h_200/quality,q_90",
+      "publishedAt": "2026-10-13T02:24:38+00:00",
+      "date": "2026-10-13",
+      "firstSeen": "2026-10-13",
+      "score": 55.5,
+      "images": [
+        {
+          "url": "https://image.gcores.com/a5af7908b2d7f3be3badcaad8b1a9511-1270-713.webp?x-oss-process=image/resize,limit_1,m_lfit,w_1600/quality,q_90"
+        }
+      ],
+      "titleZh": "动物咖啡店音游以日常声音连接节拍与故事",
+      "summaryZh": "简单按键、原创音乐和手绘角色组成渐进式节奏挑战。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "《动物城咖啡店》将音乐挑战放入动物居民的生活情境，以听辨节拍和适时按键作为基本操作。项目披露收录三十五首原创乐曲，关卡演出结合手绘美术和轻松叙事。",
+              "锅碗瓢盆与环境声音被转化为音乐元素，让情境和操作反馈建立联系。开发团队计划后续开放关卡编辑与作品分享，但这些仍是未来安排，不能当作当前版本已经具备的功能。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 17.5,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "931eafaf1e110269",
+      "url": "https://www.gcores.com/radios/211461",
+      "title": "【免费加更】推理的“谜题”，不仅仅只有“凶手是谁”，谜题构筑法Vol.3",
+      "summary": "本期时间轴制作: 雏雏 【注意！！】本集涉及到剧透的作品： 《中国橘子之谜》《占星术杀人魔法》（以上两部只讲谜面，没有剧透谜底）\n《红茶合战》《利刃出鞘3》\n《乔乔福音（JoJolion）》(其中的一个替身使者) 欢迎收听系列节目《谜题构筑法：学会拆解推理小说/游戏的谜题构造》的第3集！本系列希望通过全6集的播客节目，帮助大家了解推理故事的创作逻辑，梳理推理创作中的逻辑链，对今后欣赏或创作推理故事有所帮助！ 在听这集之前，让我们想一个问题： 一部推理作品，不让我们猜凶手是谁，那它还能猜什么？ 在推理过程中，观众若最先接触到【死者的状态】，在考虑凶手是谁之前，【死者异样的状态】，反而令我们下意识疑惑： 为什么会出现这个情况？这往往是现如今推理小说构建的谜",
+      "source": "Gcores",
+      "category": "游戏设计",
+      "image": "https://image.gcores.com/7e4a182d2f32482588fb23e480495242-1600-900.jpg?x-oss-process=image/resize,limit_1,m_fill,w_200,h_200/quality,q_90/format,webp",
+      "publishedAt": "2026-10-12T13:00:00+00:00",
+      "date": "2026-10-12",
+      "firstSeen": "2026-10-13",
+      "score": 50.5,
+      "images": [
+        {
+          "url": "https://image.gcores.com/7e4a182d2f32482588fb23e480495242-1600-900.jpg?x-oss-process=image/resize,limit_1,m_fill,w_200,h_200/quality,q_90/format,webp"
+        }
+      ],
+      "titleZh": "推理谜题设计不必只围绕找出凶手",
+      "summaryZh": "公开节目说明区分实现方式、动机、推导与设定谜题。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "依据节目页面的公开文字整理，这期讨论将谜题焦点从人物身份扩展到事件如何发生、为何发生以及如何从线索推导结论。不同问题会改变观众最先注意的异常与后续追索方向。",
+              "页面还提到利用心理盲点和故事设定构筑谜题。这些框架可供推理游戏叙事参考；本文没有听取完整音频，不补写节目中未在公开文字披露的案例结论或谜底。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 17.5,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "07d5c0e8b56cedb2",
+      "url": "https://www.gcores.com/articles/220767",
+      "title": "Team Instant Defeat携手11位工作室正式公布Roguelike新作《地块梦战》",
+      "summary": "新成立的游戏开发工作室 Team Instant Defeat 携手 11位工作室，隆重公布快节奏俯视角动作 Roguelike 新作——《地块梦战》。在这款游戏中，你需要亲手构筑战场、抵御入侵意识深处的异星敌人，在危机四伏的精神世界中奋力求生。 <内嵌内容，请前往机核查看> 在《地块梦战》中，每一局游戏都从一块地块开始。你需要迎战成群结队的异星敌人，积累经验、提升等级，并不断扩展自己的战场。每一块新地块都将带来新的可能，包括武器、升级、治疗、工具、防御设施，以及充满风险的组合效果。战场将如何成形，完全由你决定，因此地块的摆放位置也是构筑战斗流派的关键。不断尝试新的策略与地块布局，并从失败中汲取教训才能逐步掌握制胜之道。一旦挑战失败你便会重新回到一个液",
+      "source": "Gcores",
+      "category": "游戏设计",
+      "image": "https://image.gcores.com/6bde821cc291d4b4452e8f4f81293f9b-2560-1440.jpg?x-oss-process=image/resize,limit_1,m_fill,w_200,h_200/quality,q_90/format,webp",
+      "publishedAt": "2026-10-12T01:10:00+00:00",
+      "date": "2026-10-12",
+      "firstSeen": "2026-10-13",
+      "score": 50.3,
+      "images": [
+        {
+          "url": "https://image.gcores.com/6bde821cc291d4b4452e8f4f81293f9b-2560-1440.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1600/quality,q_90/format,webp"
+        }
+      ],
+      "titleZh": "地块构筑成为俯视角动作游戏的战斗策略",
+      "summaryZh": "玩家边迎敌边扩展战场，让位置选择参与流派形成。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "已公布的新作《地块梦战》让每局从单块地面开始，玩家在战斗中获得经验，再用新地块扩大场地。地块可能带来武器、治疗、防御和其他组合效果。",
+              "布局不只是地图背景，也参与战斗资源和策略组织。失败后的再出发与意识世界叙事相连；当前文字来自项目公布材料，尚不能代替实际游玩后对平衡与节奏的评价。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 17.3,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "79a201a7484739be",
+      "url": "https://www.gcores.com/articles/220766",
+      "title": "时间管理心理恐怖游戏《铁道人》将于2027年3月10日发售",
+      "summary": "由11位工作室携手知名恐怖游戏开发者，Harvester Games 的 雷姆·米哈尔斯基（Rem Michalski） 打造的全新作品《铁道人》将于2027年3月10日正式登陆 PC Steam 平台。在《铁道人》中，你将扮演特洛伊——一名新上任的铁路道口工，独自驻守在荒无人烟的偏僻铁路旁。你的目标看似简单：完成为期一个月的工作合同，同时努力戒酒，并最后一次尝试挽回妻子的信任。来到这座远离尘嚣的塔楼，陪伴特洛伊度过这段艰难的时光，帮助他重拾人生。但请小心，一个月的时间并不短，而这里发生的一切只会变得越来越诡异…… 凭借《Lorelai》《The Cat Lady》和《伯恩豪斯巷》等广受好评的独立恐怖游戏作品，米哈尔斯基早已在恐怖游戏领域享有盛誉。如今",
+      "source": "Gcores",
+      "category": "游戏设计",
+      "image": "https://image.gcores.com/e8561986adcd83a6ec2d6b1ddd5ab21e-1582-890.jpg?x-oss-process=image/resize,limit_1,m_fill,w_200,h_200/quality,q_90/format,webp",
+      "publishedAt": "2026-10-12T00:55:00+00:00",
+      "date": "2026-10-12",
+      "firstSeen": "2026-10-13",
+      "score": 50.3,
+      "images": [
+        {
+          "url": "https://image.gcores.com/e8561986adcd83a6ec2d6b1ddd5ab21e-1582-890.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1600/quality,q_90/format,webp"
+        }
+      ],
+      "titleZh": "铁路道口工作与生活照料组成恐怖游戏的时间压力",
+      "summaryZh": "列车、探索和人际承诺迫使玩家决定哪些事情可以错过。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "尚未发售的《铁道人》让玩家管理铁路道口工作，同时处理饥饿、睡眠、清洁与联系家人的安排。固定列车时刻与不断出现的杂务形成时间冲突。",
+              "探索迷雾和帮助陌生人会占用有限时段，设计通过不可兼得的任务推动取舍与心理恐怖。报道所述玩法属于开发方公开介绍，计划发售日期不等于当前已经可以完整游玩。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 17.3,
+        "source": 15.0
+      }
     }
   ],
   "issues": [
@@ -67102,12 +67573,14 @@
     {
       "date": "2026-10-13",
       "articleIds": [
+        "53c92c3812c39b80",
         "049469da1550bd2a",
         "8e4b7f3fcf4e8528",
         "8b123122a08a855d",
         "46565b948b53b30b",
         "23c78f20e8609b81",
         "4017f359d9093e80",
+        "d3075729a48ace43",
         "693883bfee6427f0",
         "547f86d7629396ce",
         "5c467e73a836b2c1",
@@ -67121,6 +67594,7 @@
         "ad2082453068b219",
         "e559e7bef3e17ec2",
         "c7ffa92e717b7082",
+        "5e847f4de84d0872",
         "31115af86f9380a5",
         "504640e9b5c00b17",
         "9e7bcbc4a071ba5e",
@@ -67129,9 +67603,13 @@
         "762ff7d4fd19cfd4",
         "7a49a65e685df128",
         "bb966b8da3f257e4",
+        "931eafaf1e110269",
         "01e1884184ca44a4",
+        "fbccbbd566d3232d",
         "8c023e4800f583d2",
         "91015f1811580c53",
+        "5f265c111f975d9d",
+        "af02d5d3ca42255f",
         "82cb674020923377",
         "db47590e0d7bc141",
         "b1f27b24a743fd8a",
@@ -67175,8 +67653,11 @@
         "a3fef67e966fe71f",
         "ab4ed9ac0b9454b7",
         "a7e5d04f51a1c33f",
+        "07d5c0e8b56cedb2",
+        "79a201a7484739be",
         "6a665d2bb40f3dbc",
-        "0b62b69c85fff624"
+        "0b62b69c85fff624",
+        "4179f56d3a8958e4"
       ],
       "updatedAt": "2026-10-13T09:04:16.916778+08:00",
       "masthead": {
@@ -67251,7 +67732,10 @@
     "Fast Company UX": "快公司用户体验",
     "Google AI Blog": "谷歌人工智能博客",
     "Adobe Developers Blog": "奥多比创意开发者博客",
-    "LukeW": "卢克·沃罗布列夫斯基"
+    "LukeW": "卢克·沃罗布列夫斯基",
+    "Game Developer": "游戏开发者",
+    "80 Level": "游戏美术与制作",
+    "Gcores": "机核"
   },
   "sourceCatalog": [
     {
@@ -67999,6 +68483,45 @@
       "categories": [
         "用户体验设计"
       ]
+    },
+    {
+      "name": "Game Developer",
+      "label": "游戏开发者",
+      "url": "https://www.gamedeveloper.com/",
+      "homepage": "https://www.gamedeveloper.com/",
+      "feedUrl": "https://www.gamedeveloper.com/rss.xml",
+      "category": "游戏设计",
+      "categories": [
+        "游戏设计"
+      ],
+      "mode": "feed",
+      "access": "public"
+    },
+    {
+      "name": "80 Level",
+      "label": "游戏美术与制作",
+      "url": "https://80.lv/",
+      "homepage": "https://80.lv/",
+      "feedUrl": "https://80.lv/feed",
+      "category": "游戏设计",
+      "categories": [
+        "游戏设计"
+      ],
+      "mode": "feed",
+      "access": "public"
+    },
+    {
+      "name": "Gcores",
+      "label": "机核",
+      "url": "https://www.gcores.com/",
+      "homepage": "https://www.gcores.com/",
+      "feedUrl": "https://www.gcores.com/rss",
+      "category": "游戏设计",
+      "categories": [
+        "游戏设计"
+      ],
+      "mode": "feed",
+      "access": "public"
     }
   ]
 }
