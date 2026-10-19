@@ -2210,6 +2210,7 @@
       "date": "2026-10-18",
       "firstSeen": "2026-10-19",
       "score": 65.4,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/10/atos-radio-inspired-ai-assistant-trades-touchscreens-for-a-button-and-knob/ato-ai-assistant-03.jpg"
@@ -2270,6 +2271,48 @@
       }
     },
     {
+      "id": "c25a10d432f16c84",
+      "url": "https://www.archdaily.com/1186199/sangwich-club-east-bureau",
+      "title": "Sangwich Club / east bureau",
+      "summary": "Sangwich Club is a 109.3-square-meter sandwich bar in central Almaty , designed by east bureau as a place that reveals itself gradually. Rather than building the interior around a single visual gesture, the project brings together the existing character of the space, the brand's visual language, and a series of custom-designed…",
+      "source": "ArchDaily",
+      "category": "空间设计",
+      "image": "https://images.adsttc.com/media/images/6abe/be89/07c3/d100/017f/c888/large_jpg/06_Damir_Otegen.jpg?1790885575",
+      "publishedAt": "2026-10-17T21:00:00+00:00",
+      "date": "2026-10-18",
+      "firstSeen": "2026-10-19",
+      "score": 54.8,
+      "issueDate": "2026-10-18",
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6abe/be89/07c3/d100/017f/c888/large_jpg/06_Damir_Otegen.jpg?1790885575"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abe/be89/07c3/d100/017f/c889/large_jpg/07_Damir_Otegen.jpg?1790885630"
+        }
+      ],
+      "titleZh": "阿拉木图三明治店以定制构件串联品牌与场地",
+      "summaryZh": "小型餐饮空间通过逐步展开的细节建立整体识别。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "位于阿拉木图中心的三明治店面积约一百一十平方米，设计把既有空间特征、品牌视觉语言与定制构件组织在一起。",
+              "空间没有围绕单一的视觉造型展开，而是让不同元素在室内相互呼应，形成逐渐被发现的体验。本篇依据公开项目说明整理。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 6.0,
+        "completeness": 9.8,
+        "source": 24.0
+      }
+    },
+    {
       "id": "b3f8f1fd66c06f32",
       "url": "https://www.yankodesign.com/2026/10/17/tuff-pencil-cabinet-brings-volcanic-rock-inspiration-to-storage-on-wheels/",
       "title": "TUFF Pencil Cabinet Brings Volcanic-Rock Inspiration to Storage on Wheels",
@@ -2281,6 +2324,7 @@
       "date": "2026-10-18",
       "firstSeen": "2026-10-19",
       "score": 65.0,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/10/tuff-pencil-cabinet-brings-volcanic-rock-inspiration-to-storage-on-wheels/tuff-pencil-cabinet-05.jpg"
@@ -2352,6 +2396,7 @@
       "date": "2026-10-18",
       "firstSeen": "2026-10-19",
       "score": 81.2,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://www.designboom.com/wp-content/dbsub/464451/2026-10-13/bike-station-4-6ace20546cddb.jpg"
@@ -2430,6 +2475,7 @@
       "date": "2026-10-18",
       "firstSeen": "2026-10-19",
       "score": 64.8,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/10/pandora-lamp-reveals-a-hidden-glow-through-perforated-steel/pandora-00.jpg"
@@ -2489,6 +2535,7 @@
       "date": "2026-10-18",
       "firstSeen": "2026-10-19",
       "score": 72.1,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://cdn.80.lv/api/upload/content/07/6ad21905999cf.jpg"
@@ -2546,6 +2593,7 @@
       "date": "2026-10-18",
       "firstSeen": "2026-10-19",
       "score": 64.9,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/10/evista-xl-limited-edition/e_vista_yanko_design_01.jpg"
@@ -2602,6 +2650,7 @@
       "date": "2026-10-18",
       "firstSeen": "2026-10-19",
       "score": 74.0,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://static.dezeen.com/uploads/2026/10/4-staple-street_diana-kellogg-architects_dezeen_sq2ex-852x852.jpg"
@@ -2664,6 +2713,7 @@
       "date": "2026-10-18",
       "firstSeen": "2026-10-19",
       "score": 54.8,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6a39/07f0/54d7/6a00/01cc/68d1/large_jpg/Aquatic_Gallery-06.jpg?1782122544"
@@ -2705,6 +2755,7 @@
       "date": "2026-10-17",
       "firstSeen": "2026-10-19",
       "score": 58.9,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6ace/95de/b2c4/c300/0178/ee8c/large_jpg/14..jpg?1791923736"
@@ -2746,6 +2797,7 @@
       "date": "2026-10-17",
       "firstSeen": "2026-10-19",
       "score": 65.9,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://cdn.80.lv/api/upload/content/0b/6acf7b38806d6.jpg"
@@ -2813,6 +2865,7 @@
       "date": "2026-10-17",
       "firstSeen": "2026-10-19",
       "score": 63.9,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://www.designboom.com/wp-content/uploads/2026/10/signal-festival-2026-designboom-02.jpg"
@@ -2887,6 +2940,7 @@
       "date": "2026-10-17",
       "firstSeen": "2026-10-19",
       "score": 39.6,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://mir-s3-cdn-cf.behance.net/projects/404/1de5b0256816103.Y3JvcCwxNDAwLDEwOTUsMCwxNTI.gif"
@@ -2925,6 +2979,7 @@
       "date": "2026-10-17",
       "firstSeen": "2026-10-19",
       "score": 61.9,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://www.yankodesign.com/images/design_news/2026/10/arcs-bracelet-concept-quietly-nudges-you-to-stop-scrolling/arc-01.jpg"
@@ -2978,6 +3033,7 @@
       "date": "2026-10-17",
       "firstSeen": "2026-10-19",
       "score": 51.6,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6ad1/15a9/aadf/a000/01e3/a5ce/large_jpg/Suite_CasaCor_2026_SF_Fotos_Pedro_Ocanhas25.jpg?1792087649"
@@ -3019,6 +3075,7 @@
       "date": "2026-10-17",
       "firstSeen": "2026-10-19",
       "score": 62.4,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://image.gcores.com/13ebfb7d66ea8497338f825426d20da4-4000-2666.jpg"
@@ -3096,6 +3153,7 @@
       "date": "2026-10-17",
       "firstSeen": "2026-10-19",
       "score": 64.0,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://www.designboom.com/wp-content/uploads/2026/10/snohetta-shanghai-grand-opera-house-spiraling-staircase-public-rooftop-designboom-4.jpg"
@@ -3162,6 +3220,78 @@
       }
     },
     {
+      "id": "9aa06a596a2245c4",
+      "url": "https://www.wallpaper.com/tech/new-smartphones-by-tecno-tcl-and-xiaomi-review",
+      "title": "Three devices counter smartphone sameness with new features, design and form factors",
+      "summary": "Tecno, TCL and Xiaomi have launched new smartphones that offer fresh twists on an all-too familiar form",
+      "source": "Wallpaper",
+      "category": "工业设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/xnvrATNiiqVKGpFjhrgEmK-1920-80.jpg",
+      "publishedAt": "2026-10-17T11:39:28+00:00",
+      "date": "2026-10-17",
+      "firstSeen": "2026-10-19",
+      "score": 71.3,
+      "issueDate": "2026-10-18",
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/DyhqUb59UYitLwGYKotB5W-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uos4aCSNEFo3fm3eaDTMJb-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/BtqTsnvNp9XiXEt9nm7wTf-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/FHcrYYxRb2rXEdgdoLMCTn-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7GcTzziVg5i4ui4sRk8qE4-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/qkwuUmXg9eYUfBP8Hu3YG7-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/cuTuLKpZzR5t8YkDukcWZD-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4zRCB2Fr4CXAw3jigDrBwL-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/A83MmPGd7escELWEWEcJwL-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/jhmbwXsNgKCfFdzRPvaAUZ-1134-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rzoKn8t8d8xSKaFhmnQDLZ-1244-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/neZzhrvyhGT9HQaaqoUZKQ-1920-80.jpg"
+        }
+      ],
+      "titleZh": "手机以实体阅读开关与宽折叠比例探索差异",
+      "summaryZh": "三款设备从品牌细节、阅读模式与屏幕比例回应相似的手机外形。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "联名手机将红黑配色、六边形图案和定制图标带入机身与界面；另一款设备以侧面滑动开关切换彩色与单色阅读状态，让模式转换具有明确的实体入口。",
+              "折叠设备则采用较宽的外屏比例和圆角轮廓，尝试改变合起时的握持与观看关系。这些案例展示不同的设计侧重点，不将厂商性能或续航描述视作独立测试结论。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 12.0,
+        "media": 18.0,
+        "completeness": 17.3,
+        "source": 24.0
+      }
+    },
+    {
       "id": "dad03c1bb334eac7",
       "url": "https://www.archdaily.com/1187054/colares-sintra-house-sabrab",
       "title": "Colares Sintra House / Sabrab",
@@ -3173,6 +3303,7 @@
       "date": "2026-10-17",
       "firstSeen": "2026-10-19",
       "score": 51.5,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6ad2/80a9/c720/ac01/8896/29c0/large_jpg/casa-colares-sintra-sabrab_18.jpg?1792180428"
@@ -3214,6 +3345,7 @@
       "date": "2026-10-17",
       "firstSeen": "2026-10-19",
       "score": 71.1,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/QkAB8LWVJXaYphMC82pf7R-1920-80.jpg"
@@ -3259,6 +3391,45 @@
       }
     },
     {
+      "id": "d426949421d6dbc0",
+      "url": "https://www.dezeen.com/2026/10/17/converted-power-stations-roundup/",
+      "title": "Eight converted power stations that show the power of reuse",
+      "summary": "In this roundup, we take a look at decommissioned power stations that have been given a second life, from the Tate Modern museum in London to the Dyson headquarters in Singapore. Originally built to generate electricity, these industrial buildings typically have expansive interiors with tall ceilings, giving architects plenty…",
+      "source": "Dezeen",
+      "category": "建筑设计",
+      "image": "https://static.dezeen.com/uploads/2022/10/battersea-power-station-completes-wilkinson-eyre_dezeen_2364_sq_0-852x852.jpg",
+      "publishedAt": "2026-10-17T09:00:30+00:00",
+      "date": "2026-10-17",
+      "firstSeen": "2026-10-19",
+      "score": 56.2,
+      "issueDate": "2026-10-18",
+      "images": [
+        {
+          "url": "https://static.dezeen.com/uploads/2022/10/battersea-power-station-completes-wilkinson-eyre_dezeen_2364_sq_0-852x852.jpg"
+        }
+      ],
+      "titleZh": "旧电站通过大跨度空间容纳文化与公共用途",
+      "summaryZh": "再利用案例比较工业遗产如何转换为艺术、办公与运动设施。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "旧电站通常具有较大的内部空间与层高，为用途转换提供条件。案例将涡轮机大厅分别改为美术馆展示空间、办公共享中庭和室内运动场地。",
+              "不同项目对既有结构采取保留、修复或局部增建等方式。它们属于跨年代案例整理，不是本日同时落成的新建筑；关注点是工业空间如何与新的公共活动相适应。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 12.0,
+        "media": 3.0,
+        "completeness": 17.2,
+        "source": 24.0
+      }
+    },
+    {
       "id": "c43789ee97eb89a8",
       "url": "https://www.wallpaper.com/architecture/residential/assembly-archive-thistle-creek-house-jackson-hole-valley",
       "title": "Assembly Archive’s Thistle Creek House is embedded in the Wyoming landscape",
@@ -3270,6 +3441,7 @@
       "date": "2026-10-17",
       "firstSeen": "2026-10-19",
       "score": 70.7,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/tYPd2n4RoGnpeJYMnGh5P7-1920-80.jpg"
@@ -3412,6 +3584,7 @@
       "date": "2026-10-17",
       "firstSeen": "2026-10-19",
       "score": 71.0,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/NCWSEh8hHVWADRttH8ktXD-1920-80.jpg"
@@ -3468,6 +3641,7 @@
       "date": "2026-10-17",
       "firstSeen": "2026-10-19",
       "score": 51.5,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6ab4/838f/59bf/5a01/8bd6/8469/large_jpg/prague-fire-rescue-service-architektura_35.jpg?1790215114"
@@ -3509,6 +3683,7 @@
       "date": "2026-10-17",
       "firstSeen": "2026-10-19",
       "score": 64.8,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://cdn.mos.cms.futurecdn.net/cPzjDqbzxVXALF6AvmZoiH-1920-80.jpg"
@@ -3556,6 +3731,7 @@
       "date": "2026-10-17",
       "firstSeen": "2026-10-19",
       "score": 48.7,
+      "issueDate": "2026-10-18",
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6ad0/3eb4/b2c4/c300/0178/f5b6/large_jpg/07_Interior___Aaron_Shao.jpg?1792032487"
@@ -55248,41 +55424,6 @@
       }
     },
     {
-      "date": "2026-10-08",
-      "articleIds": [
-        "029129092f824e8a",
-        "5defe45a6392b35f",
-        "afe2974710fc3742",
-        "b19ada5a3ebcb7e7",
-        "e2390e983a123bf4",
-        "b5cd15cad28fe118",
-        "440f7c04810e0737",
-        "ca7d1b9487948ddd",
-        "d4c80b7459047a4e",
-        "b507eaea5333818a",
-        "7fbf4789e65398b7",
-        "12f158656720732a",
-        "0066e58a152dfcbb",
-        "0558e7981e0cdac5",
-        "e8052c12ac9071e8",
-        "9c5151209b7ab365",
-        "470cc1657d6c7f7b",
-        "fb241552dede48c6",
-        "aa80b2d99ee5099c",
-        "7b018ad91807f6bc",
-        "7dcfb401bece807e",
-        "88e871d5a8d26738",
-        "70206e83a8319912",
-        "4a2c9c4a9d935bd1"
-      ],
-      "updatedAt": "2026-10-08T10:39:20.179669+08:00",
-      "masthead": {
-        "lead": "回收与重组",
-        "title": "让旧材料与新关系，继续生长。",
-        "subtitle": "从可移动装置到回收木构，设计在材料循环、公共生活与视觉表达中展开。"
-      }
-    },
-    {
       "date": "2026-10-03",
       "articleIds": [
         "d24f8bbf5df5f10b",
@@ -55503,6 +55644,41 @@
         "lead": "结构与感知",
         "title": "从字形到城市，设计塑造参与的方式。",
         "subtitle": "字体影像、模块商店与公共运动场，把观看转化为可以进入的体验。"
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "articleIds": [
+        "029129092f824e8a",
+        "5defe45a6392b35f",
+        "afe2974710fc3742",
+        "b19ada5a3ebcb7e7",
+        "e2390e983a123bf4",
+        "b5cd15cad28fe118",
+        "440f7c04810e0737",
+        "ca7d1b9487948ddd",
+        "d4c80b7459047a4e",
+        "b507eaea5333818a",
+        "7fbf4789e65398b7",
+        "12f158656720732a",
+        "0066e58a152dfcbb",
+        "0558e7981e0cdac5",
+        "e8052c12ac9071e8",
+        "9c5151209b7ab365",
+        "470cc1657d6c7f7b",
+        "fb241552dede48c6",
+        "aa80b2d99ee5099c",
+        "7b018ad91807f6bc",
+        "7dcfb401bece807e",
+        "88e871d5a8d26738",
+        "70206e83a8319912",
+        "4a2c9c4a9d935bd1"
+      ],
+      "updatedAt": "2026-10-08T10:39:20.179669+08:00",
+      "masthead": {
+        "lead": "回收与重组",
+        "title": "让旧材料与新关系，继续生长。",
+        "subtitle": "从可移动装置到回收木构，设计在材料循环、公共生活与视觉表达中展开。"
       }
     },
     {
@@ -56211,6 +56387,42 @@
       }
     },
     {
+      "date": "2026-10-18",
+      "articleIds": [
+        "bb45ca79b56a6a49",
+        "c25a10d432f16c84",
+        "b3f8f1fd66c06f32",
+        "84371e49c956ef51",
+        "82e306f9a59021d5",
+        "1aa45a44c991ea6d",
+        "e5f9aa989462c832",
+        "ffd09e94f48f3323",
+        "247ec6baa8cb69ed",
+        "39d26cdd25b59ce7",
+        "de5b674bdefc6d17",
+        "368294bea9ac2d38",
+        "d66502cfb315660b",
+        "941479f664e7ecfe",
+        "6c811b4a1b5cba7a",
+        "78012fe844be39b6",
+        "44f4d89df2c4ba72",
+        "9aa06a596a2245c4",
+        "dad03c1bb334eac7",
+        "05a1659f1b86dfd7",
+        "d426949421d6dbc0",
+        "c43789ee97eb89a8",
+        "3ca835362d6d7c34",
+        "058d27ed83f4d0d4",
+        "f637038001204eff",
+        "6b87830d103bd835"
+      ],
+      "masthead": {
+        "lead": "让旧的材料，",
+        "title": "开启新的日常。",
+        "subtitle": "从可拆木构、旧电站改造到手绘游戏，观察既有资源如何获得新的用途与体验。"
+      }
+    },
+    {
       "date": "2026-10-19",
       "articleIds": [
         "55ca5dc9e71621d9",
@@ -56241,29 +56453,6 @@
         "44653962fffb2bb4",
         "4b1426b408139816",
         "2ba6daa9dd17ba9a",
-        "bb45ca79b56a6a49",
-        "b3f8f1fd66c06f32",
-        "84371e49c956ef51",
-        "82e306f9a59021d5",
-        "1aa45a44c991ea6d",
-        "e5f9aa989462c832",
-        "ffd09e94f48f3323",
-        "247ec6baa8cb69ed",
-        "39d26cdd25b59ce7",
-        "de5b674bdefc6d17",
-        "368294bea9ac2d38",
-        "d66502cfb315660b",
-        "941479f664e7ecfe",
-        "6c811b4a1b5cba7a",
-        "78012fe844be39b6",
-        "44f4d89df2c4ba72",
-        "dad03c1bb334eac7",
-        "05a1659f1b86dfd7",
-        "c43789ee97eb89a8",
-        "3ca835362d6d7c34",
-        "058d27ed83f4d0d4",
-        "f637038001204eff",
-        "6b87830d103bd835",
         "98db09eb4e99641b"
       ],
       "updatedAt": "2026-10-19T10:36:21.475100+08:00",
