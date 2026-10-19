@@ -1,0 +1,7 @@
+exclude:
+  - Design-Daily/before-daily/images
+  - Design-Daily/before-daily/batches
+  - Design-Daily/before-daily/data.js
+  - Design-Daily/before-daily/data.json
+  - Design-Daily/before-daily/assets.json
+  - Design-Daily/before-daily/reader-2026-09-16_2026-09-17.html
