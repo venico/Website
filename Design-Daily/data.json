@@ -5973,19 +5973,10 @@
       "publishedAt": "2026-10-16T10:00:00+00:00",
       "date": "2026-10-16",
       "firstSeen": "2026-10-17",
-      "score": 71.3,
+      "score": 62.3,
       "images": [
         {
-          "url": "https://files.smashing.media/partners/smashing/dark.png"
-        },
-        {
-          "url": "https://files.smashing.media/partners/smashing/samantha-gordashko.png"
-        },
-        {
           "url": "https://files.smashing.media/partners/netlify/netlify-jan26.png"
-        },
-        {
-          "url": "https://files.smashing.media/partners/smashing/smashing-friskies-300x250.png"
         },
         {
           "url": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg"
@@ -6007,7 +5998,7 @@
       },
       "heat": {
         "recency": 15.0,
-        "media": 15.0,
+        "media": 6.0,
         "completeness": 17.3,
         "source": 24.0
       }
