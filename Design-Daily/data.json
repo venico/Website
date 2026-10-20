@@ -3784,11 +3784,8 @@
       "publishedAt": "2026-10-19T10:00:00+00:00",
       "date": "2026-10-19",
       "firstSeen": "2026-10-20",
-      "score": 54.5,
+      "score": 51.5,
       "images": [
-        {
-          "url": "https://images.adsttc.com/bio_photo/photos/5015/c6e4/28ba/0d5a/4b00/0e6a/thumb_jpg/open-uri20200917-17730-urqxit.jpg?160031.jpg"
-        },
         {
           "url": "https://images.adsttc.com/media/images/6acf/5e19/b2c4/c300/0178/f2a9/large_jpg/412007_000_N89_highres.jpg?1791975001"
         }
@@ -3809,7 +3806,7 @@
       },
       "heat": {
         "recency": 15.0,
-        "media": 6.0,
+        "media": 3.0,
         "completeness": 9.5,
         "source": 24.0
       }
@@ -4586,11 +4583,8 @@
       "publishedAt": "2026-10-19T07:30:00+00:00",
       "date": "2026-10-19",
       "firstSeen": "2026-10-20",
-      "score": 54.8,
+      "score": 51.8,
       "images": [
-        {
-          "url": "https://s3.amazonaws.com/images.adsttc.com/lambda-bio_photo/201c4303-a457-4292-89ba-c9ca66085d3b/thumb_jpg/Ananya_Nayak-402.jpg"
-        },
         {
           "url": "https://images.adsttc.com/media/images/6ad1/77aa/c720/ac01/8896/25e3/large_jpg/the-mangrove-as-a-wall-coastal-protection-and-urban-development-in-india_11.jpg?1792112571"
         }
@@ -4611,7 +4605,7 @@
       },
       "heat": {
         "recency": 15.0,
-        "media": 6.0,
+        "media": 3.0,
         "completeness": 9.8,
         "source": 24.0
       }
@@ -4668,11 +4662,8 @@
       "publishedAt": "2026-10-19T06:45:00+00:00",
       "date": "2026-10-19",
       "firstSeen": "2026-10-20",
-      "score": 54.6,
+      "score": 51.6,
       "images": [
-        {
-          "url": "https://s3.amazonaws.com/images.adsttc.com/lambda-bio_photo/a535266a-ad0b-4499-9242-256e4275cdd7/thumb_jpg/IMG_8438.jpg"
-        },
         {
           "url": "https://images.adsttc.com/media/images/6ad2/4706/8008/f401/8ba5/3fec/large_jpg/from-paper-to-space-matter-as-sensory-architecture_9.jpg?1792165653"
         }
@@ -4693,7 +4684,7 @@
       },
       "heat": {
         "recency": 15.0,
-        "media": 6.0,
+        "media": 3.0,
         "completeness": 9.7,
         "source": 24.0
       }
@@ -4872,11 +4863,8 @@
       "publishedAt": "2026-10-19T06:30:00+00:00",
       "date": "2026-10-19",
       "firstSeen": "2026-10-20",
-      "score": 62.1,
+      "score": 59.1,
       "images": [
-        {
-          "url": "https://s3.amazonaws.com/images.adsttc.com/lambda-bio_photo/af39fc8d-54f3-44f9-ad30-9099c9806eba/thumb_jpg/Reyyan-Dogan_Profile-picture.jpg"
-        },
         {
           "url": "https://images.adsttc.com/media/images/6ad5/cc5b/c720/ac01/8896/2b20/large_jpg/snohettas-shanghai-grand-opera-house-opens-with-a-sweeping-roof-and-panoramic-river-views_1.jpg?1792396424"
         }
@@ -4897,7 +4885,7 @@
       },
       "heat": {
         "recency": 15.0,
-        "media": 6.0,
+        "media": 3.0,
         "completeness": 17.1,
         "source": 24.0
       }
@@ -5020,11 +5008,8 @@
       "publishedAt": "2026-10-19T05:30:00+00:00",
       "date": "2026-10-19",
       "firstSeen": "2026-10-20",
-      "score": 62.0,
+      "score": 59.0,
       "images": [
-        {
-          "url": "https://images.adsttc.com/bio_photo/photos/5b2c/106b/f197/cce5/8d00/09fd/thumb_jpg/descarga.jpg?1570459495"
-        },
         {
           "url": "https://images.adsttc.com/media/images/6ad4/eb96/c720/ac01/8896/2a7c/large_jpg/riba-international-prize-2026_1.jpg?1792338866"
         }
@@ -5045,7 +5030,7 @@
       },
       "heat": {
         "recency": 15.0,
-        "media": 6.0,
+        "media": 3.0,
         "completeness": 17.0,
         "source": 24.0
       }
@@ -5113,15 +5098,12 @@
       "summary": "The concept of \" eyes on the street \" is perhaps the most famous within architectural and urban literature when it comes to urban security. Jane Jacobs uses this expression to refer to people who - consciously or unconsciously - use public spaces or observe them from their homes, generating natural surveillance. A movement…",
       "source": "ArchDaily",
       "category": "建筑设计",
-      "image": "https://images.adsttc.com/bio_photo/photos/6267/100c/79f7/2c31/6b2f/a4b7/original/Camila_Alba_BlocoB_Equipe_WEB-9.jpg?1650972568",
+      "image": "https://images.adsttc.com/media/images/65ea/506e/855b/f264/9e6f/814a/medium_jpg/os-olhos-da-rua-o-conceito-de-jane-jacobs-e-a-arquitetura-residencial-contemporanea-no-brasil_10.jpg?1709854838",
       "publishedAt": "2026-10-19T04:00:00+00:00",
       "date": "2026-10-19",
       "firstSeen": "2026-10-20",
-      "score": 62.1,
+      "score": 59.1,
       "images": [
-        {
-          "url": "https://images.adsttc.com/bio_photo/photos/6267/100c/79f7/2c31/6b2f/a4b7/original/Camila_Alba_BlocoB_Equipe_WEB-9.jpg?1650972568"
-        },
         {
           "url": "https://images.adsttc.com/media/images/65ea/506e/855b/f264/9e6f/814a/medium_jpg/os-olhos-da-rua-o-conceito-de-jane-jacobs-e-a-arquitetura-residencial-contemporanea-no-brasil_10.jpg?1709854838"
         }
@@ -5142,7 +5124,7 @@
       },
       "heat": {
         "recency": 15.0,
-        "media": 6.0,
+        "media": 3.0,
         "completeness": 17.1,
         "source": 24.0
       }
