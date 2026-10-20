@@ -41,5 +41,16 @@
     "articles": 213,
     "path": "batches/2026-09-26_2026-10-02/index.html",
     "publicURL": "https://venico.github.io/Design-Daily-Archive/"
+  },
+  {
+    "dates": [
+      "2026-10-04",
+      "2026-10-05"
+    ],
+    "from": "2026-10-04",
+    "to": "2026-10-05",
+    "articles": 38,
+    "path": "batches/2026-10-04_2026-10-05/index.html",
+    "publicURL": "https://venico.github.io/Design-Daily-Archive/batches/2026-10-04_2026-10-05/"
   }
 ]
