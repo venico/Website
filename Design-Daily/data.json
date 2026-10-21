@@ -2477,8 +2477,27 @@
       "publishedAt": "2026-10-20T13:00:57+00:00",
       "date": "2026-10-20",
       "firstSeen": "2026-10-21",
-      "score": 58.7,
-      "images": [],
+      "score": 73.7,
+      "images": [
+        {
+          "url": "https://design-milk.com/images/2026/09/Brief_Faba_6.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/09/Brief_Faba_1.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/09/Brief_Faba_7.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/09/Brief_Faba_5.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/09/Brief_Faba_2.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/09/Brief_Faba_3.jpg"
+        }
+      ],
       "titleZh": "模块休闲座椅以平台和软垫适应不同室内配置",
       "summaryZh": "家具系统通过基本座面长度与软垫组合，从长凳延伸至较大沙发。",
       "reading": {
@@ -2495,7 +2514,7 @@
       },
       "heat": {
         "recency": 15.0,
-        "media": 3.0,
+        "media": 18.0,
         "completeness": 16.7,
         "source": 24.0
       }
@@ -5240,12 +5259,16 @@
       "summary": "On Tarkwa Bay, off the coast of Lagos , the transformation of an abandoned building offers a way to consider how architecture might emerge from the materials, relationships and conditions already present in a place",
       "source": "ArchDaily",
       "category": "建筑设计",
-      "image": null,
+      "image": "https://images.adsttc.com/media/images/6ad6/5df7/8008/f401/8ba5/460f/large_jpg/making-with-what-is-there-architecture-water-and-process-in-tarkwa-bay_19.jpg?1792433677",
       "publishedAt": "2026-10-20T04:00:00+00:00",
       "date": "2026-10-20",
       "firstSeen": "2026-10-21",
-      "score": 55.8,
-      "images": [],
+      "score": 58.8,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/5df7/8008/f401/8ba5/460f/large_jpg/making-with-what-is-there-architecture-water-and-process-in-tarkwa-bay_19.jpg?1792433677"
+        }
+      ],
       "titleZh": "拉各斯旧建筑改造从现成材料与工匠关系中生长",
       "summaryZh": "海岛交通和资源条件使建造过程本身成为设计的重要内容。",
       "reading": {
@@ -5262,7 +5285,7 @@
       },
       "heat": {
         "recency": 15.0,
-        "media": 0.0,
+        "media": 3.0,
         "completeness": 16.8,
         "source": 24.0
       }
