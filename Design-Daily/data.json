@@ -3062,10 +3062,25 @@
       "publishedAt": "2026-10-23T13:00:00+00:00",
       "date": "2026-10-23",
       "firstSeen": "2026-10-24",
-      "score": 59.5,
+      "score": 74.5,
       "images": [
         {
-          "url": "https://files.smashing.media/partners/netlify/netlify-jan26.png"
+          "url": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/15-accordion-icons.jpg"
+        },
+        {
+          "url": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/10-accordion-icon-study.jpg"
+        },
+        {
+          "url": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/11-nng-aaccordion-icon-study.jpg"
+        },
+        {
+          "url": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/12-accordion-navigation-dhl.jpg"
+        },
+        {
+          "url": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/13-split-button-accordion-pattern.jpg"
+        },
+        {
+          "url": "https://files.smashing.media/articles/how-name-things-choose-accordion-icons/14-lensorg-accordion.jpg"
         }
       ],
       "titleZh": "折叠菜单图标需要与标题共享同一动作",
@@ -3084,7 +3099,7 @@
       },
       "heat": {
         "recency": 15.0,
-        "media": 3.0,
+        "media": 18.0,
         "completeness": 17.6,
         "source": 24.0
       }
