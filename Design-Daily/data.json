@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T09:04:38.463171+08:00",
+  "updatedAt": "2026-10-26T08:59:16.819715+08:00",
   "sources": [
     {
       "name": "Dezeen",
@@ -8,7 +8,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-10-24T17:00:00+00:00"
+      "latestPublishedAt": "2026-10-25T11:00:00+00:00"
     },
     {
       "name": "designboom",
@@ -17,7 +17,7 @@
       "category": "空间设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-10-24T20:35:41+00:00"
+      "latestPublishedAt": "2026-10-25T21:35:44+00:00"
     },
     {
       "name": "Yanko Design",
@@ -26,7 +26,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 16,
-      "latestPublishedAt": "2026-10-24T23:30:29+00:00"
+      "latestPublishedAt": "2026-10-25T23:30:13+00:00"
     },
     {
       "name": "Smashing Magazine",
@@ -71,7 +71,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 25,
-      "latestPublishedAt": "2026-10-24T15:00:00+00:00"
+      "latestPublishedAt": "2026-10-26T00:00:00+00:00"
     },
     {
       "name": "UX Collective",
@@ -80,7 +80,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-10-23T11:16:30+00:00"
+      "latestPublishedAt": "2026-10-25T12:34:03+00:00"
     },
     {
       "name": "UX Planet",
@@ -307,7 +307,7 @@
       "category": "建筑设计",
       "ok": true,
       "count": 24,
-      "latestPublishedAt": "2026-10-24T17:00:00+00:00"
+      "latestPublishedAt": "2026-10-25T17:00:00+00:00"
     },
     {
       "name": "Wallpaper",
@@ -316,7 +316,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-10-24T11:00:00+00:00"
+      "latestPublishedAt": "2026-10-25T08:00:00+00:00"
     },
     {
       "name": "Its Nice That",
@@ -324,7 +324,7 @@
       "url": "http://feeds2.feedburner.com/itsnicethat/SlXC",
       "category": "视觉设计",
       "ok": true,
-      "count": 20,
+      "count": 16,
       "latestPublishedAt": "2026-10-23T08:00:00+00:00"
     },
     {
@@ -424,7 +424,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 36,
-      "latestPublishedAt": "2026-10-25T00:00:05+00:00"
+      "latestPublishedAt": "2026-10-25T20:00:12+00:00"
     },
     {
       "name": "Figma",
@@ -678,11 +678,1998 @@
       "url": "https://www.gcores.com/rss",
       "category": "游戏设计",
       "ok": true,
-      "count": 14,
-      "latestPublishedAt": "2026-10-24T14:36:40+00:00"
+      "count": 12,
+      "latestPublishedAt": "2026-10-26T00:55:00+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "22b1a5b41353d292",
+      "url": "https://www.creativebloq.com/reviews/phantom-blade-zero-review-dark-wuxia-martial-arts-masters-with-an-apprentices-execution",
+      "title": "Phantom Blade Zero review: dark wuxia martial arts masters with an apprentice's execution",
+      "summary": "S-Game's Unreal Engine 5 'kungfupunk' debut can't help but get tangled in frustrating design",
+      "source": "Creative Bloq",
+      "category": "游戏设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/RUGT6oFNSgzq8DJMwNXfnG-1920-80.jpg",
+      "publishedAt": "2026-10-26T00:00:00+00:00",
+      "date": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "score": 79.8,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/bACVkgBhhSorABZ95aPpQ5-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ijUEgwD7pRx2uvmZgLkmjG-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/tYK2srQxcJT8Gbs8sHFekG-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Rk2gPmx3gRX3Fsogx5e46G-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/bt8cTvthQfBt8pW48FF6PF-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/sFrroBojnQNMxah34Et37G-1200-80.jpg"
+        }
+      ],
+      "titleZh": "影之刃零评测对照动作流畅性与战斗可读性",
+      "summaryZh": "媒体认为武术动捕和美术风格突出，但首领节奏与探索限制仍有取舍。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "评测把作品的视觉方向描述为传统武侠与工业化场景的混合，竹林、寺庙和钢铁工厂共同构成环境。不同武器改变动作表现，真实武术表演的动作捕捉为连续招式提供基础。",
+              "作者在评测版本中肯定动画流动性，也指出高速动作中的辨识、较长首领战与受限探索可能削弱体验。这些属于特定版本和评测者的判断，不能当作所有玩家的共同结论；报道所列正式发售日期仍在未来。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 17.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "e33a6203691ac708",
+      "url": "https://www.yankodesign.com/2026/10/25/this-spanish-home-uses-curved-roofs-and-cork-walls-to-stay-naturally-cool/",
+      "title": "This Spanish Home Uses Curved Roofs and Cork Walls to Stay Naturally Cool",
+      "summary": "This Spanish Home Uses Curved Roofs and Cork Walls to Stay Naturally Cool Some houses make their presence known through bold shapes, while others seem to grow naturally from the landscape. Casa Vereda, designed by L’Aura Ortín",
+      "source": "Yanko Design",
+      "category": "建筑设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/10/this-spanish-home-uses-curved-roofs-and-cork-walls-to-stay-naturally-cool/Casa_verada_architecture_01.jpg",
+      "publishedAt": "2026-10-25T22:30:15+00:00",
+      "date": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "score": 70.4,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/this-spanish-home-uses-curved-roofs-and-cork-walls-to-stay-naturally-cool/Casa_verada_architecture_01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/this-spanish-home-uses-curved-roofs-and-cork-walls-to-stay-naturally-cool/Casa_verada_architecture_10.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/this-spanish-home-uses-curved-roofs-and-cork-walls-to-stay-naturally-cool/Casa_verada_architecture_05.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/this-spanish-home-uses-curved-roofs-and-cork-walls-to-stay-naturally-cool/Casa_verada_architecture_08.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/this-spanish-home-uses-curved-roofs-and-cork-walls-to-stay-naturally-cool/Casa_verada_architecture_04.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/this-spanish-home-uses-curved-roofs-and-cork-walls-to-stay-naturally-cool/Casa_verada_architecture_09.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/this-spanish-home-uses-curved-roofs-and-cork-walls-to-stay-naturally-cool/Casa_verada_architecture_06.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/this-spanish-home-uses-curved-roofs-and-cork-walls-to-stay-naturally-cool/Casa_verada_architecture_02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/this-spanish-home-uses-curved-roofs-and-cork-walls-to-stay-naturally-cool/Casa_verada_architecture_03.jpg"
+        }
+      ],
+      "titleZh": "西班牙住宅以砖拱、软木和百叶回应气候",
+      "summaryZh": "连续曲屋面与可调遮阳把地方建造传统带入当代居住。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "住宅以手工砖构成加泰罗尼亚拱顶，外部喷涂软木形成连续质感。叶绿色铝制百叶由建筑师定制，在浅色表面上形成对比，同时承担遮阳、私密和防护功能。",
+              "起居与餐厨通过玻璃门连接陶土铺地露台，内部砖拱与水磨石地面共同参与热环境调节。相关被动调节描述来自项目报道，公开资料没有提供可用于独立判断的全年能耗数据。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "e2ddae07301bad0e",
+      "url": "https://www.designboom.com/architecture/stepped-timber-platforms-operable-textiles-circular-dusseldorf-home-urselmann-interior/",
+      "title": "stepped timber platforms and operable textiles shape circular düsseldorf home by urselmann interior",
+      "summary": "urselmann interior renovates a 1939 apartment in düsseldorf using reversible dry joinery, nine manufacturer take-back agreements, and flexible multi-tiered platforms to achieve a circular residential",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/469883/2026-10-19/urselmann-interior-builds-a-dusseldorf-apartment-from-materials-the-manufacturers-want-back-8-6ad61be788aaf.jpg",
+      "publishedAt": "2026-10-25T21:35:44+00:00",
+      "date": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "score": 72.7,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/469883/2026-10-19/urselmann-interior-builds-a-dusseldorf-apartment-from-materials-the-manufacturers-want-back-8-6ad61be788aaf.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/469883/2026-10-19/urselmann-interior-builds-a-dusseldorf-apartment-from-materials-the-manufacturers-want-back-9-6ad61be788aec.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/469883/2026-10-19/urselmann-interior-builds-a-dusseldorf-apartment-from-materials-the-manufacturers-want-back-1-6ad61be788867.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/10/dusseldorf-apartment-urselmann-interior-designboom-1800-2.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/469883/2026-10-19/urselmann-interior-builds-a-dusseldorf-apartment-from-materials-the-manufacturers-want-back-6-6ad61be788a31.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/469883/2026-10-19/urselmann-interior-builds-a-dusseldorf-apartment-from-materials-the-manufacturers-want-back-2-6ad61be7888e3.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/469883/2026-10-19/urselmann-interior-builds-a-dusseldorf-apartment-from-materials-the-manufacturers-want-back-7-6ad61be788a6d.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/10/dusseldorf-apartment-urselmann-interior-designboom-1800-3.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/469883/2026-10-19/urselmann-interior-builds-a-dusseldorf-apartment-from-materials-the-manufacturers-want-back-4-6ad61be7889a7.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/469883/2026-10-19/urselmann-interior-builds-a-dusseldorf-apartment-from-materials-the-manufacturers-want-back-5-6ad61be7889f4.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/469883/2026-10-19/urselmann-interior-builds-a-dusseldorf-apartment-from-materials-the-manufacturers-want-back-3-6ad61be78892d.jpg"
+        }
+      ],
+      "titleZh": "杜塞尔多夫公寓用可拆节点与帘幕组织循环室内",
+      "summaryZh": "阶梯木平台叠合睡眠、工作和收纳，材料预先安排回收去向。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "改造移除两道墙与一扇门，连通入口、厨房和起居区。客厅弧形厚帘可以围合沙发床，卧室的多层木平台则把书桌、冥想位置、床与拉出式衣柜放在不同高度。",
+              "团队与多家制造商建立回收安排，使用干式连接、螺钉和可逆胶接，厨房设备采取租赁。再用石材、旧玻璃、软木、草纤维和海草声学板共同构成材料体系；碳评估结论属于提交方披露，不能脱离其计算边界推广。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 10.7,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "cc40213a0e7d1692",
+      "url": "https://www.yankodesign.com/2026/10/25/this-titanium-watch-turns-yuri-gagarins-first-orbit-into-a-dial/",
+      "title": "This titanium watch turns Yuri Gagarin’s first orbit into a dial",
+      "summary": "This titanium watch turns Yuri Gagarin’s first orbit into a dial Ask any American watch nerd about space watches and you’ll hear one word within three seconds: Speedmaster. Moon landing, NASA certification, the whole legend.",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/10/this-titanium-watch-turns-yuri-gagarins-first-orbit-into-a-dial/yuri_gagarin_watch_concept_1.jpeg",
+      "publishedAt": "2026-10-25T20:45:05+00:00",
+      "date": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "score": 70.5,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/this-titanium-watch-turns-yuri-gagarins-first-orbit-into-a-dial/yuri_gagarin_watch_concept_1.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/this-titanium-watch-turns-yuri-gagarins-first-orbit-into-a-dial/yuri_gagarin_watch_concept_2.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/this-titanium-watch-turns-yuri-gagarins-first-orbit-into-a-dial/yuri_gagarin_watch_concept_3.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/this-titanium-watch-turns-yuri-gagarins-first-orbit-into-a-dial/yuri_gagarin_watch_concept_4.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/this-titanium-watch-turns-yuri-gagarins-first-orbit-into-a-dial/yuri_gagarin_watch_concept_5.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/this-titanium-watch-turns-yuri-gagarins-first-orbit-into-a-dial/yuri_gagarin_watch_concept_6.jpeg"
+        }
+      ],
+      "titleZh": "钛金属腕表把首次载人绕地飞行转成表盘",
+      "summaryZh": "中央地球与火箭分针用不同时间尺度讲述航天主题。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "腕表把蓝色地球置于表盘中央，让火箭造型分针每小时绕行一周，小时显示另设在下方。五级钛表壳与一体化表链、隆起的蓝宝石表镜共同形成舷窗般的视觉关系。",
+              "报道列出基础自动机芯与定制显示模块，并说明项目向加加林首次飞行致意。火箭一小时一圈属于读时机制，并非复现实际飞行周期；奖项与公开效果图也不能替代佩戴和可靠性测试。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 17.6,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "2d09544034342964",
+      "url": "https://www.yankodesign.com/2026/10/25/this-jenga-tower-is-also-a-lamp-and-it-lights-up-as-you-stack-it/",
+      "title": "This Jenga tower is also a lamp, and it lights up as you stack it",
+      "summary": "This Jenga tower is also a lamp, and it lights up as you stack it Give an architect a box of blocks and they’ll tell you it’s research. Toronto architecture studio PARTISANS took that excuse all the way and",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/jenga_light_1.jpg",
+      "publishedAt": "2026-10-25T19:15:10+00:00",
+      "date": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "score": 70.6,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/jenga_light_1.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/jenga_light_2.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/jenga_light_3.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/jenga_light_4.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/jenga_light_5.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/jenga_light_6.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/jenga_light_7.jpg"
+        }
+      ],
+      "titleZh": "叠木灯让承重接触点同时传递电流",
+      "summaryZh": "积木内部整流电路减少堆叠时对正反方向的限制。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "灯具把长方形积木转为半透明发光单元，从供电底座经相互接触的位置向上传递电力。使用者可以翻转、旋转或搭出悬挑形态，让搭建过程直接改变灯的轮廓。",
+              "内部桥式整流电路处理输入方向，使发光单元不必靠固定朝向或磁吸结构配合。公开报道提到设计奖项，但没有确认价格与供货时间，因此按已展示的设计介绍，不把它写成随时可购买的量产产品。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 17.6,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "32f7645dee6c2b74",
+      "url": "https://www.yankodesign.com/2026/10/25/bellavista-11-folds-thin-white-concrete-planes-down-an-ibiza-hillside-toward-the-sea/",
+      "title": "Bellavista 11 Folds Thin White Concrete Planes Down an Ibiza Hillside Toward the Sea",
+      "summary": "Bellavista 11 Folds Thin White Concrete Planes Down an Ibiza Hillside Toward the Sea Bellavista 11 makes a hillside feel like the starting point of a home rather than a problem to solve. Designed by Fran Silvestre Arquitectos",
+      "source": "Yanko Design",
+      "category": "建筑设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/10/bellavista-11/bellavista_11_yanko_design_01.jpg",
+      "publishedAt": "2026-10-25T17:20:24+00:00",
+      "date": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "score": 67.3,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/bellavista-11/bellavista_11_yanko_design_01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/bellavista-11/bellavista_11_yanko_design_02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/bellavista-11/bellavista_11_yanko_design_03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/bellavista-11/bellavista_11_yanko_design_04.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/bellavista-11/bellavista_11_yanko_design_05.jpg"
+        }
+      ],
+      "titleZh": "伊维萨坡地住宅以薄混凝土折面串联三层体量",
+      "summaryZh": "屋顶、露台和遮棚沿坡下降，让动线与海景逐层展开。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "住宅将到达与车库放在较高位置，共享生活区置于中段，卧室安排在下层。约十五厘米厚的白色混凝土平面通过折转形成不同高度的屋面、露台与室外遮蔽。",
+              "起居层通过细框推拉玻璃连接泳池和平台，内部以石材、橡木及织物顶面调节外部几何的冷峻感。项目也设置电梯，回应层层下行布局中的日常通行需求。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 15.0,
+        "completeness": 17.3,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "7f1a563c6092ab8d",
+      "url": "https://www.archdaily.com/1187088/creasvalley-cc-clubhouse-ljl-architects",
+      "title": "Creasvalley CC Clubhouse / LJL Architects",
+      "summary": "Even an artificially constructed site can become a landscape as time accumulates. Topography, vegetation, light, and seasonal change establish a distinct order, within which architecture takes its place. The clubhouse is conceived not as an object from which to view its surroundings, but as a mediator through which the site is…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6ad5/f21d/aadf/a000/01e3/ae37/large_jpg/creasvalley_cc_clubhouse_ljl_architects_09.jpg?1792406097",
+      "publishedAt": "2026-10-25T17:00:00+00:00",
+      "date": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "score": 79.4,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21d/aadf/a000/01e3/ae37/large_jpg/creasvalley_cc_clubhouse_ljl_architects_09.jpg?1792406097"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21d/aadf/a000/01e3/ae33/large_jpg/creasvalley_cc_clubhouse_ljl_architects_05.jpg?1792406093"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae3c/large_jpg/creasvalley_cc_clubhouse_ljl_architects_14.jpg?1792406115"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae48/large_jpg/creasvalley_cc_clubhouse_ljl_architects_27.jpg?1792406201"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae4a/large_jpg/creasvalley_cc_clubhouse_ljl_architects_29.jpg?1792406136"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae4b/large_jpg/creasvalley_cc_clubhouse_ljl_architects_30.jpg?1792406155"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21c/aadf/a000/01e3/ae32/large_jpg/creasvalley_cc_clubhouse_ljl_architects_04.jpg?1792406075"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21d/aadf/a000/01e3/ae34/large_jpg/creasvalley_cc_clubhouse_ljl_architects_06.jpg?1792406095"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21d/aadf/a000/01e3/ae38/large_jpg/creasvalley_cc_clubhouse_ljl_architects_10.jpg?1792406129"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae39/large_jpg/creasvalley_cc_clubhouse_ljl_architects_11.jpg?1792406146"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae3a/large_jpg/creasvalley_cc_clubhouse_ljl_architects_12.jpg?1792406099"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21d/aadf/a000/01e3/ae35/large_jpg/creasvalley_cc_clubhouse_ljl_architects_07.jpg?1792406079"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21d/aadf/a000/01e3/ae36/large_jpg/creasvalley_cc_clubhouse_ljl_architects_08.jpg?1792406098"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae3e/large_jpg/creasvalley_cc_clubhouse_ljl_architects_16.jpg?1792406130"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae43/large_jpg/creasvalley_cc_clubhouse_ljl_architects_21.jpg?1792406099"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae3d/large_jpg/creasvalley_cc_clubhouse_ljl_architects_15.jpg?1792406114"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae3f/large_jpg/creasvalley_cc_clubhouse_ljl_architects_17.jpg?1792406131"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae41/large_jpg/creasvalley_cc_clubhouse_ljl_architects_19.jpg?1792406200"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae40/large_jpg/creasvalley_cc_clubhouse_ljl_architects_18.jpg?1792406163"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae42/large_jpg/creasvalley_cc_clubhouse_ljl_architects_20.jpg?1792406167"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae47/large_jpg/creasvalley_cc_clubhouse_ljl_architects_26.jpg?1792406117"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae49/large_jpg/creasvalley_cc_clubhouse_ljl_architects_28.jpg?1792406115"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21b/aadf/a000/01e3/ae2e/large_jpg/creasvalley_cc_clubhouse_ljl_architects_25.jpg?1792406061"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae45/large_jpg/creasvalley_cc_clubhouse_ljl_architects_23.jpg?1792406183"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae46/large_jpg/creasvalley_cc_clubhouse_ljl_architects_24.jpg?1792406217"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae3b/large_jpg/creasvalley_cc_clubhouse_ljl_architects_13.jpg?1792406113"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21b/aadf/a000/01e3/ae2f/large_jpg/creasvalley_cc_clubhouse_ljl_architects_03.jpg?1792406061"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21c/aadf/a000/01e3/ae31/large_jpg/creasvalley_cc_clubhouse_ljl_architects_02.jpg?1792406062"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21c/aadf/a000/01e3/ae30/large_jpg/creasvalley_cc_clubhouse_ljl_architects_01.jpg?1792406061"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae4d/large_jpg/01_B1_PLAN.jpg?1792406132"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae4e/large_jpg/02_1F_PLAN.jpg?1792406217"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae51/large_jpg/06_SECTION_2.jpg?1792406173"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae4c/large_jpg/05_SECTION_1.jpg?1792406132"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae4f/large_jpg/03_ELEVATION_1.jpg?1792406231"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad5/f21e/aadf/a000/01e3/ae50/large_jpg/04_ELEVATION_1.jpg?1792406146"
+        }
+      ],
+      "titleZh": "韩国会所以地形和视线连接人工景观",
+      "summaryZh": "建筑被当作体验场地的媒介，而非独立观看风景的物体。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "会所位于韩国安城，公开资料列出面积11576平方米、完成于2025年。设计从地形、植被、光线与季节变化建立的场地秩序出发，再决定建筑如何介入。",
+              "项目说明强调内部与外部、地面与视线之间的关系，希望让使用者在移动中体验环境。当前可读文字主要呈现这一构思，其他结构和环境性能不作没有依据的扩展。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "ffa4664bbfbec6fe",
+      "url": "https://www.archdaily.com/1187040/montana-farm",
+      "title": "Montana Farm / Estudio Balzano",
+      "summary": "Montana Farm is a boutique equestrian breeding and training facility located in Buenos Aires, Argentina, dedicated to the selective breeding and high-level training of show jumping horses. The project was conceived to integrate architecture, landscape, and the specific needs of horses within a contemporary equestrian complex,…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6ad2/34ab/aadf/a000/01e3/aad3/large_jpg/Montana_32.jpg?1792161133",
+      "publishedAt": "2026-10-25T16:00:00+00:00",
+      "date": "2026-10-26",
+      "firstSeen": "2026-10-26",
+      "score": 79.4,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ad2/34ab/aadf/a000/01e3/aad3/large_jpg/Montana_32.jpg?1792161133"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad2/34ab/aadf/a000/01e3/aad2/large_jpg/Montana_24.jpg?1792161039"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad2/34ac/aadf/a000/01e3/aad7/large_jpg/Montana_48.jpg?1792161226"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad2/34ab/aadf/a000/01e3/aacf/thumb_jpg/montana-farm_4.jpg?1792160942"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad2/34ab/aadf/a000/01e3/aad0/large_jpg/Montana_3.jpg?1792160996"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad2/34ac/aadf/a000/01e3/aad9/large_jpg/Montana_55.jpg?1792161291"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad2/34ac/aadf/a000/01e3/aad8/large_jpg/Montana_51.jpg?1792161040"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad2/34ab/aadf/a000/01e3/aad5/large_jpg/Montana_42.jpg?1792161027"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad2/34ab/aadf/a000/01e3/aad4/large_jpg/Montana_40.jpg?1792161044"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad2/34ac/aadf/a000/01e3/aad6/large_jpg/Montana_44.jpg?1792161044"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad2/34ab/aadf/a000/01e3/aad1/large_jpg/Montana_10.jpg?1792161055"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad2/34ac/aadf/a000/01e3/aada/large_jpg/AutoCad_La_Escondida-Model_page-0001.jpg?1792161063"
+        }
+      ],
+      "titleZh": "阿根廷马术设施把动物需求纳入建筑任务",
+      "summaryZh": "育种与障碍训练的日常流程共同影响场地组织。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "设施位于布宜诺斯艾利斯地区，面向马匹育种和高水平障碍训练。建筑、景观及马匹的具体需要被作为同一设计任务，而不是只围绕人的观看和使用安排。",
+              "公开资料列出建筑面积65平方米、完成于2024年，并将动物福利、功能和空间质量列为目标。项目没有公布足够的使用评估，不能把这些目标直接当作已经验证的成效。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "0c6f7c7603638529",
+      "url": "https://www.yankodesign.com/2026/10/25/titanium-smart-glasses-concept-refuses-to-hide-its-tech/",
+      "title": "Titanium Smart Glasses Concept Refuses to Hide Its Tech",
+      "summary": "Titanium Smart Glasses Concept Refuses to Hide Its Tech Fitting a computer into a pair of glasses creates an awkward design problem: the electronics need room, but the result still has to belong",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/10/titanium-smart-glasses-concept-refuses-to-hide-its-tech/glasses-01.jpg",
+      "publishedAt": "2026-10-25T15:20:11+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 65.5,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/titanium-smart-glasses-concept-refuses-to-hide-its-tech/glasses-01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/titanium-smart-glasses-concept-refuses-to-hide-its-tech/glasses-02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/titanium-smart-glasses-concept-refuses-to-hide-its-tech/glasses-05.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/titanium-smart-glasses-concept-refuses-to-hide-its-tech/glasses-03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/titanium-smart-glasses-concept-refuses-to-hide-its-tech/glasses-04.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/titanium-smart-glasses-concept-refuses-to-hide-its-tech/glasses-06.jpg"
+        }
+      ],
+      "titleZh": "钛金属智能眼镜概念让传感器成为正面构图",
+      "summaryZh": "宽镜框、中央视觉传感与折叠充电盒共同呈现穿戴设想。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "概念以流动的银色框架包围较大的圆角镜片，将明显的视觉传感器集中在鼻梁区域。设计提出数控加工五级钛与蓝宝石镜片，并保留较厚镜腿作为整体外形的一部分。",
+              "皮革充电盒为折叠后的眼镜提供收纳场景，但这些材料和结构均来自概念展示。没有可核实的成品重量、光学能力与续航数据，不把渲染中清楚的造型误写成已实现的设备性能。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 17.5,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "99ea58f5cc934a6a",
+      "url": "https://www.designboom.com/architecture/thinking-with-animals-in-the-sicilian-village-of-santo-pietro-explores-the-human-animal-divide/",
+      "title": "thinking with animals in the sicilian village of santo pietro explores the human-animal divide",
+      "summary": "co-director marco navarra discusses the ecological regeneration project connecting community life, the post-anthropocene, and",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/10/bosco-colto-2026-designboom-11.jpg",
+      "publishedAt": "2026-10-25T15:15:23+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 67.5,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/10/bosco-colto-2026-designboom-11.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/10/bosco-colto-2026-designboom-02.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/10/bosco-colto-2026-designboom-17.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/10/bosco-colto-2026-designboom-18.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/10/bosco-colto-2026-designboom-08.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/10/bosco-colto-2026-designboom-fullWidth-02.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/10/bosco-colto-2026-designboom-05.jpg"
+        }
+      ],
+      "titleZh": "西西里工作营从非人类视角重看共享空间",
+      "summaryZh": "林地、窑炉与集体搭建让地方资源进入设计研究。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "生态项目在村庄与周边森林开展跨学科工作营，以动物、环境和人的共同生活为题。公开访谈介绍了建筑、农业生态与陶艺等实践，并回顾夏季已完成的活动。",
+              "其中集体建造的遮蔽设施回应当地材料与持续照管的社会关系。组织者把设计理解为在具体场地中倾听其他物种的实践，本条整理空间与建造内容，不收录活动中的音频节目。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 10.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "519e6e8d20545607",
+      "url": "https://www.archdaily.com/1010715/relampago-house-h3o-architects",
+      "title": "Relámpago House / h3o architects",
+      "summary": "The house, with a gable roof, is characterized by the materialization of lightning as a central element that defines and separates the interior spaces. The lightning, when transformed into a wall and luminaire, clearly and immediately structures and shapes the functioning of the different",
+      "source": "ArchDaily",
+      "category": "空间设计",
+      "image": "https://images.adsttc.com/media/images/656f/4504/f84b/cc06/ab19/cdc9/large_jpg/casa-relampago-h3o-architects_13.jpg?1701790989",
+      "publishedAt": "2026-10-25T15:00:00+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 74.2,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/656f/4504/f84b/cc06/ab19/cdc9/large_jpg/casa-relampago-h3o-architects_13.jpg?1701790989"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/656f/44f9/a4ee/3f4c/348d/10a6/large_jpg/casa-relampago-h3o-architects_6.jpg?1701790994"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/656f/4502/a4ee/3f4c/348d/10ab/large_jpg/casa-relampago-h3o-architects_10.jpg?1701791004"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/656f/4503/a4ee/3f4c/348d/10af/large_jpg/casa-relampago-h3o-architects_9.jpg?1701791006"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/656f/44f9/a4ee/3f4c/348d/10a5/large_jpg/casa-relampago-h3o-architects_4.jpg?1701790994"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/656f/44fd/f84b/cc06/ab19/cdbf/large_jpg/casa-relampago-h3o-architects_1.jpg?1701790992"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/656f/44fd/a4ee/3f4c/348d/10a8/large_jpg/casa-relampago-h3o-architects_3.jpg?1701791004"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/656f/4500/f84b/cc06/ab19/cdc0/large_jpg/casa-relampago-h3o-architects_2.jpg?1701791001"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/656f/44e6/a4ee/3f4c/348d/109c/large_jpg/casa-relampago-h3o-architects_1.jpg?1701790956"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/656f/4503/f84b/cc06/ab19/cdc3/large_jpg/casa-relampago-h3o-architects_11.jpg?1701791004"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/656f/4500/a4ee/3f4c/348d/10a9/large_jpg/casa-relampago-h3o-architects_12.jpg?1701790984"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/656f/44fa/a4ee/3f4c/348d/10a7/large_jpg/casa-relampago-h3o-architects_5.jpg?1701790995"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/656f/4501/a4ee/3f4c/348d/10aa/large_jpg/casa-relampago-h3o-architects_7.jpg?1701791001"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/656f/44fb/a4ee/3f4c/4d8d/107d/large_jpg/casa-relampago-h3o-architects_8.jpg?1701790998"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/656f/44dc/a4ee/3f4c/348d/109b/large_jpg/plan-and-section-relampagohouse-by-h3o-architects-2-1.jpg?1701790958"
+        }
+      ],
+      "titleZh": "五十五平方米住宅用闪电形墙灯划分房间",
+      "summaryZh": "同一中心构件同时承担隔断、照明与动线识别。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "巴塞罗那住宅改造将闪电的形态转化为内部墙体和灯具，让一条清晰的中心结构组织不同房间。建筑原有双坡屋顶保留为居住空间的外部框架。",
+              "项目完成于2023年，本次为新收录的既有改造。公开文字说明较简短，因此保留中心构件与功能划分的事实，不额外推断照度、造价或实际居住满意度。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 17.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "e212f701bad5add9",
+      "url": "https://www.creativebloq.com/features/if-i-start-at-8am-i-feel-ive-lost-the-day-already-manga-artist-ye-wei-shows-around-his-obsessively-organised-art-studio",
+      "title": "\"If I start at 8am, I feel I've lost the day already,\" manga artist Yé Wei shows us his obsessively organised art studio",
+      "summary": "Esquissewei has a split studio with two desks, 3,000 markers and a bed for breaking the day in",
+      "source": "Creative Bloq",
+      "category": "视觉设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/mZHdbj2faeLwx8dNESTWaJ-1920-80.jpg",
+      "publishedAt": "2026-10-25T13:00:00+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 74.4,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/mZHdbj2faeLwx8dNESTWaJ-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/WXrQJj3trdLHKk3WvEj4j-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uKTvRRr5ndhiEabfGKAT3H-1032-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/9tkDntrv3DjLbyYJK5kzjG-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/qakZMtfELfnvtuDLbpQetJ-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/zw8EXumC6Y8PwFNAjLcnKG-645-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HfAV3R2aGcR8Pd5nEudhiG-907-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/vUof5rDpnsb9Nniq7mXDEG-1176-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/GBKwmqW2sp8KdhN3NE8P8G-624-80.jpg"
+        }
+      ],
+      "titleZh": "漫画家的双工作台连接数字绘制与手工材料",
+      "summaryZh": "常驻参考画面与标记收纳减少创作过程中反复寻找。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "创作者把约三十平方米画室分为数字和传统制作两侧。数字桌保留多块屏幕显示既有作品，方便画新页面时持续对照；另一侧集中摆放马克笔、笔尖和网点纸。",
+              "材料按标签与可触及范围整理，摄影和课程录制设备也纳入房间。报道呈现的是一位漫画家的工作方法与个人习惯，不把昂贵设备或特定作息推广为创作效率的通用条件。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "ded7251729e5307a",
+      "url": "https://www.archdaily.com/1187100/ombria-hotel-and-apartments-loule-promontorio",
+      "title": "Ombria Hotel and Apartments Loulé / PROMONTORIO",
+      "summary": "Quinta da Ombria is a property in the Algarve hinterland with 150 hectares. Surrounded by extensive citrus groves, fig and carob trees, small farms and villages, the dramatic landscape and the rich biodiversity of this mountainous estate comprise a watercourse and a series of archaeological remnants related to farming and its…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aee3/large_jpg/20261019_ArchDaily_Ombria19_PROMONTORIO.jpg?1792411575",
+      "publishedAt": "2026-10-25T13:00:00+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 74.5,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aee3/large_jpg/20261019_ArchDaily_Ombria19_PROMONTORIO.jpg?1792411575"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aee4/large_jpg/20261019_ArchDaily_Ombria20_PROMONTORIO.jpg?1792411567"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077c/aadf/a000/01e3/aed9/large_jpg/20261019_ArchDaily_Ombria9_PROMONTORIO.jpg?1792411543"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aeef/large_jpg/20261019_ArchDaily_Ombria32_PROMONTORIO.jpg?1792411592"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aee6/large_jpg/20261019_ArchDaily_Ombria23_PROMONTORIO.jpg?1792411611"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077d/aadf/a000/01e3/aedb/large_jpg/20261019_ArchDaily_Ombria11_PROMONTORIO.jpg?1792411548"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aee8/large_jpg/20261019_ArchDaily_Ombria25_PROMONTORIO.jpg?1792411616"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aee7/large_jpg/20261019_ArchDaily_Ombria24_PROMONTORIO.jpg?1792411594"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aef3/large_jpg/20261019_ArchDaily_Ombria49_JoaoCarmoSimoes.jpg?1792411668"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aef2/large_jpg/20261019_ArchDaily_Ombria48_JoaoCarmoSimoes.jpg?1792411659"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077d/aadf/a000/01e3/aedd/large_jpg/20261019_ArchDaily_Ombria13_PROMONTORIO.jpg?1792411552"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aee5/large_jpg/20261019_ArchDaily_Ombria21_PROMONTORIO.jpg?1792411572"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aee9/large_jpg/20261019_ArchDaily_Ombria26_PROMONTORIO.jpg?1792411649"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aeea/large_jpg/20261019_ArchDaily_Ombria27_PROMONTORIO.jpg?1792411548"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aeeb/large_jpg/20261019_ArchDaily_Ombria28_PROMONTORIO.jpg?1792411670"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aeec/large_jpg/20261019_ArchDaily_Ombria29_PROMONTORIO.jpg?1792411597"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aeed/large_jpg/20261019_ArchDaily_Ombria30_PROMONTORIO.jpg?1792411638"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aef0/large_jpg/20261019_ArchDaily_Ombria33_PROMONTORIO.jpg?1792411632"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aef1/large_jpg/20261019_ArchDaily_Ombria34_PROMONTORIO.jpg?1792411624"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aef4/large_jpg/20261019_ArchDaily_Ombria.jpg?1792411596"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aef5/large_jpg/20261019_ArchDaily_Ombria2.jpg?1792411695"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aef6/large_jpg/20261019_ArchDaily_Ombria3.jpg?1792411623"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aef7/large_jpg/20261019_ArchDaily_Ombria4.jpg?1792411651"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aef8/large_jpg/20261019_ArchDaily_Ombria5.jpg?1792411697"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aef9/large_jpg/20261019_ArchDaily_Ombria6.jpg?1792411685"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aefa/large_jpg/20261019_ArchDaily_Ombria7.jpg?1792411710"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/077e/aadf/a000/01e3/aefb/large_jpg/20261019_ArchDaily_Ombria8.jpg?1792411650"
+        }
+      ],
+      "titleZh": "葡萄牙度假建筑置入旧农业水系与山地环境",
+      "summaryZh": "酒店、会所和住宅单元共同面对已有地景与历史遗存。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "项目位于阿尔加维内陆一处约150公顷地产，周边有柑橘园、无花果树、角豆树与小型村落。场地保留水道及与农业和早期水利相关的考古痕迹。",
+              "度假设施组合酒店、会所、别墅和其他居住单元，公开资料列出建筑完成于2024年。这里以场地和功能关系为重点，不采用住宿促销信息，也不据景观描述推导未经公布的生态收益。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "81c24d7818395780",
+      "url": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6",
+      "title": "Nobody asked for the sparkle button",
+      "summary": "Products ship with the same AI panel; people hunt for the off switch, and spend has outrun returns. Build features with AI, not AI features. Illustration by Jon Sabutis, built in HTML and CSS Open any product you pay for and look at the top right corner. There is a sparkle. Behind it is a panel that slides in from the right,…",
+      "source": "UX Collective",
+      "category": "用户体验设计",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+      "publishedAt": "2026-10-25T12:33:57+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 55.7,
+      "images": [
+        {
+          "url": "https://cdn-images-1.medium.com/max/1024/1*zO6YRwfqZ98I2mbNC4MBNw.png"
+        },
+        {
+          "url": "https://cdn-images-1.medium.com/max/1024/1*GVI4I-F2A2OolI_slccKuA.png"
+        },
+        {
+          "url": "https://cdn-images-1.medium.com/max/1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+        },
+        {
+          "url": "https://cdn-images-1.medium.com/max/1024/1*Cwicgkr_ZVmyYTN1j18eCA.png"
+        },
+        {
+          "url": "https://cdn-images-1.medium.com/max/1024/1*_JpJ4gu3VFkY1G0V7sTeVw.png"
+        }
+      ],
+      "titleZh": "设计师反思无处不在的人工智能侧栏",
+      "summaryZh": "功能应围绕具体任务命名，并尊重用户已经作出的关闭选择。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "作者从日常使用经验出发，批评不同产品重复采用聊天面板、空白输入框与通用建议，却没有说明它们帮助谁完成什么工作。文章主张把模型能力放入具体流程，而非仅增加技术名称的入口。",
+              "文中也讨论设置在更新后被重新开启带来的信任成本，认为选择应当持续有效。这些是作者的产品设计观点，本条依据公开订阅正文独立整理，不把文章中的行业估算当作本站结论。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 15.0,
+        "completeness": 10.7,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "59748606790ff86e",
+      "url": "https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5",
+      "title": "Where to draw the line before AI reaches professional users",
+      "summary": "Every roadmap has a chat box on it. Fewer have an answer for who it’s for. Six questions to ask for whether a conversational layer will speed experts up or quietly put a keyboard between them and the work they already know. Nearly every B2B application I’ve seen has a chat box on it. Sometimes a sidebar, sometimes a rebuild…",
+      "source": "UX Collective",
+      "category": "人工智能设计",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+      "publishedAt": "2026-10-25T12:31:45+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 55.8,
+      "images": [
+        {
+          "url": "https://cdn-images-1.medium.com/max/1024/1*Di003Ys9ARp2QsB9IF15Eg.png"
+        },
+        {
+          "url": "https://cdn-images-1.medium.com/max/1024/1*1AV5gA4VKZQD4EEw8ANaQw.png"
+        },
+        {
+          "url": "https://cdn-images-1.medium.com/max/1024/1*qU5rxmrhJBFGlsO3cQ8esw.png"
+        },
+        {
+          "url": "https://cdn-images-1.medium.com/max/1024/1*0KrGdAZuSwqCRE6qAPhZSg.png"
+        },
+        {
+          "url": "https://cdn-images-1.medium.com/max/1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png"
+        }
+      ],
+      "titleZh": "专业软件引入对话前先划清任务边界",
+      "summaryZh": "熟练用户的固定操作、偶发查询与持续任务需要不同入口。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "作者认为专业用户长期积累的快捷操作、筛选视图和领域知识本身就是资产。将这些工作一律改成自然语言输入，可能增加描述、阅读和校验成本，也会削弱对整体数据的共同观察。",
+              "文章提出把高频工作留在直接操作界面，将难以预设的偶发查询交给对话，把持续任务另行评估为智能体。判断重点是实际完成与核验成本，相关主张来自作者观察，本条据公开订阅正文整理。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 15.0,
+        "completeness": 10.8,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "05fa3ec507de76a6",
+      "url": "https://www.yankodesign.com/2026/10/25/lavvus-tiny-home-has-a-bathtub-and-hidden-storage/",
+      "title": "Lavvu’s Tiny Home Has a Bathtub and Hidden Storage",
+      "summary": "Lavvu’s Tiny Home Has a Bathtub and Hidden Storage A full-size bathtub is a wonderfully stubborn thing to put inside a tiny home. Lavvu includes one in its published XL specification, despite having",
+      "source": "Yanko Design",
+      "category": "空间设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/10/lavvus-tiny-home-has-a-bathtub-and-hidden-storage/lavvu-08.jpg",
+      "publishedAt": "2026-10-25T11:40:26+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 65.5,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/lavvus-tiny-home-has-a-bathtub-and-hidden-storage/lavvu-08.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/lavvus-tiny-home-has-a-bathtub-and-hidden-storage/lavvu-05.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/lavvus-tiny-home-has-a-bathtub-and-hidden-storage/lavvu-02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/lavvus-tiny-home-has-a-bathtub-and-hidden-storage/lavvu-03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/lavvus-tiny-home-has-a-bathtub-and-hidden-storage/lavvu-04.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/lavvus-tiny-home-has-a-bathtub-and-hidden-storage/lavvu-07.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/lavvus-tiny-home-has-a-bathtub-and-hidden-storage/lavvu-010.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/lavvus-tiny-home-has-a-bathtub-and-hidden-storage/lavvu-01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/lavvus-tiny-home-has-a-bathtub-and-hidden-storage/lavvu-06.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/10/lavvus-tiny-home-has-a-bathtub-and-hidden-storage/lavvu-09.jpg"
+        }
+      ],
+      "titleZh": "预订中的模块小屋以滑动岛台与床下收纳应对紧凑生活",
+      "summaryZh": "最大规格保留浴缸，但不同尺寸不共享全部配置。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "系列提供四种尺寸，最大规格约二十二平方米，公开方案包含浴缸、嵌入式厨房设备和可移动岛台。台面通过滑动适应坐姿腿部空间与站立操作，床下抽屉和衣柜吸收日常物品。",
+              "模块以整装方式运输到场，并不等于可直接拖走的露营车。系列仍处于预订推广阶段，图片和参数来自厂商呈现，安装条件及不同规格配置不能由一张展示图概括。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 17.5,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "91d9dbee19705f58",
+      "url": "https://www.dezeen.com/2026/10/25/arup-pilen-viewpoint-fehmarnbelt-tunnel/",
+      "title": "Arup creates arrow-shaped viewpoint for Fehmarnbelt Tunnel project",
+      "summary": "A zigzagging path tops the demountable Pilen viewpoint in Denmark, created by engineering firm Arup to give the public views of the construction of the vast Fehmarnbelt Tunnel. Fehmarnbelt Tunnel is an 18-kilometre-long road-and-rail tunnel being built underwater between Rødbyhavn in Denmark and Puttgarden in Germany to improve…",
+      "source": "Dezeen",
+      "category": "建筑设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/10/pilen-viewpoint-arup-fehmarnbelt-tunnel-construction-denmark-architecture-public-leisure-infrastructure_dezeen_2364_sq2-1024x1024.jpg",
+      "publishedAt": "2026-10-25T11:00:00+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 74.3,
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/pilen-viewpoint-arup-fehmarnbelt-tunnel-construction-denmark-architecture-public-leisure-infrastructure_dezeen_2364_hero-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/pilen-viewpoint-arup-fehmarnbelt-tunnel-construction-denmark-architecture-public-leisure-infrastructure_dezeen_2364_col_8-1536x1105.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/pilen-viewpoint-arup-fehmarnbelt-tunnel-construction-denmark-architecture-public-leisure-infrastructure_dezeen_2364_drawing.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/pilen-viewpoint-arup-fehmarnbelt-tunnel-construction-denmark-architecture-public-leisure-infrastructure_dezeen_2364_col_6.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/pilen-viewpoint-arup-fehmarnbelt-tunnel-construction-denmark-architecture-public-leisure-infrastructure_dezeen_2364_col_4.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/pilen-viewpoint-arup-fehmarnbelt-tunnel-construction-denmark-architecture-public-leisure-infrastructure_dezeen_2364_col_3.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/pilen-viewpoint-arup-fehmarnbelt-tunnel-construction-denmark-architecture-public-leisure-infrastructure_dezeen_2364_col_2.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/pilen-viewpoint-arup-fehmarnbelt-tunnel-construction-denmark-architecture-public-leisure-infrastructure_dezeen_2364_col_7-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/pilen-viewpoint-arup-fehmarnbelt-tunnel-construction-denmark-architecture-public-leisure-infrastructure_dezeen_2364_col_1.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/pilen-viewpoint-arup-fehmarnbelt-tunnel-construction-denmark-architecture-public-leisure-infrastructure_dezeen_2364_col_0.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/pilen-viewpoint-arup-fehmarnbelt-tunnel-construction-denmark-architecture-public-leisure-infrastructure_dezeen_2364_col_5-1536x1152.jpg"
+        }
+      ],
+      "titleZh": "丹麦箭形观景台让公众感知海底隧道工程尺度",
+      "summaryZh": "二百一十七米长的可拆坡道对应单节隧道构件长度。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "观景台用折线路径引导公众俯瞰费马恩海峡隧道施工，整体指向德国一侧出口的位置。长度与一节混凝土沉管相对应，让抽象工程尺寸转化为可行走的距离。",
+              "木材和钢构组成的结构计划在工程结束后拆卸再用，基础也被纳入可重复利用的设计。绿化步道逐步上升至海拔约二十四米，公开说明强调连续可达的观看路线。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 17.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "26ff76ba796c61ff",
+      "url": "https://www.archdaily.com/1187401/dunhua-tower-oyler-wu-collaborative",
+      "title": "Dunhua Tower / Oyler Wu Collaborative",
+      "summary": "Rising 17 stories above one of Taipei's principal promenades, Dunhua Tower redefines the residential high-rise typology through a sophisticated interplay of materiality, geometry, and sustainable design. The tower's distinctive L-shaped footprint creates two contrasting facades—one slender and elegantly proportioned, the other…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6ada/54a3/20d6/d801/8852/0953/large_jpg/dunhua-tower-oyler-wu-collaborative_7.jpg?1792693442",
+      "publishedAt": "2026-10-25T11:00:00+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 74.2,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54a3/20d6/d801/8852/0953/large_jpg/dunhua-tower-oyler-wu-collaborative_7.jpg?1792693442"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54e7/20d6/d801/8852/095e/large_jpg/dunhua-tower-oyler-wu-collaborative_22.jpg?1792693492"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54bb/20d6/d801/8852/0956/large_jpg/dunhua-tower-oyler-wu-collaborative_6.jpg?1792693461"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54bb/db5c/2001/882c/fbb5/large_jpg/dunhua-tower-oyler-wu-collaborative_5.jpg?1792693462"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54a8/20d6/d801/8852/0955/large_jpg/dunhua-tower-oyler-wu-collaborative_9.jpg?1792693433"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54a3/db5c/206c/5b6b/b9df/large_jpg/dunhua-tower-oyler-wu-collaborative_5.jpg?1792693454"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54a3/20d6/d818/84a5/69d7/large_jpg/dunhua-tower-oyler-wu-collaborative_2.jpg?1792693424"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54a4/20d6/d801/8852/0954/large_jpg/dunhua-tower-oyler-wu-collaborative_8.jpg?1792693447"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54a3/20d6/d801/8852/0952/large_jpg/dunhua-tower-oyler-wu-collaborative_4.jpg?1792693438"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54a3/db5c/206c/5b6b/b9e0/large_jpg/dunhua-tower-oyler-wu-collaborative_3.jpg?1792693428"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54bb/20d6/d818/84a5/69d8/large_jpg/dunhua-tower-oyler-wu-collaborative_1.jpg?1792693450"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54a3/20d6/d801/8852/0951/large_jpg/dunhua-tower-oyler-wu-collaborative_1.jpg?1792693427"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54e8/20d6/d801/8852/095f/large_jpg/dunhua-tower-oyler-wu-collaborative_18.jpg?1792693494"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54be/db5c/206c/5b6b/b9e1/large_jpg/dunhua-tower-oyler-wu-collaborative_2.jpg?1792693453"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54e8/20d6/d801/8852/0960/large_jpg/dunhua-tower-oyler-wu-collaborative_21.jpg?1792693511"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54bb/db5c/2001/882c/fbb6/large_jpg/dunhua-tower-oyler-wu-collaborative_3.jpg?1792693465"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54a3/db5c/2001/882c/fbb3/large_jpg/dunhua-tower-oyler-wu-collaborative_6.jpg?1792693432"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54bb/20d6/d801/8852/0957/large_jpg/dunhua-tower-oyler-wu-collaborative_7.jpg?1792693465"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54a3/db5c/2001/882c/fbb4/large_jpg/dunhua-tower-oyler-wu-collaborative_10.jpg?1792693423"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54e8/db5c/2001/882c/fbb9/large_jpg/dunhua-tower-oyler-wu-collaborative_20.jpg?1792693503"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54e7/db5c/206c/5b6b/b9e2/large_jpg/dunhua-tower-oyler-wu-collaborative_19.jpg?1792693507"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/54e8/db5c/2001/882c/fbb8/large_jpg/dunhua-tower-oyler-wu-collaborative_17.jpg?1792693510"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/53c1/3271/8400/01d0/e272/large_jpg/Oyler_Wu_Dunhua_Tower_32_-_Drawing_4.jpg?1792694971"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/53c1/3271/8400/01d0/e26f/large_jpg/Oyler_Wu_Dunhua_Tower_29_-_Drawing_1.jpg?1792694965"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/53c1/3271/8400/01d0/e270/large_jpg/Oyler_Wu_Dunhua_Tower_30_-_Drawing_2.jpg?1792694958"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/53c1/3271/8400/01d0/e271/large_jpg/Oyler_Wu_Dunhua_Tower_31_-_Drawing_3.jpg?1792693330"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ada/53c1/3271/8400/01d0/e273/large_jpg/Oyler_Wu_Dunhua_Tower_33_-_Drawing_5.jpg?1792693221"
+        }
+      ],
+      "titleZh": "台北住宅塔楼以折角平面形成两种立面尺度",
+      "summaryZh": "细长与宽阔界面共同回应街道、采光和居住视野。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "十七层住宅塔楼采用折角平面，面对不同城市方向形成比例相异的两侧立面。项目设置45套住宅，试图在高层形式中维持较亲密的居住规模。",
+              "公开项目文字将几何、材料与可持续设计并列为方向，具体空间表现需要结合图纸理解。没有足够性能数据，不能仅由折角平面推断量化的节能或采光改善。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 17.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "0c7a632e7b65b613",
+      "url": "https://www.dezeen.com/2026/10/25/uncanny-venues-frightful-interiors-lookbooks/",
+      "title": "Five uncanny venues where guests are treated to frightfully unique interiors",
+      "summary": "With spooky season in full swing and Halloween rapidly approaching, this lookbook rounds up five venues featuring unusual decor, including faux body parts, dead insects and slaughterhouse machinery. A London pub, a brewery in Copenhagen and a bar in Shanghai are among the selected projects. This is the latest in our lookbooks…",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/01/bar-far-villa-lontana-studio-strato-sq-852x852.jpg",
+      "publishedAt": "2026-10-25T10:00:00+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 74.5,
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/01/bar-far-villa-lontana-rome-interior-design-hero2-2-1704x959.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2020/09/j-boroski-bar-interiors-shanghai-atelier-xy_dezeen_sq-1-1704x1704.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2025/06/clap-studio-oven-nightclub_dezeen_2364_col_12-copy-1704x1704.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/01/bar-far-villa-lontana-studio-strato-sq-1704x1704.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/audley-pub-restaurant-interiors-london-mount-street-laplace-extra_dezeen_1704_col_0-1233x821-1.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2023/03/pihlmann-architects-aben-brewery-restaurant-bar-copenhagen-sq-1704x1704.jpg"
+        }
+      ],
+      "titleZh": "五处非常规餐饮空间把旧物与人体意象变成体验线索",
+      "summaryZh": "昆虫标本、红光和保留机械结构形成不同空间叙事。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "回顾案例包括用昆虫标本填充墙顶网格的酒吧、以红光和金属顶棚营造烤箱感的夜店，以及将肢体雕塑融入家具的临时空间。作品以材质、尺度和联想改变熟悉场所的气氛。",
+              "另一处旧屠宰场改造保留悬挂轨道，并以半透明帘幕划分酿造空间。文章是既有项目的主题选辑，其中临时场所已非持续开放，不将其当作新竣工或当前旅行推荐。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 17.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "cc2cacc235931c14",
+      "url": "https://www.creativebloq.com/news/just-eats-ai-apocalypse-raises-a-pretty-obvious-question",
+      "title": "Just Eat's AI apocalypse raises a glaring question",
+      "summary": "Fancy some 'tiger' prawns or a literal toad in the",
+      "source": "Creative Bloq",
+      "category": "人工智能设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/q7XXHzcWFP9uk4mvXKsJk9-1920-80.jpg",
+      "publishedAt": "2026-10-25T10:00:00+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 74.6,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/fhii3s5odm1784723980.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/cgdyvabfix1784557711.svg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/h0mke6edxz1770889266-400-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/2lfo9jmvho1765179166.svg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/55oelilya71784803267.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/i2nn8dilnk1784803336.png"
+        }
+      ],
+      "titleZh": "外卖生成图片失误暴露商品图像与真实菜品的距离",
+      "summaryZh": "媒体报道平台正移除错误图片，问题也涉及信息与审核流程。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "报道描述外卖平台将菜名直接用于生成图像后出现的语义误读，例如把菜名中的比喻画成真实动物或日用品。原文称平台已经道歉并移除相关图片，具体处理状态以来源后续说明为准。",
+              "作者进一步质疑，即使图像看似合理，虚构的商品照片也可能制造不符合实际的期待。本条将已报道失误与作者评论区分，不把社交平台截图中的每项说法视为已经独立证实。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 17.6,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "b41a13002520f3c6",
+      "url": "https://www.archdaily.com/1187180/plaza-salamero-infrastructure-landscape-and-city-hector-fernandez-elorza",
+      "title": "Plaza Salamero: Infrastructure, Landscape, and City / Hector Fernández Elorza",
+      "summary": "The remodeling of Plaza de Salamero arose from a public competition launched by the Zaragoza City Council to replace the roof slab of the existing underground parking garage beneath the square, following a structural failure detected in 2020. Rather than viewing this circumstance as a limitation, the project turns it into an…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6a8e/ab83/4253/0500/01ca/0d32/large_jpg/Plaza_Salamero_in_Zaragoza_Spain___He_ctor_F_Elorza___photo___Montse_Zamorano_04.jpg?1787734931",
+      "publishedAt": "2026-10-25T10:00:00+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 74.4,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6a8e/ab83/4253/0500/01ca/0d32/large_jpg/Plaza_Salamero_in_Zaragoza_Spain___He_ctor_F_Elorza___photo___Montse_Zamorano_04.jpg?1787734931"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6a8e/ab85/4253/0500/01ca/0d3b/large_jpg/Plaza_Salamero_in_Zaragoza_Spain___He_ctor_F_Elorza___photo___Montse_Zamorano_08_1.jpg?1787734993"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6a8e/ab83/4253/0500/01ca/0d34/large_jpg/Plaza_Salamero_in_Zaragoza_Spain___He_ctor_F_Elorza___photo___Montse_Zamorano_07.jpg?1787734937"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6a8e/ab83/4253/0500/01ca/0d30/large_jpg/Plaza_Salamero_in_Zaragoza_Spain___He_ctor_F_Elorza___photo___Montse_Zamorano_00.jpg?1787734950"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6a8e/ab83/4253/0500/01ca/0d33/large_jpg/Plaza_Salamero_in_Zaragoza_Spain___He_ctor_F_Elorza___photo___Montse_Zamorano_05.jpg?1787734934"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6a8e/ab83/4253/0500/01ca/0d31/large_jpg/Plaza_Salamero_in_Zaragoza_Spain___He_ctor_F_Elorza___photo___Montse_Zamorano_01.jpg?1787734933"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6a8e/ab84/4253/0500/01ca/0d38/large_jpg/Plaza_Salamero_in_Zaragoza_Spain___He_ctor_F_Elorza___photo___Montse_Zamorano_02_1.jpg?1787734958"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6a8e/ab85/4253/0500/01ca/0d39/large_jpg/Plaza_Salamero_in_Zaragoza_Spain___He_ctor_F_Elorza___photo___Montse_Zamorano_03_1.jpg?1787734958"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6a8e/ab85/4253/0500/01ca/0d3a/large_jpg/Plaza_Salamero_in_Zaragoza_Spain___He_ctor_F_Elorza___photo___Montse_Zamorano_06_1.jpg?1787734959"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6a8e/ab83/4253/0500/01ca/0d35/large_jpg/Plaza_Salamero_in_Zaragoza_Spain___He_ctor_F_Elorza___photo___Montse_Zamorano_09.jpg?1787734940"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6a8e/ab85/4253/0500/01ca/0d3c/large_jpg/Plaza_Salamero_in_Zaragoza_Spain___He_ctor_F_Elorza___photo___Montse_Zamorano_10_1.jpg?1787734992"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6a8e/ab84/4253/0500/01ca/0d37/large_jpg/z_Plaza_Salamero_in_Zaragoza_Spain___He_ctor_F_Elorza___photo___estudio_HF_Elorza.jpg?1787734956"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6a8e/ab84/4253/0500/01ca/0d36/large_jpg/z_Plaza_Salamero_in_Zaragoza_Spain___He_ctor_F_Elorza___photo___estudio_HF_Elorza_2.jpg?1787734940"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6a8e/ab85/4253/0500/01ca/0d3e/large_jpg/05_ISO_GENERAL.jpg?1787735006"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6a8e/ab85/4253/0500/01ca/0d3f/large_jpg/06_ISO_DETALLE.jpg?1787734970"
+        }
+      ],
+      "titleZh": "萨拉戈萨广场借地下结构修复重建城市公园",
+      "summaryZh": "停车库顶板问题转化为重新组织历史城区公共空间的机会。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "项目起因是广场下方既有停车库顶板在2020年发现结构问题，市政府随后发起改造竞赛。设计没有只把任务看作更换楼板，而是同步重新考虑上方公共空间。",
+              "约11000平方米的改造将基础设施、景观和城市活动联系起来，完成于2023年。本次收录保留其建成时间，不将新发布的项目介绍写成当天刚完成的工程。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 17.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "c24c9f48ef9a1d60",
+      "url": "https://www.designboom.com/architecture/modular-timber-framing-textile-canopies-open-air-civic-pavilion-turkey-datca-summer-workshop-erazo-pugliese/",
+      "title": "modular timber framing and textile canopies compose open-air civic pavilion in turkey",
+      "summary": "a lightweight timber extension brings shade, communal seating and working surfaces, with removable fabrics recalling the sheltered passages of turkish",
+      "source": "designboom",
+      "category": "建筑设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/380655/2026-10-15/a-timber-framework-for-village-celebrations-in-karakoy-2-6ad0c4cbd4800.jpg",
+      "publishedAt": "2026-10-25T08:45:15+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 67.3,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/380655/2026-10-15/a-timber-framework-for-village-celebrations-in-karakoy-2-6ad0c4cbd4800.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/380655/2026-10-15/a-timber-framework-for-village-celebrations-in-karakoy-3-6ad0c4cbd484e.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/380655/2026-10-15/a-timber-framework-for-village-celebrations-in-karakoy-8-6ad0c4cbd4996.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/380655/2026-10-15/a-timber-framework-for-village-celebrations-in-karakoy-4-6ad0c4cbd4893.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/10/timber-textile-pavilion-turkey-datca-summer-workshop-karakoy-erazo-pugliese-designboom-1800-2.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/380655/2026-10-15/a-timber-framework-for-village-celebrations-in-karakoy-11-6ad0c4cbd4a56.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/380655/2026-10-15/a-timber-framework-for-village-celebrations-in-karakoy-6-6ad0c4cbd4917.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/380655/2026-10-15/a-timber-framework-for-village-celebrations-in-karakoy-5-6ad0c4cbd48d7.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/380655/2026-10-15/a-timber-framework-for-village-celebrations-in-karakoy-1-6ad0c4cbd4786.jpg"
+        },
+        {
+          "url": "https://static.designboom.com/wp-content/uploads/2026/10/timber-textile-pavilion-turkey-datca-summer-workshop-karakoy-erazo-pugliese-designboom-1800-3.jpg"
+        }
+      ],
+      "titleZh": "土耳其木构棚架为村落共同劳动提供固定框架",
+      "summaryZh": "重复门架与可拆织物连接备餐、市场和集会活动。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "工作营建造的约55平方米棚架沿村庄庆典场地边缘展开，以木门架整合操作台、储物、展示与连续长凳。设计借鉴当地季节性农业遮棚，不采用永久混凝土基础。",
+              "张拉织物为开放空间遮阳，并可应对冬季风况拆下保存。布端口袋中的木条、弹性绳与挂钩构成可逆连接，使固定框架能够随季节与公共活动调整。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 10.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "45d8336e27ce1d1d",
+      "url": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
+      "title": "Why do AI platforms want humans to design their branding?",
+      "summary": "AI firms keep hiring human designers. Ironic",
+      "source": "Creative Bloq",
+      "category": "视觉设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ-1920-80.png",
+      "publishedAt": "2026-10-25T08:01:03+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 65.5,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ-1920-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ-1200-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ-1200-80.webp"
+        }
+      ],
+      "titleZh": "人工智能企业品牌案例凸显人的判断与信任作用",
+      "summaryZh": "多家工作室以标志、字体和图像系统为不同平台建立性格。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "文章比较生成图像、视频编辑和审计平台的品牌项目，包括脑形标志、花瓣形符号、定制字标及由小标志组成的三维插画。部分生成素材也需要设计师手工调整后纳入系统。",
+              "作者认为品牌工作的任务超出制作一张好看的图，还涉及定位、可信度和社会关系。这属于带有立场的评论，不能由企业雇用设计师便推出某种工具能力的普遍结论。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 9.0,
+        "completeness": 17.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "8fdf0b4ebbed08bf",
+      "url": "https://www.wallpaper.com/architecture/cine-tutu-sao-paulo-cinema-isay-weinfeld-brazil",
+      "title": "Catch a movie at Cine Tutu, the new São Paulo cinema by Isay Weinfeld",
+      "summary": "Cine Tutu by Isay Weinfeld brings style and mystique to a cinema venue in São Paulo’s bohemian Vila Madalena",
+      "source": "Wallpaper",
+      "category": "空间设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/KjdGoFqNAPiv3SVTfyn5fT-1920-80.jpg",
+      "publishedAt": "2026-10-25T08:00:00+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 71.3,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/DFiKotQMGWbsq2enPWzWaT-708-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/a7hUCLTJKjrMAgpcMPwGXT-708-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/EBcu5E3vry7shQNnARsAoT-1593-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/p3dkBgnN5TgQyTrFVtYQiT-708-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/fsqZJnPTkr5Ks6Swc45gqT-1417-80.jpg"
+        }
+      ],
+      "titleZh": "圣保罗街头影院以分镜般动线连接咖啡馆与放映厅",
+      "summaryZh": "一百一十四个座位之外，等候和观影后的停留同样被设计。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "项目将一栋多年未完成的剧场建筑转为独立影院。街层咖啡酒吧无需电影票即可进入，不锈钢、暖色木材与玻璃后的植物共同建立面向街道的界面。",
+              "地下等候区以电影海报、橄榄绿卡座和定制吊灯形成休息厅，放映室则用花卉织物覆盖座椅。观影前后都可以回到公共区域，使路线承载完整的社交与观看节奏。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 15.0,
+        "completeness": 17.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "b3802e137956e750",
+      "url": "https://www.archdaily.com/1187113/learning-from-capitalism-how-postmodern-architecture-became-the-language-of-american-business",
+      "title": "Learning from Capitalism: How Postmodern Architecture Became the Language of American Business",
+      "summary": "In 1972, Robert Venturi, Denise Scott Brown , and Steven Izenour published Learning from Las Vegas , challenging architects to reconsider the underappreciated, largely dismissed commercial landscape in the United States . Their storied distinction between the \"duck,\" a building whose form communicates its meaning, and the…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6ad6/26fa/c720/ac01/8896/2d7b/large_jpg/learning-from-capitalism-how-postmodernism-became-the-language-of-american-business_1.jpg?1792419581",
+      "publishedAt": "2026-10-25T07:30:00+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-23",
+      "score": 72.5,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/26fa/c720/ac01/8896/2d7b/large_jpg/learning-from-capitalism-how-postmodernism-became-the-language-of-american-business_1.jpg?1792419581"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/27d0/c720/ac01/8896/2d84/large_jpg/learning-from-capitalism-how-postmodernism-became-the-language-of-american-business_1.jpg?1792419799"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/26f0/c720/ac01/8896/2d7a/large_jpg/learning-from-capitalism-how-postmodernism-became-the-language-of-american-business_1.jpg?1792419574"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ad6/2708/c720/ac01/8896/2d7c/large_jpg/learning-from-capitalism-how-postmodernism-became-the-language-of-american-business_1.jpg?1792419597"
+        }
+      ],
+      "titleZh": "后现代建筑如何成为美国商业表达语言",
+      "summaryZh": "建筑史讨论从拉斯维加斯学习延伸到企业空间。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "研究以文丘里、斯科特·布朗和艾泽努尔对商业景观的观察为起点，重新讨论形式如何传达意义。",
+              "当建筑成为企业表达工具，空间、符号和商业身份之间的联系也随之变化，内容属于历史分析而非新项目发布。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 12.0,
+        "completeness": 16.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "85cd420cee5175a1",
+      "url": "https://www.wallpaper.com/watches-jewellery/jean-prounis-moderne-jewellery-collection",
+      "title": "Jean Prounis’ ‘Moderne’ jewellery collection is inspired by art deco New York",
+      "summary": "In gold and set with estate diamonds and colourful gems, Prounis’ new jewellery designs nod to art deco art, architecture and",
+      "source": "Wallpaper",
+      "category": "工业设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/zrDXfSR5yphNDhwVbztHFR-1920-80.png",
+      "publishedAt": "2026-10-25T07:00:00+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 71.4,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/derdLDcDfUCTgbkurcxekd-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/hpgcJ6mgBZ88EzMDosN4T-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/93SNg8SBurgf6o4TS6rrN6-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/aDpF23GXj3hDXXewkshbF6-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/j2hhnhpuULijU2ngYLvbo5-1920-80.jpg"
+        }
+      ],
+      "titleZh": "纽约装饰艺术线索进入手工珠宝的新系列",
+      "summaryZh": "流苏、方形切割宝石与几何结构连接城市和家庭档案。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "设计师研究图书馆中的模板套色版画、纽约建筑及历史珠宝，再将这些线索转成吊坠、长项链和戒指。流苏状触觉细部与方形钻石切割共同延续装饰艺术的几何感。",
+              "系列也参考家族在1930年代经营的纽约夜总会和曾祖母的戒指。公开介绍重点在工艺与创作来源，不将稀有宝石和手工制作当作投资价值或佩戴耐久性的保证。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 15.0,
+        "completeness": 17.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "835ced638ac2697e",
+      "url": "https://www.dezeen.com/2026/10/25/collectible-furniture-dutch-design-week-table-of-power/",
+      "title": "Collectible furniture meets cultural critique at Dutch Design Week’s Table of Power",
+      "summary": "Show Not Show has put a twist on a classic project documenting the echelons of power with an exhibition of the design collective’s furniture at Dutch Design",
+      "source": "Dezeen",
+      "category": "工业设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_sq-1024x1024.jpg",
+      "publishedAt": "2026-10-25T06:00:00+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 74.7,
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_hero-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_21-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_18-1536x1025.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_10-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_9-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_8-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_7-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_5-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_4-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_2-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_0-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_20-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_17-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_16-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_15-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_14-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_13-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_11-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_12-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_19-1536x1025.jpg"
+        }
+      ],
+      "titleZh": "金属长桌与家具展讨论设计行业中的可见性",
+      "summaryZh": "镜面延伸桌面，隔断高度改变坐者与站者的观看关系。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "展览从上世纪九十年代记录企业会议室的摄影项目取得线索，以折弯金属长桌组织家具、灯具和织物。桌子尽端的镜面制造延伸感，拉丝与色彩渐变成为表面表达的一部分。",
+              "周边展出单一工具制作的木凳、亮漆胶合板家具和三维打印生物塑料灯具。部分矮隔断让坐着的人获得更开阔视野，策展将这些物件关系用于讨论权力和媒体可见性，而非仅陈列孤立单品。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 17.6,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "b05a385789abf210",
+      "url": "https://www.archdaily.com/1186113/residential-house-in-vilnius-architectural-bureau-gnatkevicius-and-partners",
+      "title": "Residential house in Vilnius / Architectural Bureau G.Natkevicius & Partners",
+      "summary": "The project was implemented in an exceptional location in Vilnius – the Aukštagiris Geomorphological Reserve. The protected forest environment and hilly terrain became the main axis of this architectural concept. The landscape dictated the position of the buildings on the plot, allowing for maximum use of natural light, opening…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd54/large_jpg/4.jpg?1790799189",
+      "publishedAt": "2026-10-25T06:00:00+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 74.2,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd54/large_jpg/4.jpg?1790799189"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd57/large_jpg/7.jpg?1790799268"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd59/large_jpg/9.jpg?1790799260"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd5a/large_jpg/10.jpg?1790799373"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd60/large_jpg/16.jpg?1790799591"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd53/large_jpg/3.jpg?1790799194"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd55/large_jpg/5.jpg?1790799183"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd56/large_jpg/6.jpg?1790799264"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd58/large_jpg/8.jpg?1790799388"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d26/122d/aa00/0196/fd64/large_jpg/20.jpg?1790799705"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d26/122d/aa00/0196/fd65/large_jpg/21.jpg?1790799594"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd61/large_jpg/17.jpg?1790799258"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd62/large_jpg/18.jpg?1790799373"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd63/large_jpg/19.jpg?1790799483"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d26/122d/aa00/0196/fd66/large_jpg/22.jpg?1790799630"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd5b/large_jpg/11.jpg?1790799259"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd5c/large_jpg/12.jpg?1790799480"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd5d/large_jpg/13.jpg?1790799261"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd5e/large_jpg/14.jpg?1790799510"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d25/122d/aa00/0196/fd5f/large_jpg/15.jpg?1790799371"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d24/122d/aa00/0196/fd52/large_jpg/2.jpg?1790799191"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d24/122d/aa00/0196/fd50/large_jpg/1.jpg?1790799185"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d26/122d/aa00/0196/fd70/large_jpg/situacijos_schema.jpg?1790799412"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d26/122d/aa00/0196/fd6f/large_jpg/planas.jpg?1790799656"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d26/122d/aa00/0196/fd68/large_jpg/1_pj_vis.jpg?1790799167"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d26/122d/aa00/0196/fd6a/large_jpg/2_pj_vis.jpg?1790799614"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d26/122d/aa00/0196/fd6c/large_jpg/3_pj_vis.jpg?1790799635"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d26/122d/aa00/0196/fd6e/large_jpg/4_pj_vis.jpg?1790799394"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d26/122d/aa00/0196/fd67/large_jpg/1_fasadas.jpg?1790799726"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d26/122d/aa00/0196/fd69/large_jpg/2_fasadas.jpg?1790799279"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d26/122d/aa00/0196/fd6b/large_jpg/3_fasadas.jpg?1790799188"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abd/6d26/122d/aa00/0196/fd6d/large_jpg/4_fasadas.jpg?1790799209"
+        }
+      ],
+      "titleZh": "维尔纽斯住宅顺着保护林地与坡地确定位置",
+      "summaryZh": "自然光、景观开口和既有环境共同构成选址依据。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "住宅位于地貌保护区的林地与起伏地形中，场地条件成为建筑构思的主轴。建筑位置依据地景决定，希望同时利用自然光并框取周边视野。",
+              "公开项目资料列出面积166平方米、完成于2022年。文本将尊重自然作为设计方向，但没有量化生态评估，不据照片和目标描述推断具体环境绩效。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 17.1,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "50b831a8f8e0b442",
+      "url": "https://www.wallpaper.com/design-interiors/nebbia-interlude-new-zealand-paererewa",
+      "title": "How do you create a design to last for a 1,000 years?",
+      "summary": "'Interlude' by London design studio Nebbia is a sculptural gathering place that is part of New Zealand's Paererewā, designed to last 1,000 years and imagined to foster the art of",
+      "source": "Wallpaper",
+      "category": "空间设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/e3mxjd7hKr3f6YUeuqN3vX-1920-80.jpg",
+      "publishedAt": "2026-10-25T04:00:00+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 71.5,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/geVtTwSFh2F2PCcS65kjuX-1708-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/yYUhzxsX4z8g8GbLD28muX-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ERZuhsSFVTvZjSgp4k9kuX-1708-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Ktvcncq53evNSbcuxvXydX-1708-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3xGgs4jD2RFJBBENDLaJRX-1707-80.jpg"
+        }
+      ],
+      "titleZh": "新西兰石雕座席以变化而非不变回应千年尺度",
+      "summaryZh": "可攀爬与可停坐的形体为陌生人的相遇留出位置。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "公共艺术计划以千年为时间尺度提出委托，工作室在山湖景观前设置门洞般的玄武岩雕塑。作品同时承担座席和可以攀坐的公共物件，使用当地开采的石材。",
+              "设计师并不要求它千年后保持原状，而是把风化、分裂和环境变化纳入思考。千年属于项目愿景，不是已经验证的耐久保证；作品关注的是人的短暂使用与材料更长的时间尺度。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 15.0,
+        "completeness": 17.4,
+        "source": 24.0
+      }
+    },
     {
       "id": "fe3b8bd3c9c09ce0",
       "url": "https://www.yankodesign.com/2026/10/24/neo-brutalist-vases-look-like-tiny-towers-even-without-flowers/",
@@ -734,6 +2721,83 @@
         "media": 18.0,
         "completeness": 17.4,
         "source": 15.0
+      }
+    },
+    {
+      "id": "a1f4a44b8824b440",
+      "url": "https://www.archdaily.com/1186237/ikebukuro-living-furniture-tram-stop-yosuke-sagoshi-atelier",
+      "title": "Ikebukuro Living Furniture - Tram Stop / Yosuke SAGOSHI Atelier",
+      "summary": "This broad avenue, extending from Ikebukuro Station toward Marunouchi, was once traversed by Toden trams, with a terminal located right in front of the station. Lines ran from Ikebukuro toward Ueno and Sukiyabashi. One can only imagine the myriad stories that must have unfolded at those",
+      "source": "ArchDaily",
+      "category": "工业设计",
+      "image": "https://images.adsttc.com/media/images/6abf/a79d/07c3/d100/017f/cbf8/large_jpg/515310615_23994784243482824_7821017183323397070_n.jpg?1790945191",
+      "publishedAt": "2026-10-24T21:00:00+00:00",
+      "date": "2026-10-25",
+      "firstSeen": "2026-10-26",
+      "score": 74.2,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6abf/a79d/07c3/d100/017f/cbf8/large_jpg/515310615_23994784243482824_7821017183323397070_n.jpg?1790945191"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abf/a79d/07c3/d100/017f/cbf7/large_jpg/469168756_18293589304235437_5965190774320931636_n.jpg?1790945195"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abf/a79d/07c3/d100/017f/cbf9/large_jpg/IMG_8112.jpg?1790945198"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abf/a79d/07c3/d100/017f/cbfb/large_jpg/IMG_8131.jpg?1790945202"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abf/a79d/07c3/d100/017f/cbfa/large_jpg/IMG_8127.jpg?1790945216"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abf/a79d/07c3/d100/017f/cbfc/large_jpg/IMG_8132.jpg?1790945200"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abf/a79d/07c3/d100/017f/cbfd/large_jpg/IMG_8136.jpg?1790945201"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abf/a79d/07c3/d100/017f/cbfe/large_jpg/IMG_8143.jpg?1790945200"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abf/a79d/07c3/d100/017f/cbff/large_jpg/IMG_8156.jpg?1790945200"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac8/bad0/7887/fb01/8910/63fb/large_jpg/ikebukuro-living-furniture-tram-stop-yosuke-sagoshi-atelier_10.jpg?1791539938"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abf/a79e/07c3/d100/017f/cc08/large_jpg/Plan.jpg?1790945227"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abf/a79e/07c3/d100/017f/cc06/large_jpg/Detail-1.jpg?1790945198"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abf/a79e/07c3/d100/017f/cc07/large_jpg/Detail-2.jpg?1790945212"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6abf/a79e/07c3/d100/017f/cc09/large_jpg/Sketch.jpg?1790945196"
+        }
+      ],
+      "titleZh": "池袋街道家具以旧电车站记忆连接当下停留",
+      "summaryZh": "公共构件借历史交通节点为街道生活提供线索。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "项目位于从池袋站向外延伸的道路，场地曾是都电线路经过并设置终点站的位置。设计以这些历史使用与日常故事作为公共家具的背景。",
+              "公开资料列出项目于2024年完成，范围约28平方米。当前可读说明侧重地点历史，具体构造和使用行为未充分展开，因此不补写未经核对的功能或评价。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 17.2,
+        "source": 24.0
       }
     },
     {
@@ -867,7 +2931,7 @@
       "summary": "We had the pleasure of illustrating Barnes & Noble's Classic Starts series, bringing beloved literary classics to life in a timeless storybook style. Our work included Alice's Adventures in Wonderland, The Jungle Book, Winnie-the-Pooh, The Monkey King and 20,000 Leagues Under the",
       "source": "Behance",
       "category": "视觉设计",
-      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/ca45e3257463847.Y3JvcCwxMjM5LDk2OSw4OCw5.jpg",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/ca45e3257463847.Y3JvcCwxMjM5LDk2OSw4OCw5.jpg",
       "publishedAt": "2026-10-24T20:00:05+00:00",
       "date": "2026-10-25",
       "firstSeen": "2026-10-25",
@@ -1172,7 +3236,7 @@
       "summary": "On Mars, skin spends most of the day sealed inside a suit. Weeks of friction and repeated irritation leave a barrier that has no time to recover. OASE is a speculative skincare brand for the first settlers on Mars. Instead of prescribing products for a fixed skin type, it tracks how skin responds as people move between the…",
       "source": "Behance",
       "category": "工业设计",
-      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/db65d4257435583.Y3JvcCwxNjE2LDEyNjQsMCww.png",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/db65d4257435583.Y3JvcCwxNjE2LDEyNjQsMCww.png",
       "publishedAt": "2026-10-24T16:00:08+00:00",
       "date": "2026-10-25",
       "firstSeen": "2026-10-25",
@@ -1743,7 +3807,7 @@
       "summary": "A short animated film about Samuel Morse, painter and inventor, adapted from The Memory Palace by Nate DiMeo. More than 900 hand-painted frames, made over six",
       "source": "Behance",
       "category": "动态设计",
-      "image": "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/48c4b9257379373.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.jpg",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/48c4b9257379373.Y3JvcCwyNzYxLDIxNjAsNTQwLDA.jpg",
       "publishedAt": "2026-10-24T12:00:09+00:00",
       "date": "2026-10-24",
       "firstSeen": "2026-10-25",
@@ -14192,53 +16256,6 @@
         "recency": 15.0,
         "media": 18.0,
         "completeness": 16.3,
-        "source": 24.0
-      }
-    },
-    {
-      "id": "b3802e137956e750",
-      "url": "https://www.archdaily.com/1187113/learning-from-capitalism-how-postmodern-architecture-became-the-language-of-american-business",
-      "title": "Learning from Capitalism: How Postmodern Architecture Became the Language of American Business",
-      "summary": "In 1972, Robert Venturi, Denise Scott Brown , and Steven Izenour published Learning from Las Vegas , challenging architects to reconsider the underappreciated, largely dismissed commercial landscape in the United States . Their storied distinction between the \"duck,\" a building whose form communicates its meaning, and the…",
-      "source": "ArchDaily",
-      "category": "建筑设计",
-      "image": "https://images.adsttc.com/media/images/6ad6/26fa/c720/ac01/8896/2d7b/large_jpg/learning-from-capitalism-how-postmodernism-became-the-language-of-american-business_1.jpg?1792419581",
-      "publishedAt": "2026-10-22T07:30:00+00:00",
-      "date": "2026-10-22",
-      "firstSeen": "2026-10-23",
-      "score": 67.5,
-      "images": [
-        {
-          "url": "https://images.adsttc.com/media/images/6ad6/26fa/c720/ac01/8896/2d7b/large_jpg/learning-from-capitalism-how-postmodernism-became-the-language-of-american-business_1.jpg?1792419581"
-        },
-        {
-          "url": "https://images.adsttc.com/media/images/6ad6/27d0/c720/ac01/8896/2d84/large_jpg/learning-from-capitalism-how-postmodernism-became-the-language-of-american-business_1.jpg?1792419799"
-        },
-        {
-          "url": "https://images.adsttc.com/media/images/6ad6/26f0/c720/ac01/8896/2d7a/large_jpg/learning-from-capitalism-how-postmodernism-became-the-language-of-american-business_1.jpg?1792419574"
-        },
-        {
-          "url": "https://images.adsttc.com/media/images/6ad6/2708/c720/ac01/8896/2d7c/large_jpg/learning-from-capitalism-how-postmodernism-became-the-language-of-american-business_1.jpg?1792419597"
-        }
-      ],
-      "titleZh": "后现代建筑如何成为美国商业表达语言",
-      "summaryZh": "建筑史讨论从拉斯维加斯学习延伸到企业空间。",
-      "reading": {
-        "basis": "article",
-        "sections": [
-          {
-            "heading": "正文",
-            "paragraphs": [
-              "研究以文丘里、斯科特·布朗和艾泽努尔对商业景观的观察为起点，重新讨论形式如何传达意义。",
-              "当建筑成为企业表达工具，空间、符号和商业身份之间的联系也随之变化，内容属于历史分析而非新项目发布。"
-            ]
-          }
-        ]
-      },
-      "heat": {
-        "recency": 15.0,
-        "media": 12.0,
-        "completeness": 16.5,
         "source": 24.0
       }
     },
@@ -48630,6 +50647,7 @@
     {
       "date": "2026-10-23",
       "articleIds": [
+        "b3802e137956e750",
         "94921c530e76a417",
         "cf7763cae07ee828",
         "7b50e9b1b821fb47",
@@ -48703,7 +50721,6 @@
         "6a8f734c3ee87cd0",
         "af761b4fb1d5b74f",
         "86953d2dfae5cfa7",
-        "b3802e137956e750",
         "1c6673e8fee87417",
         "b88288fa974d3beb",
         "b17cde16c8157905",
@@ -48869,6 +50886,46 @@
         "lead": "让材料动起来，",
         "title": "让空间回应人。",
         "subtitle": "从随访客变换的线柱阴影到可以走入的混凝土沙盒，观察动作、材料与生活如何彼此塑形。"
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "articleIds": [
+        "22b1a5b41353d292",
+        "e33a6203691ac708",
+        "e2ddae07301bad0e",
+        "cc40213a0e7d1692",
+        "2d09544034342964",
+        "32f7645dee6c2b74",
+        "7f1a563c6092ab8d",
+        "ffa4664bbfbec6fe",
+        "0c6f7c7603638529",
+        "99ea58f5cc934a6a",
+        "519e6e8d20545607",
+        "e212f701bad5add9",
+        "ded7251729e5307a",
+        "81c24d7818395780",
+        "59748606790ff86e",
+        "05fa3ec507de76a6",
+        "91d9dbee19705f58",
+        "26ff76ba796c61ff",
+        "cc2cacc235931c14",
+        "b41a13002520f3c6",
+        "0c7a632e7b65b613",
+        "c24c9f48ef9a1d60",
+        "45d8336e27ce1d1d",
+        "8fdf0b4ebbed08bf",
+        "85cd420cee5175a1",
+        "b05a385789abf210",
+        "835ced638ac2697e",
+        "50b831a8f8e0b442",
+        "a1f4a44b8824b440"
+      ],
+      "updatedAt": "2026-10-26T08:59:16.819715+08:00",
+      "masthead": {
+        "lead": "把熟悉重新排列，",
+        "title": "让使用发生变化。",
+        "subtitle": "从可拆的公寓节点到边叠边亮的积木灯，观察构件、界面与公共空间如何给日常留下调整余地。"
       }
     }
   ],
