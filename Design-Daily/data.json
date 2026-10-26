@@ -1188,7 +1188,7 @@
           "url": "https://images.adsttc.com/media/images/6ad2/34ac/aadf/a000/01e3/aad7/large_jpg/Montana_48.jpg?1792161226"
         },
         {
-          "url": "https://images.adsttc.com/media/images/6ad2/34ab/aadf/a000/01e3/aacf/thumb_jpg/montana-farm_4.jpg?1792160942"
+          "url": "https://images.adsttc.com/media/images/6ad2/34ab/aadf/a000/01e3/aacf/large_jpg/montana-farm_4.jpg?1792160942"
         },
         {
           "url": "https://images.adsttc.com/media/images/6ad2/34ab/aadf/a000/01e3/aad0/large_jpg/Montana_3.jpg?1792160996"
@@ -2016,27 +2016,8 @@
       "publishedAt": "2026-10-25T10:00:00+00:00",
       "date": "2026-10-25",
       "firstSeen": "2026-10-26",
-      "score": 74.6,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/fhii3s5odm1784723980.jpg"
-        },
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/cgdyvabfix1784557711.svg"
-        },
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/h0mke6edxz1770889266-400-80.jpg"
-        },
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/2lfo9jmvho1765179166.svg"
-        },
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/55oelilya71784803267.png"
-        },
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/i2nn8dilnk1784803336.png"
-        }
-      ],
+      "score": 59.6,
+      "images": [],
       "titleZh": "外卖生成图片失误暴露商品图像与真实菜品的距离",
       "summaryZh": "媒体报道平台正移除错误图片，问题也涉及信息与审核流程。",
       "reading": {
@@ -2053,7 +2034,7 @@
       },
       "heat": {
         "recency": 15.0,
-        "media": 18.0,
+        "media": 3.0,
         "completeness": 17.6,
         "source": 24.0
       }
@@ -15414,27 +15395,8 @@
       "publishedAt": "2026-10-22T10:00:00+00:00",
       "date": "2026-10-22",
       "firstSeen": "2026-10-23",
-      "score": 73.7,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/fhii3s5odm1784723980.jpg"
-        },
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/cgdyvabfix1784557711.svg"
-        },
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/h0mke6edxz1770889266-400-80.jpg"
-        },
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/2lfo9jmvho1765179166.svg"
-        },
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/55oelilya71784803267.png"
-        },
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/i2nn8dilnk1784803336.png"
-        }
-      ],
+      "score": 58.7,
+      "images": [],
       "titleZh": "动画电影保留偶发失误让制作过程进入成片",
       "summaryZh": "一个未被删除的花絮成为观察动画选择的入口。",
       "reading": {
@@ -15451,7 +15413,7 @@
       },
       "heat": {
         "recency": 15.0,
-        "media": 18.0,
+        "media": 3.0,
         "completeness": 16.7,
         "source": 24.0
       }
@@ -43294,27 +43256,8 @@
       "publishedAt": "2026-10-15T06:00:00+00:00",
       "date": "2026-10-15",
       "firstSeen": "2026-10-16",
-      "score": 81.1,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/fhii3s5odm1784723980.jpg"
-        },
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/cgdyvabfix1784557711.svg"
-        },
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/h0mke6edxz1770889266-400-80.jpg"
-        },
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/2lfo9jmvho1765179166.svg"
-        },
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/55oelilya71784803267.png"
-        },
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/i2nn8dilnk1784803336.png"
-        }
-      ],
+      "score": 66.1,
+      "images": [],
       "video": {
         "provider": "youtube",
         "id": "ZI8KRElcjV4",
@@ -43344,7 +43287,7 @@
       },
       "heat": {
         "recency": 15.0,
-        "media": 25.0,
+        "media": 10.0,
         "completeness": 17.1,
         "source": 24.0
       }
