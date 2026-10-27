@@ -1238,7 +1238,7 @@
       "publishedAt": "2026-10-26T19:00:00+00:00",
       "date": "2026-10-27",
       "firstSeen": "2026-10-27",
-      "score": 79.2,
+      "score": 72.2,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6adf/779e/db5c/2001/882d/06a5/large_jpg/casa-cardona-sensacional-dinamica-mexicana_25.jpg?1793030082"
@@ -1301,7 +1301,7 @@
       "titleZh": "墨西哥卡尔多纳住宅以沙漠环境组织居住体验",
       "summaryZh": "一百六十五平方米住宅将周边条件转为日常空间的起点。",
       "reading": {
-        "basis": "article",
+        "basis": "feed",
         "sections": [
           {
             "heading": "正文",
@@ -1310,12 +1310,13 @@
               "项目最初按常规地产住宅构思，随后将设计重点转向与沙漠环境的关系。空间目标包括居住的亲密感以及地方文化与日常生活的联系，未公开的构造性能不作推断。"
             ]
           }
-        ]
+        ],
+        "evidence": "原站公开项目简介及资料表"
       },
       "heat": {
         "recency": 20.0,
         "media": 18.0,
-        "completeness": 17.1,
+        "completeness": 10.2,
         "source": 24.0
       }
     },
@@ -1804,7 +1805,7 @@
       "publishedAt": "2026-10-26T17:00:00+00:00",
       "date": "2026-10-27",
       "firstSeen": "2026-10-27",
-      "score": 79.0,
+      "score": 72.0,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6ada/4327/3271/8400/01d0/e1f3/large_jpg/MMR-FOTO-02.jpg?1792688971"
@@ -1882,7 +1883,7 @@
       "titleZh": "巴西住宅把树木与旋梯纳入家庭空间愿望",
       "summaryZh": "住宅同时回应挑高、屋顶可见性和聚会需求。",
       "reading": {
-        "basis": "article",
+        "basis": "feed",
         "sections": [
           {
             "heading": "正文",
@@ -1891,12 +1892,13 @@
               "四组套房与办公、社交区域共同组成使用需求，聚会空间需容纳较多来客。自然联系与社区内的私密性也被同时列入设计目标。"
             ]
           }
-        ]
+        ],
+        "evidence": "原站公开项目简介及资料表"
       },
       "heat": {
         "recency": 20.0,
         "media": 18.0,
-        "completeness": 17.0,
+        "completeness": 10.0,
         "source": 24.0
       }
     },
@@ -2538,7 +2540,7 @@
       "publishedAt": "2026-10-26T15:00:00+00:00",
       "date": "2026-10-26",
       "firstSeen": "2026-10-27",
-      "score": 74.2,
+      "score": 67.2,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6adf/05ae/db5c/2001/882d/02ab/large_jpg/santa-rosa-social-housing-far-frohn-and-rojas_11.jpg?1793000888"
@@ -2655,7 +2657,7 @@
       "titleZh": "圣地亚哥社会住宅回应被推向城市边缘的居住问题",
       "summaryZh": "项目把住房与既有社会、技术基础设施的距离作为设计背景。",
       "reading": {
-        "basis": "article",
+        "basis": "feed",
         "sections": [
           {
             "heading": "正文",
@@ -2664,12 +2666,13 @@
               "设计背景指出土地价格上涨使社会住宅不断迁往外围，并与城市基础设施脱节。本项目以这一现实为出发点，未公开的运营成效与居住反馈不作延伸判断。"
             ]
           }
-        ]
+        ],
+        "evidence": "原站公开项目简介及资料表"
       },
       "heat": {
         "recency": 15.0,
         "media": 18.0,
-        "completeness": 17.2,
+        "completeness": 10.2,
         "source": 24.0
       }
     },
@@ -3074,7 +3077,7 @@
       "publishedAt": "2026-10-26T13:00:00+00:00",
       "date": "2026-10-26",
       "firstSeen": "2026-10-27",
-      "score": 74.0,
+      "score": 67.0,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6adb/4585/20d6/d801/8852/0ba3/large_jpg/casa-coqueira-tiago-sousa-arquitecto_10.jpg?1792755095"
@@ -3209,7 +3212,7 @@
       "titleZh": "葡萄牙住宅以高差、平面与悬置体量回应场地",
       "summaryZh": "上层道路与下挖平台构成不同的到达和地形条件。",
       "reading": {
-        "basis": "article",
+        "basis": "feed",
         "sections": [
           {
             "heading": "正文",
@@ -3218,12 +3221,13 @@
               "花岗岩挡墙限定下层边界，住宅围绕几何平面和悬置体量组织表达。完成时间为二〇二五年，本次为新收录项目资料，不将其称为当天落成。"
             ]
           }
-        ]
+        ],
+        "evidence": "原站公开项目简介及资料表"
       },
       "heat": {
         "recency": 15.0,
         "media": 18.0,
-        "completeness": 17.0,
+        "completeness": 10.0,
         "source": 24.0
       }
     },
@@ -3238,7 +3242,7 @@
       "publishedAt": "2026-10-26T12:00:00+00:00",
       "date": "2026-10-26",
       "firstSeen": "2026-10-27",
-      "score": 74.0,
+      "score": 67.0,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6ada/4994/3271/8400/01d0/e231/large_jpg/The_Ranch_Mine_-_Ironwood_-_1.jpg?1792690679"
@@ -3331,7 +3335,7 @@
       "titleZh": "塞多纳林间小屋把全年流水变成居住中心",
       "summaryZh": "小型度假空间面向溪流与树冠，而非复制沙漠地区的常见景观。",
       "reading": {
-        "basis": "article",
+        "basis": "feed",
         "sections": [
           {
             "heading": "正文",
@@ -3340,12 +3344,13 @@
               "公开资料列出约七百零五平方英尺的面积与二〇二六年的完成时间，项目愿望集中在水边与树下的日夜停留。水岸条件是空间构思的重要背景。"
             ]
           }
-        ]
+        ],
+        "evidence": "原站公开项目简介及资料表"
       },
       "heat": {
         "recency": 15.0,
         "media": 18.0,
-        "completeness": 17.0,
+        "completeness": 10.0,
         "source": 24.0
       }
     },
@@ -3559,7 +3564,7 @@
       "publishedAt": "2026-10-26T11:26:35+00:00",
       "date": "2026-10-26",
       "firstSeen": "2026-10-27",
-      "score": 58.9,
+      "score": 51.9,
       "images": [
         {
           "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/d4d4a8255424679.6aa01930d2569.jpg.webp?w=2400&quality=65&ssl=1"
@@ -3568,7 +3573,7 @@
       "titleZh": "陶瓷概念包装把手工差异留在标签与纸张中",
       "summaryZh": "不规则字标、泥粉色盒与大理石纹薄纸呼应制作痕迹。",
       "reading": {
-        "basis": "article",
+        "basis": "feed",
         "sections": [
           {
             "heading": "正文",
@@ -3577,12 +3582,13 @@
               "薄纸模拟黏土颜料交织，手写细节与小纸条记录单件特征。项目属于概念展示，不把画面中的品牌与产品视为已正式销售。"
             ]
           }
-        ]
+        ],
+        "evidence": "原站公开摘要"
       },
       "heat": {
         "recency": 15.0,
         "media": 3.0,
-        "completeness": 16.9,
+        "completeness": 9.9,
         "source": 24.0
       }
     },
@@ -3641,7 +3647,7 @@
       "publishedAt": "2026-10-26T11:24:00+00:00",
       "date": "2026-10-26",
       "firstSeen": "2026-10-27",
-      "score": 58.8,
+      "score": 51.8,
       "images": [
         {
           "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/10/OO046-OneOther-Tribe-to-SENNE_2-1d9e30de9836378eef49f22be9046fcc-scaled-1.jpg?w=2560&quality=70&ssl=1"
@@ -3650,7 +3656,7 @@
       "titleZh": "敏感肌品牌改版以哑光蓝与旋转字形减少视觉刺激",
       "summaryZh": "护肤包装用留白和裁切标志替代高光感外观。",
       "reading": {
-        "basis": "article",
+        "basis": "feed",
         "sections": [
           {
             "heading": "正文",
@@ -3659,12 +3665,13 @@
               "图形像涂抹中的产品围绕容器延展，标签保留较多留白。收录重点为包装语言，不能把温和视觉直接等同于产品对所有敏感肌都安全。"
             ]
           }
-        ]
+        ],
+        "evidence": "原站公开摘要"
       },
       "heat": {
         "recency": 15.0,
         "media": 3.0,
-        "completeness": 16.8,
+        "completeness": 9.8,
         "source": 24.0
       }
     },
@@ -3756,7 +3763,7 @@
       "publishedAt": "2026-10-26T11:00:00+00:00",
       "date": "2026-10-26",
       "firstSeen": "2026-10-27",
-      "score": 73.8,
+      "score": 66.8,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6130/2991/c5a0/d701/65e6/122c/large_jpg/dondoh-local-3.jpg?1630546409"
@@ -3822,7 +3829,7 @@
       "titleZh": "圣地亚哥日式烧烤餐厅以木石与火建立氛围",
       "summaryZh": "空间从传统居酒屋与火的仪式中提取设计线索。",
       "reading": {
-        "basis": "article",
+        "basis": "feed",
         "sections": [
           {
             "heading": "正文",
@@ -3831,12 +3838,13 @@
               "项目完成于二〇二〇年，本次是近期媒体重新发布的项目资料。历史年份保持原值，不将其描述为今年新开业或新建成。"
             ]
           }
-        ]
+        ],
+        "evidence": "原站公开项目简介及资料表"
       },
       "heat": {
         "recency": 15.0,
         "media": 18.0,
-        "completeness": 16.9,
+        "completeness": 9.8,
         "source": 24.0
       }
     },
@@ -4066,7 +4074,7 @@
       "publishedAt": "2026-10-26T10:00:00+00:00",
       "date": "2026-10-26",
       "firstSeen": "2026-10-27",
-      "score": 73.9,
+      "score": 66.9,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6acc/d85a/b2c4/c300/0178/ea07/large_jpg/ITSVISION_MOKUZAI_032A.jpg?1791809673"
@@ -4126,7 +4134,7 @@
       "titleZh": "波尔多混合办公建筑结合木材与混凝土结构",
       "summaryZh": "七千五百平方米项目将办公和公共健康服务置于同一建筑。",
       "reading": {
-        "basis": "article",
+        "basis": "feed",
         "sections": [
           {
             "heading": "正文",
@@ -4135,12 +4143,13 @@
               "结构采用木与混凝土混合体系。设计、景观及工程团队协作构成项目背景，公开资料未给出完整性能对比，不额外宣称减碳比例。"
             ]
           }
-        ]
+        ],
+        "evidence": "原站公开项目简介及资料表"
       },
       "heat": {
         "recency": 15.0,
         "media": 18.0,
-        "completeness": 16.9,
+        "completeness": 9.9,
         "source": 24.0
       }
     },
@@ -4892,7 +4901,7 @@
       "publishedAt": "2026-10-26T07:00:00+00:00",
       "date": "2026-10-26",
       "firstSeen": "2026-10-27",
-      "score": 74.2,
+      "score": 67.2,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6ad8/e595/3271/8400/01d0/d9e5/large_jpg/EKAP6329_krcM_2026.jpg?1792599542"
@@ -5003,7 +5012,7 @@
       "titleZh": "伊斯坦布尔历史剧场翻修延续街巷文化节点",
       "summaryZh": "三千平方米更新项目处理既有剧场及其城市关系。",
       "reading": {
-        "basis": "article",
+        "basis": "feed",
         "sections": [
           {
             "heading": "正文",
@@ -5012,12 +5021,13 @@
               "公开资料列出二〇二六年完成与三千平方米面积。该条保留历史场所、改造类型及专业协作等已公开事实，不补写尚未核实的声学性能。"
             ]
           }
-        ]
+        ],
+        "evidence": "原站公开项目简介及资料表"
       },
       "heat": {
         "recency": 15.0,
         "media": 18.0,
-        "completeness": 17.1,
+        "completeness": 10.2,
         "source": 24.0
       }
     },
@@ -5336,7 +5346,7 @@
       "publishedAt": "2026-10-26T06:00:00+00:00",
       "date": "2026-10-26",
       "firstSeen": "2026-10-27",
-      "score": 73.9,
+      "score": 66.9,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6abd/458e/122d/aa00/0196/fb11/large_jpg/250513_rg_chamby_1556_full.jpg?1790789106"
@@ -5417,7 +5427,7 @@
       "titleZh": "瑞士旧谷仓改造保留坡顶与三角通风口",
       "summaryZh": "历史农业构造在新居住使用中以玻璃开口延续。",
       "reading": {
-        "basis": "article",
+        "basis": "feed",
         "sections": [
           {
             "heading": "正文",
@@ -5426,12 +5436,13 @@
               "原有三角通风口被保留并加装玻璃，把农业时期的功能细节转为采光线索。完成时间为二〇二五年，历史构造与新用途保持可辨识关系。"
             ]
           }
-        ]
+        ],
+        "evidence": "原站公开项目简介及资料表"
       },
       "heat": {
         "recency": 15.0,
         "media": 18.0,
-        "completeness": 16.9,
+        "completeness": 9.9,
         "source": 24.0
       }
     },
@@ -5446,7 +5457,7 @@
       "publishedAt": "2026-10-26T04:00:00+00:00",
       "date": "2026-10-26",
       "firstSeen": "2026-10-27",
-      "score": 74.0,
+      "score": 67.0,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6ac8/29af/90e2/9d01/89d2/efff/large_jpg/brazilian-houses-architecture-as-a-frame-for-the-ocean_4.jpg?1791502776"
@@ -5521,7 +5532,7 @@
       "titleZh": "四座巴西住宅以开口选择面向海洋的日常视野",
       "summaryZh": "专题从透视传统讨论建筑如何主动构造景观。",
       "reading": {
-        "basis": "article",
+        "basis": "feed",
         "sections": [
           {
             "heading": "正文",
@@ -5530,12 +5541,13 @@
               "文章以绘画中的透视和窗框观念作为历史背景，再连接到建筑的取景问题。案例用于比较视线组织，不据此形成适用于所有滨海住宅的固定公式。"
             ]
           }
-        ]
+        ],
+        "evidence": "原站公开项目简介及资料表"
       },
       "heat": {
         "recency": 15.0,
         "media": 18.0,
-        "completeness": 17.0,
+        "completeness": 10.0,
         "source": 24.0
       }
     },
@@ -5550,7 +5562,7 @@
       "publishedAt": "2026-10-26T03:00:00+00:00",
       "date": "2026-10-26",
       "firstSeen": "2026-10-27",
-      "score": 74.0,
+      "score": 67.0,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6ada/2c8e/3271/8400/01d0/e126/large_jpg/foomann_mornington_08.jpg?1792683186"
@@ -5616,7 +5628,7 @@
       "titleZh": "澳大利亚度假屋与成年子女家庭共享场地",
       "summaryZh": "新住宅保留独立居住，同时延续泳池与车道的家庭联系。",
       "reading": {
-        "basis": "article",
+        "basis": "feed",
         "sections": [
           {
             "heading": "正文",
@@ -5625,12 +5637,13 @@
               "委托希望获得面向景观、适合待客且较放松的空间，设计据此组织新屋与既有家庭活动的关系。项目完成于二〇二四年，本次收录保留这一时间背景。"
             ]
           }
-        ]
+        ],
+        "evidence": "原站公开项目简介及资料表"
       },
       "heat": {
         "recency": 15.0,
         "media": 18.0,
-        "completeness": 17.0,
+        "completeness": 10.0,
         "source": 24.0
       }
     },
@@ -5645,7 +5658,7 @@
       "publishedAt": "2026-10-26T02:00:00+00:00",
       "date": "2026-10-26",
       "firstSeen": "2026-10-27",
-      "score": 73.8,
+      "score": 66.8,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6ac5/115f/07c3/d100/017f/d95e/large_jpg/05_House_in_Mibu.jpg?1791299960"
@@ -5738,7 +5751,7 @@
       "titleZh": "日本壬生住宅追问建造如何改变并修复环境",
       "summaryZh": "一百零九平方米项目把对周边影响的思考放在设计起点。",
       "reading": {
-        "basis": "article",
+        "basis": "feed",
         "sections": [
           {
             "heading": "正文",
@@ -5747,12 +5760,13 @@
               "项目说明承认建造不可避免地改变环境，并追问这种改变能否避免损伤甚至带来修复。这是设计自述的目标，尚不能替代生态成效的独立测量。"
             ]
           }
-        ]
+        ],
+        "evidence": "原站公开项目简介及资料表"
       },
       "heat": {
         "recency": 15.0,
         "media": 18.0,
-        "completeness": 16.8,
+        "completeness": 9.8,
         "source": 24.0
       }
     },
@@ -6163,7 +6177,7 @@
       "publishedAt": "2026-10-25T21:00:00+00:00",
       "date": "2026-10-26",
       "firstSeen": "2026-10-27",
-      "score": 74.0,
+      "score": 67.0,
       "images": [
         {
           "url": "https://images.adsttc.com/media/images/6ad8/b640/3271/8400/01d0/d89c/large_jpg/MOVS_SIP_36.jpg?1792587423"
@@ -6211,7 +6225,7 @@
       "titleZh": "阿拉木图咖啡烘焙店在商场动线中留下短暂停顿",
       "summaryZh": "九十二平方米室内以缓慢饮用的动作回应周边喧闹。",
       "reading": {
-        "basis": "article",
+        "basis": "feed",
         "sections": [
           {
             "heading": "正文",
@@ -6220,12 +6234,13 @@
               "名称中的小口饮用被转为放慢节奏的空间目标。该目标来自建筑师自述，公开资料未给出顾客停留或声学测试数据，不将设计意图写成已验证效果。"
             ]
           }
-        ]
+        ],
+        "evidence": "原站公开项目简介及资料表"
       },
       "heat": {
         "recency": 15.0,
         "media": 18.0,
-        "completeness": 17.0,
+        "completeness": 10.0,
         "source": 24.0
       }
     },
