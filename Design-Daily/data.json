@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:04:57.054325+08:00",
+  "updatedAt": "2026-11-10T09:16:40.114132+08:00",
   "sources": [
     {
       "name": "Dezeen",
@@ -8,7 +8,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-10-27T18:41:20+00:00"
+      "latestPublishedAt": "2026-11-09T19:00:00+00:00"
     },
     {
       "name": "designboom",
@@ -17,7 +17,7 @@
       "category": "空间设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-10-27T21:35:48+00:00"
+      "latestPublishedAt": "2026-11-09T21:44:34+00:00"
     },
     {
       "name": "Yanko Design",
@@ -26,7 +26,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 16,
-      "latestPublishedAt": "2026-10-28T00:30:06+00:00"
+      "latestPublishedAt": "2026-11-10T00:30:36+00:00"
     },
     {
       "name": "Smashing Magazine",
@@ -35,7 +35,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 40,
-      "latestPublishedAt": "2026-10-23T13:00:00+00:00"
+      "latestPublishedAt": "2026-11-06T08:00:00+00:00"
     },
     {
       "name": "Nielsen Norman Group",
@@ -44,7 +44,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-10-23T17:00:00+00:00"
+      "latestPublishedAt": "2026-11-06T18:00:00+00:00"
     },
     {
       "name": "Motionographer",
@@ -53,7 +53,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-10-22T14:12:23+00:00"
+      "latestPublishedAt": "2026-11-09T17:34:43+00:00"
     },
     {
       "name": "Core77",
@@ -62,7 +62,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 15,
-      "latestPublishedAt": "2026-10-27T15:00:00+00:00"
+      "latestPublishedAt": "2026-11-09T19:12:00+00:00"
     },
     {
       "name": "Creative Bloq",
@@ -71,7 +71,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 25,
-      "latestPublishedAt": "2026-10-27T16:30:00+00:00"
+      "latestPublishedAt": "2026-11-09T20:33:27+00:00"
     },
     {
       "name": "UX Collective",
@@ -80,7 +80,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-10-27T11:13:45+00:00"
+      "latestPublishedAt": "2026-11-09T12:20:07+00:00"
     },
     {
       "name": "UX Planet",
@@ -89,7 +89,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-10-27T13:06:21+00:00"
+      "latestPublishedAt": "2026-11-09T22:55:33+00:00"
     },
     {
       "name": "Codrops",
@@ -116,7 +116,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 12,
-      "latestPublishedAt": "2026-10-27T17:15:18+00:00"
+      "latestPublishedAt": "2026-11-09T15:12:06+00:00"
     },
     {
       "name": "Creative Boom",
@@ -125,7 +125,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-10-27T09:15:00+00:00"
+      "latestPublishedAt": "2026-11-09T07:15:00+00:00"
     },
     {
       "name": "Car Body Design",
@@ -143,7 +143,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 6,
-      "latestPublishedAt": "2026-10-27T15:16:19+00:00"
+      "latestPublishedAt": "2026-11-09T14:37:19+00:00"
     },
     {
       "name": "Art of VFX",
@@ -152,7 +152,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-10-27T19:00:00+00:00"
+      "latestPublishedAt": "2026-11-09T19:00:00+00:00"
     },
     {
       "name": "Blender",
@@ -161,7 +161,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 9,
-      "latestPublishedAt": "2026-10-13T14:35:20+00:00"
+      "latestPublishedAt": "2026-11-09T13:44:46+00:00"
     },
     {
       "name": "Hugging Face",
@@ -170,7 +170,7 @@
       "category": "人工智能设计",
       "ok": true,
       "count": 60,
-      "latestPublishedAt": "2026-10-27T17:16:52+00:00"
+      "latestPublishedAt": "2026-11-09T15:05:57+00:00"
     },
     {
       "name": "UISDC",
@@ -307,7 +307,7 @@
       "category": "建筑设计",
       "ok": true,
       "count": 24,
-      "latestPublishedAt": "2026-10-27T19:00:00+00:00"
+      "latestPublishedAt": "2026-11-09T17:00:00+00:00"
     },
     {
       "name": "Wallpaper",
@@ -316,7 +316,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-10-28T00:01:00+00:00"
+      "latestPublishedAt": "2026-11-09T22:23:08+00:00"
     },
     {
       "name": "Its Nice That",
@@ -325,7 +325,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-10-27T09:00:00+00:00"
+      "latestPublishedAt": "2026-11-09T09:00:00+00:00"
     },
     {
       "name": "Design Week",
@@ -350,7 +350,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 39,
-      "latestPublishedAt": "2026-10-27T13:00:00+00:00"
+      "latestPublishedAt": "2026-11-09T23:21:17+00:00"
     },
     {
       "name": "Domus",
@@ -424,7 +424,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 36,
-      "latestPublishedAt": "2026-10-27T21:30:07+00:00"
+      "latestPublishedAt": "2026-11-09T22:00:43+00:00"
     },
     {
       "name": "Figma",
@@ -433,7 +433,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 60,
-      "latestPublishedAt": "2026-10-23T22:43:00+00:00"
+      "latestPublishedAt": "2026-11-06T20:31:00+00:00"
     },
     {
       "name": "Adobe",
@@ -519,11 +519,11 @@
     {
       "name": "Architectural Review",
       "label": "建筑评论",
-      "url": "https://www.architectural-review.com/feed",
       "category": "建筑设计",
-      "ok": true,
-      "count": 10,
-      "latestPublishedAt": "2026-10-27T06:00:43+00:00"
+      "url": "https://www.architectural-review.com/feed",
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "name": "Dieline",
@@ -532,7 +532,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-10-27T22:45:23+00:00"
+      "latestPublishedAt": "2026-11-09T13:18:58+00:00"
     },
     {
       "name": "Packaging of the World",
@@ -611,7 +611,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-10-21T08:32:48+00:00"
+      "latestPublishedAt": "2026-11-03T15:11:04+00:00"
     },
     {
       "name": "Fast Company UX",
@@ -629,7 +629,7 @@
       "category": "人工智能设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-10-26T16:00:00+00:00"
+      "latestPublishedAt": "2026-11-05T17:00:00+00:00"
     },
     {
       "name": "Adobe Developers Blog",
@@ -661,7 +661,7 @@
       "category": "游戏设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-10-27T19:34:13+00:00"
+      "latestPublishedAt": "2026-11-09T17:30:00+00:00"
     },
     {
       "name": "80 Level",
@@ -670,7 +670,7 @@
       "category": "游戏设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-10-27T20:34:00+00:00"
+      "latestPublishedAt": "2026-11-09T14:34:00+00:00"
     },
     {
       "name": "Gcores",
@@ -678,11 +678,557 @@
       "url": "https://www.gcores.com/rss",
       "category": "游戏设计",
       "ok": true,
-      "count": 16,
-      "latestPublishedAt": "2026-10-28T01:00:00+00:00"
+      "count": 14,
+      "latestPublishedAt": "2026-11-10T01:10:00+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "aeed7840e558e4fe",
+      "url": "https://www.printmag.com/product-design/one-size-fits-men/",
+      "title": "One Size Fits Men",
+      "summary": "From the revolutionary Frankfurt Kitchen to ill-fitting safety gear and gender-biased technology, this article explores how design has historically overlooked women’s needs and why creating truly inclusive products means putting real people—not outdated assumptions—at the center of the design",
+      "source": "PRINT",
+      "category": "用户体验设计",
+      "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/11/Frankfurt-Kitchen-Design.jpg?resize=503%2C750&quality=89&ssl=1",
+      "publishedAt": "2026-11-09T23:21:17+00:00",
+      "date": "2026-11-10",
+      "firstSeen": "2026-11-10",
+      "score": 56.2,
+      "issueDate": "2026-11-10",
+      "images": [],
+      "titleZh": "从厨房到防护装备重新审视默认使用者",
+      "summaryZh": "文章梳理设计中的性别偏差，讨论厨房、防护装备和技术产品的适用范围。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "公开摘要以法兰克福厨房、不合身的防护装备及技术中的性别偏差为例。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "验证产品适配范围时，可把不同身体尺寸和使用情境纳入测试，避免只用一种默认样本。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "8ef36bf792a2fb7a",
+      "url": "https://www.designboom.com/design/anti-bird-spikes-3d-printed-scaffolds-nests-posthuman/",
+      "title": "crafted from anti-bird spikes and 3D-printed scaffolds, nests reveal a posthuman architecture",
+      "summary": "bird nests built from human debris and experimental structures point toward a shared model of construction shaped across",
+      "source": "designboom",
+      "category": "建筑设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/nests-model-posthuman-architecture-designboom-00.jpg",
+      "publishedAt": "2026-11-09T21:44:34+00:00",
+      "date": "2026-11-10",
+      "firstSeen": "2026-11-10",
+      "score": 71.0,
+      "issueDate": "2026-11-10",
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/nests-model-posthuman-architecture-designboom-1800.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/nests-model-posthuman-architecture-designboom-00.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/nests-model-posthuman-architecture-designboom-07.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/nests-model-posthuman-architecture-designboom-02.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/nests-model-posthuman-architecture-designboom-05.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/nests-model-posthuman-architecture-designboom-03.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/nests-model-posthuman-architecture-designboom-06a.jpg"
+        }
+      ],
+      "titleZh": "鸟巢把防鸟尖刺和打印支架变成筑巢材料",
+      "summaryZh": "报道通过鸟巢中的人工废弃物与实验结构，讨论人类建造和动物筑巢的交集。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "公开摘要列出防鸟尖刺、三维打印支架和人造废弃物组成的筑巢案例。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "这些例子适合用来审视材料的实际用途如何偏离设计者的预期。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.0,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "1ba5691fc06dc1d1",
+      "url": "https://www.archdaily.com/1019486/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes",
+      "title": "Grande Nef de l'Île-des-Vannes Renovation / Chatillon Architectes",
+      "summary": "Following seven years of closure, Chatillon Architectes implements contemporary solutions and state-of-the-art facilities, bringing this distinctive building back to life, first as an Olympic training site and then for its subsequent return to the local community. The first images of the restored Grande Nef de l'Île-des-Vannes…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/66a8/d585/aa9b/6b14/33f2/40f4/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_5.jpg?1722340761",
+      "publishedAt": "2026-11-09T11:00:00+00:00",
+      "date": "2026-11-09",
+      "firstSeen": "2026-10-28",
+      "score": 79.0,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/66a8/d585/aa9b/6b14/33f2/40f4/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_5.jpg?1722340761"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/66a8/d594/aa9b/6b14/33f2/40fb/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_9.jpg?1722340790"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/66a8/d58f/aa9b/6b14/33f2/40f8/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_6.jpg?1722340771"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/66a8/d595/aa9b/6b14/33f2/40fd/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_7.jpg?1722340820"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/66a8/d58a/aa9b/6b14/33f2/40f6/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_12.jpg?1722340770"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/66a8/d594/aa9b/6b14/33f2/40fc/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_11.jpg?1722340793"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/66a8/d591/aa9b/6b14/33f2/40f9/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_10.jpg?1722340787"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/66a8/d58e/5e4a/0d01/7c05/5fff/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_3.jpg?1722340769"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/66a8/d586/aa9b/6b14/33f2/40f5/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_2.jpg?1722340773"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/66a8/d593/aa9b/6b14/33f2/40fa/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_8.jpg?1722340819"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/66a8/d584/aa9b/6b14/33f2/40f3/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_4.jpg?1722340754"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/66a8/d58e/aa9b/6b14/33f2/40f7/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_1.jpg?1722340790"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6836/05ba/9126/0d01/8992/f3f3/large_jpg/brest-post-office-transformation-chatillon-architectes_10.jpg?1748370889"
+        }
+      ],
+      "titleZh": "巴黎大型体育建筑修复后从奥运训练回归社区",
+      "summaryZh": "关闭多年的既有场馆通过现代设施重新承担公共用途。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "项目对岛屿体育综合体进行修复，在长期关闭后首先服务奥运训练，再安排回归地方社区。更新结合混凝土修复、围护和设备等多专业工作。",
+              "资料列出的完成年份为二〇二四年，本次为近期项目资料收录。以下依据原站公开简介与资料表，不将奥运阶段描述为今年的新活动。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 17.0,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "aec64b0cefac6d58",
+      "url": "https://www.creativeboom.com/inspiration/chris-coombes-charming-postcard-paintings-play-with-the-boundaries-of-what-art-can-be/",
+      "title": "Chris Coombes' charming postcard paintings play with the boundaries of what art can be",
+      "summary": "In Museum Postcards, the London-based artist turns mass-produced images back into unique handmade paintings with a twist. Is a trip to an art gallery really complete without a souvenir from the gift",
+      "source": "Creative Boom",
+      "category": "视觉设计",
+      "image": "https://media.creativeboom.com/25aad5f1-28a1-4a4b-b2f1-f3323e52291f/conversions/e50c39afa181b64642d93d4eb376f75148e9e39d-medium.webp",
+      "publishedAt": "2026-11-09T06:15:00+00:00",
+      "date": "2026-11-09",
+      "firstSeen": "2026-11-10",
+      "score": 66.2,
+      "issueDate": "2026-11-09",
+      "images": [
+        {
+          "url": "https://media.creativeboom.com/aa3334c6-ec86-4c9c-ace6-31374d02671d/conversions/f8ee2d10dff01c8127c3d35b0e81906a4e2bd58f-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/25aad5f1-28a1-4a4b-b2f1-f3323e52291f/conversions/e50c39afa181b64642d93d4eb376f75148e9e39d-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/0a5c21af-1b41-4820-ba89-c9590c744de2/conversions/a7a3ad1ee435988f2a31ba16fd13cbabfc42028c-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/0b8a19f5-5c4d-476b-93a5-6bfb6c4d01c5/conversions/1499bba798b8498f484837cbd2eebb128bf9dae8-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/b798a888-8e15-437f-80eb-121b2ae2fc4e/conversions/2d895aeba4f8cdd9670e74245ef532054d8b3978-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/2e8b1319-81e1-4035-8b9d-21be39e27720/conversions/8c6a91a6f587e4bb683e4f56f5300572ce9752a2-large.webp"
+        }
+      ],
+      "titleZh": "艺术家用手绘重新处理博物馆明信片",
+      "summaryZh": "克里斯·库姆斯以批量印制的图像为起点，制作独一份的手绘作品。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "公开摘要介绍了以博物馆明信片为题的绘画系列，作者重新处理批量印制的图像。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "把可复制的馆藏图像重新做成单件作品，为观察复制品与原作之间的关系提供了切入口。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "74347cbbab2c0f4a",
+      "url": "https://www.dezeen.com/2026/11/09/studio-aslak-curifylabs-pharmaprinter-aurum-empower-pharmacists/",
+      "title": "Studio Aslak Siimes designs PharmaPrinter Aurum to \"empower pharmacists\"",
+      "summary": "Industrial design firm Studio Aslak Siimes has unveiled CurifyLabs PharmaPrinter Aurum, a pharmaceutical compounding system that was designed to improve the process of creating patient-specific",
+      "source": "Dezeen",
+      "category": "工业设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/studio-aslak-siimes-aurum-printer_dezeen_2364_col_sq-1024x1024.jpg",
+      "publishedAt": "2026-11-09T06:00:00+00:00",
+      "date": "2026-11-09",
+      "firstSeen": "2026-11-10",
+      "score": 66.2,
+      "issueDate": "2026-11-09",
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/studio-aslak-siimes-aurum-printer_dezeen_2364_col_5-1536x1152.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/studio-aslak-siimes-aurum-printer_dezeen_2364_col_8-1536x1025.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/studio-aslak-siimes-aurum-printer_dezeen_2364_col_10-1536x960.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/studio-aslak-siimes-aurum-printer_dezeen_2364_col_9-1536x1152.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/studio-aslak-siimes-aurum-printer_dezeen_2364_col_4-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/studio-aslak-siimes-aurum-printer_dezeen_2364_col_3-1536x960.jpg"
+        }
+      ],
+      "titleZh": "配药设备以药师工作为设计出发点",
+      "summaryZh": "工业设计工作室发布面向药师的药物配制系统。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "公开摘要确认新设备用于药物配制，由阿斯拉克·西梅斯工作室参与设计。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "评价这类设备可重点检查药师如何确认配制状态和处理异常，具体表现需结合实际操作。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "3b5ee3c7570f0fe1",
+      "url": "https://thedieline.com/perennial-polymers-wants-to-turn-autumn-leaves-into-biodegradable-plastic/",
+      "title": "Perennial Polymers Wants To Turn Autumn Leaves Into Biodegradable Plastic",
+      "summary": "Are we done leaving the leaves or using them for large-scale composting? Perennial Polymers says those autumnal leaves have another use: a plastic",
+      "source": "Dieline",
+      "category": "工业设计",
+      "image": "https://thedieline.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-10.30.38-AM.png",
+      "publishedAt": "2026-11-09T03:14:00+00:00",
+      "date": "2026-11-09",
+      "firstSeen": "2026-11-09",
+      "score": 55.8,
+      "issueDate": "2026-11-09",
+      "images": [
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-10.30.38-AM.png?w=2464&quality=65&ssl=1"
+        }
+      ],
+      "titleZh": "落叶被提出作为可降解塑料原料",
+      "summaryZh": "材料团队提出把秋季落叶用于塑料生产。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "报道介绍的是企业提出的材料路线。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "评估时应区分落叶作为原料的可行性与成品在具体条件下的降解表现。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 8.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "5a5fff24639f7eee",
+      "url": "https://www.stashmedia.tv/take-a-break-from-festive-feels-and-get-lost-in-renaud-hallees-new-short-film-plus/",
+      "title": "Take a Break From Festive Feels and Get Lost in Renaud Hallée’s New Short Film “PLUS”",
+      "summary": "Montreal director/animator Renaud Hallée just dropped us his latest personal film, an exercise in music-driven visual precision that feels perfectly timed to counter the annual torrent of emotional Christmas ads.",
+      "source": "Stash",
+      "category": "动态设计",
+      "image": "https://i.vimeocdn.com/video/2222609557-5a07c0eac0451cf8d4ecdd4bfb68ad300605eb4653fae67c1d628b100bf152ea-d_1280?region=us",
+      "publishedAt": "2026-11-09T01:39:00+00:00",
+      "date": "2026-11-09",
+      "firstSeen": "2026-11-09",
+      "score": 74.9,
+      "issueDate": "2026-11-09",
+      "images": [
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Renaud-Hallee-Short-Film-22PLUS22-STASH-MAGAZINE6-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Renaud-Hallee-Short-Film-22PLUS22-STASH-MAGAZINE5-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Renaud-Hallee-Short-Film-PLUS-_-STASH-MAGAZINE7.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Renaud-Hallee-Short-Film-22PLUS22-STASH-MAGAZINE2-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Renaud-Hallee-Short-Film-22PLUS22-STASH-MAGAZINE-2048x1152.jpg"
+        }
+      ],
+      "video": {
+        "provider": "vimeo",
+        "id": "1243482011",
+        "url": "https://player.vimeo.com/video/1243482011",
+        "thumbnail": "https://i.vimeocdn.com/video/2222609557-5a07c0eac0451cf8d4ecdd4bfb68ad300605eb4653fae67c1d628b100bf152ea-d_1280?region=us",
+        "title": "PLUS",
+        "author": "Possible Metrics",
+        "duration": 420,
+        "verifiedAt": "2026-11-10T10:13:48+00:00"
+      },
+      "videoGallery": [
+        "https://i.vimeocdn.com/video/2222609557-5a07c0eac0451cf8d4ecdd4bfb68ad300605eb4653fae67c1d628b100bf152ea-d_1280?region=us"
+      ],
+      "titleZh": "蒙特利尔动画导演用音乐组织个人短片",
+      "summaryZh": "导演雷诺·阿莱的新短片以音乐驱动画面变化。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "订阅摘要将作品描述为音乐驱动的个人动画短片。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "可以关注画面切换如何跟随节拍，以及视觉变化如何组织观看节奏。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 22.0,
+        "completeness": 8.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "2b3a431503c6a28a",
+      "url": "https://www.dezeen.com/2026/11/08/fala-atelier-cookie-cutter-retreat/",
+      "title": "Fala Atelier embeds trio of playful volumes into Portuguese hillside for Cookie Cutter Retreat",
+      "summary": "Three semicircular volumes of different scales make up this retreat for digital nomads in Portugal, completed by Porto architecture studio Fala",
+      "source": "Dezeen",
+      "category": "建筑设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/fala-atelier-cookie-cutter-retreat-portugal-sq_dezeen_2364_col_0-1024x1024.jpg",
+      "publishedAt": "2026-11-08T11:00:00+00:00",
+      "date": "2026-11-08",
+      "firstSeen": "2026-11-09",
+      "score": 66.0,
+      "issueDate": "2026-11-08",
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fala-atelier-cookie-cutter-retreat-portugal-hero_dezeen_2364_col_0-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fala-atelier-cookie-cutter-retreat-portugal-hero_dezeen_2364_col_1-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fala-atelier-cookie-cutter-retreat-portugal-plans_dezeen_2364_col_1.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fala-atelier-cookie-cutter-retreat-portugal_dezeen_2364_col_2.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fala-atelier-cookie-cutter-retreat-portugal_dezeen_2364_col_3.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fala-atelier-cookie-cutter-retreat-portugal_dezeen_2364_col_6.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fala-atelier-cookie-cutter-retreat-portugal_dezeen_2364_col_7.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fala-atelier-cookie-cutter-retreat-portugal_dezeen_2364_col_9.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fala-atelier-cookie-cutter-retreat-portugal_dezeen_2364_col_10.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fala-atelier-cookie-cutter-retreat-portugal_dezeen_2364_col_14-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fala-atelier-cookie-cutter-retreat-portugal_dezeen_2364_col_13.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fala-atelier-cookie-cutter-retreat-portugal_dezeen_2364_col_12-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fala-atelier-cookie-cutter-retreat-portugal_dezeen_2364_col_18-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fala-atelier-cookie-cutter-retreat-portugal_dezeen_2364_col_11-1638x2048.jpg"
+        }
+      ],
+      "titleZh": "三座半圆体量嵌入葡萄牙山坡",
+      "summaryZh": "波尔图建筑团队以三座尺度不同的半圆体量组成面向远程工作者的度假空间。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "项目由波尔图建筑团队完成，三个半圆体量大小各异。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "同一几何形状在不同尺度重复，使建筑群获得连续的外观，同时为不同用途留出空间。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.0,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "4901dc447ce92c6a",
+      "url": "https://www.wallpaper.com/architecture/freetown-memorial-oshinowo-studio-sierra-leone",
+      "title": "Refreshed Freetown Memorial is a spectacle of light, as well as a ‘message of hope’",
+      "summary": "Commonwealth War Graves Commission and Oshinówò Studio reveal a new Freetown Memorial in Sierra Leone, extending the existing monument designed by Sir Edwin Lutyens and honouring the local Carrier Corps for the first",
+      "source": "Wallpaper",
+      "category": "建筑设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/WLMLcE7DE4i8jxJMjdZWcj-1920-80.jpg",
+      "publishedAt": "2026-11-07T19:30:00+00:00",
+      "date": "2026-11-08",
+      "firstSeen": "2026-11-08",
+      "score": 76.4,
+      "issueDate": "2026-11-08",
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/9wBigw6SdPPrEgnBKoZtXj-630-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/r5i2Ru7WCuBBcc3HqaVR7k-630-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2wsRSEKchXJkaUyo3kuirj-1416-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/VyKfQSiVREzPy6V3pggm5k-1678-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/tFZgmHP86NmQ5Wa45my2pj-1415-80.jpg"
+        }
+      ],
+      "titleZh": "弗里敦纪念碑用玻璃和灯光补写阵亡者姓名",
+      "summaryZh": "塞拉利昂弗里敦扩建一战纪念碑，将九百多名本地运输队阵亡者的姓名刻入玻璃构件。",
+      "reading": {
+        "basis": "article",
+        "sections": [
+          {
+            "heading": "项目事实",
+            "paragraphs": [
+              "扩建保留并修复原有纪念碑，新增约八点四米高的结构玻璃构件。团队加固原有结构以承载新构件，并将九百多名本地运输队阵亡者的姓名刻入纪念碑。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "纪念碑位于出入受限的场地，设计团队用向上投射的光束把纪念活动延伸到城市视野。玻璃上的刻名面向近处阅读，灯光让远处的人也能感知纪念活动，两种尺度承担不同作用。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 15.0,
+        "completeness": 17.4,
+        "source": 24.0
+      }
+    },
     {
       "id": "983e42a8735680b2",
       "url": "https://www.wallpaper.com/transportation/down-came-a-spider-aston-martins-valhalla-loses-its-top-to-become-an-even-bigger-extrovert",
@@ -3801,80 +4347,6 @@
         "media": 15.0,
         "completeness": 10.2,
         "source": 15.0
-      }
-    },
-    {
-      "id": "1ba5691fc06dc1d1",
-      "url": "https://www.archdaily.com/1019486/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes",
-      "title": "Grande Nef de l'Île-des-Vannes Renovation / Chatillon Architectes",
-      "summary": "Following seven years of closure, Chatillon Architectes implements contemporary solutions and state-of-the-art facilities, bringing this distinctive building back to life, first as an Olympic training site and then for its subsequent return to the local community. The first images of the restored Grande Nef de l'Île-des-Vannes…",
-      "source": "ArchDaily",
-      "category": "建筑设计",
-      "image": "https://images.adsttc.com/media/images/66a8/d585/aa9b/6b14/33f2/40f4/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_5.jpg?1722340761",
-      "publishedAt": "2026-10-27T11:00:00+00:00",
-      "date": "2026-10-27",
-      "firstSeen": "2026-10-28",
-      "score": 74.0,
-      "images": [
-        {
-          "url": "https://images.adsttc.com/media/images/66a8/d585/aa9b/6b14/33f2/40f4/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_5.jpg?1722340761"
-        },
-        {
-          "url": "https://images.adsttc.com/media/images/66a8/d594/aa9b/6b14/33f2/40fb/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_9.jpg?1722340790"
-        },
-        {
-          "url": "https://images.adsttc.com/media/images/66a8/d58f/aa9b/6b14/33f2/40f8/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_6.jpg?1722340771"
-        },
-        {
-          "url": "https://images.adsttc.com/media/images/66a8/d595/aa9b/6b14/33f2/40fd/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_7.jpg?1722340820"
-        },
-        {
-          "url": "https://images.adsttc.com/media/images/66a8/d58a/aa9b/6b14/33f2/40f6/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_12.jpg?1722340770"
-        },
-        {
-          "url": "https://images.adsttc.com/media/images/66a8/d594/aa9b/6b14/33f2/40fc/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_11.jpg?1722340793"
-        },
-        {
-          "url": "https://images.adsttc.com/media/images/66a8/d591/aa9b/6b14/33f2/40f9/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_10.jpg?1722340787"
-        },
-        {
-          "url": "https://images.adsttc.com/media/images/66a8/d58e/5e4a/0d01/7c05/5fff/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_3.jpg?1722340769"
-        },
-        {
-          "url": "https://images.adsttc.com/media/images/66a8/d586/aa9b/6b14/33f2/40f5/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_2.jpg?1722340773"
-        },
-        {
-          "url": "https://images.adsttc.com/media/images/66a8/d593/aa9b/6b14/33f2/40fa/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_8.jpg?1722340819"
-        },
-        {
-          "url": "https://images.adsttc.com/media/images/66a8/d584/aa9b/6b14/33f2/40f3/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_4.jpg?1722340754"
-        },
-        {
-          "url": "https://images.adsttc.com/media/images/66a8/d58e/aa9b/6b14/33f2/40f7/large_jpg/grande-nef-de-lile-des-vannes-renovation-chatillon-architectes_1.jpg?1722340790"
-        },
-        {
-          "url": "https://images.adsttc.com/media/images/6836/05ba/9126/0d01/8992/f3f3/large_jpg/brest-post-office-transformation-chatillon-architectes_10.jpg?1748370889"
-        }
-      ],
-      "titleZh": "巴黎大型体育建筑修复后从奥运训练回归社区",
-      "summaryZh": "关闭多年的既有场馆通过现代设施重新承担公共用途。",
-      "reading": {
-        "basis": "article",
-        "sections": [
-          {
-            "heading": "正文",
-            "paragraphs": [
-              "项目对岛屿体育综合体进行修复，在长期关闭后首先服务奥运训练，再安排回归地方社区。更新结合混凝土修复、围护和设备等多专业工作。",
-              "资料列出的完成年份为二〇二四年，本次为近期项目资料收录。以下依据原站公开简介与资料表，不将奥运阶段描述为今年的新活动。"
-            ]
-          }
-        ]
-      },
-      "heat": {
-        "recency": 15.0,
-        "media": 18.0,
-        "completeness": 17.0,
-        "source": 24.0
       }
     },
     {
@@ -40574,6 +41046,7 @@
     {
       "date": "2026-10-28",
       "articleIds": [
+        "1ba5691fc06dc1d1",
         "983e42a8735680b2",
         "309f0f039115df52",
         "54c45c9063cce8cf",
@@ -40620,7 +41093,6 @@
         "8cfa9d6c0d712867",
         "456f8b8fb5151eea",
         "8e522abb08f3bb4f",
-        "1ba5691fc06dc1d1",
         "2cac21ab06db7fbe",
         "2444bb9be14fb6e6",
         "282487f9533171f5",
@@ -40662,6 +41134,37 @@
         "lead": "让旧材料继续生长，",
         "title": "把新体验留给日常。",
         "subtitle": "从回收谷仓构件到可变图书馆，观察材料再用、公共动线与视觉叙事如何形成新的关系。"
+      }
+    },
+    {
+      "date": "2026-11-08",
+      "articleIds": [
+        "2b3a431503c6a28a",
+        "4901dc447ce92c6a"
+      ],
+      "updatedAt": "2026-11-10T09:16:40.114132+08:00"
+    },
+    {
+      "date": "2026-11-09",
+      "articleIds": [
+        "aec64b0cefac6d58",
+        "74347cbbab2c0f4a",
+        "3b5ee3c7570f0fe1",
+        "5a5fff24639f7eee"
+      ],
+      "updatedAt": "2026-11-10T09:16:40.114132+08:00"
+    },
+    {
+      "date": "2026-11-10",
+      "articleIds": [
+        "aeed7840e558e4fe",
+        "8ef36bf792a2fb7a"
+      ],
+      "updatedAt": "2026-11-10T09:16:40.114132+08:00",
+      "masthead": {
+        "lead": "从默认使用者到城市记忆，",
+        "title": "设计如何让更多人被看见。",
+        "subtitle": "本期观察产品适配、公共纪念和日常材料的新用途。"
       }
     }
   ],
