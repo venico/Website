@@ -694,9 +694,16 @@
       "publishedAt": "2026-11-09T23:21:17+00:00",
       "date": "2026-11-10",
       "firstSeen": "2026-11-10",
-      "score": 56.2,
+      "score": 59.2,
       "issueDate": "2026-11-10",
-      "images": [],
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/11/Frankfurt-Kitchen-Design.jpg?w=503&quality=89&ssl=1"
+        },
+        {
+          "url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/11/25164730315426-scaled.jpg?resize=2048%2C1365&quality=89&ssl=1"
+        }
+      ],
       "titleZh": "从厨房到防护装备重新审视默认使用者",
       "summaryZh": "文章梳理设计中的性别偏差，讨论厨房、防护装备和技术产品的适用范围。",
       "reading": {
@@ -718,7 +725,69 @@
       },
       "heat": {
         "recency": 20.0,
-        "media": 3.0,
+        "media": 6.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "b8b0c7f61a914ea7",
+      "url": "https://www.wallpaper.com/architecture/residential/mesoamerican-modern",
+      "title": "What is 'Mesoamerican Modern?' Get to know the emerging Latin American design movement where ancient meets new",
+      "summary": "With a new book, curator Su Wu demonstrates how Mexico’s contemporary architects are referencing ancient, local architectural principles to create striking private residences. Here, she explains the importance of five key",
+      "source": "Wallpaper",
+      "category": "建筑设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/3wCbSqadiCQaEiiNgt45FT-1920-80.jpg",
+      "publishedAt": "2026-11-09T22:23:08+00:00",
+      "date": "2026-11-10",
+      "firstSeen": "2026-11-10",
+      "score": 71.2,
+      "issueDate": "2026-11-10",
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Uh6qHU4nBVVpwRKzUJbixT-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/piCeL2Yxe7kPBgsh8NhcKT-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZHVs8SV7NsedRXdhcCPubT-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/warWDTWKT3FwfegFisDSmT-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/pm4znatHHjio3vawp3BgWT-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/CyGRPUDtHSpAV7BdFmiY6U-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/jAzk4onHz8oAzgxiHzZdc4-1920-80.jpg"
+        }
+      ],
+      "titleZh": "新书梳理中部美洲传统与当代住宅的联系",
+      "summaryZh": "策展人苏·吴以墨西哥当代住宅为例，讨论设计师如何参考当地古老建筑原则。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "策展人苏·吴以墨西哥当代住宅为例，讨论设计师如何参考当地古老建筑原则。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "研究传统做法时，可以分别观察材料、空间组织与气候策略如何在当代条件下被重新采用。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
         "completeness": 9.2,
         "source": 24.0
       }
@@ -753,6 +822,9 @@
           "url": "https://www.designboom.com/wp-content/uploads/2026/11/nests-model-posthuman-architecture-designboom-05.jpg"
         },
         {
+          "url": "https://www.designboom.com/wp-content/uploads/2023/04/studio-gang-gilder-center-natural-history-museum-new-york-designboom-03.jpg"
+        },
+        {
           "url": "https://www.designboom.com/wp-content/uploads/2026/11/nests-model-posthuman-architecture-designboom-03.jpg"
         },
         {
@@ -782,6 +854,282 @@
         "recency": 20.0,
         "media": 18.0,
         "completeness": 9.0,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "2991f288d4e203ce",
+      "url": "https://www.designboom.com/design/perforated-corten-steel-curbs-street-boundaries-urban-vegetation-sara-fernandes/",
+      "title": "perforated corten steel curbs reimagine street boundaries letting urban vegetation grow through",
+      "summary": "introducing openings into corten steel curbs, this intervention plays with the idea of letting nature through, turning an otherwise rigid boundary into an opportunity for",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/467140/2026-11-02/giving-nature-a-little-more-room-sara-fernandes-questions-the-everyday-curb-1-6ae917ca85551.jpg",
+      "publishedAt": "2026-11-09T19:10:48+00:00",
+      "date": "2026-11-10",
+      "firstSeen": "2026-11-10",
+      "score": 71.2,
+      "issueDate": "2026-11-10",
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sara-fernandes-perforated-corten-steel-curbs-designboom-1200-1.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/467140/2026-11-02/giving-nature-a-little-more-room-sara-fernandes-questions-the-everyday-curb-1-6ae917ca85551.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/467140/2026-11-02/giving-nature-a-little-more-room-sara-fernandes-questions-the-everyday-curb-2-6ae917ca855c6.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/467140/2026-11-02/giving-nature-a-little-more-room-sara-fernandes-questions-the-everyday-curb-3-6ae917ca85617.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/467140/2026-11-02/giving-nature-a-little-more-room-sara-fernandes-questions-the-everyday-curb-4-6ae917ca8565d.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sara-fernandes-perforated-corten-steel-curbs-designboom-1800-3.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/467140/2026-11-02/giving-nature-a-little-more-room-sara-fernandes-questions-the-everyday-curb-6-6ae917ca856fd.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/467140/2026-11-02/giving-nature-a-little-more-room-sara-fernandes-questions-the-everyday-curb-7-6ae917ca85743.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sara-fernandes-perforated-corten-steel-curbs-designboom-1800-2.jpg"
+        }
+      ],
+      "titleZh": "耐候钢路缘留孔让街道植物穿过",
+      "summaryZh": "街道边界改造在耐候钢路缘上开孔，为植物穿过原先连续的边界留出通道。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "街道边界改造在耐候钢路缘上开孔，为植物穿过原先连续的边界留出通道。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "这个细部将绿化与铺装的交界变成可以变化的区域，后续维护需要考虑植物生长。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "d6370c92da3cbfba",
+      "url": "https://www.creativebloq.com/features/castlebound-devs-explain-a-unique-unity-technique-behind-its-paper-mario-like-visuals",
+      "title": "Castlebound devs explain a unique Unity technique behind its Paper Mario-like visuals",
+      "summary": "Ogre Pixel director Steve Durán explains how the studio’s storybook co-op platformer gets its depth from Unity settings rather than 3D",
+      "source": "Creative Bloq",
+      "category": "游戏设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/skqQ4TwfX2eSHCe9HayKPE-1920-80.png",
+      "publishedAt": "2026-11-09T15:00:00+00:00",
+      "date": "2026-11-09",
+      "firstSeen": "2026-11-10",
+      "score": 66.0,
+      "issueDate": "2026-11-09",
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/skqQ4TwfX2eSHCe9HayKPE-1920-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/N9MY65tUnHnTgav9EkVr5F-1200-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/dVU2emv7raUtQL9Rv3xpuE-1200-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/w5YZVPGXpMrMvjRGSC3X5F-1200-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/GmUUER8K9ttbJnqv6yZY2F-1200-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2ptP67rawPPYb4XzCqiK5F-1200-80.png"
+        }
+      ],
+      "titleZh": "绘本合作平台游戏用引擎设置营造纵深",
+      "summaryZh": "开发者解释如何通过引擎设置给绘本式合作平台游戏加入深度感。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "开发者解释如何通过引擎设置给绘本式合作平台游戏加入深度感。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "此类方案的关键在于既保持图层式画面，又让玩家清楚判断场景的前后关系。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.1,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "262db674a73513a3",
+      "url": "https://www.archdaily.com/1188331/visitor-center-at-la-hacienda-clase-azul-elias-rizo-arquitectos",
+      "title": "Visitor Center at La Hacienda Clase Azul / Elías Rizo Arquitectos",
+      "summary": "Located on a ridge at the boundary between an agave landscape and an oak forest in the highlands of Jalisco, the project stems from the concept of the traditional Mexican house and its central courtyard. Eight volumes are connected by a portico and surround a central courtyard filled with water, resulting in a horseshoe-shaped…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cae/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__16_.jpg?1793973485",
+      "publishedAt": "2026-11-09T15:00:00+00:00",
+      "date": "2026-11-09",
+      "firstSeen": "2026-11-10",
+      "score": 66.2,
+      "issueDate": "2026-11-09",
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc28/1f37/4900/010d/1ca0/thumb_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__1_.jpg?1793973392"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc28/1f37/4900/010d/1ca2/thumb_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__3_.jpg?1793974081"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cb5/thumb_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__23_.jpg?1793974269"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cbb/thumb_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__29_.jpg?1793975292"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cae/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__16_.jpg?1793973485"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc28/1f37/4900/010d/1ca1/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__2_.jpg?1793973985"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc28/1f37/4900/010d/1c9e/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__6_.jpg?1793973384"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc28/1f37/4900/010d/1ca8/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__10_.jpg?1793973482"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc28/1f37/4900/010d/1ca9/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__11_.jpg?1793975186"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc28/1f37/4900/010d/1caa/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__12_.jpg?1793974175"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cab/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__13_.jpg?1793973386"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cac/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__14_.jpg?1793974177"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cad/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__15_.jpg?1793973483"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1caf/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__17_.jpg?1793973392"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cb0/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__18_.jpg?1793975280"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cb1/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__19_.jpg?1793973577"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cb2/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__20_.jpg?1793975374"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cb3/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__21_.jpg?1793973486"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cb4/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__22_.jpg?1793973673"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cb6/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__24_.jpg?1793974273"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cb7/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__25_.jpg?1793973768"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cb8/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__26_.jpg?1793974442"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cb9/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__27_.jpg?1793975546"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cba/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__28_.jpg?1793974764"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc29/1f37/4900/010d/1cbc/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__30_.jpg?1793973600"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc28/1f37/4900/010d/1ca3/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__4_.jpg?1793973389"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc28/1f37/4900/010d/1ca4/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__5_.jpg?1793973985"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc28/1f37/4900/010d/1c9f/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__6_.jpg?1793973480"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc28/1f37/4900/010d/1ca5/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__7_.jpg?1793974081"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc28/1f37/4900/010d/1ca6/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__8_.jpg?1793973389"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6aed/dc28/1f37/4900/010d/1ca7/medium_jpg/CentroVisitantes_El_asRizoArquitectos_FotoC_sarB_jar__9_.jpg?1793974586"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af2/deb7/8074/f401/89de/dbf6/medium_jpg/01-centrovisitantesclaseazul-plano-conjunto-result-32.jpg?1794301642"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af2/deb7/c23f/1f52/f30e/bd1b/medium_jpg/03-centrovisitantesclaseazul-plano-sotano-result-34.jpg?1794301649"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af2/deb7/8074/f401/89de/dbf5/medium_jpg/02-centrovisitantesclaseazul-planta-baja-result-33.jpg?1794301643"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af2/deb7/c23f/1f01/895a/ec60/medium_jpg/04-centrovisitantesclaseazul-seccion-transversal-result-35.jpg?1794301646"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af2/deb7/8074/f401/89de/dbf7/medium_jpg/06-centrovisitantesclaseazul-alzado-sur-result-36.jpg?1794301650"
+        }
+      ],
+      "titleZh": "龙舌兰景观边缘的访客中心围绕庭院布局",
+      "summaryZh": "墨西哥哈利斯科高地的访客中心借鉴传统住宅，以相连的八个体量组织庭院。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "墨西哥哈利斯科高地的访客中心借鉴传统住宅，以相连的八个体量组织庭院。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "分散的体量和连廊能把庭院转化为动线的一部分，也为不同方向的景观创造观察位置。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
         "source": 24.0
       }
     },
@@ -1091,6 +1439,229 @@
       }
     },
     {
+      "id": "3afbc1b8d1fb7a3a",
+      "url": "https://www.archdaily.com/1031563/populus-hotel-and-social-hub-studio-gang",
+      "title": "Populus / Studio Gang",
+      "summary": "Studio Gang, the international architecture and urban design firm led by Jeanne Gang, has completed Populus, a 265-room hotel poised to become a new social center for downtown Denver . Marking Studio Gang's first completed project in Colorado and the American Southwest region, Populus's design draws from the growth processes of…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/685d/61b3/1089/1b27/d367/0bcd/medium_jpg/populus-hotel-and-social-hub-studio-gang_3.jpg?1750950365",
+      "publishedAt": "2026-11-08T15:00:00+00:00",
+      "date": "2026-11-08",
+      "firstSeen": "2026-11-09",
+      "score": 66.2,
+      "issueDate": "2026-11-08",
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/685d/61b3/1089/1b27/d367/0bcf/thumb_jpg/populus-hotel-and-social-hub-studio-gang_9.jpg?1750950336"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/6196/1089/1b5a/4ddc/f825/thumb_jpg/populus-hotel-and-social-hub-studio-gang_2.jpg?1750950312"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/61b3/1dcf/f379/21a1/5dee/thumb_jpg/populus-hotel-and-social-hub-studio-gang_7.jpg?1750950339"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/61b3/1089/1b27/d367/0bce/thumb_jpg/populus-hotel-and-social-hub-studio-gang_8.jpg?1750950334"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/61b3/1089/1b27/d367/0bcd/medium_jpg/populus-hotel-and-social-hub-studio-gang_3.jpg?1750950365"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/61b3/1dcf/f322/8f98/2e33/medium_jpg/populus-hotel-and-social-hub-studio-gang_6.jpg?1750950335"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/61b3/1dcf/f322/8f98/2e32/medium_jpg/populus-hotel-and-social-hub-studio-gang_2.jpg?1750950339"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/61b3/1089/1b5a/73dc/f825/medium_jpg/populus-hotel-and-social-hub-studio-gang_4.jpg?1750950336"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/6196/1dcf/f379/21a1/5ded/medium_jpg/populus-hotel-and-social-hub-studio-gang_1.jpg?1750950312"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/6196/1089/1b27/d367/0bcc/medium_jpg/populus-hotel-and-social-hub-studio-gang_3.jpg?1750950323"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/6196/1089/1b27/d367/0bcb/medium_jpg/populus-hotel-and-social-hub-studio-gang_4.jpg?1750950309"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/6196/1dcf/f322/8f98/2e31/medium_jpg/populus-hotel-and-social-hub-studio-gang_5.jpg?1750950309"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/61b3/1089/1b5a/4ddc/f826/medium_jpg/populus-hotel-and-social-hub-studio-gang_1.jpg?1750950336"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/61b3/1089/1b5a/4ddc/f827/medium_jpg/populus-hotel-and-social-hub-studio-gang_5.jpg?1750950349"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/6184/1089/1b27/d367/0bca/medium_jpg/populus-hotel-and-social-hub-studio-gang_1.jpg?1750950306"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/617e/1089/1b27/d367/0bc6/medium_jpg/populus-environmental-diagram-c-studio-gang-2.jpg?1750950324"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/617e/1dcf/f379/21a1/5deb/medium_jpg/populus-weather-diagram-c-studio-gang-12.jpg?1750950303"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/617f/1089/1b27/d367/0bc8/medium_jpg/populus-site-plan-c-studio-gang-11.jpg?1750950295"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/617d/1dcf/f379/21a1/5de8/medium_jpg/populus-level-1-floor-plan-c-studio-gang-3.jpg?1750950297"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/617c/1089/1b27/d367/0bc3/medium_jpg/populus-level-2-floor-plan-c-studio-gang-4.jpg?1750950294"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/617d/1dcf/f379/21a1/5de7/medium_jpg/populus-level-4-floor-plan-c-studio-gang-5.jpg?1750950287"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/617f/1089/1b27/d367/0bc9/medium_jpg/populus-level-13-floor-plan-c-studio-gang-6.jpg?1750950358"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/617e/1089/1b27/d367/0bc7/medium_jpg/populus-section-perspective-gray-c-studio-gang-10.jpg?1750950317"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/617e/1089/1b27/d367/0bc5/medium_jpg/populus-ne-elevation-c-studio-gang-7.jpg?1750950318"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/617e/1089/1b27/d367/0bc4/medium_jpg/populus-nw-elevation-c-studio-gang-8.jpg?1750950299"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/617e/1dcf/f379/21a1/5dea/medium_jpg/populus-s-elevation-c-studio-gang-9.jpg?1750950337"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/617d/1dcf/f379/21a1/5de9/medium_jpg/populus-elevation-triptych-c-studio-gang-1.jpg?1750950316"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/685d/617e/1dcf/f379/21a1/5dec/medium_jpg/populus-window-section-detail-c-studio-gang-13.jpg?1750950339"
+        }
+      ],
+      "titleZh": "丹佛市中心新酒店面向公共交往",
+      "summaryZh": "建筑团队完成一座有二百六十五间客房的酒店，项目定位包括为市中心提供社交场所。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "建筑团队完成一座有二百六十五间客房的酒店，项目定位包括为市中心提供社交场所。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "要判断这个定位是否实现，可观察底层公共空间如何连接街道与酒店动线。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "4a9c5c07ba6516f2",
+      "url": "https://www.creativebloq.com/how-to/how-to-make-a-detailed-3d-landscape-using-photoshop-with-cinema-4d-and-zbrush",
+      "title": "How to make a detailed 3D landscape using Photoshop, Cinema 4D and ZBrush",
+      "summary": "Sci-fi and fantasy artist Calder Moore breaks down his process for creating a dark fantasy landscape into clear manageable",
+      "source": "Creative Bloq",
+      "category": "动态设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/iA2JZXRJPqKYVr8vd7zQSC-1920-80.jpg",
+      "publishedAt": "2026-11-08T12:00:00+00:00",
+      "date": "2026-11-08",
+      "firstSeen": "2026-11-09",
+      "score": 66.2,
+      "issueDate": "2026-11-08",
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/iA2JZXRJPqKYVr8vd7zQSC-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/nqXVcTxM8BXrvvEE6BYXmK-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/hNgwA9A4novv5DgbkUrU2K-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/iT3FrpYyAxzE7J3QcFr8vJ-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/utgspuhM2QqEVYimHmTfXK-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Eq55qE6DfkNHSnQtmjxNiJ-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YzaDearxwsoQLbLPCZ4nSK-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XLosNPz6YNRWYsNtrR9gvK-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/J4f3AQpkbwPPeGECbFd57H-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/BDrAKzQvphTZxuhM8FkRMK-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/F3ayARyBrYVjoPVSM9CVEK-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/DvctnZ4zsc5B5Fa4tqDbBL-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/khMjLhPyvLihncQuDvAHUK-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/mHVno7aUY8D2gz9V9BGUAK-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/94P6JPiCxts3avzAbqJrDH-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/CWfxCm5qtbx87MUuTYNty7-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/idaq3kFzzK37oqGpurJny7-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/EKzCqAZnh9rRXGegLs77w7-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/RH6ZzZujMyuKyBnLQZKmu7-1200-80.jpg"
+        }
+      ],
+      "titleZh": "奇幻地景制作拆解从构图推进到三维细节",
+      "summaryZh": "创作者卡尔德·摩尔介绍暗色奇幻地景的制作步骤，结合图像编辑、三维建模和雕刻工具。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "创作者卡尔德·摩尔介绍暗色奇幻地景的制作步骤，结合图像编辑、三维建模和雕刻工具。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "把地景制作拆成构图、建模和细化环节，有助于识别各环节对最终画面的贡献。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
       "id": "2b3a431503c6a28a",
       "url": "https://www.dezeen.com/2026/11/08/fala-atelier-cookie-cutter-retreat/",
       "title": "Fala Atelier embeds trio of playful volumes into Portuguese hillside for Cookie Cutter Retreat",
@@ -1226,6 +1797,1406 @@
         "recency": 20.0,
         "media": 15.0,
         "completeness": 17.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "34d1b9045a5290e7",
+      "url": "https://www.designboom.com/design/julia-lohmann-otherworldly-kelp-sculptures-future-beyond-human/",
+      "title": "julia lohmann’s otherworldly kelp sculptures imagine a future beyond human-centered design",
+      "summary": "from leather-covered cow benches to towering kelp sculptures, julia lohmann questions how humans turn living organisms into design",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/julia-lohmann-kelp-sculptures-designboom-01.jpg",
+      "publishedAt": "2026-11-07T15:15:00+00:00",
+      "date": "2026-11-07",
+      "firstSeen": "2026-11-08",
+      "score": 66.2,
+      "issueDate": "2026-11-07",
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/julia-lohmann-kelp-sculptures-designboom-1800.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/julia-lohmann-kelp-sculptures-designboom-01.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/julia-lohmann-kelp-sculptures-designboom-02.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/julia-lohmann-kelp-sculptures-designboom-03.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/julia-lohmann-kelp-sculptures-designboom-04.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/julia-lohmann-kelp-sculptures-designboom-05.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/julia-lohmann-kelp-sculptures-designboom-06a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/julia-lohmann-kelp-sculptures-designboom-07.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/julia-lohmann-kelp-sculptures-designboom-08.jpg"
+        }
+      ],
+      "titleZh": "海带雕塑追问设计如何使用生物材料",
+      "summaryZh": "设计师以高大的海带雕塑及其他生物材料作品讨论人类如何将生命体转化为设计材料。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "设计师以高大的海带雕塑及其他生物材料作品讨论人类如何将生命体转化为设计材料。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "展览把材料来源本身变成观看对象，引导观众在形态以外留意材料与生态的关系。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "7b954051e384ff40",
+      "url": "https://www.archdaily.com/1027157/mila-house-isla-architects",
+      "title": "Mila House / Isla Architects",
+      "summary": "The idea of renovating a mid-terrace home—tucked between a small street and an alley—changed radically when the opportunity arose to purchase the adjacent plot, a long, narrow strip measuring 25 meters long by just 2.5 meters wide, built edge to edge. This allowed for the creation of large openings onto the new courtyard, and…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/67b6/2e86/4348/7201/86d3/d365/medium_jpg/casa-mila-isla-architects_19.jpg?1739992721",
+      "publishedAt": "2026-11-07T15:00:00+00:00",
+      "date": "2026-11-07",
+      "firstSeen": "2026-11-09",
+      "score": 63.2,
+      "issueDate": "2026-11-07",
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e81/4348/7266/386e/c984/thumb_jpg/casa-mila-isla-architects_20.jpg?1739992712"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e85/cd9a/d701/88b4/b09c/thumb_jpg/casa-mila-isla-architects_18.jpg?1739992719"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e82/cd9a/d701/88b4/b09b/thumb_jpg/casa-mila-isla-architects_17.jpg?1739992716"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e7f/4348/7201/86d3/d360/thumb_jpg/casa-mila-isla-architects_4.jpg?1739992714"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e86/4348/7201/86d3/d365/medium_jpg/casa-mila-isla-architects_19.jpg?1739992721"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e80/cd9a/d701/88b4/b096/medium_jpg/casa-mila-isla-architects_10.jpg?1739992716"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e7f/4348/7201/86d3/d361/medium_jpg/casa-mila-isla-architects_2.jpg?1739992715"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e80/4348/7201/86d3/d363/medium_jpg/casa-mila-isla-architects_1.jpg?1739992716"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e86/cd9a/d701/88b4/b09d/medium_jpg/casa-mila-isla-architects_16.jpg?1739992733"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e81/cd9a/d701/88b4/b09a/medium_jpg/casa-mila-isla-architects_15.jpg?1739992727"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e80/cd9a/d701/88b4/b094/medium_jpg/casa-mila-isla-architects_9.jpg?1739992711"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e81/cd9a/d701/88b4/b099/medium_jpg/casa-mila-isla-architects_14.jpg?1739992723"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e7f/cd9a/d701/88b4/b093/medium_jpg/casa-mila-isla-architects_3.jpg?1739992714"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e81/cd9a/d701/88b4/b097/medium_jpg/casa-mila-isla-architects_7.jpg?1739992717"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e7e/4348/7201/86d3/d35f/medium_jpg/casa-mila-isla-architects_6.jpg?1739992721"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e81/cd9a/d701/88b4/b098/medium_jpg/casa-mila-isla-architects_11.jpg?1739992715"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e7e/cd9a/d701/88b4/b092/medium_jpg/casa-mila-isla-architects_8.jpg?1739992713"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e80/4348/7201/86d3/d362/medium_jpg/casa-mila-isla-architects_12.jpg?1739992715"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e81/4348/7201/86d3/d364/medium_jpg/casa-mila-isla-architects_13.jpg?1739992718"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e80/cd9a/d701/88b4/b095/medium_jpg/casa-mila-isla-architects_5.jpg?1739992712"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e72/4348/7201/86d3/d35e/medium_jpg/044-pre-mila-house-p1-2.jpg?1739992706"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e72/4348/7201/86d3/d35c/medium_jpg/044-pre-mila-house-p2-3.jpg?1739992703"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e72/cd9a/d701/88b4/b091/medium_jpg/044-pre-mila-house-pb-4.jpg?1739992707"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/67b6/2e72/4348/7201/86d3/d35d/medium_jpg/044-pre-mila-house-detail-1-15-at-a3-1.jpg?1739992702"
+        }
+      ],
+      "titleZh": "狭长相邻地块改变联排住宅改造方案",
+      "summaryZh": "住宅团队获得一条约二十五米长、二点五米宽的相邻用地后，重新考虑原有改造。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "住宅团队获得一条约二十五米长、二点五米宽的相邻用地后，重新考虑原有改造。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "狭长用地虽然难以独立布置房间，却能改变既有住宅与街道和巷道的联系。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 12.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "a27472d0d6bb5482",
+      "url": "https://www.designboom.com/architecture/powerhouse-parramatta-steel-lattice-museum-opens-art-es-devlin-james-turrell-sydney-australia/",
+      "title": "powerhouse parramatta’s steel-latticed museum opens with art by es devlin and james turrell",
+      "summary": "behind its intricate white exoskeleton, the sydney museum welcomes its first visitors with an ambitious program of",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/oma-powerhouse-parramatta-australia-opening-images-designboom-01.jpg",
+      "publishedAt": "2026-11-06T15:26:59+00:00",
+      "date": "2026-11-06",
+      "firstSeen": "2026-11-07",
+      "score": 66.2,
+      "issueDate": "2026-11-06",
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/oma-powerhouse-parramatta-australia-opening-images-designboom-1800.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/oma-powerhouse-parramatta-australia-opening-images-designboom-01.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/oma-powerhouse-parramatta-australia-opening-images-designboom-02.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/oma-powerhouse-parramatta-australia-opening-images-designboom-03.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/oma-powerhouse-parramatta-australia-opening-images-designboom-04.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/oma-powerhouse-parramatta-australia-opening-images-designboom-07-1.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/oma-powerhouse-parramatta-australia-opening-images-designboom-08a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/oma-powerhouse-parramatta-australia-opening-images-designboom-09.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/oma-powerhouse-parramatta-australia-opening-images-designboom-06a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/oma-powerhouse-parramatta-australia-opening-images-designboom-07.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/oma-powerhouse-parramatta-australia-opening-images-designboom-05.jpg"
+        }
+      ],
+      "titleZh": "悉尼博物馆在白色钢格构内开放展览",
+      "summaryZh": "帕拉马塔博物馆以白色钢格构包覆建筑，开馆展览包括多位艺术家的作品。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "帕拉马塔博物馆以白色钢格构包覆建筑，开馆展览包括多位艺术家的作品。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "外部结构与内部展览形成不同的观看尺度，可以比较建筑如何引导访客进入展场。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "c133b3525b9e58b9",
+      "url": "https://www.yankodesign.com/2026/11/06/wololows-ufo-lamp-uses-a-bulb-you-can-actually-replace/",
+      "title": "WOLOLOW’s UFO Lamp Uses a Bulb You Can Actually Replace",
+      "summary": "WOLOLOW’s UFO Lamp Uses a Bulb You Can Actually Replace A bedside lamp ought to survive a burned-out bulb, especially when its shape is the reason you bought it. I’d hate to retire a",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/11/wololows-ufo-lamp-uses-a-bulb-you-can-actually-replace/wololow-01.jpg",
+      "publishedAt": "2026-11-06T15:20:04+00:00",
+      "date": "2026-11-06",
+      "firstSeen": "2026-11-07",
+      "score": 64.1,
+      "issueDate": "2026-11-06",
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/wololows-ufo-lamp-uses-a-bulb-you-can-actually-replace/wololow-01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/wololows-ufo-lamp-uses-a-bulb-you-can-actually-replace/wololow-02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/wololows-ufo-lamp-uses-a-bulb-you-can-actually-replace/wololow-03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/wololows-ufo-lamp-uses-a-bulb-you-can-actually-replace/wololow-08.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/wololows-ufo-lamp-uses-a-bulb-you-can-actually-replace/wololow-04.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/wololows-ufo-lamp-uses-a-bulb-you-can-actually-replace/wololow-06.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/wololows-ufo-lamp-uses-a-bulb-you-can-actually-replace/wololow-010.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/wololows-ufo-lamp-uses-a-bulb-you-can-actually-replace/wololow-07.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/wololows-ufo-lamp-uses-a-bulb-you-can-actually-replace/wololow-05.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/wololows-ufo-lamp-uses-a-bulb-you-can-actually-replace/wololow-09.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "6U35Gpl3cJ0",
+        "url": "https://www.youtube.com/embed/6U35Gpl3cJ0",
+        "thumbnail": "https://i.ytimg.com/vi/6U35Gpl3cJ0/hqdefault.jpg",
+        "title": "WOLOLOW Ver 2.0",
+        "author": "Arthur Koshatashyan",
+        "duration": 0,
+        "verifiedAt": "2026-11-11T09:50:48+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/6U35Gpl3cJ0/hqdefault.jpg"
+      ],
+      "titleZh": "飞碟造型床头灯保留可更换灯泡",
+      "summaryZh": "这款灯具用可更换灯泡支持后续维护，灯泡故障时仍可继续使用灯体。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "这款灯具用可更换灯泡支持后续维护，灯泡故障时仍可继续使用灯体。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "易损件可替换为造型灯具提供了延长使用期的条件，维修便利性还取决于拆装方式。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 25.0,
+        "completeness": 9.1,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "a21f25192680fdb5",
+      "url": "https://motionographer.com/news/maxon-fall-2026-cinema-4d-scatter-liquid-fx/",
+      "title": "Maxon’s Fall 2026 Release Adds Cinema 4D Scatter and Liquid FX",
+      "summary": "Maxon’s 2027.0 releases bring new simulation and scattering tools to Cinema 4D, UV editing to ZBrush and closer connections across its creative",
+      "source": "Motionographer",
+      "category": "动态设计",
+      "image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/11/maxon-one-fall-2026-release-2027.jpg?fit=700%2C394&ssl=1",
+      "publishedAt": "2026-11-05T15:13:37+00:00",
+      "date": "2026-11-05",
+      "firstSeen": "2026-11-07",
+      "score": 48.2,
+      "issueDate": "2026-11-05",
+      "images": [
+        {
+          "url": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/11/maxon-one-fall-2026-release-2027.jpg?w=1920&ssl=1"
+        }
+      ],
+      "titleZh": "三维制作工具更新散布与液体模拟",
+      "summaryZh": "迈克森秋季更新带来散布和液体模拟工具，并为雕刻软件加入纹理坐标编辑。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "迈克森秋季更新带来散布和液体模拟工具，并为雕刻软件加入纹理坐标编辑。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "对制作团队而言，值得比较的是这些工具能否减少在软件之间往返调整的次数。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 12.0,
+        "media": 3.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "75e10a8533b120ce",
+      "url": "https://thedieline.com/whats-in-that-reused-lala-crema-tub-mexican-households-no-longer-have-to-guess/",
+      "title": "What’s In That Reused Lala Crema Tub? Mexican Households No Longer Have To Guess",
+      "summary": "Dairy brand Lala knows that people reuse their containers for food storage. That's why the brand worked with creative agency Conciergency and Zurda México to make what’s inside those repurposed containers less of a",
+      "source": "Dieline",
+      "category": "视觉设计",
+      "image": "https://thedieline.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-9.10.26-AM.png",
+      "publishedAt": "2026-11-05T14:19:23+00:00",
+      "date": "2026-11-05",
+      "firstSeen": "2026-11-07",
+      "score": 48.1,
+      "issueDate": "2026-11-05",
+      "images": [
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-9.10.26-AM.png?w=2130&quality=65&ssl=1"
+        }
+      ],
+      "titleZh": "乳品包装回应家庭重复使用容器的习惯",
+      "summaryZh": "墨西哥乳品品牌与设计团队合作，希望让重复装入食物的容器更容易辨认。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "墨西哥乳品品牌与设计团队合作，希望让重复装入食物的容器更容易辨认。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "这个案例将使用阶段延伸到商品售出以后，包装在家庭中承担新的信息功能。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 12.0,
+        "media": 3.0,
+        "completeness": 9.1,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "1fb4be02c13e2ed3",
+      "url": "https://www.core77.com/posts/145826/A-Magnetic-Footed-Spider-Bot-That-Can-Climb-and-Weld",
+      "title": "A Magnetic-Footed Spider-Bot That Can Climb and Weld",
+      "summary": "The Diden Spider is a robot that has magnetic feet and can weld. Developed by South Korea's Diden Robotics, the four-legged 'bot uses electric pulses to switch its magnetic feet on and off; once attached to a surface, they draw no power. The robot was developed to tackle welding tasks in tricky places in a shipbuilding…",
+      "source": "Core77",
+      "category": "工业设计",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1856041_lead_400_145826_.png",
+      "publishedAt": "2026-11-04T15:00:00+00:00",
+      "date": "2026-11-04",
+      "firstSeen": "2026-11-07",
+      "score": 65.2,
+      "issueDate": "2026-11-04",
+      "images": [
+        {
+          "url": "https://s3files.core77.com/blog/images/1856033_81_145826_rLkiLvVsX.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856030_81_145826_PoMQ65iAQ.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856035_81_145826_Bell04yXy.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856032_81_145826_3ksbdAp9r.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856034_81_145826_Bell04yXy.png"
+        }
+      ],
+      "video": {
+        "provider": "file",
+        "id": "https://i.imgur.com/tNFWjJh.mp4",
+        "url": "https://i.imgur.com/tNFWjJh.mp4",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-11-11T09:50:33+00:00"
+      },
+      "titleZh": "四足焊接机器人用可切换磁脚附着钢面",
+      "summaryZh": "韩国机器人团队开发四足焊接设备，以电脉冲切换磁脚，附着后磁脚无需持续供电。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "韩国机器人团队开发四足焊接设备，以电脉冲切换磁脚，附着后磁脚无需持续供电。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "磁吸结构解决的是在钢面上定位的问题，焊缝质量仍需通过现场工况验证。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 10.0,
+        "media": 22.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "11148c20b7068f00",
+      "url": "https://design-milk.com/seattle-floating-home-hoshide-wanzer/",
+      "title": "A Modern Seattle Floating Home Takes Coastal Living to New Heights",
+      "summary": "This Lake Union residence combines Nantucket-inspired interiors with the engineering required to live directly on the",
+      "source": "Design Milk",
+      "category": "空间设计",
+      "image": "https://design-milk.com/images/2026/10/Dyna-ModernBeachHouse-Giammarco-351-e1793109574845-1500x1000.jpg",
+      "publishedAt": "2026-11-04T13:00:43+00:00",
+      "date": "2026-11-04",
+      "firstSeen": "2026-11-07",
+      "score": 61.0,
+      "issueDate": "2026-11-04",
+      "images": [
+        {
+          "url": "https://design-milk.com/images/2026/10/Dyna-ModernBeachHouse-Giammarco-351-e1793109574845.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/10/Dyna-ModernBeachHouse-Giammarco-29.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/10/Dyna-ModernBeachHouse-Giammarco-201.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/10/Dyna-2024-FloatingHome-Lindbloom-DSCF3253.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/10/Dyna-ModernBeachHouse-Giammarco-11.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/10/Dyna-ModernBeachHouse-Giammarco-27.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/10/Dyna-ModernBeachHouse-Giammarco-16.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/10/Dyna-ModernBeachHouse-Giammarco-182.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/10/Dyna-ModernBeachHouse-Giammarco-13.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/10/Dyna-ModernBeachHouse-Giammarco-06.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/10/Dyna-ModernBeachHouse-Giammarco-051.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/10/Dyna-ModernBeachHouse-Giammarco-341-e1793067383277.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/10/Dyna-ModernBeachHouse-Giammarco-19-e1793067513508.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/10/Dyna-ModernBeachHouse-Giammarco-03.jpg"
+        }
+      ],
+      "titleZh": "西雅图浮屋把住宅内饰与水上工程结合",
+      "summaryZh": "联合湖住宅将沿海住宅风格的内饰与浮屋工程结合。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "联合湖住宅将沿海住宅风格的内饰与浮屋工程结合。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "浮屋内部布局需要和基础及临水生活方式一起考虑，单看装饰无法判断居住体验。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 10.0,
+        "media": 18.0,
+        "completeness": 9.0,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "5b6fd2c4159d6b5f",
+      "url": "https://www.dezeen.com/2026/11/03/holst-completes-adjaye-designed-mass-timber-library-oregon/",
+      "title": "Holst completes Adjaye-designed mass-timber library in Oregon",
+      "summary": "US architecture studio Holst has created a mass-timber library in Oregon with a series of tall columns at the entrance and a central atrium, a project taken over from Adjaye",
+      "source": "Dezeen",
+      "category": "建筑设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_sq-1024x1024.jpg",
+      "publishedAt": "2026-11-03T15:33:02+00:00",
+      "date": "2026-11-03",
+      "firstSeen": "2026-11-07",
+      "score": 59.5,
+      "issueDate": "2026-11-03",
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_hero-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_col_11-1536x1152.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_plans.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_plans2.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_plans3.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_plans4.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_col_12.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_col_10.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_col_9.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_col_8.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_col_7.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_col_6.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_col_5.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_col_4-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_col_3.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_col_2.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_col_1.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/east-county-library-holst_dezeen_2364_col_0.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/holst-east-county-library-oregon_dezeen_2364_col_0.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/holst-east-county-library-oregon_dezeen_2364_col_1-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/holst-east-county-library-oregon_dezeen_2364_col_2.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/holst-east-county-library-oregon_dezeen_2364_col_3.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/holst-east-county-library-oregon_dezeen_2364_col_4.jpg"
+        }
+      ],
+      "titleZh": "俄勒冈州图书馆以木柱与中庭组织入口",
+      "summaryZh": "建筑团队完成一座大型木构图书馆，入口布置高柱，内部设中央中庭。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "建筑团队完成一座大型木构图书馆，入口布置高柱，内部设中央中庭。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "入口柱列和中庭可分别承担街道识别和室内方向提示。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 8.6,
+        "media": 18.0,
+        "completeness": 8.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "5233b482078085e8",
+      "url": "https://www.core77.com/posts/145817/The-Partially-Hide-Away-Urban-Desk",
+      "title": "The (Partially) Hide-Away Urban Desk",
+      "summary": "This Urban Desk is by UrbanNature, a space-saving furniture brand started by German industrial designer Jörg Brachmann. It's not a full hideaway desk, but tucks its lower worksurface away in order to become less obtrusive. The mechanism is low-tech and human-powered. \"The fixed superstructure remains in place when the desk is…",
+      "source": "Core77",
+      "category": "工业设计",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1855910_lead_400_145817_.jpg",
+      "publishedAt": "2026-11-03T15:00:00+00:00",
+      "date": "2026-11-03",
+      "firstSeen": "2026-11-07",
+      "score": 63.6,
+      "issueDate": "2026-11-03",
+      "images": [
+        {
+          "url": "https://s3files.core77.com/blog/images/1855913_81_145817_uORvD7YO2.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1855912_81_145817_y9xoPRJpv.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1855915_81_145817_vDBixGrup.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1855914_81_145817_ojpv8CzZa.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1855916_81_145817_pXZirMJ5O.jpg"
+        }
+      ],
+      "video": {
+        "provider": "file",
+        "id": "https://i.imgur.com/LZWhwzH.mp4",
+        "url": "https://i.imgur.com/LZWhwzH.mp4",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-11-11T09:50:28+00:00"
+      },
+      "titleZh": "城市书桌把下层工作面藏回桌体",
+      "summaryZh": "德国工业设计师的节省空间家具将较低的工作面设计为可收回结构。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "德国工业设计师的节省空间家具将较低的工作面设计为可收回结构。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "比较展开和收起两种状态，可以检验这类家具在办公与日常起居之间的转换。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 8.6,
+        "media": 22.0,
+        "completeness": 9.1,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "a0eef8ee68363a9b",
+      "url": "https://80.lv/articles/how-medium-rare-uses-pixel-art-collages-to-evoke-dread-of-industrialized-cannibalism/",
+      "title": "How Medium Rare Uses Pixel Art & Collages to Evoke Dread of Industrialized Cannibalism",
+      "summary": "Payne Robinson, one of the developers of the Medium Rare survival dungeon crawler, discussed how the team tries to evoke dread instead of horror, handles industrialized cannibalism without crossing boundaries, and visualizes psychological damage in pixel",
+      "source": "80 Level",
+      "category": "游戏设计",
+      "image": "https://i.ytimg.com/vi/AqzVTMnL-BY/hqdefault.jpg",
+      "publishedAt": "2026-11-02T15:53:00+00:00",
+      "date": "2026-11-02",
+      "firstSeen": "2026-11-03",
+      "score": 73.1,
+      "issueDate": "2026-11-02",
+      "images": [
+        {
+          "url": "https://cdn.80.lv/api/upload/content/c2/6ae8ad845b15a.jpeg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/a6/6ae8ad806c78e.jpeg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/d4/6ae8ad3fe8c6e.jpeg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/e5/6ae8ad950bc5f.jpeg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/07/6ae8ad2c3f4a2.jpeg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/f2/6ae8adda1be6c.jpeg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/cf/6ae8ae5dbbadd.jpeg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/99/6ae8adf210f48.jpeg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/d5/6ae8adfedbe6d.jpeg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/f6/6ae8ae16819f7.jpeg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "AqzVTMnL-BY",
+        "url": "https://www.youtube.com/embed/AqzVTMnL-BY",
+        "thumbnail": "https://i.ytimg.com/vi/AqzVTMnL-BY/hqdefault.jpg",
+        "title": "Medium Rare Announcement Trailer",
+        "author": "Payne Robinson",
+        "duration": 0,
+        "verifiedAt": "2026-11-11T09:50:19+00:00"
+      },
+      "extraVideos": [
+        {
+          "provider": "youtube",
+          "id": "7tra8iapXX8",
+          "url": "https://www.youtube.com/embed/7tra8iapXX8",
+          "thumbnail": "https://i.ytimg.com/vi/7tra8iapXX8/hqdefault.jpg",
+          "title": "We Made Our Entire Game With Stock Photos",
+          "author": "Giovanni Fim",
+          "duration": 0,
+          "verifiedAt": "2026-11-11T09:50:19+00:00"
+        }
+      ],
+      "videoGallery": [
+        "https://i.ytimg.com/vi/AqzVTMnL-BY/hqdefault.jpg",
+        "https://i.ytimg.com/vi/7tra8iapXX8/hqdefault.jpg"
+      ],
+      "titleZh": "生存地牢游戏用像素画和拼贴塑造不安",
+      "summaryZh": "开发者讨论如何用像素画与拼贴表现心理压力，以及如何控制恐怖题材的表达尺度。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "开发者讨论如何用像素画与拼贴表现心理压力，以及如何控制恐怖题材的表达尺度。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "可以从两种图像语言的切换观察游戏如何制造持续的不安感。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 25.0,
+        "completeness": 9.1,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "0e93208410bedb88",
+      "url": "https://www.archdaily.com/1187869/tiny-house-razzi",
+      "title": "Tiny House Razzi / Stanaćev Granados",
+      "summary": "This small cabin, with just a 35 m² footprint plus an additional 10 square meters of loft space on its upper level, was designed to be a prototype for a tiny home. It was commissioned to us by a French contractor established in Chile, with whom we collaborated to develop this prototype of an architectural solution implementing…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6ae8/5bdb/62dc/0e01/8725/7292/medium_jpg/tiny-house-razzi-stanacev-granados_32.jpg?1793612831",
+      "publishedAt": "2026-11-02T15:00:00+00:00",
+      "date": "2026-11-02",
+      "firstSeen": "2026-11-03",
+      "score": 66.0,
+      "issueDate": "2026-11-02",
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bda/62dc/0e01/8725/728f/thumb_jpg/tiny-house-razzi-stanacev-granados_33.jpg?1793612784"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bd8/d5ab/1b01/886e/525f/thumb_jpg/tiny-house-razzi-stanacev-granados_46.jpg?1793612802"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bda/62dc/0e66/7b9b/e090/thumb_jpg/tiny-house-razzi-stanacev-granados_37.jpg?1793612832"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bdb/d5ab/1b01/886e/5262/thumb_jpg/tiny-house-razzi-stanacev-granados_43.jpg?1793612850"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bdb/62dc/0e01/8725/7292/medium_jpg/tiny-house-razzi-stanacev-granados_32.jpg?1793612831"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bdb/62dc/0e01/8725/7290/medium_jpg/tiny-house-razzi-stanacev-granados_34.jpg?1793612800"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bdb/62dc/0e66/7b9b/e091/medium_jpg/tiny-house-razzi-stanacev-granados_35.jpg?1793612816"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bdb/62dc/0e01/8725/7291/medium_jpg/tiny-house-razzi-stanacev-granados_36.jpg?1793612847"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bdb/d5ab/1b6c/228a/b8af/medium_jpg/tiny-house-razzi-stanacev-granados_38.jpg?1793612833"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bda/d5ab/1b01/886e/5261/medium_jpg/tiny-house-razzi-stanacev-granados_39.jpg?1793612816"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bda/d5ab/1b01/886e/5260/medium_jpg/tiny-house-razzi-stanacev-granados_40.jpg?1793612783"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bd5/62dc/0e01/8725/7287/medium_jpg/tiny-house-razzi-stanacev-granados_41.jpg?1793612773"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bd7/d5ab/1b01/886e/525e/medium_jpg/tiny-house-razzi-stanacev-granados_42.jpg?1793612785"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bd6/62dc/0e01/8725/728a/medium_jpg/tiny-house-razzi-stanacev-granados_44.jpg?1793612785"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bda/62dc/0e01/8725/728e/medium_jpg/tiny-house-razzi-stanacev-granados_45.jpg?1793612815"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bd9/62dc/0e01/8725/728d/medium_jpg/tiny-house-razzi-stanacev-granados_47.jpg?1793612798"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bd6/62dc/0e01/8725/7288/medium_jpg/tiny-house-razzi-stanacev-granados_48.jpg?1793612776"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bd8/62dc/0e01/8725/728c/medium_jpg/tiny-house-razzi-stanacev-granados_49.jpg?1793612800"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bd6/62dc/0e01/8725/7289/medium_jpg/tiny-house-razzi-stanacev-granados_50.jpg?1793612782"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/5bd7/62dc/0e01/8725/728b/medium_jpg/tiny-house-razzi-stanacev-granados_51.jpg?1793612784"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b84e/a04f/d001/89cd/4292/medium_jpg/pl1-m-39.jpg?1793374292"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b84f/a04f/d00a/bb1d/1b5f/medium_jpg/pl2-m-41.jpg?1793374292"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b84f/a04f/d006/e2cc/a7b4/medium_jpg/corte-37.jpg?1793374297"
+        }
+      ],
+      "titleZh": "小住宅原型用阁楼补充地面空间",
+      "summaryZh": "智利小屋原型占地约三十五平方米，上方另有约十平方米阁楼。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "智利小屋原型占地约三十五平方米，上方另有约十平方米阁楼。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "地面与阁楼的分工适合用来比较空间利用率和上下移动的便利性。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 8.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "7b00235c316f0032",
+      "url": "https://www.behance.net/gallery/256070321/CHISO-Brand-Identity",
+      "title": "CHISO - Brand Identity",
+      "summary": "CHISO (??) ? Botanical Skincare Brand Identity & Packaging Design CHISO is a luxury skincare brand rooted in the philosophy that \"skin is memory.\" Bridging Eastern botanical heritage with advanced Australian cosmetic formulation, CHISO harnesses the soothing essence of the native purple Perilla leaf to restore the skin to its…",
+      "source": "Behance",
+      "category": "视觉设计",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/74623f256070321.Y3JvcCwyODAwLDIxOTAsMCw3ODM.jpg",
+      "publishedAt": "2026-11-01T15:00:07+00:00",
+      "date": "2026-11-01",
+      "firstSeen": "2026-11-03",
+      "score": 39.1,
+      "issueDate": "2026-11-01",
+      "images": [],
+      "titleZh": "植物护肤品牌以皮肤记忆组织包装概念",
+      "summaryZh": "项目介绍将植物传统与护肤配方定位结合的品牌识别和包装。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "项目介绍将植物传统与护肤配方定位结合的品牌识别和包装。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "包装可把抽象品牌主题变成一组可辨认的视觉线索，实际阅读效果还需查看成品。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 12.0,
+        "media": 3.0,
+        "completeness": 9.1,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "7cf8c9a9a3d59fbd",
+      "url": "https://www.dezeen.com/2026/10/31/libreria-valladolid-mexico-city-bar-em-estudio/",
+      "title": "Em-Estudio lines Mexico City bar with walls of books",
+      "summary": "The vintage bookstores of Mexico City's Roma neighbourhood influenced the interiors of this basement bar, designed by local outfit",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/10/libreria-valladolid_em-estudio_dezeen_sq1-1024x1024.jpg",
+      "publishedAt": "2026-10-31T18:00:00+00:00",
+      "date": "2026-11-01",
+      "firstSeen": "2026-11-07",
+      "score": 57.7,
+      "issueDate": "2026-11-01",
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/libreria-valladolid_em-estudio_dezeen_hero1-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/libreria-valladolid_em-estudio_dezeen_2364_col_17-1536x1025.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/libreria-valladolid_em-estudio_dezeen_2364_col_10-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/libreria-valladolid_em-estudio_dezeen_2364_col_2-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/libreria-valladolid_em-estudio_dezeen_2364_col_11-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/libreria-valladolid_em-estudio_dezeen_2364_col_4.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/libreria-valladolid_em-estudio_dezeen_2364_col_5-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/libreria-valladolid_em-estudio_dezeen_2364_col_6.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/libreria-valladolid_em-estudio_dezeen_2364_col_13-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/libreria-valladolid_em-estudio_dezeen_2364_col_14-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/libreria-valladolid_em-estudio_dezeen_2364_col_3-1536x1025.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/libreria-valladolid_em-estudio_dezeen_2364_col_9-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/10/libreria-valladolid_em-estudio_dezeen_2364_col_7-1536x1025.jpg"
+        }
+      ],
+      "titleZh": "墨西哥城地下酒吧借用旧书店的空间语言",
+      "summaryZh": "设计团队以当地街区的旧书店为灵感，用书墙组织地下酒吧的室内。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "设计团队以当地街区的旧书店为灵感，用书墙组织地下酒吧的室内。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "书墙为连续的室内界面提供纹理，也使酒吧与街区的文化记忆产生联系。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 6.7,
+        "media": 18.0,
+        "completeness": 9.0,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "ccd9cd1dde5b4e8e",
+      "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
+      "title": "The TL;DR on Figma Weave: Make your creative process repeatable",
+      "summary": "Figma Weave brings AI generation and editing tools together into connected, reusable workflows, giving you a process your team can shape, refine, and repeat. Here’s what it unlocks for creative teams and how to get the most out of",
+      "source": "Figma",
+      "category": "人工智能设计",
+      "image": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1632&q=75&fit=max&auto=format&dpr=2",
+      "publishedAt": "2026-10-31T00:58:00+00:00",
+      "date": "2026-10-31",
+      "firstSeen": "2026-11-03",
+      "score": 55.2,
+      "issueDate": "2026-10-31",
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1632&q=75&fit=max&auto=format&dpr=2"
+        },
+        {
+          "url": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?w=804&q=75&fit=max&auto=format&dpr=2"
+        }
+      ],
+      "titleZh": "生成与编辑工具组成可重复使用的创作流程",
+      "summaryZh": "菲格玛介绍将生成和编辑环节连接起来、供团队调整和复用的创作工作流。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "菲格玛介绍将生成和编辑环节连接起来、供团队调整和复用的创作工作流。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "可复用流程的价值在于保留制作步骤，团队仍需根据项目目标判断何时修改这些步骤。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 10.0,
+        "media": 6.0,
+        "completeness": 9.2,
+        "source": 30.0
+      }
+    },
+    {
+      "id": "f45b96fbc3d38a03",
+      "url": "https://www.artofvfx.com/moana-weta-fx-brings-te-ka-and-te-fiti-to-life-in-the-epic-third-act/",
+      "title": "Moana: Weta FX Brings Te Ka and Te Fiti to Life in the Epic Third Act",
+      "summary": "From breathtaking tropical landscapes and raging storms to the fiery Te Ka and majestic Te Fiti, Weta FX showcases its spectacular visual effects work on Disney’s live-action adaptation of Moana. Led by VFX Supervisor Stephen Unterfranz and Animation Supervisor Anneka Fris, the Weta FX team contributed to several major…",
+      "source": "Art of VFX",
+      "category": "动态设计",
+      "image": "https://i.ytimg.com/vi/Zc5ib2Z7Xh4/hqdefault.jpg",
+      "publishedAt": "2026-10-30T16:00:00+00:00",
+      "date": "2026-10-31",
+      "firstSeen": "2026-11-03",
+      "score": 53.1,
+      "issueDate": "2026-10-31",
+      "images": [],
+      "video": {
+        "provider": "youtube",
+        "id": "Zc5ib2Z7Xh4",
+        "url": "https://www.youtube.com/embed/Zc5ib2Z7Xh4",
+        "thumbnail": "https://i.ytimg.com/vi/Zc5ib2Z7Xh4/hqdefault.jpg",
+        "title": "Moana VFX Highlights | Moana | Wētā FX",
+        "author": "Wētā FX",
+        "duration": 0,
+        "verifiedAt": "2026-11-11T09:50:04+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/Zc5ib2Z7Xh4/hqdefault.jpg"
+      ],
+      "titleZh": "海洋奇缘真人电影拆解风暴与角色特效",
+      "summaryZh": "维塔特效团队展示电影后段的热带景观、风暴与两位大型角色。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "维塔特效团队展示电影后段的热带景观、风暴与两位大型角色。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "这些镜头需要同时呈现环境变化和角色行动，比较两者在画面中的尺度有助于理解场景调度。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 10.0,
+        "media": 10.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "98bb35026000fa07",
+      "url": "https://www.stashmedia.tv/em-cooper-tonic-dna-paint-a-true-romance-for-porsche/",
+      "title": "Em Cooper & Tonic DNA Paint a True Romance for Porsche",
+      "summary": "Working with Montreal studio Tonic DNA, British director/artist Em Cooper (whose Beatles video we featured in Stash 157 ), uses her signature animated oil paintings to amplify the real-life romance in this new spot for Porsche.",
+      "source": "Stash",
+      "category": "动态设计",
+      "image": "https://i.vimeocdn.com/video/2219217349-26111532095acc8ee54de3f0364650606a7e7f9fe4eeaa54035a3c6847bb61d6-d_1280?region=us",
+      "publishedAt": "2026-10-30T14:42:54+00:00",
+      "date": "2026-10-30",
+      "firstSeen": "2026-11-03",
+      "score": 63.6,
+      "issueDate": "2026-10-30",
+      "images": [
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Porsche-The-Long-Way-to-I-Do-commercial-by-Em-Cooper-and-Tonic-DNA-STASH-MAGAZINE6-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Porsche-The-Long-Way-to-I-Do-commercial-by-Em-Cooper-and-Tonic-DNA-STASH-MAGAZINE5-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Porsche-The-Long-Way-to-I-Do-commercial-by-Em-Cooper-and-Tonic-DNA-STASH-MAGAZINE4-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Porsche-The-Long-Way-to-I-Do-commercial-by-Em-Cooper-and-Tonic-DNA-STASH-MAGAZINE3-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Porsche-The-Long-Way-to-I-Do-commercial-by-Em-Cooper-and-Tonic-DNA-STASH-MAGAZINE-2048x1152.jpg"
+        }
+      ],
+      "video": {
+        "provider": "vimeo",
+        "id": "1241253326",
+        "url": "https://player.vimeo.com/video/1241253326",
+        "thumbnail": "https://i.vimeocdn.com/video/2219217349-26111532095acc8ee54de3f0364650606a7e7f9fe4eeaa54035a3c6847bb61d6-d_1280?region=us",
+        "title": "Porsche – The Long Way to “I Do” – Em Cooper & Tonic DNA",
+        "author": "TONIC DNA",
+        "duration": 35,
+        "verifiedAt": "2026-11-11T09:49:53+00:00"
+      },
+      "videoGallery": [
+        "https://i.vimeocdn.com/video/2219217349-26111532095acc8ee54de3f0364650606a7e7f9fe4eeaa54035a3c6847bb61d6-d_1280?region=us"
+      ],
+      "titleZh": "油画动画塑造汽车短片的情感节奏",
+      "summaryZh": "导演艾姆·库珀与蒙特利尔动画团队合作，以油画动画制作保时捷短片。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "导演艾姆·库珀与蒙特利尔动画团队合作，以油画动画制作保时捷短片。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "连续画面中的笔触变化可以承担情感表达，与镜头节奏一起组织叙事。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 8.6,
+        "media": 22.0,
+        "completeness": 9.1,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "02b3b6196c0f9065",
+      "url": "https://www.uxdesigninstitute.com/blog/ux-in-the-age-of-ai/",
+      "title": "Why UX still matters in the age of AI",
+      "summary": "AI is making it easier than ever to build digital products. But building something quickly doesn’t mean building something useful. Here are 7 reasons why UX design skills matter more than ever and will remain essential as AI",
+      "source": "UX Design Institute",
+      "category": "用户体验设计",
+      "image": "https://www.uxdesigninstitute.com/blog/wp-content/uploads/2026/10/11.01-APPROVED-Blog-header-for-website.png",
+      "publishedAt": "2026-10-30T08:19:28+00:00",
+      "date": "2026-10-30",
+      "firstSeen": "2026-11-03",
+      "score": 44.6,
+      "issueDate": "2026-10-30",
+      "images": [
+        {
+          "url": "https://www.uxdesigninstitute.com/blog/wp-content/uploads/2026/10/11.01-APPROVED-Blog-header-for-website.png"
+        }
+      ],
+      "titleZh": "人工智能加快制作后仍需验证使用价值",
+      "summaryZh": "文章讨论生成工具降低制作门槛后，用户体验工作为何仍然重要。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "文章讨论生成工具降低制作门槛后，用户体验工作为何仍然重要。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "评估原型时应检查用户能否完成目标，制作速度只反映其中一个环节。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 8.6,
+        "media": 3.0,
+        "completeness": 9.0,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "fb8a395fac0f4a91",
+      "url": "https://www.wallpaper.com/design-interiors/aldo-bakker-strangely-familiar",
+      "title": "How Aldo Bakker's ambiguous designs merge sculpture and function",
+      "summary": "Aldo Bakker's latest exhibition, titled ‘Strangely Familiar’, is currently on view in Amsterdam at Looiersgracht 60 until 23 December 2026. Nick Vinson spoke to the designer about materials and",
+      "source": "Wallpaper",
+      "category": "工业设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/TSocaNveksHTnJR3frsH3K-1920-80.jpg",
+      "publishedAt": "2026-10-29T13:25:43+00:00",
+      "date": "2026-10-29",
+      "firstSeen": "2026-11-03",
+      "score": 58.8,
+      "issueDate": "2026-10-29",
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XDQKBpXazVJTTTa84RgN4J-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/GmJYmqGR8seRaESA2pRVmH-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/w4KtsQ3S5aWYXMpViE2eaJ-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3ZFrsKvAaVUz532NtErcFJ-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/wWv7r7KBS7AxM4JwEAHK5J-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/adMaW7ZeYvSBHp7F47uggJ-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2qdJTxQEpPuJnxLKAsd5xJ-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/72v44PYBzixbHZ5YBKUoBJ-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uEVxmBNbbm5VdAQWhHgd5K-1920-80.jpg"
+        }
+      ],
+      "titleZh": "展览探讨雕塑形态与日常功能的边界",
+      "summaryZh": "设计师阿尔多·巴克在阿姆斯特丹展出介于雕塑与器具之间的作品，报道围绕材料与功能展开。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "设计师阿尔多·巴克在阿姆斯特丹展出介于雕塑与器具之间的作品，报道围绕材料与功能展开。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "观看这类作品时，可留意造型提供了哪些使用线索，以及哪些线索需要观众自行发现。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 7.5,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "f52fcd4f5876606a",
+      "url": "https://www.printmag.com/daily-heller/the-daily-heller-global-typographic-rarities/",
+      "title": "The Daily Heller: Global Typographic Rarities",
+      "summary": "This is an acute overview of the revolutionary art and design movements of the 20th",
+      "source": "PRINT",
+      "category": "视觉设计",
+      "image": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-27-at-11.46.32-AM.png?resize=796%2C1024&quality=80&ssl=1",
+      "publishedAt": "2026-10-29T11:00:00+00:00",
+      "date": "2026-10-29",
+      "firstSeen": "2026-11-03",
+      "score": 43.5,
+      "issueDate": "2026-10-29",
+      "images": [],
+      "titleZh": "罕见印刷品回看二十世纪字体设计",
+      "summaryZh": "文章通过罕见的字体和印刷实例回顾二十世纪的艺术与设计运动。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "公开订阅摘要",
+            "paragraphs": [
+              "文章通过罕见的字体和印刷实例回顾二十世纪的艺术与设计运动。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "把字体放回当时的印刷媒介与艺术语境，能看出形式选择如何参与视觉表达。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 7.5,
+        "media": 3.0,
+        "completeness": 9.1,
         "source": 24.0
       }
     },
@@ -41137,8 +43108,90 @@
       }
     },
     {
+      "date": "2026-10-29",
+      "articleIds": [
+        "fb8a395fac0f4a91",
+        "f52fcd4f5876606a"
+      ],
+      "updatedAt": "2026-11-10T09:16:40.114132+08:00"
+    },
+    {
+      "date": "2026-10-30",
+      "articleIds": [
+        "98bb35026000fa07",
+        "02b3b6196c0f9065"
+      ],
+      "updatedAt": "2026-11-10T09:16:40.114132+08:00"
+    },
+    {
+      "date": "2026-10-31",
+      "articleIds": [
+        "ccd9cd1dde5b4e8e",
+        "f45b96fbc3d38a03"
+      ],
+      "updatedAt": "2026-11-10T09:16:40.114132+08:00"
+    },
+    {
+      "date": "2026-11-01",
+      "articleIds": [
+        "7b00235c316f0032",
+        "7cf8c9a9a3d59fbd"
+      ],
+      "updatedAt": "2026-11-10T09:16:40.114132+08:00"
+    },
+    {
+      "date": "2026-11-02",
+      "articleIds": [
+        "a0eef8ee68363a9b",
+        "0e93208410bedb88"
+      ],
+      "updatedAt": "2026-11-10T09:16:40.114132+08:00"
+    },
+    {
+      "date": "2026-11-03",
+      "articleIds": [
+        "5b6fd2c4159d6b5f",
+        "5233b482078085e8"
+      ],
+      "updatedAt": "2026-11-10T09:16:40.114132+08:00"
+    },
+    {
+      "date": "2026-11-04",
+      "articleIds": [
+        "1fb4be02c13e2ed3",
+        "11148c20b7068f00"
+      ],
+      "updatedAt": "2026-11-10T09:16:40.114132+08:00"
+    },
+    {
+      "date": "2026-11-05",
+      "articleIds": [
+        "a21f25192680fdb5",
+        "75e10a8533b120ce"
+      ],
+      "updatedAt": "2026-11-10T09:16:40.114132+08:00"
+    },
+    {
+      "date": "2026-11-06",
+      "articleIds": [
+        "a27472d0d6bb5482",
+        "c133b3525b9e58b9"
+      ],
+      "updatedAt": "2026-11-10T09:16:40.114132+08:00"
+    },
+    {
+      "date": "2026-11-07",
+      "articleIds": [
+        "34d1b9045a5290e7",
+        "7b954051e384ff40"
+      ],
+      "updatedAt": "2026-11-10T09:16:40.114132+08:00"
+    },
+    {
       "date": "2026-11-08",
       "articleIds": [
+        "3afbc1b8d1fb7a3a",
+        "4a9c5c07ba6516f2",
         "2b3a431503c6a28a",
         "4901dc447ce92c6a"
       ],
@@ -41147,6 +43200,8 @@
     {
       "date": "2026-11-09",
       "articleIds": [
+        "d6370c92da3cbfba",
+        "262db674a73513a3",
         "aec64b0cefac6d58",
         "74347cbbab2c0f4a",
         "3b5ee3c7570f0fe1",
@@ -41158,7 +43213,9 @@
       "date": "2026-11-10",
       "articleIds": [
         "aeed7840e558e4fe",
-        "8ef36bf792a2fb7a"
+        "b8b0c7f61a914ea7",
+        "8ef36bf792a2fb7a",
+        "2991f288d4e203ce"
       ],
       "updatedAt": "2026-11-10T09:16:40.114132+08:00",
       "masthead": {
