@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-10T09:16:40.114132+08:00",
+  "updatedAt": "2026-11-12T22:28:16.270766+08:00",
   "sources": [
     {
       "name": "Dezeen",
       "label": "德泽恩",
-      "url": "https://www.dezeen.com/feed/",
       "category": "工业设计",
-      "ok": true,
-      "count": 50,
-      "latestPublishedAt": "2026-11-09T19:00:00+00:00"
+      "url": "https://www.dezeen.com/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "name": "designboom",
@@ -17,7 +17,7 @@
       "category": "空间设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-09T21:44:34+00:00"
+      "latestPublishedAt": "2026-11-12T11:50:47+00:00"
     },
     {
       "name": "Yanko Design",
@@ -26,16 +26,16 @@
       "category": "工业设计",
       "ok": true,
       "count": 16,
-      "latestPublishedAt": "2026-11-10T00:30:36+00:00"
+      "latestPublishedAt": "2026-11-12T14:20:54+00:00"
     },
     {
       "name": "Smashing Magazine",
       "label": "设计与开发杂志",
-      "url": "https://www.smashingmagazine.com/feed/",
       "category": "用户体验设计",
-      "ok": true,
-      "count": 40,
-      "latestPublishedAt": "2026-11-06T08:00:00+00:00"
+      "url": "https://www.smashingmagazine.com/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "name": "Nielsen Norman Group",
@@ -53,7 +53,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-09T17:34:43+00:00"
+      "latestPublishedAt": "2026-11-12T13:32:29+00:00"
     },
     {
       "name": "Core77",
@@ -62,16 +62,16 @@
       "category": "工业设计",
       "ok": true,
       "count": 15,
-      "latestPublishedAt": "2026-11-09T19:12:00+00:00"
+      "latestPublishedAt": "2026-11-10T16:00:00+00:00"
     },
     {
       "name": "Creative Bloq",
       "label": "创意视界",
-      "url": "https://www.creativebloq.com/feeds/all",
       "category": "视觉设计",
-      "ok": true,
-      "count": 25,
-      "latestPublishedAt": "2026-11-09T20:33:27+00:00"
+      "url": "https://www.creativebloq.com/feeds/all",
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "name": "UX Collective",
@@ -80,16 +80,16 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-09T12:20:07+00:00"
+      "latestPublishedAt": "2026-11-12T11:14:40+00:00"
     },
     {
       "name": "UX Planet",
       "label": "用户体验星球",
-      "url": "https://uxplanet.org/feed",
       "category": "用户体验设计",
-      "ok": true,
-      "count": 10,
-      "latestPublishedAt": "2026-11-09T22:55:33+00:00"
+      "url": "https://uxplanet.org/feed",
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "name": "Codrops",
@@ -103,38 +103,38 @@
     {
       "name": "Awwwards",
       "label": "网页设计奖",
-      "url": "https://www.awwwards.com/blog/feed/",
       "category": "用户体验设计",
-      "ok": true,
-      "count": 30,
-      "latestPublishedAt": "2026-08-31T14:39:00+00:00"
+      "url": "https://www.awwwards.com/blog/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "name": "Design Milk",
       "label": "设计牛奶",
-      "url": "https://design-milk.com/feed/",
       "category": "工业设计",
-      "ok": true,
-      "count": 12,
-      "latestPublishedAt": "2026-11-09T15:12:06+00:00"
+      "url": "https://design-milk.com/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "name": "Creative Boom",
       "label": "创意浪潮",
-      "url": "https://www.creativeboom.com/feed/",
       "category": "视觉设计",
-      "ok": true,
-      "count": 20,
-      "latestPublishedAt": "2026-11-09T07:15:00+00:00"
+      "url": "https://www.creativeboom.com/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "name": "Car Body Design",
       "label": "汽车车身设计",
-      "url": "https://www.carbodydesign.com/feed/",
       "category": "工业设计",
-      "ok": true,
-      "count": 10,
-      "latestPublishedAt": "2026-10-26T18:12:43+00:00"
+      "url": "https://www.carbodydesign.com/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "name": "Stash",
@@ -143,7 +143,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 6,
-      "latestPublishedAt": "2026-11-09T14:37:19+00:00"
+      "latestPublishedAt": "2026-11-12T13:04:41+00:00"
     },
     {
       "name": "Art of VFX",
@@ -152,7 +152,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-11-09T19:00:00+00:00"
+      "latestPublishedAt": "2026-11-12T13:00:00+00:00"
     },
     {
       "name": "Blender",
@@ -161,7 +161,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 9,
-      "latestPublishedAt": "2026-11-09T13:44:46+00:00"
+      "latestPublishedAt": "2026-11-10T17:58:03+00:00"
     },
     {
       "name": "Hugging Face",
@@ -170,7 +170,7 @@
       "category": "人工智能设计",
       "ok": true,
       "count": 60,
-      "latestPublishedAt": "2026-11-09T15:05:57+00:00"
+      "latestPublishedAt": "2026-11-12T00:00:00+00:00"
     },
     {
       "name": "UISDC",
@@ -307,7 +307,7 @@
       "category": "建筑设计",
       "ok": true,
       "count": 24,
-      "latestPublishedAt": "2026-11-09T17:00:00+00:00"
+      "latestPublishedAt": "2026-11-12T07:30:00+00:00"
     },
     {
       "name": "Wallpaper",
@@ -316,7 +316,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-11-09T22:23:08+00:00"
+      "latestPublishedAt": "2026-11-12T12:56:55+00:00"
     },
     {
       "name": "Its Nice That",
@@ -325,7 +325,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-11-09T09:00:00+00:00"
+      "latestPublishedAt": "2026-11-12T09:00:00+00:00"
     },
     {
       "name": "Design Week",
@@ -349,8 +349,8 @@
       "url": "https://www.printmag.com/feed/",
       "category": "视觉设计",
       "ok": true,
-      "count": 39,
-      "latestPublishedAt": "2026-11-09T23:21:17+00:00"
+      "count": 40,
+      "latestPublishedAt": "2026-11-12T12:00:00+00:00"
     },
     {
       "name": "Domus",
@@ -424,7 +424,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 36,
-      "latestPublishedAt": "2026-11-09T22:00:43+00:00"
+      "latestPublishedAt": "2026-11-12T09:02:25+00:00"
     },
     {
       "name": "Figma",
@@ -433,7 +433,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 60,
-      "latestPublishedAt": "2026-11-06T20:31:00+00:00"
+      "latestPublishedAt": "2026-11-12T14:00:00+00:00"
     },
     {
       "name": "Adobe",
@@ -532,7 +532,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-09T13:18:58+00:00"
+      "latestPublishedAt": "2026-11-12T14:03:19+00:00"
     },
     {
       "name": "Packaging of the World",
@@ -611,7 +611,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-03T15:11:04+00:00"
+      "latestPublishedAt": "2026-11-11T08:26:34+00:00"
     },
     {
       "name": "Fast Company UX",
@@ -619,8 +619,8 @@
       "url": "https://www.fastcompany.com/section/ux-design/rss",
       "category": "用户体验设计",
       "ok": true,
-      "count": 14,
-      "latestPublishedAt": "2026-09-21T10:30:00+00:00"
+      "count": 13,
+      "latestPublishedAt": "2026-11-10T11:30:00+00:00"
     },
     {
       "name": "Google AI Blog",
@@ -629,7 +629,7 @@
       "category": "人工智能设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-11-05T17:00:00+00:00"
+      "latestPublishedAt": "2026-11-11T18:00:00+00:00"
     },
     {
       "name": "Adobe Developers Blog",
@@ -661,7 +661,7 @@
       "category": "游戏设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-11-09T17:30:00+00:00"
+      "latestPublishedAt": "2026-11-11T19:15:00+00:00"
     },
     {
       "name": "80 Level",
@@ -670,7 +670,7 @@
       "category": "游戏设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-09T14:34:00+00:00"
+      "latestPublishedAt": "2026-11-12T14:55:00+00:00"
     },
     {
       "name": "Gcores",
@@ -678,11 +678,902 @@
       "url": "https://www.gcores.com/rss",
       "category": "游戏设计",
       "ok": true,
-      "count": 14,
-      "latestPublishedAt": "2026-11-10T01:10:00+00:00"
+      "count": 15,
+      "latestPublishedAt": "2026-11-12T14:05:12+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "0c83dbbd3b641e80",
+      "url": "https://www.designboom.com/technology/sony-1979-walkman-headphones-retro-foam-ear-pads-mdr-3r/",
+      "title": "sony brings back its 1979 walkman headphones with retro foam ear pads",
+      "summary": "nearly five decades after the first walkman, sony revives its wired headphones with their blue and orange ear pads and a USB-C",
+      "source": "designboom",
+      "category": "工业设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-01.jpg",
+      "publishedAt": "2026-11-12T00:55:34+00:00",
+      "date": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "score": 78.5,
+      "issueDate": "2026-11-12",
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-1800.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-01.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-02.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-03.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-04.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-05.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-06a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-07.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-08a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-09.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-010.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-011.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-012.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-013.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-014.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/sony-electronics-MDR-3R-headphones-designboom-015.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "_ZL729xUwJ8",
+        "url": "https://www.youtube.com/embed/_ZL729xUwJ8",
+        "thumbnail": "https://i.ytimg.com/vi/_ZL729xUwJ8/hqdefault.jpg",
+        "title": "The Beach House",
+        "author": "barth",
+        "duration": 0,
+        "verifiedAt": "2026-11-13T09:36:14+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/_ZL729xUwJ8/hqdefault.jpg"
+      ],
+      "titleZh": "索尼复刻随身听有线耳机",
+      "summaryZh": "复刻款沿用蓝橙色泡棉耳垫，同时更新与当代设备的连接方式。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "索尼重新推出一九七九年随身听耳机的设计。蓝色与橙色泡棉耳垫延续了早期版本的视觉特征。",
+              "新款保留有线形式，连接接口适配当代设备。复刻把识别度较高的外观细节和新的连接方式放在同一产品中。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 25.0,
+        "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "912c71746f0ad19b",
+      "url": "https://www.archdaily.com/1187432/tsuyama-hotel-i-and-ii-renovation-naad-plus-studio-tata",
+      "title": "Tsuyama Hotel I & II Renovation / NAAD + studio tata",
+      "summary": "Hotel I & II, Tsuyama is a pair of small hotels created through the renovation of two machiya townhouses in the Joto area of Tsuyama, Okayama Prefecture, Japan. The district is a historic townscape where traditional townhouses line the former Izumo Kaido road. Within this setting, the project converts two wooden houses into…",
+      "source": "ArchDaily",
+      "category": "空间设计",
+      "image": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e54a/medium_jpg/Hotel-I_room202_01_Yosuke-Ohtake.jpg?1792769470",
+      "publishedAt": "2026-11-12T00:00:00+00:00",
+      "date": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "score": 71.2,
+      "issueDate": "2026-11-12",
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e547/thumb_jpg/Hotel-I_room201_03_Yosuke-Ohtake.jpg?1792769474"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d93/3271/8400/01d0/e530/thumb_jpg/Hotel-II_room202_03_Yosuke-Ohtake.jpg?1792769481"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d94/3271/8400/01d0/e53d/thumb_jpg/Hotel-II_cafe_06_Yosuke-Ohtake.jpg?1792769501"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d93/3271/8400/01d0/e52f/thumb_jpg/Hotel-I_exterior_Yosuke-Ohtake.jpg?1792769463"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e54a/medium_jpg/Hotel-I_room202_01_Yosuke-Ohtake.jpg?1792769470"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d94/3271/8400/01d0/e53a/medium_jpg/Hotel-II_exterior_Yosuke-Ohtake.jpg?1792769447"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e53f/medium_jpg/Hotel-II_cafe_01_Yosuke-Ohtake.jpg?1792769472"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e540/medium_jpg/Hotel-II_cafe_02_Yosuke-Ohtake.jpg?1792769471"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d94/3271/8400/01d0/e53b/medium_jpg/Hotel-II_cafe_03_Yosuke-Ohtake.jpg?1792769449"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d94/3271/8400/01d0/e537/medium_jpg/Hotel-II_cafe_04_Yosuke-Ohtake.jpg?1792769446"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d94/3271/8400/01d0/e53e/medium_jpg/Hotel-II_cafe_07_Yosuke-Ohtake.jpg?1792769453"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d94/3271/8400/01d0/e538/medium_jpg/Hotel-II_cafe_08_Yosuke-Ohtake.jpg?1792769446"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d94/3271/8400/01d0/e539/medium_jpg/Hotel-II_cafe_10_Yosuke-Ohtake.jpg?1792769446"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d93/3271/8400/01d0/e531/medium_jpg/Hotel-II_room201_01_Yosuke-Ohtake.jpg?1792769447"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d94/3271/8400/01d0/e536/medium_jpg/Hotel-II_room201_02_Yosuke-Ohtake.jpg?1792769448"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d93/3271/8400/01d0/e532/medium_jpg/Hotel-II_room201_03_Yosuke-Ohtake.jpg?1792769463"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d93/3271/8400/01d0/e533/medium_jpg/Hotel-II_room202_01_Yosuke-Ohtake.jpg?1792769449"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d93/3271/8400/01d0/e534/medium_jpg/Hotel-II_room202_02_Yosuke-Ohtake.jpg?1792769464"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e543/medium_jpg/Hotel-I_lobby_01_Yosuke-Ohtake.jpg?1792769455"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e544/medium_jpg/Hotel-I_lobby_03_Yosuke-Ohtake.jpg?1792769469"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e54c/medium_jpg/Hotel-I_lobby_02_Yosuke-Ohtake.jpg?1792769502"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e54b/medium_jpg/Hotel-I_room202_02_Yosuke-Ohtake.jpg?1792769486"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e542/medium_jpg/Hotel-I_room202_03_Yosuke-Ohtake.jpg?1792769502"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e545/medium_jpg/Hotel-I_room201_01_Yosuke-Ohtake.jpg?1792769455"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e546/medium_jpg/Hotel-I_room201_02_Yosuke-Ohtake.jpg?1792769454"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e548/medium_jpg/Hotel-I_room201_04_Yosuke-Ohtake.jpg?1792769488"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e541/medium_jpg/Hotel-I_room201_05_Yosuke-Ohtake.jpg?1792769452"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e549/medium_jpg/Hotel-I_room201_06_Yosuke-Ohtake.jpg?1792769485"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e54e/medium_jpg/Hotel_I_Tsuyama_plan.jpg?1792769524"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e54f/medium_jpg/Hotel_II_Tsuyama_plan.jpg?1792769533"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e550/medium_jpg/Hotel_II_Tsuyama_section.jpg?1792769565"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6adb/7d95/3271/8400/01d0/e54d/medium_jpg/Hotel_I_Tsuyama_section.jpg?1792769532"
+        }
+      ],
+      "titleZh": "津山两栋传统町屋改作小型旅馆",
+      "summaryZh": "项目将冈山县津山城东地区的两栋町屋分别改为旅馆。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "项目由冈山县津山市城东地区的两座町屋改造而成。两栋原有建筑分别承担旅馆用途。",
+              "项目以既有町屋为改造对象，把住宿功能置入当地历史街区的住宅建筑中。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "64ae529a35599e68",
+      "url": "https://www.yankodesign.com/2026/11/11/apaps-diagonal-gives-a-1970s-home-a-glass-room-with-no-fixed-purpose/",
+      "title": "APAP’s DIAGONAL Gives a 1970s Home a Glass Room With No Fixed Purpose",
+      "summary": "APAP’s DIAGONAL Gives a 1970s Home a Glass Room With No Fixed Purpose Two horizontal concrete planes reach toward a courtyard in Nicosia, Cyprus, extending a 1970s house into its wooded surroundings. Between them, glass encloses a",
+      "source": "Yanko Design",
+      "category": "空间设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/11/draft-diagonal-extension/diagonal_extension_yanko_design_01.jpg",
+      "publishedAt": "2026-11-11T23:30:07+00:00",
+      "date": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "score": 62.5,
+      "issueDate": "2026-11-12",
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/draft-diagonal-extension/diagonal_extension_yanko_design_01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/draft-diagonal-extension/diagonal_extension_yanko_design_02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/draft-diagonal-extension/diagonal_extension_yanko_design_03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/draft-diagonal-extension/diagonal_extension_yanko_design_04.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/draft-diagonal-extension/diagonal_extension_yanko_design_06.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/draft-diagonal-extension/diagonal_extension_yanko_design_07.jpg"
+        }
+      ],
+      "titleZh": "旧住宅增设用途开放的玻璃房",
+      "summaryZh": "两片水平混凝土构件伸向庭院，围合出一个玻璃房间。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "改造以一座二十世纪七十年代的住宅为基础，在面向庭院的位置加入玻璃房。两道水平混凝土构件形成新空间的边界。",
+              "新增房间没有预先限定单一功能。住宅与庭院之间由此多了一个可按使用需求调整的空间。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.5,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "bfa799063c2c2413",
+      "url": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7",
+      "title": "Why are we cloning Photoshop?",
+      "summary": "AI is making it easy to recreate professional tools. I suspect there’s a bigger opportunity being overlooked. Editing in PhotoCraft October saw the release of PhotoCraft , an open-source Photoshop clone built with AI that had a similar capability set, but without Adobe Creative Cloud’s exorbitant monthly price tag. Building…",
+      "source": "UX Collective",
+      "category": "用户体验设计",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*Xh48AEBSG8maSKJqeuFfvQ.png",
+      "publishedAt": "2026-11-11T22:20:42+00:00",
+      "date": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "score": 47.5,
+      "issueDate": "2026-11-12",
+      "titleZh": "图像编辑工具的设计机会从哪里来",
+      "summaryZh": "评论从生成工具加速复刻专业软件谈起，追问编辑流程还有哪些值得重新设计的部分。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "生成工具让团队更容易重做已有图像编辑软件的界面和功能。文章由此讨论，熟悉的产品形态是否应该成为新工具的默认起点。",
+              "讨论把重点移向图像编辑的实际任务，提出可以从用户想完成的操作重新组织流程。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 9.6,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "9825a2771d7e74d0",
+      "url": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8",
+      "title": "Every click has a price now. Who designs how that “feels”?",
+      "summary": "As the all-you-can-eat AI era is ending, UX designers must adapt to a new reality Since the democratization of AI, roughly by the end of 2022, companies sold access to their products for less than it costs them to run. That didn’t last long. Now, to try the latest models or pro versions of certain tools, users need to pay extra…",
+      "source": "UX Collective",
+      "category": "人工智能设计",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*9uqAutsVFqEDaAeZlf7T9w.png",
+      "publishedAt": "2026-11-11T22:15:19+00:00",
+      "date": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "score": 47.5,
+      "issueDate": "2026-11-12",
+      "titleZh": "人工智能产品如何呈现每次操作的成本",
+      "summaryZh": "评论讨论按使用收费的产品怎样让用户理解操作与成本之间的关系。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "文章以人工智能产品从不限量使用走向按量收费为背景，讨论费用进入交互后的体验。",
+              "同一项操作既有功能结果，也可能消耗额度。如何让用户在点击时理解这两者的关系，成为界面设计的一部分。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 9.4,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "08a3b0ec5e99fb45",
+      "url": "https://uxdesign.cc/in-system-design-from-code-to-figma-and-back-prototyping-in-your-real-design-system-7372b128de9a",
+      "title": "In-system design: from code to Figma and back. Prototyping in your real design system",
+      "summary": "In-System Design 3/3 A practical guide for designers: why I stopped choosing between canvas and code, and how one prototype travels both ways. For designers who know Figma well and have never written production code, and for the design system teams around them. Every technical word is explained in the box at the end. I have a…",
+      "source": "UX Collective",
+      "category": "用户体验设计",
+      "image": "https://cdn-images-1.medium.com/max/1024/0*Eh6X8C_0RO5wInpt.jpeg",
+      "publishedAt": "2026-11-11T22:08:32+00:00",
+      "date": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "score": 47.5,
+      "issueDate": "2026-11-12",
+      "titleZh": "在真实设计系统里往返画布与代码",
+      "summaryZh": "设计实践记录讨论如何让同一个原型在设计画布与代码之间继续迭代。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "这篇实践指南以熟悉界面设计工具的设计师为读者，关注如何在同一个设计系统里做原型。",
+              "工作流让原型在画布与代码之间来回调整，设计师可以用画布继续构思，并在代码中查看方案的实际表现。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 9.4,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "e01e75099e0767a9",
+      "url": "https://www.designboom.com/art/marius-boekhorst-flowers-into-pixels-of-color-with-geometric-glass/",
+      "title": "marius boekhorst breaks down flowers into fragments of color with geometric glass",
+      "summary": "by filtering floral imagery through a familiar architectural material, the dutch designer explores how we look at nature, and what happens when we pause to see it",
+      "source": "designboom",
+      "category": "视觉设计",
+      "image": "https://i.ytimg.com/vi/_ZL729xUwJ8/hqdefault.jpg",
+      "publishedAt": "2026-11-11T21:35:40+00:00",
+      "date": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "score": 63.2,
+      "issueDate": "2026-11-12",
+      "images": [],
+      "video": {
+        "provider": "youtube",
+        "id": "_ZL729xUwJ8",
+        "url": "https://www.youtube.com/embed/_ZL729xUwJ8",
+        "thumbnail": "https://i.ytimg.com/vi/_ZL729xUwJ8/hqdefault.jpg",
+        "title": "The Beach House",
+        "author": "barth",
+        "duration": 0,
+        "verifiedAt": "2026-11-13T09:36:14+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/_ZL729xUwJ8/hqdefault.jpg"
+      ],
+      "titleZh": "几何玻璃把花卉图像分解成色块",
+      "summaryZh": "荷兰设计师用建筑中常见的玻璃材料过滤花卉图像，观察图像如何随观看方式变化。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "作品在花卉图像前加入几何玻璃。透过玻璃看过去，花卉的轮廓和颜色被重新分割。",
+              "设计师借熟悉的建筑材料改变观看条件，让观看者留意图像在这种介质中发生的变化。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 10.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "d488ee5cfe10f6d8",
+      "url": "https://www.designboom.com/technology/real-motors-futuristic-ares-electric-motorcycle-prototypes-03-04/",
+      "title": "real motors brings futuristic project: ARES electric motorcycle to life with new prototypes",
+      "summary": "with sculptural bodywork and an analog-inspired experience, project: ARES is preparing for its first 250 production",
+      "source": "designboom",
+      "category": "工业设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/real-motors-ares-motorcycle-designboom-01.jpg",
+      "publishedAt": "2026-11-11T19:20:46+00:00",
+      "date": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "score": 78.3,
+      "issueDate": "2026-11-12",
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/real-motors-ares-motorcycle-designboom-1800.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/real-motors-ares-motorcycle-designboom-01.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/real-motors-ares-motorcycle-designboom-02.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/real-motors-ares-motorcycle-designboom-03.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/real-motors-ares-motorcycle-designboom-04.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/real-motors-ares-motorcycle-designboom-05.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/real-motors-ares-motorcycle-designboom-06a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/real-motors-ares-motorcycle-designboom-07.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/real-motors-ares-motorcycle-designboom-08a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/real-motors-ares-motorcycle-designboom-09.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/real-motors-ares-motorcycle-designboom-010.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/real-motors-ares-motorcycle-designboom-011.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/real-motors-ares-motorcycle-designboom-012.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/real-motors-ares-motorcycle-designboom-013.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "_ZL729xUwJ8",
+        "url": "https://www.youtube.com/embed/_ZL729xUwJ8",
+        "thumbnail": "https://i.ytimg.com/vi/_ZL729xUwJ8/hqdefault.jpg",
+        "title": "The Beach House",
+        "author": "barth",
+        "duration": 0,
+        "verifiedAt": "2026-11-13T09:36:14+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/_ZL729xUwJ8/hqdefault.jpg"
+      ],
+      "titleZh": "电动摩托原型探索雕塑式车身",
+      "summaryZh": "团队公开新原型，采用雕塑式车身，并借鉴传统机车的使用体验。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "这款电动摩托在新一轮原型中展示了连续的车身形体。团队将雕塑般的外壳与传统机车带来的体验联系起来。",
+              "原文称团队正为首批生产做准备。现阶段公开的是原型与生产计划。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 25.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "af91e2fb319bf802",
+      "url": "https://www.archdaily.com/1009565/plantando-semillas-community-center-taller-aca",
+      "title": "Plantando Semillas Community Center / Taller ACÁ",
+      "summary": "Immersed in an informal context and located near the municipal landfill of Guatemala City , a project with human character promoted by the organization Planting Seeds International for the transformation of the environment stands up, a place for families in the community conceived as a dignified space to be and",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/654b/dbac/f96c/7645/9ebc/9858/medium_jpg/centro-comunitario-plantando-semillas-taller-aca_5.jpg?1699470269",
+      "publishedAt": "2026-11-11T19:00:00+00:00",
+      "date": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "score": 71.3,
+      "issueDate": "2026-11-12",
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dbb4/f96c/7645/9ebc/9860/thumb_jpg/centro-comunitario-plantando-semillas-taller-aca_4.jpg?1699470276"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dbb1/f96c/7645/9ebc/985c/thumb_jpg/centro-comunitario-plantando-semillas-taller-aca_12.jpg?1699470280"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dbaf/f96c/7651/4310/6d38/thumb_jpg/centro-comunitario-plantando-semillas-taller-aca_9.jpg?1699470271"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dbb2/f96c/7645/9ebc/985f/thumb_jpg/centro-comunitario-plantando-semillas-taller-aca_8.jpg?1699470274"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dbac/f96c/7645/9ebc/9858/medium_jpg/centro-comunitario-plantando-semillas-taller-aca_5.jpg?1699470269"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dba9/08e4/4477/908f/eeae/medium_jpg/centro-comunitario-plantando-semillas-taller-aca_1.jpg?1699470267"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dbb4/f96c/7645/9ebc/9861/medium_jpg/centro-comunitario-plantando-semillas-taller-aca_2.jpg?1699470279"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dbb0/f96c/7645/9ebc/985b/medium_jpg/centro-comunitario-plantando-semillas-taller-aca_3.jpg?1699470273"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dbb2/f96c/7645/9ebc/985d/medium_jpg/centro-comunitario-plantando-semillas-taller-aca_14.jpg?1699470274"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dba9/f96c/7645/9ebc/9857/medium_jpg/centro-comunitario-plantando-semillas-taller-aca_13.jpg?1699470265"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dbaf/f96c/7645/9ebc/985a/medium_jpg/centro-comunitario-plantando-semillas-taller-aca_6.jpg?1699470378"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dba6/f96c/7645/9ebc/9854/medium_jpg/centro-comunitario-plantando-semillas-taller-aca_7.jpg?1699470342"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dbb2/f96c/7645/9ebc/985e/medium_jpg/centro-comunitario-plantando-semillas-taller-aca_10.jpg?1699470275"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dba7/f96c/7645/9ebc/9855/medium_jpg/centro-comunitario-plantando-semillas-taller-aca_11.jpg?1699470264"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/db9d/08e4/4477/908f/eea9/medium_jpg/008-taller-aca-centro-comunitario-diagramas-9.jpg?1699470246"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dba2/08e4/4477/908f/eeac/medium_jpg/000-taller-aca-centro-comunitario-planta-conjunto-2-1.jpg?1699470332"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/db9e/08e4/4477/908f/eeaa/medium_jpg/001-taller-aca-centro-comunitario-planta-nivel-1-2.jpg?1699470324"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dba8/f96c/7645/9ebc/9856/medium_jpg/002-taller-aca-centro-comunitario-planta-nivel-mz-3.jpg?1699470333"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dba3/f96c/7645/9ebc/9853/medium_jpg/003-taller-aca-centro-comunitario-planta-nivel-2-4.jpg?1699470331"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/db9f/08e4/4477/908f/eeab/medium_jpg/004-taller-aca-centro-comunitario-planta-nivel-3-5.jpg?1699470328"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dba3/08e4/4477/908f/eead/medium_jpg/007-taller-aca-centro-comunitario-seccion-aa-8.jpg?1699470333"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dbaf/08e4/4477/908f/eeaf/medium_jpg/005-taller-aca-centro-comunitario-elevacion-a-6.jpg?1699470362"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654b/dbad/f96c/7645/9ebc/9859/medium_jpg/006-taller-aca-centro-comunitario-elevacion-cyd-7.jpg?1699470362"
+        }
+      ],
+      "titleZh": "危地马拉城垃圾填埋场附近建起社区中心",
+      "summaryZh": "播种国际组织发起社区中心项目，场地位于填埋场附近的非正规城市环境。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "项目位于危地马拉城的城市垃圾填埋场附近，周边是非正规城市环境。项目由当地服务组织发起。",
+              "项目以社区中心为用途，把可供居民聚集和开展活动的场所带入这一片区。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "4fc257a0ca16fa02",
+      "url": "https://www.stashmedia.tv/electric-theatre-collectives-ambitious-amphibian-adventure/",
+      "title": "Electric Theatre Collective’s Ambitious Amphibian Adventure",
+      "summary": "Working with Iconoclast directors Vania & Muggia, the VFX crew at ETC in London transform an axolotl (aquatic salamander native to Mexico City) into a Bridgerton -binging hero as part of a new Netflix campaign thru Mother.",
+      "source": "Stash",
+      "category": "动态设计",
+      "image": "https://i.vimeocdn.com/video/2225022880-2f69e5b00e0b0676bb445128f0987e5d7a4d4799e8755606a4003445345ab08d-d_1280?region=us",
+      "publishedAt": "2026-11-11T13:34:31+00:00",
+      "date": "2026-11-11",
+      "firstSeen": "2026-11-12",
+      "score": 70.5,
+      "issueDate": "2026-11-12",
+      "images": [
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/NETFLIX-ad-with-axolotl-by-Electric-Theatre-Collective-STASH-MAGAZINE3-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/NETFLIX-ad-with-axolotl-by-Electric-Theatre-Collective-STASH-MAGAZINE4-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/NETFLIX-ad-with-axolotl-by-Electric-Theatre-Collective-STASH-MAGAZINE2-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/NETFLIX-ad-with-axolotl-by-Electric-Theatre-Collective-STASH-MAGAZINE6-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/NETFLIX-ad-with-axolotl-by-Electric-Theatre-Collective-STASH-MAGAZINE-2048x1152.jpg"
+        }
+      ],
+      "video": {
+        "provider": "vimeo",
+        "id": "1245792412",
+        "url": "https://player.vimeo.com/video/1245792412",
+        "thumbnail": "https://i.vimeocdn.com/video/2225022880-2f69e5b00e0b0676bb445128f0987e5d7a4d4799e8755606a4003445345ab08d-d_1280?region=us",
+        "title": "Netflix high",
+        "author": "STASH",
+        "duration": 91,
+        "verifiedAt": "2026-11-13T10:46:31+00:00"
+      },
+      "videoGallery": [
+        "https://i.vimeocdn.com/video/2225022880-2f69e5b00e0b0676bb445128f0987e5d7a4d4799e8755606a4003445345ab08d-d_1280?region=us"
+      ],
+      "titleZh": "视效短片把美西螈变成故事主角",
+      "summaryZh": "伦敦视效团队与导演合作，以原生于墨西哥城的水生蝾螈为短片角色。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "短片以美西螈为主角，创意把现实中的水生蝾螈放入围绕剧集观看展开的故事。",
+              "导演和伦敦视效团队共同完成角色在镜头中的呈现。公开摘要交代了角色原型和制作分工，具体效果可通过原文观看。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 22.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "1dc60ab4ad5fbea9",
+      "url": "https://www.artofvfx.com/ferine-edi-effetti-digitali-italiani-brings-a-panther-to-life/",
+      "title": "Ferine: EDI Effetti Digitali Italiani Brings a Panther to Life",
+      "summary": "Italian visual effects studio EDI Effetti Digitali Italiani takes us behind the scenes of Ferine, revealing the creation and animation of the film’s digital black panther, from detailed anatomical modeling to its realistic movements and expressions. This making-of offers a fascinating look at the different stages involved in…",
+      "source": "Art of VFX",
+      "category": "动态设计",
+      "image": "https://i.ytimg.com/vi/lBtDkKAs3Yc/hqdefault.jpg",
+      "publishedAt": "2026-11-11T13:00:00+00:00",
+      "date": "2026-11-11",
+      "firstSeen": "2026-11-12",
+      "score": 58.4,
+      "issueDate": "2026-11-12",
+      "images": [],
+      "video": {
+        "provider": "youtube",
+        "id": "lBtDkKAs3Yc",
+        "url": "https://www.youtube.com/embed/lBtDkKAs3Yc",
+        "thumbnail": "https://i.ytimg.com/vi/lBtDkKAs3Yc/hqdefault.jpg",
+        "title": "Il making of del giaguaro nero di FERINE - Full CG",
+        "author": "EDI Effetti Digitali Italiani",
+        "duration": 0,
+        "verifiedAt": "2026-11-13T10:46:31+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/lBtDkKAs3Yc/hqdefault.jpg"
+      ],
+      "titleZh": "意大利视效团队拆解数字黑豹",
+      "summaryZh": "幕后报道从解剖建模到动作和表情，介绍黑豹如何在电影中获得可信的表现。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "视效团队为影片制作了数字黑豹，幕后材料先从动物身体的解剖结构讲起。",
+              "完成造型之后，还需要通过动作和表情把模型转成有表现力的角色。制作拆解展示了从身体结构到镜头中运动的过程。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 10.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "4bcb52752cc97a3a",
+      "url": "https://www.gcores.com/articles/222232",
+      "title": "专访《足球经理2027》主创团队：经历30年来最大的引擎阵痛后，如何赢回玩家的信任",
+      "summary": "作者：柏亚舟 在经历了《FM25》的取消与《FM26》全面转向Unity引擎初期的阵痛后，Sports Interactive（SI）带着全面打磨的《足球经理27》（Football Manager 2027）重返赛场。 在游戏发售之前，机核与多家国内媒体共同参与了官方组织的试玩会，在试玩会上，我们和众多资深玩家一起与主创进行了游戏与知识问答；同时，在试玩会期间也也对主创进行了的圆桌群访，就玩家最关心的UI重构、发行策略、战术系统底层逻辑、Mod生态以及AI技术应用等核心问题进行了深入交流。 以下为本次专访的完整实录整理： 受访人： Remy 游戏设计副总监 Andrew PR和产品负责人 一、 复盘转型阵痛与“免费抢先体验”的底气…",
+      "source": "Gcores",
+      "category": "游戏设计",
+      "image": "https://image.gcores.com/47886bae7c4acdc9a2480caf19948ecd-1500-1000.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
+      "publishedAt": "2026-11-11T12:41:37+00:00",
+      "date": "2026-11-11",
+      "firstSeen": "2026-11-12",
+      "score": 46.0,
+      "issueDate": "2026-11-12",
+      "images": [
+        {
+          "url": "https://image.gcores.com/f2c9c3395b2c2f37666d27dda8e7dcb2-1500-1000.jpg"
+        },
+        {
+          "url": "https://image.gcores.com/613eb5777894759bf33ff9d68b57c9c2-7000-4669.jpg"
+        }
+      ],
+      "titleZh": "《足球经理》主创谈引擎迁移后的界面与战术系统",
+      "summaryZh": "机核的圆桌访谈梳理新作的界面重构、战术逻辑和模组生态。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "在系列取消一代作品、随后切换引擎之后，主创团队就新作参与了试玩和圆桌问答。界面重构是访谈关注的主要问题之一。",
+              "团队也谈到了战术系统底层逻辑、玩家模组生态和人工智能的应用。这些话题分别涉及玩家怎样操作游戏，以及比赛模拟与扩展内容如何组织。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 6.0,
+        "completeness": 9.9,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "8b02f9081261d426",
+      "url": "https://www.itsnicethat.com/articles/biabum-graphic-design-illustration-discover-111126",
+      "title": "Why the retro brand identities of Biabum studio have illustration built into their DNA",
+      "summary": "The Brazilian studio has a knack for finding the right colour palette to create something that will move",
+      "source": "Its Nice That",
+      "category": "视觉设计",
+      "image": "https://admin.itsnicethat.com/images/XGNyWE8Hi4xh0qokiup1ibkLHso=/284079/width-1440/Biabum_Salva_Bar_1.jpg",
+      "publishedAt": "2026-11-11T09:00:00+00:00",
+      "date": "2026-11-11",
+      "firstSeen": "2026-11-12",
+      "score": 66.4,
+      "issueDate": "2026-11-12",
+      "images": [
+        {
+          "url": "https://m.itsnicethat.com/original_images/Biabum_Salva_Bar_1.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Biabum_Giro_1.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Biabum_Giro_3.gif?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Biabum_Giro_2.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Biabum_Salva_Bar_2.gif?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Biabum_Meio_Dia_Meia_Noite_1.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Biabum_Meio_Dia_Meia_Noite_2.gif?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Biabum_Revista_Tartaruga_1.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Biabum_Pelo_Direito_de_Ser_Crianca_3.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Biabum_Pelo_Direito_de_Ser_Crianca_1.jpg?class=w1920"
+        }
+      ],
+      "titleZh": "巴西工作室以插画建立复古品牌识别",
+      "summaryZh": "工作室将插画纳入品牌识别的基础设计，并用调色板协调不同图形。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "巴西设计团队在品牌项目中把插画作为识别系统的一部分，图像参与定义品牌的视觉语气。",
+              "作品以复古风格为线索，工作室为不同项目挑选各自的色彩组合，以协调插画和其他识别元素。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "067b0cb35399526b",
+      "url": "https://www.archdaily.com/1188481/sumayya-vally-unveils-first-permanent-uae-project-with-dubais-elie-khouri-art-foundation",
+      "title": "Sumayya Vally Unveils First Permanent UAE Project With Dubai’s Elie Khouri Art Foundation",
+      "summary": "The Elie Khouri Art Foundation (EKAF) has appointed Sumayya Vally of Johannesburg - and London -based practice Counterspace to design its permanent home in Dubai , United Arab Emirates . Scheduled to open in late 2028, the institution will occupy a repurposed villa in the Jumeirah 1 district, transforming the existing…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6af4/45b2/8074/f401/89de/e2fe/medium_jpg/sumayya-vally-unveils-first-permanent-uae-project-with-dubais-elie-khouri-art-foundation_2.jpg?1794393599",
+      "publishedAt": "2026-11-11T06:30:00+00:00",
+      "date": "2026-11-11",
+      "firstSeen": "2026-11-12",
+      "score": 54.5,
+      "issueDate": "2026-11-12",
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/45b2/8074/f401/89de/e2fe/medium_jpg/sumayya-vally-unveils-first-permanent-uae-project-with-dubais-elie-khouri-art-foundation_2.jpg?1794393599"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/4558/c23f/1f01/895a/f2bb/medium_jpg/sumayya-vally-unveils-first-permanent-uae-project-with-dubais-elie-khouri-art-foundation_1.jpg?1794393569"
+        }
+      ],
+      "titleZh": "迪拜旧别墅拟改作当代艺术基金会永久馆舍",
+      "summaryZh": "艺术基金会委托建筑师苏马亚·瓦利设计永久馆舍，计划于二〇二八年晚些时候开放。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "基金会委托苏马亚·瓦利及其团队设计在迪拜的永久馆舍。项目将通过改造既有别墅，为基金会的当代艺术活动提供固定场所。",
+              "开放时间目前计划在二〇二八年晚些时候。项目仍处于公布方案阶段。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 6.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
     {
       "id": "aeed7840e558e4fe",
       "url": "https://www.printmag.com/product-design/one-size-fits-men/",
@@ -5927,7 +6818,7 @@
     {
       "id": "1b3665af20474362",
       "url": "https://www.gamedeveloper.com/design/what-rami-ismail-learned-with-his-return-to-game-development",
-      "title": "What Rami Ismail learned with his return to game development",
+      "title": "What Rami Ismail learned during his return to game development",
       "summary": "Indie dev advocate Rami Ismail has returned to making games after six years away from active",
       "source": "Game Developer",
       "category": "游戏设计",
@@ -38734,6 +39625,31 @@
         "lead": "从默认使用者到城市记忆，",
         "title": "设计如何让更多人被看见。",
         "subtitle": "本期观察产品适配、公共纪念和日常材料的新用途。"
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "articleIds": [
+        "0c83dbbd3b641e80",
+        "912c71746f0ad19b",
+        "64ae529a35599e68",
+        "bfa799063c2c2413",
+        "9825a2771d7e74d0",
+        "08a3b0ec5e99fb45",
+        "e01e75099e0767a9",
+        "d488ee5cfe10f6d8",
+        "af91e2fb319bf802",
+        "4fc257a0ca16fa02",
+        "1dc60ab4ad5fbea9",
+        "4bcb52752cc97a3a",
+        "8b02f9081261d426",
+        "067b0cb35399526b"
+      ],
+      "updatedAt": "2026-11-12T22:28:16.270766+08:00",
+      "masthead": {
+        "lead": "十一月十二日设计日报",
+        "title": "从町屋到设计画布",
+        "subtitle": "旧住宅的新用途、品牌插画与人工智能产品的交互成本"
       }
     }
   ],
