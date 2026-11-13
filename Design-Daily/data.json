@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-12T22:28:16.270766+08:00",
+  "updatedAt": "2026-11-13T18:55:24.932763+08:00",
   "sources": [
     {
       "name": "Dezeen",
       "label": "德泽恩",
-      "category": "工业设计",
       "url": "https://www.dezeen.com/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "category": "工业设计",
+      "ok": true,
+      "count": 50,
+      "latestPublishedAt": "2026-11-13T10:00:00+00:00"
     },
     {
       "name": "designboom",
@@ -17,7 +17,7 @@
       "category": "空间设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-12T11:50:47+00:00"
+      "latestPublishedAt": "2026-11-13T10:10:04+00:00"
     },
     {
       "name": "Yanko Design",
@@ -26,16 +26,16 @@
       "category": "工业设计",
       "ok": true,
       "count": 16,
-      "latestPublishedAt": "2026-11-12T14:20:54+00:00"
+      "latestPublishedAt": "2026-11-13T10:15:38+00:00"
     },
     {
       "name": "Smashing Magazine",
       "label": "设计与开发杂志",
-      "category": "用户体验设计",
       "url": "https://www.smashingmagazine.com/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "category": "用户体验设计",
+      "ok": true,
+      "count": 40,
+      "latestPublishedAt": "2026-11-12T10:00:00+00:00"
     },
     {
       "name": "Nielsen Norman Group",
@@ -53,7 +53,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-12T13:32:29+00:00"
+      "latestPublishedAt": "2026-11-12T14:32:28+00:00"
     },
     {
       "name": "Core77",
@@ -62,16 +62,16 @@
       "category": "工业设计",
       "ok": true,
       "count": 15,
-      "latestPublishedAt": "2026-11-10T16:00:00+00:00"
+      "latestPublishedAt": "2026-11-12T21:49:00+00:00"
     },
     {
       "name": "Creative Bloq",
       "label": "创意视界",
-      "category": "视觉设计",
       "url": "https://www.creativebloq.com/feeds/all",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "category": "视觉设计",
+      "ok": true,
+      "count": 25,
+      "latestPublishedAt": "2026-11-13T10:00:00+00:00"
     },
     {
       "name": "UX Collective",
@@ -80,16 +80,16 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-12T11:14:40+00:00"
+      "latestPublishedAt": "2026-11-13T02:33:09+00:00"
     },
     {
       "name": "UX Planet",
       "label": "用户体验星球",
-      "category": "用户体验设计",
       "url": "https://uxplanet.org/feed",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "category": "用户体验设计",
+      "ok": true,
+      "count": 10,
+      "latestPublishedAt": "2026-11-12T14:13:39+00:00"
     },
     {
       "name": "Codrops",
@@ -103,38 +103,38 @@
     {
       "name": "Awwwards",
       "label": "网页设计奖",
-      "category": "用户体验设计",
       "url": "https://www.awwwards.com/blog/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "category": "用户体验设计",
+      "ok": true,
+      "count": 30,
+      "latestPublishedAt": "2026-08-31T14:39:00+00:00"
     },
     {
       "name": "Design Milk",
       "label": "设计牛奶",
-      "category": "工业设计",
       "url": "https://design-milk.com/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "category": "工业设计",
+      "ok": true,
+      "count": 12,
+      "latestPublishedAt": "2026-11-12T14:00:54+00:00"
     },
     {
       "name": "Creative Boom",
       "label": "创意浪潮",
-      "category": "视觉设计",
       "url": "https://www.creativeboom.com/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "category": "视觉设计",
+      "ok": true,
+      "count": 20,
+      "latestPublishedAt": "2026-11-12T07:00:00+00:00"
     },
     {
       "name": "Car Body Design",
       "label": "汽车车身设计",
-      "category": "工业设计",
       "url": "https://www.carbodydesign.com/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "category": "工业设计",
+      "ok": true,
+      "count": 10,
+      "latestPublishedAt": "2026-10-26T18:12:43+00:00"
     },
     {
       "name": "Stash",
@@ -152,7 +152,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-11-12T13:00:00+00:00"
+      "latestPublishedAt": "2026-11-12T19:00:00+00:00"
     },
     {
       "name": "Blender",
@@ -170,7 +170,7 @@
       "category": "人工智能设计",
       "ok": true,
       "count": 60,
-      "latestPublishedAt": "2026-11-12T00:00:00+00:00"
+      "latestPublishedAt": "2026-11-12T19:07:35+00:00"
     },
     {
       "name": "UISDC",
@@ -307,7 +307,7 @@
       "category": "建筑设计",
       "ok": true,
       "count": 24,
-      "latestPublishedAt": "2026-11-12T07:30:00+00:00"
+      "latestPublishedAt": "2026-11-13T04:00:00+00:00"
     },
     {
       "name": "Wallpaper",
@@ -316,7 +316,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-11-12T12:56:55+00:00"
+      "latestPublishedAt": "2026-11-13T10:30:32+00:00"
     },
     {
       "name": "Its Nice That",
@@ -325,7 +325,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-11-12T09:00:00+00:00"
+      "latestPublishedAt": "2026-11-12T14:00:00+00:00"
     },
     {
       "name": "Design Week",
@@ -424,7 +424,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 36,
-      "latestPublishedAt": "2026-11-12T09:02:25+00:00"
+      "latestPublishedAt": "2026-11-13T09:31:07+00:00"
     },
     {
       "name": "Figma",
@@ -532,7 +532,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-12T14:03:19+00:00"
+      "latestPublishedAt": "2026-11-12T18:45:08+00:00"
     },
     {
       "name": "Packaging of the World",
@@ -611,7 +611,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-11T08:26:34+00:00"
+      "latestPublishedAt": "2026-11-13T09:03:20+00:00"
     },
     {
       "name": "Fast Company UX",
@@ -629,7 +629,7 @@
       "category": "人工智能设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-11-11T18:00:00+00:00"
+      "latestPublishedAt": "2026-11-12T18:00:00+00:00"
     },
     {
       "name": "Adobe Developers Blog",
@@ -661,7 +661,7 @@
       "category": "游戏设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-11-11T19:15:00+00:00"
+      "latestPublishedAt": "2026-11-12T19:15:00+00:00"
     },
     {
       "name": "80 Level",
@@ -670,7 +670,7 @@
       "category": "游戏设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-12T14:55:00+00:00"
+      "latestPublishedAt": "2026-11-13T09:52:00+00:00"
     },
     {
       "name": "Gcores",
@@ -678,11 +678,969 @@
       "url": "https://www.gcores.com/rss",
       "category": "游戏设计",
       "ok": true,
-      "count": 15,
-      "latestPublishedAt": "2026-11-12T14:05:12+00:00"
+      "count": 19,
+      "latestPublishedAt": "2026-11-13T10:07:43+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "3bb5482d88376474",
+      "url": "https://www.yankodesign.com/2026/11/13/daylight-machines-linear-clock-turns-24-hours-into-a-glowing-progress-bar/",
+      "title": "Daylight Machines’ Linear Clock Turns 24 Hours Into a Glowing Progress Bar",
+      "summary": "Daylight Machines’ Linear Clock Turns 24 Hours Into a Glowing Progress Bar A digital clock can tell you it’s 3 p.m., but working out what’s left of the day is still your job. Daylight Machines’ Linear",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/11/daylight-machines-linear-clock-turns-24-hours-into-a-glowing-progress-bar/daylight-machines-linear-calendar-05.jpg",
+      "publishedAt": "2026-11-13T09:15:26+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "score": 61.9,
+      "issueDate": "2026-11-13",
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/daylight-machines-linear-clock-turns-24-hours-into-a-glowing-progress-bar/daylight-machines-linear-calendar-05.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/daylight-machines-linear-clock-turns-24-hours-into-a-glowing-progress-bar/daylight-machines-linear-calendar-06.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/daylight-machines-linear-clock-turns-24-hours-into-a-glowing-progress-bar/daylight-machines-linear-calendar-04.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/daylight-machines-linear-clock-turns-24-hours-into-a-glowing-progress-bar/daylight-machines-linear-calendar-03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/daylight-machines-linear-clock-turns-24-hours-into-a-glowing-progress-bar/daylight-machines-linear-calendar-02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/daylight-machines-linear-clock-turns-24-hours-into-a-glowing-progress-bar/daylight-machines-linear-calendar-01.jpg"
+        }
+      ],
+      "titleZh": "线性时钟把一天画成发光进度条",
+      "summaryZh": "显示将二十四小时映射到一条光带，便于观察当天已经过了多少。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "线性时钟用光带表达一天的进度。",
+              "传统数字时间需要读出当前时刻，光带则把已过去和剩余时间放在同一连续尺度上。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 8.9,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "227fdc70f5e1fb15",
+      "url": "https://www.dezeen.com/2026/11/13/va-east-storehouse-wayfinding-graphics/",
+      "title": "Gen Z apps inform approachable wayfinding for V&A East Storehouse",
+      "summary": "On a mission to draw in museum sceptics, Hackney design studio Fieldwork Facility looked to an unexpected source of inspiration when creating the Dezeen Award-shortlisted wayfinding for London's V&A East",
+      "source": "Dezeen",
+      "category": "用户体验设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/sq-fieldwork-facility-va-east-storehouse-wayfinding_dezeen_2364_col_0-1024x1024.jpg",
+      "publishedAt": "2026-11-13T09:00:00+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "score": 70.9,
+      "issueDate": "2026-11-13",
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fieldwork-facility-va-east-storehouse-wayfinding_dezeen_2364_col_1-1664x2048.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fieldwork-facility-va-east-storehouse-wayfinding_dezeen_2364_col_4-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fieldwork-facility-va-east-storehouse-wayfinding_dezeen_2364_col_8-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fieldwork-facility-va-east-storehouse-wayfinding_dezeen_2364_col_7-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fieldwork-facility-va-east-storehouse-wayfinding_dezeen_2364_col_2-1536x1152.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fieldwork-facility-va-east-storehouse-wayfinding_dezeen_2364_col_3-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fieldwork-facility-va-east-storehouse-wayfinding_dezeen_2364_col_11-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fieldwork-facility-va-east-storehouse-wayfinding_dezeen_2364_col_9-1536x1152.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fieldwork-facility-va-east-storehouse-wayfinding_dezeen_2364_col_10-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/fieldwork-facility-va-east-storehouse-wayfinding_dezeen_2364_col_6-scaled.jpg"
+        }
+      ],
+      "titleZh": "博物馆导视借鉴年轻人熟悉的应用",
+      "summaryZh": "伦敦设计工作室为开放库房设计导视，希望降低初访者的进入门槛。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "团队把平日较少逛博物馆的人纳入设计对象。",
+              "为了使库房更易接近，他们从年轻访客熟悉的应用界面寻找视觉和沟通方式。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 8.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "69cc3b04fbc0e289",
+      "url": "https://www.designboom.com/architecture/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners/",
+      "title": "prefabricated timber house by NOA is designed to move with its owners",
+      "summary": "a home without a fixed address, dekruif house explores how prefabrication can offer greater flexibility in where and how people",
+      "source": "designboom",
+      "category": "建筑设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-11.jpg",
+      "publishedAt": "2026-11-13T08:45:06+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "score": 77.9,
+      "issueDate": "2026-11-13",
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-1800.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-11.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-13.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-14.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-04.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-03.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-05.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-15.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-06.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-large02.gif"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-12.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-07.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-10.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-large01.gif"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-08.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-01.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/prefabricated-timber-dekruif-house-noa-noa-network-architecture-owners-designboom-09.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "_ZL729xUwJ8",
+        "url": "https://www.youtube.com/embed/_ZL729xUwJ8",
+        "thumbnail": "https://i.ytimg.com/vi/_ZL729xUwJ8/hqdefault.jpg",
+        "title": "The Beach House",
+        "author": "barth",
+        "duration": 0,
+        "verifiedAt": "2026-11-13T10:59:21+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/_ZL729xUwJ8/hqdefault.jpg"
+      ],
+      "titleZh": "预制木屋探索随住户迁移的居住方式",
+      "summaryZh": "设计从可迁移住宅出发，讨论预制建造如何增加场地选择。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "团队把住宅设想为不必长期固定在同一地址的居所。",
+              "预制木结构是设计的出发点，项目借此探索住宅在位置变化后的使用方式。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 25.0,
+        "completeness": 8.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "6e1a126976765968",
+      "url": "https://www.gcores.com/articles/222314",
+      "title": "开普勒互动首度公开新作《坦克狂途》实机演示",
+      "summary": "开普勒互动首度公开新作《坦克狂途》实机演示。在一段全新实机演示片段中，Alpha Channel 与 Kepler Interactive 揭晓了备受期待的坦克动作游戏《坦克狂途》（TankRat）此前从未公开的全新细节 。 <内嵌内容，请前往机核查看> 全新任务，全新机制 本次实机演示的核心是“铁袭”（Ironstrike）任务——这是《坦克狂途》中的一个全新关卡，在其前作《TankHead》中从未出现过 。随着主角惠特克（Whittaker）踏上寻找其现已数字化的自我的原始副本——即他的“零号人格”（Persona Zero）的旅程，玩家得以从全新视角一窥这个世界的背景设定…",
+      "source": "Gcores",
+      "category": "游戏设计",
+      "image": "https://image.gcores.com/9c1e6da66fb2f43b762675a618628658-1920-1080.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
+      "publishedAt": "2026-11-13T07:32:59+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "score": 55.9,
+      "issueDate": "2026-11-13",
+      "images": [
+        {
+          "url": "https://image.gcores.com/9c1e6da66fb2f43b762675a618628658-1920-1080.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1600/quality,q_90/format,webp"
+        },
+        {
+          "url": "https://image.gcores.com/4b0f93fb26590c9873dbb71c10a50a57-1265-710.png"
+        },
+        {
+          "url": "https://image.gcores.com/db497419dd041ccd09098e5d37251d0c-1265-710.png"
+        },
+        {
+          "url": "https://image.gcores.com/82f12558388d7b18cb98a55b6293180c-1265-710.png"
+        }
+      ],
+      "titleZh": "《坦克狂途》用实机演示公开新关卡",
+      "summaryZh": "新演示以铁袭任务为中心，展示坦克动作玩法在新关卡中的运用。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "开发与发行团队首次公开新任务的实机片段。",
+              "铁袭关卡是此次演示的主要内容，玩家可从连续游玩画面看到任务怎样展开。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 12.0,
+        "completeness": 8.9,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "477ae8d691e0aee3",
+      "url": "https://www.gcores.com/articles/222310",
+      "title": "Gamirror Games宣布发行骰子计算游戏《算鼠英雄》，全新Demo今日上线",
+      "summary": "发行商Gamirror Games今日宣布，将代理发行由Filiokus团队开发的骰子计算主题Roguelike卡牌构筑游戏《算鼠英雄》(Talystro)。在这款游戏中，攻略敌人靠的不是攻防，而是一道道算式——只要计算结果匹配敌人的数值，就能当场将其清除！ Steam商店页面： https://store.steampowered.com/app/3524740/ <内嵌内容，请前往机核查看> 游戏全新Demo版本在今日更新上线，无论是初次接触游戏的新玩家，还是此前体验过Demo的老玩家，都欢迎前来尝试这次更新！ 关于《算鼠英雄》 《算鼠英雄》是一款以数学计算为核心玩法的Roguelike卡牌构筑游戏。…",
+      "source": "Gcores",
+      "category": "游戏设计",
+      "image": "https://image.gcores.com/8ea2a366f9fdff2039d16870f0ebb169-1920-1080.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
+      "publishedAt": "2026-11-13T07:13:57+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "score": 58.8,
+      "issueDate": "2026-11-13",
+      "images": [
+        {
+          "url": "https://image.gcores.com/8ea2a366f9fdff2039d16870f0ebb169-1920-1080.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1600/quality,q_90/format,webp"
+        },
+        {
+          "url": "https://image.gcores.com/5a55895453faa99415a9162d6acfbbbe-1920-1080.jpg"
+        },
+        {
+          "url": "https://image.gcores.com/86faa198b01133eea0841a3c1a2f5812-1920-1080.jpg"
+        },
+        {
+          "url": "https://image.gcores.com/070b3f2c664cb22398891150b73b8a82-1920-1080.jpg"
+        },
+        {
+          "url": "https://image.gcores.com/151b8090a40ff8a1076e0bfdacad5650-1920-1080.jpg"
+        }
+      ],
+      "titleZh": "《算鼠英雄》用算式匹配敌人数值",
+      "summaryZh": "骰子构筑试玩版把击败敌人的条件设为算出对应数值。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "玩家需要利用手中的骰子与构筑选择组成算式。",
+              "当结果与敌人标出的数字一致，便可以清除目标。试玩版已公开。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 15.0,
+        "completeness": 8.8,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "2ad1d97a1940506f",
+      "url": "https://www.gcores.com/articles/222300",
+      "title": "《黎明杀机》将在WePlay公布全新直播模式与血腥内容自定义选项",
+      "summary": "在 WePlay 上海展会上，Behaviour Interactive 将介绍《黎明杀机》即将推出的一系列全新设置，旨在让玩家能够更自由地调整游戏标志性的惊悚与杀戮效果。 自 11 月 24 日 起，玩家可以自定义《黎明杀机》中的部分血腥画面，以适应不同地区的相关规范，同时保留十余年来吸引玩家的紧张感、悬念与惊吓体验。 分享恐怖体验 自发售以来，内容创作者与主播一直是《黎明杀机》连接全球玩家的重要桥梁。然而，不同平台和地区对血腥内容各有规范，让玩家分享“恶灵幻境“中的恐怖经历并非总是那么容易。 为应对这些挑战，《黎明杀机》将推出一系列全新设置，让玩家能够更灵活地调整对局中部分游戏画面的呈现方式，减少额外的内容遮挡处理，并改善整体观看体验。 全新的…",
+      "source": "Gcores",
+      "category": "游戏设计",
+      "image": "https://image.gcores.com/2b620be6eba9446f0985dc0552fd14d2-1268-714.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
+      "publishedAt": "2026-11-13T06:31:11+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "score": 61.9,
+      "issueDate": "2026-11-13",
+      "images": [
+        {
+          "url": "https://image.gcores.com/2b620be6eba9446f0985dc0552fd14d2-1268-714.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1600/quality,q_90/format,webp"
+        },
+        {
+          "url": "https://image.gcores.com/adf8435b53244d4f1b63007080a9d24d-1268-714.jpeg"
+        },
+        {
+          "url": "https://image.gcores.com/e0f3a61d4e000ebdf0de0550540e0514-936-133.png"
+        },
+        {
+          "url": "https://image.gcores.com/b3875ccb0214f758270339e1390387e9-936-133.png"
+        },
+        {
+          "url": "https://image.gcores.com/70f2c7d6019680e0cff73269091a20fb-936-526.png"
+        },
+        {
+          "url": "https://image.gcores.com/4cd1b2656de61b990b51f31fb31d2b37-832-936.png"
+        },
+        {
+          "url": "https://image.gcores.com/6d4750b5cdbaad2ab008dc5b61d9fc5e-831-936.png"
+        }
+      ],
+      "titleZh": "《黎明杀机》公布可调节的血腥画面选项",
+      "summaryZh": "新设置允许玩家调整部分惊悚画面，团队也将介绍直播模式。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "游戏计划从十一月二十四日起开放部分血腥内容的自定义。",
+              "团队希望给玩家更多控制权，同时保留游戏中的紧张感与悬念。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 8.9,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "162907aed4cf9936",
+      "url": "https://www.dezeen.com/2026/11/13/kino-3d-printed-chair-pablo-castillo-decibel/",
+      "title": "Pablo Castillo partners with Decibel on 3D-printed chair with under-seat storage",
+      "summary": "A bookshelf slots in below the cantilevered seat of Kino, a 3D-printed chair developed by Barcelona-based designer Pablo Castillo. Castillo designed Kino for Decibel, an American company that specialises in 3D-printed furniture and installations. It is shortlisted for seating design of the year in the upcoming Dezeen Awards.…",
+      "source": "Dezeen",
+      "category": "工业设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/kino-decibel-pablo-castillo_dezeen_2364_col_0-sq-1024x1024.jpg",
+      "publishedAt": "2026-11-13T06:00:00+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "score": 71.0,
+      "issueDate": "2026-11-13",
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kino-decibel-pablo-castillo_dezeen_2364_col_0-hero-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kino-decibel-pablo-castillo_dezeen_2364_col_1-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kino-decibel-pablo-castillo_dezeen_2364_col_2c-1638x2048.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kino-decibel-pablo-castillo_dezeen_2364_col_5-1638x2048.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kino-decibel-pablo-castillo_dezeen_2364_col_3-1638x2048.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kino-decibel-pablo-castillo_dezeen_2364_col_4-scaled.jpg"
+        }
+      ],
+      "titleZh": "三维打印悬臂椅在座面下加入书架",
+      "summaryZh": "巴塞罗那设计师把收纳空间设在悬臂座面下。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "这款椅子采用三维打印制作，由巴勃罗·卡斯蒂略与合作方共同开发。",
+              "座面下的空间留给书架，座椅和收纳因此共享同一个占地。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 8.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "a8e8708f444cfde7",
+      "url": "https://www.designboom.com/architecture/hyan-1970s-timber-frame-live-work-residence-hayama-japan-green-sandwich-house/",
+      "title": "hyan adapts 1970s timber frame into live-work residence on the hills of hayama",
+      "summary": "the existing columns and beams are retained and structurally strengthened, while the interior is reorganized around a double-height living room and a recessed doma created from a former tatami",
+      "source": "designboom",
+      "category": "建筑设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/hyan-renovation-1970s-timber-house-studio-hayama-japan-designboom-3.jpg",
+      "publishedAt": "2026-11-13T03:10:43+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "score": 78.0,
+      "issueDate": "2026-11-13",
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/hyan-renovation-1970s-timber-house-studio-hayama-japan-designboom-1800-1.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/hyan-renovation-1970s-timber-house-studio-hayama-japan-designboom-3.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470698/2026-11-10/hyan-renovates-its-own-1970s-hayama-home-instead-of-demolishing-it-1-6af3408b272f9.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470698/2026-11-10/hyan-renovates-its-own-1970s-hayama-home-instead-of-demolishing-it-4-6af3408b273f9.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/hyan-renovation-1970s-timber-house-studio-hayama-japan-designboom-1800-3.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470698/2026-11-10/hyan-renovates-its-own-1970s-hayama-home-instead-of-demolishing-it-5-6af3408b27437.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470698/2026-11-10/hyan-renovates-its-own-1970s-hayama-home-instead-of-demolishing-it-10-6af3408b275a8.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470698/2026-11-10/hyan-renovates-its-own-1970s-hayama-home-instead-of-demolishing-it-8-6af3408b2752a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/hyan-renovation-1970s-timber-house-studio-hayama-japan-designboom-1800-2.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470698/2026-11-10/hyan-renovates-its-own-1970s-hayama-home-instead-of-demolishing-it-9-6af3408b2756c.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470698/2026-11-10/hyan-renovates-its-own-1970s-hayama-home-instead-of-demolishing-it-6-6af3408b274a5.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470698/2026-11-10/hyan-renovates-its-own-1970s-hayama-home-instead-of-demolishing-it-7-6af3408b274ec.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/hyan-renovation-1970s-timber-house-studio-hayama-japan-designboom-1800-4.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/hyan-renovation-1970s-timber-house-studio-hayama-japan-designboom-10.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/hyan-renovation-1970s-timber-house-studio-hayama-japan-designboom-11.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "_ZL729xUwJ8",
+        "url": "https://www.youtube.com/embed/_ZL729xUwJ8",
+        "thumbnail": "https://i.ytimg.com/vi/_ZL729xUwJ8/hqdefault.jpg",
+        "title": "The Beach House",
+        "author": "barth",
+        "duration": 0,
+        "verifiedAt": "2026-11-13T10:59:21+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/_ZL729xUwJ8/hqdefault.jpg"
+      ],
+      "titleZh": "叶山旧木屋保留梁柱并改成工作住宅",
+      "summaryZh": "改造保留和加固原结构，将室内重新组织在挑高起居室周围。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "项目利用二十世纪七十年代留下的木构住宅。",
+              "既有梁柱得到保留及加固，室内围绕双层高的起居空间重新组织，容纳居住与工作。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 25.0,
+        "completeness": 8.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "124de644b7a80e9f",
+      "url": "https://www.dezeen.com/2026/11/12/finnegan-shannon-conveyor-accessibility-pioneer-works-brooklyn/",
+      "title": "Finnegan Shannon installs conveyor belt for displaying art accessibly in Brooklyn",
+      "summary": "New York City-based artist Finnegan Shannon has installed a conveyor belt to display art at cultural centre Pioneer Works in Brooklyn, USA, as a commentary on accessibility in art. According to Pioneer Works, the There's No Me Without You installation fulfils Shannon’s “longtime fantasy of an exhibition space that would meet…",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/finnegan-shannon-conveyor-belt-pioneer-works_dezeen_2364_sq-1024x1024.jpg",
+      "publishedAt": "2026-11-12T20:18:29+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-13",
+      "score": 71.0,
+      "issueDate": "2026-11-13",
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/finnegan-shannon-conveyor-belt-pioneer-works_dezeen_2364_hero-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/finnegan-shannon-conveyor-belt-pioneer-works_dezeen_2364_col_0-1536x1152.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/finnegan-shannon-conveyor-belt-pioneer-works_dezeen_2364_col_1.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/finnegan-shannon-conveyor-belt-pioneer-works_dezeen_2364_col_2.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/finnegan-shannon-conveyor-belt-pioneer-works_dezeen_2364_col_3.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/finnegan-shannon-conveyor-belt-pioneer-works_dezeen_2364_col_4.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/finnegan-shannon-conveyor-belt-pioneer-works_dezeen_2364_col_5-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/finnegan-shannon-conveyor-belt-pioneer-works_dezeen_2364_col_6-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/finnegan-shannon-conveyor-belt-pioneer-works_dezeen_2364_col_7.jpg"
+        }
+      ],
+      "titleZh": "布鲁克林展览用传送带改善作品观看体验",
+      "summaryZh": "艺术家在文化中心装入传送带，尝试让作品以不同方式经过观众。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "芬尼根·香农在布鲁克林文化中心用传送带呈现作品。",
+              "装置将可达性纳入展示方式，让观看体验围绕作品和观众之间的距离重新组织。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.0,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "e8f7c2138901bae7",
+      "url": "https://www.figma.com/blog/how-3d-transforms-and-figmas-agent-brought-a-launch-video-to-life/",
+      "title": "How 3D transforms and Figma’s agent brought a launch video to life",
+      "summary": "See how Figma’s Brand Studio team combined 3D design, agent-built plugins, shaders, and motion to create a video together on the",
+      "source": "Figma",
+      "category": "动态设计",
+      "image": "https://cdn.sanity.io/images/599r6htc/regionalized/02f264d3e112d6229cb18015b9fa6b7123a380c9-1920x1080.png?w=528&q=75&fit=max&auto=format&dpr=2",
+      "publishedAt": "2026-11-12T14:00:00+00:00",
+      "date": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "score": 65.0,
+      "issueDate": "2026-11-13",
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/599r6htc/regionalized/02f264d3e112d6229cb18015b9fa6b7123a380c9-1920x1080.png?w=528&q=75&fit=max&auto=format&dpr=2"
+        },
+        {
+          "url": "https://cdn.sanity.io/images/599r6htc/regionalized/222f89045df6d65e95959134992974b5d8d51f31-3840x2160.png?w=804&q=75&fit=max&auto=format&dpr=2"
+        }
+      ],
+      "titleZh": "品牌团队在共享画布制作三维发布短片",
+      "summaryZh": "制作过程结合三维变换、着色器、动效与设计助手生成的插件。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "官方制作案例记录品牌团队如何在同一画布协作。",
+              "三维变换、着色器和动效共同构成画面，团队还用设计助手制作流程所需的插件。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 6.0,
+        "completeness": 9.0,
+        "source": 30.0
+      }
+    },
+    {
+      "id": "6fa9c8fc20ed5b46",
+      "url": "https://www.stashmedia.tv/roof-studio-pedro-allevato-stay-hands-on-for-clash-royale/",
+      "title": "Roof Studio & Pedro Allevato Stay Hands On for Clash Royale",
+      "summary": "Working to Supercell's brief that no AI be used in their newest Clash Royal trailer, director Pedro Allevato and the animation team at Roof Studio in New York, responded with this handcrafted, frame-by-frame watercolor treatment.",
+      "source": "Stash",
+      "category": "动态设计",
+      "image": "https://i.vimeocdn.com/video/2224598254-f6ec7239b2f29b3865daaa78a7658ebf04a6af9f2ae40d9f1c783ecc6f0bef83-d_1280?region=us",
+      "publishedAt": "2026-11-12T13:04:41+00:00",
+      "date": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "score": 74.8,
+      "issueDate": "2026-11-13",
+      "images": [
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Clash-Royal-30-seconds-to-detonation-trailer-by-Roof-Studio-and-Pedro-Allevato-STASH-MAGAZINE6.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Clash-Royal-30-seconds-to-detonation-trailer-by-Roof-Studio-and-Pedro-Allevato-STASH-MAGAZINE5.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Clash-Royal-30-seconds-to-detonation-trailer-by-Roof-Studio-and-Pedro-Allevato-STASH-MAGAZINE-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Clash-Royal-30-seconds-to-detonation-trailer-by-Roof-Studio-and-Pedro-Allevato-STASH-MAGAZINE2-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Clash-Royal-30-seconds-to-detonation-trailer-by-Roof-Studio-and-Pedro-Allevato-STASH-MAGAZINE3-2048x1152.jpg"
+        }
+      ],
+      "video": {
+        "provider": "vimeo",
+        "id": "1245468644",
+        "url": "https://player.vimeo.com/video/1245468644",
+        "thumbnail": "https://i.vimeocdn.com/video/2224598254-f6ec7239b2f29b3865daaa78a7658ebf04a6af9f2ae40d9f1c783ecc6f0bef83-d_1280?region=us",
+        "title": "ClashterPieces - 30 seconds to detonation",
+        "author": "Roof Studio",
+        "duration": 45,
+        "verifiedAt": "2026-11-13T10:59:21+00:00"
+      },
+      "videoGallery": [
+        "https://i.vimeocdn.com/video/2224598254-f6ec7239b2f29b3865daaa78a7658ebf04a6af9f2ae40d9f1c783ecc6f0bef83-d_1280?region=us"
+      ],
+      "titleZh": "《皇室战争》短片以逐帧水彩呈现角色",
+      "summaryZh": "导演和动画团队按照委托要求，用手绘水彩完成动画。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "项目以逐帧水彩作为主要制作方法。",
+              "导演佩德罗·阿莱瓦托与纽约动画团队合作，将手绘质感贯穿短片。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 22.0,
+        "completeness": 8.8,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "92f56e9aa3053bbd",
+      "url": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0",
+      "title": "The AI mind tax that afflicts those who use AI best",
+      "summary": "One person, a dozen tools, and nothing connecting them but her. AI was supposed to make work easier, but for the people who use it most, it just became a different kind of work, and a whole lot of exhaustion. The promise of the tech was that AI would make work easier, and, sure, in plenty of ways it came true, but for the…",
+      "source": "UX Collective",
+      "category": "人工智能设计",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*mpKLeeSQBl3g1GK2Hb3P3w.jpeg",
+      "publishedAt": "2026-11-12T11:14:40+00:00",
+      "date": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "score": 47.1,
+      "issueDate": "2026-11-13",
+      "titleZh": "频繁切换人工智能工具会带来额外认知负担",
+      "summaryZh": "文章讨论工具之间缺少衔接时，使用者如何承担协调工作。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "作者以同时使用多种工具的工作方式为例，指出把工具接起来的工作仍落在个人身上。",
+              "原本旨在节省精力的流程，由此可能增加切换与协调负担。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 9.1,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "94d755e32e00c4d7",
+      "url": "https://www.dezeen.com/2026/11/12/cloudhaus-hotel-bamboo-roomoo-chongqing-china/",
+      "title": "RooMoo transforms abandoned mountain cabins into hotel in China",
+      "summary": "Concrete drill cores, discarded bricks and timber salvaged from abandoned mountain cabins have been repurposed for a 24-room retreat by RooMoo on Jinfo Mountain in Chongqing,",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio-sq_dezeen_2364_col_1-1024x1024.jpg",
+      "publishedAt": "2026-11-12T11:00:00+00:00",
+      "date": "2026-11-12",
+      "firstSeen": "2026-11-13",
+      "score": 66.0,
+      "issueDate": "2026-11-13",
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio-hero_dezeen_2364_col_1-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio_dezeen_2364_col_12-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio_dezeen_2364_col_10.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio_dezeen_2364_col_11.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio_dezeen_2364_col_13-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio_dezeen_2364_col_3-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio_dezeen_2364_col_0.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio_dezeen_2364_col_2-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio_dezeen_2364_col_1-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio_dezeen_2364_col_4-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio_dezeen_2364_col_5-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio_dezeen_2364_col_6-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio_dezeen_2364_col_8.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio_dezeen_2364_col_9.jpg"
+        }
+      ],
+      "titleZh": "山地旅馆再用废弃小屋的砖木与混凝土",
+      "summaryZh": "设计团队将旧山屋回收材料用于一处二十四间客房的住宿项目。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "改造使用废弃小屋拆下的木材和砖，也纳入混凝土钻芯。",
+              "它们在新旅馆中继续使用，使既有建筑的材料成为室内与场地改造的一部分。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.0,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "9f663437118e879c",
+      "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+      "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+      "summary": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its",
+      "source": "Smashing Magazine",
+      "category": "人工智能设计",
+      "image": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg",
+      "publishedAt": "2026-11-12T10:00:00+00:00",
+      "date": "2026-11-12",
+      "firstSeen": "2026-11-13",
+      "score": 51.1,
+      "issueDate": "2026-11-13",
+      "images": [
+        {
+          "url": "https://files.smashing.media/articles/should-you-add-au-audit-product-teams/ai-adoption-adjustment-effort.jpg"
+        }
+      ],
+      "titleZh": "用四个问题评估产品是否需要人工智能",
+      "summaryZh": "文章把结果校验所花的时间也纳入功能评估。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "生成式功能可能缩短执行时间，同时增加用户检查输出的工作。",
+              "作者提出以四个问题审视产品方案，判断自动化在哪个环节有价值、用户还需要验证什么。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.1,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "981087988936a186",
+      "url": "https://www.itsnicethat.com/articles/dum-dum-studio-graphic-design-discover-121126",
+      "title": "Dum Dum Studio’s inventive design emerges from an open mind and a love of play",
+      "summary": "Whether it’s an identity, custom typeface or art direction, this studio is sourcing inspiration from the history of it’s home city, Monterrey – the industrial capital of",
+      "source": "Its Nice That",
+      "category": "视觉设计",
+      "image": "https://m.itsnicethat.com/original_images/Dum-Dum-Studio-graphic-design-itsnicethat-7.gif",
+      "publishedAt": "2026-11-12T09:00:00+00:00",
+      "date": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "score": 70.9,
+      "issueDate": "2026-11-13",
+      "images": [
+        {
+          "url": "https://m.itsnicethat.com/original_images/Dum-Dum-Studio-graphic-design-itsnicethat-7.gif?class=w640"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Dum-Dum-Studio-graphic-design-itsnicethat-7.gif?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Dum-Dum-Studio-graphic-design-itsnicethat-11_1.gif?class=w480"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/BAR_ESCALIER_-_GUADALAJARA_MEXICO.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/BAR_ESCALIER_-_GUADALAJARA_MEXICO_1.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/MONTECOYOTE_-_MONTERREY_MEXICO.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Dum-Dum-Studio-graphic-design-itsnicethat-23.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Dum-Dum-Studio-graphic-design-itsnicethat-25.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Dum-Dum-Studio-graphic-design-itsnicethat-18.png?class=w1080"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Dum-Dum-Studio-graphic-design-itsnicethat-16.png?class=w1080"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Dum-Dum-Studio-graphic-design-itsnicethat-17.png?class=w1080"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Dum-Dum-Studio-graphic-design-itsnicethat-8.gif?class=w640"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Dum-Dum-Studio-graphic-design-itsnicethat-13.png?class=w1920"
+        }
+      ],
+      "titleZh": "蒙特雷工作室从城市历史提取品牌设计线索",
+      "summaryZh": "工作室的品牌识别、字体和艺术指导项目从工业城市蒙特雷的历史取材。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "团队的工作横跨定制字体、品牌识别与艺术指导。",
+              "工作室以所在城市的历史为灵感，在不同媒介中试验如何呈现地方特征。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 8.9,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "be54e0fcb5ca0b57",
+      "url": "https://thedieline.com/brandopus-turns-carling-into-a-club-you-can-join/",
+      "title": "BrandOpus Turns Carling Into a Club You Can Join",
+      "summary": "BrandOpus swaps Carling’s flat black logo for a crest worthy of a football club, complete with an etched brewery, golden barley, and Thomas Carling’s own",
+      "source": "Dieline",
+      "category": "视觉设计",
+      "image": "https://thedieline.com/wp-content/uploads/2026/11/carling_pr_4jpg-scaled.jpg",
+      "publishedAt": "2026-11-12T03:13:00+00:00",
+      "date": "2026-11-12",
+      "firstSeen": "2026-11-12",
+      "score": 55.9,
+      "issueDate": "2026-11-13",
+      "images": [
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/carling_pr_4jpg-scaled.jpg?w=2560&quality=70&ssl=1"
+        }
+      ],
+      "titleZh": "啤酒品牌用足球队徽语言重做标志",
+      "summaryZh": "新识别以盾徽、酒厂线描和金色大麦组成图形。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "正文",
+            "paragraphs": [
+              "设计团队以足球俱乐部徽章为参照更新啤酒标志。",
+              "新的徽章将酒厂线描和大麦结合，在品牌识别中引入俱乐部式的归属感。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 8.9,
+        "source": 24.0
+      }
+    },
     {
       "id": "0c83dbbd3b641e80",
       "url": "https://www.designboom.com/technology/sony-1979-walkman-headphones-retro-foam-ear-pads-mdr-3r/",
@@ -39650,6 +40608,33 @@
         "lead": "十一月十二日设计日报",
         "title": "从町屋到设计画布",
         "subtitle": "旧住宅的新用途、品牌插画与人工智能产品的交互成本"
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "articleIds": [
+        "3bb5482d88376474",
+        "227fdc70f5e1fb15",
+        "69cc3b04fbc0e289",
+        "6e1a126976765968",
+        "477ae8d691e0aee3",
+        "2ad1d97a1940506f",
+        "162907aed4cf9936",
+        "a8e8708f444cfde7",
+        "124de644b7a80e9f",
+        "e8f7c2138901bae7",
+        "6fa9c8fc20ed5b46",
+        "92f56e9aa3053bbd",
+        "94d755e32e00c4d7",
+        "9f663437118e879c",
+        "981087988936a186",
+        "be54e0fcb5ca0b57"
+      ],
+      "updatedAt": "2026-11-13T18:55:24.932763+08:00",
+      "masthead": {
+        "lead": "十一月十三日设计日报",
+        "title": "从回收砖木到逐帧水彩",
+        "subtitle": "山地旅馆、可迁移木屋、游戏玩法与产品交互"
       }
     }
   ],
