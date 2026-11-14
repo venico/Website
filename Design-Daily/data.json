@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T18:55:24.932763+08:00",
+  "updatedAt": "2026-11-14T10:07:41.897389+08:00",
   "sources": [
     {
       "name": "Dezeen",
@@ -8,7 +8,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-11-13T10:00:00+00:00"
+      "latestPublishedAt": "2026-11-13T19:00:00+00:00"
     },
     {
       "name": "designboom",
@@ -17,7 +17,7 @@
       "category": "空间设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-13T10:10:04+00:00"
+      "latestPublishedAt": "2026-11-13T19:10:47+00:00"
     },
     {
       "name": "Yanko Design",
@@ -26,7 +26,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 16,
-      "latestPublishedAt": "2026-11-13T10:15:38+00:00"
+      "latestPublishedAt": "2026-11-14T01:30:20+00:00"
     },
     {
       "name": "Smashing Magazine",
@@ -44,7 +44,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-11-06T18:00:00+00:00"
+      "latestPublishedAt": "2026-11-13T18:00:00+00:00"
     },
     {
       "name": "Motionographer",
@@ -53,7 +53,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-12T14:32:28+00:00"
+      "latestPublishedAt": "2026-11-13T13:19:09+00:00"
     },
     {
       "name": "Core77",
@@ -62,7 +62,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 15,
-      "latestPublishedAt": "2026-11-12T21:49:00+00:00"
+      "latestPublishedAt": "2026-11-13T16:00:00+00:00"
     },
     {
       "name": "Creative Bloq",
@@ -71,7 +71,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 25,
-      "latestPublishedAt": "2026-11-13T10:00:00+00:00"
+      "latestPublishedAt": "2026-11-13T16:20:50+00:00"
     },
     {
       "name": "UX Collective",
@@ -80,7 +80,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-13T02:33:09+00:00"
+      "latestPublishedAt": "2026-11-13T23:51:42+00:00"
     },
     {
       "name": "UX Planet",
@@ -89,7 +89,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-12T14:13:39+00:00"
+      "latestPublishedAt": "2026-11-13T14:22:48+00:00"
     },
     {
       "name": "Codrops",
@@ -116,7 +116,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 12,
-      "latestPublishedAt": "2026-11-12T14:00:54+00:00"
+      "latestPublishedAt": "2026-11-14T01:31:47+00:00"
     },
     {
       "name": "Creative Boom",
@@ -143,7 +143,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 6,
-      "latestPublishedAt": "2026-11-12T13:04:41+00:00"
+      "latestPublishedAt": "2026-11-13T18:55:25+00:00"
     },
     {
       "name": "Art of VFX",
@@ -152,7 +152,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-11-12T19:00:00+00:00"
+      "latestPublishedAt": "2026-11-13T19:00:00+00:00"
     },
     {
       "name": "Blender",
@@ -170,7 +170,7 @@
       "category": "人工智能设计",
       "ok": true,
       "count": 60,
-      "latestPublishedAt": "2026-11-12T19:07:35+00:00"
+      "latestPublishedAt": "2026-11-13T18:00:39+00:00"
     },
     {
       "name": "UISDC",
@@ -307,7 +307,7 @@
       "category": "建筑设计",
       "ok": true,
       "count": 24,
-      "latestPublishedAt": "2026-11-13T04:00:00+00:00"
+      "latestPublishedAt": "2026-11-13T19:00:00+00:00"
     },
     {
       "name": "Wallpaper",
@@ -316,7 +316,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-11-13T10:30:32+00:00"
+      "latestPublishedAt": "2026-11-13T17:00:00+00:00"
     },
     {
       "name": "Its Nice That",
@@ -325,7 +325,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-11-12T14:00:00+00:00"
+      "latestPublishedAt": "2026-11-13T11:00:00+00:00"
     },
     {
       "name": "Design Week",
@@ -350,7 +350,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 40,
-      "latestPublishedAt": "2026-11-12T12:00:00+00:00"
+      "latestPublishedAt": "2026-11-13T12:00:00+00:00"
     },
     {
       "name": "Domus",
@@ -424,7 +424,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 36,
-      "latestPublishedAt": "2026-11-13T09:31:07+00:00"
+      "latestPublishedAt": "2026-11-13T22:00:05+00:00"
     },
     {
       "name": "Figma",
@@ -433,7 +433,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 60,
-      "latestPublishedAt": "2026-11-12T14:00:00+00:00"
+      "latestPublishedAt": "2026-11-13T20:00:00+00:00"
     },
     {
       "name": "Adobe",
@@ -532,7 +532,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-12T18:45:08+00:00"
+      "latestPublishedAt": "2026-11-13T22:42:12+00:00"
     },
     {
       "name": "Packaging of the World",
@@ -661,7 +661,7 @@
       "category": "游戏设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-11-12T19:15:00+00:00"
+      "latestPublishedAt": "2026-11-13T18:32:59+00:00"
     },
     {
       "name": "80 Level",
@@ -670,7 +670,7 @@
       "category": "游戏设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-13T09:52:00+00:00"
+      "latestPublishedAt": "2026-11-13T23:34:00+00:00"
     },
     {
       "name": "Gcores",
@@ -678,11 +678,1615 @@
       "url": "https://www.gcores.com/rss",
       "category": "游戏设计",
       "ok": true,
-      "count": 19,
-      "latestPublishedAt": "2026-11-13T10:07:43+00:00"
+      "count": 17,
+      "latestPublishedAt": "2026-11-13T11:25:00+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "500849e3c601c859",
+      "url": "https://www.yankodesign.com/2026/11/13/deck-acucena-turns-a-steep-forest-slope-into-a-poolside-retreat/",
+      "title": "Deck Açucena Turns a Steep Forest Slope Into a Poolside Retreat",
+      "summary": "Deck Açucena Turns a Steep Forest Slope Into a Poolside Retreat A slim black frame, timber decking, and a glass enclosure occupy a clearing among the trees at Deck Açucena. Designed by TETRO Arquitetura in",
+      "source": "Yanko Design",
+      "category": "建筑设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/11/deck-acucena/glass_pavilion_yanko_design_01.jpg",
+      "publishedAt": "2026-11-14T00:30:26+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 62.4,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/deck-acucena/glass_pavilion_yanko_design_01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/deck-acucena/glass_pavilion_yanko_design_02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/deck-acucena/glass_pavilion_yanko_design_03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/deck-acucena/glass_pavilion_yanko_design_04.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/deck-acucena/glass_pavilion_yanko_design_05.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/deck-acucena/glass_pavilion_yanko_design_06.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/deck-acucena/glass_pavilion_yanko_design_07.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/deck-acucena/glass_pavilion_yanko_design_09.jpg"
+        }
+      ],
+      "titleZh": "森林坡地上的细框泳池露台",
+      "summaryZh": "黑色细框、木平台与玻璃围护围合林中空地，巴西建筑团队在陡坡上安排泳池休憩空间。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，黑色细框、木平台与玻璃围护围合林中空地，巴西建筑团队在陡坡上安排泳池休憩空间。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "框架与平台在树林里提供了清晰的活动边界，透明围护让视线延伸到周围的树木。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "14db66e01c64e731",
+      "url": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685",
+      "title": "Decision theatre or decision design?",
+      "summary": "AI has made information easy, but it has not made decisions simple. As machines produce more than we can read, our job is shifting from building knowledge to owning decisions. Are we ready? In a 2025 survey by BetterUp Labs and the Stanford Social Media Lab, 40% of US desk workers said they had received workslop in the previous…",
+      "source": "UX Collective",
+      "category": "用户体验设计",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*jSm2wuX6DerL6DwhQFrLqA.png",
+      "publishedAt": "2026-11-13T23:51:42+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 47.4,
+      "titleZh": "信息变多之后，如何设计决策过程",
+      "summaryZh": "作者指出生成式工具扩大了信息供给，团队仍需明确由谁作出决定。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，作者指出生成式工具扩大了信息供给，团队仍需明确由谁作出决定。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "可以把收集证据、判断取舍和记录决定分别落实到工作流程中，让参与者知道在哪一步需要给出意见。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 9.4,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "a850271375ca982b",
+      "url": "https://www.yankodesign.com/2026/11/13/this-3d-printed-chair-turns-its-base-into-a-bookshelf/",
+      "title": "This 3D-Printed Chair Turns Its Base Into a Bookshelf",
+      "summary": "This 3D-Printed Chair Turns Its Base Into a Bookshelf The Kino Chair has a useful surprise below its seat: a shelf built into the structure. Designed by Barcelona-based Pablo Castillo and produced by",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/11/kino-chair/kino_chair_yanko_design_01.jpg",
+      "publishedAt": "2026-11-13T22:30:25+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 62.2,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/kino-chair/kino_chair_yanko_design_01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/kino-chair/kino_chair_yanko_design_02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/kino-chair/kino_chair_yanko_design_03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/kino-chair/kino_chair_yanko_design_04.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/kino-chair/kino_chair_yanko_design_05.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/kino-chair/kino_chair_yanko_design_06.jpg"
+        }
+      ],
+      "titleZh": "把书架放进打印座椅的底座",
+      "summaryZh": "巴勃罗·卡斯蒂略设计的座椅在座面下方留出书架，把收纳并入主体。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，巴勃罗·卡斯蒂略设计的座椅在座面下方留出书架，把收纳并入主体。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "把物品放到座位正下方能节省占地，设计仍需兼顾取书时的手部空间与清洁便利。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "b7960a252bf9549f",
+      "url": "https://www.yankodesign.com/2026/11/13/urwerk-ur-101-green-mamba-gives-its-wandering-hour-watch-an-emerald-makeover/",
+      "title": "URWERK UR-101 Green Mamba gives its wandering-hour watch an emerald makeover",
+      "summary": "URWERK UR-101 Green Mamba gives its wandering-hour watch an emerald makeover Most watches ask you to read time at a glance, but URWERK prefers to make you follow the process. Its wandering-hours display replaces familiar",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/11/urwerk-ur-101-green-mamba-gives-its-wandering-hour-watch-an-emerald-makeover/urwerk-Green-Mamba-Watch-8.jpg",
+      "publishedAt": "2026-11-13T21:30:53+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 62.2,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/urwerk-ur-101-green-mamba-gives-its-wandering-hour-watch-an-emerald-makeover/urwerk-Green-Mamba-Watch-8.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/urwerk-ur-101-green-mamba-gives-its-wandering-hour-watch-an-emerald-makeover/urwerk-Green-Mamba-Watch-11.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/urwerk-ur-101-green-mamba-gives-its-wandering-hour-watch-an-emerald-makeover/urwerk-Green-Mamba-Watch-2.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/urwerk-ur-101-green-mamba-gives-its-wandering-hour-watch-an-emerald-makeover/urwerk-Green-Mamba-Watch-10.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/urwerk-ur-101-green-mamba-gives-its-wandering-hour-watch-an-emerald-makeover/urwerk-Green-Mamba-Watch-1.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/urwerk-ur-101-green-mamba-gives-its-wandering-hour-watch-an-emerald-makeover/urwerk-Green-Mamba-Watch-4.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/urwerk-ur-101-green-mamba-gives-its-wandering-hour-watch-an-emerald-makeover/urwerk-Green-Mamba-Watch-5.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/urwerk-ur-101-green-mamba-gives-its-wandering-hour-watch-an-emerald-makeover/urwerk-Green-Mamba-Watch-7.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/urwerk-ur-101-green-mamba-gives-its-wandering-hour-watch-an-emerald-makeover/urwerk-Green-Mamba-Watch-6.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/urwerk-ur-101-green-mamba-gives-its-wandering-hour-watch-an-emerald-makeover/urwerk-Green-Mamba-Watch-3.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/urwerk-ur-101-green-mamba-gives-its-wandering-hour-watch-an-emerald-makeover/urwerk-Green-Mamba-Watch-9.jpg"
+        }
+      ],
+      "titleZh": "祖母绿表盘上的游走时标",
+      "summaryZh": "腕表用游走小时显示替代常见的指针读时方式，新款采用祖母绿色调。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，腕表用游走小时显示替代常见的指针读时方式，新款采用祖母绿色调。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "当读时过程依赖跟随移动的时标，视觉节奏也成为腕表体验的一部分。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "5b563d4fcd130083",
+      "url": "https://www.yankodesign.com/2026/11/13/the-caim1-3d-printed-camera-puts-a-security-chip-behind-your-photos-as-proof-against-ai-deepfakes/",
+      "title": "The CAIM1 3D Printed Camera puts a security chip behind your photos as proof against AI deepfakes",
+      "summary": "The CAIM1 3D Printed Camera puts a security chip behind your photos as proof against AI deepfakes Every viral video now comes with a free side of doubt. You see a cat dancing to that Nicole Kidman song, or a deepfake",
+      "source": "Yanko Design",
+      "category": "人工智能设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/11/draft-caim/caimera_1_1.jpg",
+      "publishedAt": "2026-11-13T20:20:19+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 62.5,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/draft-caim/caimera_1_1.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/draft-caim/caimera_1_2.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/draft-caim/caimera_1_3.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/draft-caim/caimera_1_4.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/draft-caim/caimera_1_5.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/draft-caim/caimera_1_6.jpg"
+        }
+      ],
+      "titleZh": "摄影原型用安全芯片记录照片来源",
+      "summaryZh": "这款打印相机方案把安全芯片纳入拍摄设备，探索在照片生成时提供可验证的来源信息。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，这款打印相机方案把安全芯片纳入拍摄设备，探索在照片生成时提供可验证的来源信息。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "把记录起点放在拍摄设备端，可以给后续核验多一项依据，平台还要让读者看懂证据覆盖的环节。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.5,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "1c2d3755da792e9a",
+      "url": "https://www.figma.com/blog/ai-role-in-the-creative-process/",
+      "title": "AI’s role in the creative process",
+      "summary": "Which parts of the creative process can AI do for us—and which do we insist on keeping for",
+      "source": "Figma",
+      "category": "人工智能设计",
+      "image": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1632&q=75&fit=max&auto=format&dpr=2",
+      "publishedAt": "2026-11-13T20:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 62.5,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/599r6htc/regionalized/4791f6c2acbf0d3121abf8a8f3e7aa3c6b7c4ae9-3264x1836.png?w=1632&q=75&fit=max&auto=format&dpr=2"
+        }
+      ],
+      "titleZh": "把创作流程拆开讨论人工智能的角色",
+      "summaryZh": "菲格玛的公开文章从创作分工切入，讨论哪些环节可交给工具，哪些需要创作者保有判断。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，菲格玛的公开文章从创作分工切入，讨论哪些环节可交给工具，哪些需要创作者保有判断。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "设计团队可以按任务来划分协作边界，例如让工具提供草案，由创作者选择方向并解释取舍。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 9.5,
+        "source": 30.0
+      }
+    },
+    {
+      "id": "7aacd14cf52c1426",
+      "url": "https://www.designboom.com/architecture/kengo-kuma-circular-thatched-house-timber-earth-japan/",
+      "title": "kengo kuma builds a circular thatched house from local timber and earth in japan",
+      "summary": "kengo kuma brings traditional japanese thatching techniques together with 3D-scanned timber construction with this rural",
+      "source": "designboom",
+      "category": "建筑设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-01.jpg",
+      "publishedAt": "2026-11-13T19:10:47+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 71.2,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-1800.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-01.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-02.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-03.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-04.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-05.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-06a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-07.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-08a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-09.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-010.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-011.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-012.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-013.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-014.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/kengo-kuma-kagaku-no-sato-main-house-project-japan-designboom-015.jpg"
+        }
+      ],
+      "titleZh": "隈研吾用当地木材与泥土建圆形茅屋",
+      "summaryZh": "日本乡村住宅结合传统茅草工艺与三维扫描辅助的木构建造。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，日本乡村住宅结合传统茅草工艺与三维扫描辅助的木构建造。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "数字记录可以帮助团队理解天然木材的形状差异，让地方材料在施工协调中发挥作用。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "6d98269f2503767f",
+      "url": "https://www.artofvfx.com/spider-man-brand-new-day-digital-domain-reveals-its-visualization-work/",
+      "title": "Spider-Man: Brand New Day – Digital Domain Reveals Its Visualization Work",
+      "summary": "From explosive chases to intense battles, discover how Digital Domain contributed to Spider-Man: Brand New Day through its extensive previs and postvis work. For over a year, Digital Domain’s Visualization team worked on major sequences across the film, helping visualize some of its most ambitious action scenes. Among the…",
+      "source": "Art of VFX",
+      "category": "动态设计",
+      "image": "https://i.ytimg.com/vi/XJPlLaZi4gQ/hqdefault.jpg",
+      "publishedAt": "2026-11-13T19:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 63.2,
+      "images": [],
+      "video": {
+        "provider": "youtube",
+        "id": "XJPlLaZi4gQ",
+        "url": "https://www.youtube.com/embed/XJPlLaZi4gQ",
+        "thumbnail": "https://i.ytimg.com/vi/XJPlLaZi4gQ/hqdefault.jpg",
+        "title": "Spider-Man: Brand New Day | Visualization | Digital Domain",
+        "author": "Digital Domain",
+        "duration": 0,
+        "verifiedAt": "2026-11-14T02:09:17+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/XJPlLaZi4gQ/hqdefault.jpg"
+      ],
+      "titleZh": "从追逐到打斗，拆解蜘蛛侠电影的动作预演",
+      "summaryZh": "数字领域团队介绍新片多段动作场面的前期预演与后期预演工作。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，数字领域团队介绍新片多段动作场面的前期预演与后期预演工作。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "预演可以先厘清镜头、人物位置和运动节奏，方便不同工种围绕同一版动作展开沟通。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 10.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "dddf16fdab497f51",
+      "url": "https://www.archdaily.com/1188630/itchimbia-housing-mejia-narvaez-arquitectos",
+      "title": "Itchimbía Housing / Mejía Narváez Arquitectos",
+      "summary": "Itchimbía transforms a void in Quito's Historic Center into six homes that reveal the city through a gradual journey, where material and light make the passage of time",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e383/medium_jpg/BICUBIK_0144.jpg?1794572460",
+      "publishedAt": "2026-11-13T19:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 71.3,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e383/medium_jpg/BICUBIK_0144.jpg?1794572460"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008a/eabd/2a00/0192/e37e/thumb_jpg/BICUBIK_0037.jpg?1794572455"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e388/thumb_jpg/BICUBIK_5667.jpg?1794572468"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e38d/thumb_jpg/BICUBIK_5835.jpg?1794572609"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e386/thumb_jpg/BICUBIK_5585.jpg?1794572445"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e387/medium_jpg/BICUBIK_5597.jpg?1794572461"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e389/medium_jpg/BICUBIK_5707.jpg?1794572529"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e382/medium_jpg/BICUBIK_0087.jpg?1794572458"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e39b/medium_jpg/BICUBIK_5721.jpg?1794572513"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e38a/medium_jpg/BICUBIK_5724.jpg?1794572498"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e39e/medium_jpg/BICUBIK_5782.jpg?1794572499"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e38c/medium_jpg/BICUBIK_5802.jpg?1794572577"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e38e/medium_jpg/BICUBIK_5871.jpg?1794572511"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e38f/medium_jpg/BICUBIK_5916.jpg?1794572479"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e391/medium_jpg/BICUBIK_5934.jpg?1794572469"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e39c/medium_jpg/BICUBIK_5960.jpg?1794572532"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e39d/medium_jpg/BICUBIK_5965.jpg?1794572506"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e395/medium_jpg/BICUBIK_6037.jpg?1794572467"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e39f/medium_jpg/BOCETO_SECCION.jpg?1794572476"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e3a3/medium_jpg/PB.jpg?1794572514"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e3a1/medium_jpg/P1.jpg?1794572520"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e3a2/medium_jpg/P2.jpg?1794572506"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e3a4/medium_jpg/S1.jpg?1794572528"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e3a5/medium_jpg/S2.jpg?1794572536"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e3a6/medium_jpg/S3.jpg?1794572521"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e3a7/medium_jpg/SECCION.jpg?1794572500"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/008b/eabd/2a00/0192/e3a0/medium_jpg/DIAGRAMAS_copy.jpg?1794572509"
+        }
+      ],
+      "titleZh": "基多旧城的一处空地变成六户住宅",
+      "summaryZh": "伊钦比亚住宅用层层进入的路径组织六户居所，以材料和光线呈现行进中的变化。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，伊钦比亚住宅用层层进入的路径组织六户居所，以材料和光线呈现行进中的变化。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "沿途逐步展开的城市视野，让进入住宅的过程兼有从公共街区过渡到居所的作用。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "4c712cd7acfffe4c",
+      "url": "https://www.behance.net/gallery/257908733/Written-Faces-portraits-made-of-words",
+      "title": "Written Faces: portraits made of words",
+      "summary": "A picture is worth a thousand words? Seven portraits made of the writing that belonged to each life: Cavafy's manuscripts, Bach's scores, Beethoven's conversation books, petitions signed against slavery and for women's vote, Kallirroi Parren's newspaper and Florence Nightingale's letters. Stills, close-ups and films by Charis…",
+      "source": "Behance",
+      "category": "视觉设计",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/022681257908733.Y3JvcCwxNDAwLDEwOTUsMCw0NTA.jpg",
+      "publishedAt": "2026-11-13T18:00:07+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 47.3,
+      "images": [],
+      "titleZh": "用人物自己的文字构成肖像",
+      "summaryZh": "一组七幅肖像从手稿、乐谱和请愿文本中取材，把字迹组织成人脸。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，一组七幅肖像从手稿、乐谱和请愿文本中取材，把字迹组织成人脸。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "文字在远处形成明暗轮廓，在近处重新成为可辨认的笔迹，两个阅读距离对应不同的信息。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 9.3,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "8943539e304b0dfd",
+      "url": "https://www.nngroup.com/articles/research-in-the-loop/",
+      "title": "Research-In-The-Loop: How UXR Adapts to Development at AI Speed",
+      "summary": "As AI speeds up development, it can be a challenge for research to adapt. Research can define what each release must measure and what it can help teams",
+      "source": "Nielsen Norman Group",
+      "category": "用户体验设计",
+      "image": "https://media.nngroup.com/media/editor/2026/11/13/research-in-the-loop.png",
+      "publishedAt": "2026-11-13T18:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 56.3,
+      "images": [
+        {
+          "url": "https://media.nngroup.com/media/editor/2026/11/13/research-in-the-loop.png"
+        }
+      ],
+      "titleZh": "把用户研究嵌入快速发布周期",
+      "summaryZh": "尼尔森诺曼集团讨论开发加速后，研究团队如何定义每次发布要验证的问题与指标。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，尼尔森诺曼集团讨论开发加速后，研究团队如何定义每次发布要验证的问题与指标。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "提前约定观察指标可以减少反复补做研究，也能让反馈进入下一轮设计决策。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "fe3851e54108eceb",
+      "url": "https://www.nngroup.com/articles/journey-mapping-101/",
+      "title": "Journey Mapping 101",
+      "summary": "A journey map is a visualization of the process that a person goes through in order to accomplish a",
+      "source": "Nielsen Norman Group",
+      "category": "用户体验设计",
+      "image": "https://i.ytimg.com/vi/2W13ext26kQ/hqdefault.jpg",
+      "publishedAt": "2026-11-13T18:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 66.2,
+      "images": [
+        {
+          "url": "https://media.nngroup.com/media/editor/2018/11/06/screen-shot-2018-11-06-at-122254-pm.png"
+        },
+        {
+          "url": "https://media.nngroup.com/media/editor/2020/07/30/nng-cjm.png"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "2W13ext26kQ",
+        "url": "https://www.youtube.com/embed/2W13ext26kQ",
+        "thumbnail": "https://i.ytimg.com/vi/2W13ext26kQ/hqdefault.jpg",
+        "title": "Customer Journey Mapping 101",
+        "author": "NNgroup",
+        "duration": 0,
+        "verifiedAt": "2026-11-14T02:09:17+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/2W13ext26kQ/hqdefault.jpg"
+      ],
+      "titleZh": "从用户目标开始绘制旅程地图",
+      "summaryZh": "尼尔森诺曼集团介绍旅程地图，把人为了完成目标而经历的过程画出来。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，尼尔森诺曼集团介绍旅程地图，把人为了完成目标而经历的过程画出来。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "以具体目标为起点，有助于团队看见产品界面之外的步骤与交接问题。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 13.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "b116937bc10a611a",
+      "url": "https://80.lv/articles/eve-online-dev-open-sources-its-physically-based-ssao-technology/",
+      "title": "EVE Online Dev Open-Sources Its Physically Based SSAO Technology",
+      "summary": "CORTAO is now available for you to explore, integrate, and build upon",
+      "source": "80 Level",
+      "category": "游戏设计",
+      "image": "https://i.ytimg.com/vi/GUQ2kDgGT-c/hqdefault.jpg",
+      "publishedAt": "2026-11-13T17:10:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 66.4,
+      "images": [
+        {
+          "url": "https://cdn.80.lv/api/upload/content/07/6af73e6e4d82c.jpg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/09/6af73da65b349.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "GUQ2kDgGT-c",
+        "url": "https://www.youtube.com/embed/GUQ2kDgGT-c",
+        "thumbnail": "https://i.ytimg.com/vi/GUQ2kDgGT-c/hqdefault.jpg",
+        "title": "CORTAO in EVE Frontier | In-Engine Rendering Showcase",
+        "author": "EVE Frontier",
+        "duration": 0,
+        "verifiedAt": "2026-11-14T02:09:17+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/GUQ2kDgGT-c/hqdefault.jpg"
+      ],
+      "titleZh": "星战前夜团队开放游戏环境光遮蔽技术",
+      "summaryZh": "开发团队开源了基于物理的屏幕空间环境光遮蔽方案，供其他制作者研究与整合。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，开发团队开源了基于物理的屏幕空间环境光遮蔽方案，供其他制作者研究与整合。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "接触阴影能强化物体与周边表面的关系，游戏团队可结合自身画面与性能预算评估该方案。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 13.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "b603d99a475aed02",
+      "url": "https://www.designboom.com/architecture/terracotta-tones-and-botanical-palettes-define-line-arcs-hospitality-infused-offices-in-almaty/",
+      "title": "terracotta tones and botanical palettes define line arc’s hospitality-infused offices in almaty",
+      "summary": "blending warm modernism, bespoke regional craftsmanship, and kazakh cultural motifs, the flexible layout pairs open coworking hubs with private suites and a central social",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/464818/2026-11-05/line-arc-crafts-warm-hospitality-infused-offices-in-almaty-6-6aed059397486.jpg",
+      "publishedAt": "2026-11-13T16:45:47+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 71.4,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/line-arc-esentai-hospitality-infused-offices-almaty-designboom-1800-1.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/464818/2026-11-05/line-arc-crafts-warm-hospitality-infused-offices-in-almaty-6-6aed059397486.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/464818/2026-11-05/line-arc-crafts-warm-hospitality-infused-offices-in-almaty-5-6aed059397440.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/464818/2026-11-05/line-arc-crafts-warm-hospitality-infused-offices-in-almaty-7-6aed0593974c7.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/line-arc-esentai-hospitality-infused-offices-almaty-designboom-1800-2.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/464818/2026-11-05/line-arc-crafts-warm-hospitality-infused-offices-in-almaty-4-6aed059397404.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/464818/2026-11-05/line-arc-crafts-warm-hospitality-infused-offices-in-almaty-3-6aed0593973c5.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/464818/2026-11-05/line-arc-crafts-warm-hospitality-infused-offices-in-almaty-1-6aed05939730c.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/464818/2026-11-05/line-arc-crafts-warm-hospitality-infused-offices-in-almaty-2-6aed05939737e.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/464818/2026-11-05/line-arc-crafts-warm-hospitality-infused-offices-in-almaty-12-6aed0593975f5.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/464818/2026-11-05/line-arc-crafts-warm-hospitality-infused-offices-in-almaty-11-6aed0593975b9.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/464818/2026-11-05/line-arc-crafts-warm-hospitality-infused-offices-in-almaty-8-6aed059397502.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/464818/2026-11-05/line-arc-crafts-warm-hospitality-infused-offices-in-almaty-9-6aed05939753d.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/464818/2026-11-05/line-arc-crafts-warm-hospitality-infused-offices-in-almaty-10-6aed05939757a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/line-arc-esentai-hospitality-infused-offices-almaty-designboom-1800-3.jpg"
+        }
+      ],
+      "titleZh": "阿拉木图办公室用共享客厅串联工位",
+      "summaryZh": "项目以陶土色和植物色调营造接待氛围，把开放协作区、独立房间和社交空间放在同一布局中。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，项目以陶土色和植物色调营造接待氛围，把开放协作区、独立房间和社交空间放在同一布局中。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "把偶遇和交流集中在共享区域，可让需要安静的活动留在相对独立的位置。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "773fc281744e7b1b",
+      "url": "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher",
+      "title": "Development secrets of Dressmaker, ft. Ruan Rothmann & Sara Laubscher",
+      "summary": "Dressmaker is the kind of story indie devs dream of—so what did it take to bring the surprise hit of 2026 to",
+      "source": "Game Developer",
+      "category": "游戏设计",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt70f827f4598594e4/6af73402fa93fc61a9324b05/dressmaker.png?width=720&quality=80&disable=upscale",
+      "publishedAt": "2026-11-13T16:05:43+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 63.4,
+      "images": [],
+      "video": {
+        "provider": "youtube",
+        "id": "MOpyOX4Pyjg",
+        "url": "https://www.youtube.com/embed/MOpyOX4Pyjg",
+        "thumbnail": "https://i.ytimg.com/vi/MOpyOX4Pyjg/hqdefault.jpg",
+        "title": "Development secrets of Dressmaker, ft. Ruan Rothmann & Sara Laubscher - Ep. 82",
+        "author": "Game Developer",
+        "duration": 0,
+        "verifiedAt": "2026-11-14T02:09:17+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/MOpyOX4Pyjg/hqdefault.jpg"
+      ],
+      "titleZh": "独立游戏《裁缝》主创谈制作过程",
+      "summaryZh": "游戏开发者媒体邀请两位主创回顾《裁缝》从制作到受到关注的经历。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，游戏开发者媒体邀请两位主创回顾《裁缝》从制作到受到关注的经历。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "这场访谈适合用来追溯成品背后的团队选择，尤其是小团队如何把一个主题做成玩家能辨认的体验。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 10.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "fbb16d16052705da",
+      "url": "https://www.artofvfx.com/heart-of-the-beast-framestore-reveals-its-creature-and-environment-vfx-work/",
+      "title": "Heart of the Beast: Framestore Reveals Its Creature and Environment VFX Work",
+      "summary": "Go behind the scenes of Heart of the Beast, David Ayer’s survival thriller starring Brad Pitt, and discover the impressive visual effects created by Framestore, featuring digital animals, complex creature animation, and detailed CG environments. Under the supervision of François Dumoulin, the team created photorealistic…",
+      "source": "Art of VFX",
+      "category": "动态设计",
+      "image": "https://i.ytimg.com/vi/y0W2vSbdX8w/hqdefault.jpg",
+      "publishedAt": "2026-11-13T16:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 63.3,
+      "images": [],
+      "video": {
+        "provider": "youtube",
+        "id": "y0W2vSbdX8w",
+        "url": "https://www.youtube.com/embed/y0W2vSbdX8w",
+        "thumbnail": "https://i.ytimg.com/vi/y0W2vSbdX8w/hqdefault.jpg",
+        "title": "Heart of the Beast VFX Breakdown | Framestore",
+        "author": "Framestore",
+        "duration": 0,
+        "verifiedAt": "2026-11-14T02:09:17+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/y0W2vSbdX8w/hqdefault.jpg"
+      ],
+      "titleZh": "《野兽之心》幕后拆解数字动物与环境",
+      "summaryZh": "视效团队展示求生惊悚片中的数字动物、角色动画与计算机生成环境。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，视效团队展示求生惊悚片中的数字动物、角色动画与计算机生成环境。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "动物动作与环境反馈需要一起设计，动作的重量感依赖接触、反应和镜头空间彼此对得上。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 10.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "1eb1fc2cb757fa7e",
+      "url": "https://80.lv/articles/ocarina-of-time-s-link-reimagined-with-arcane-inspired-art-style/",
+      "title": "Ocarina Of Time's Link Reimagined With Arcane-Inspired Art Style",
+      "summary": "Mauricio Ataíde shared some insights into his hand-painted texturing",
+      "source": "80 Level",
+      "category": "游戏设计",
+      "image": "https://i.ytimg.com/vi/djSZdthD_wc/hqdefault.jpg",
+      "publishedAt": "2026-11-13T15:58:00+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "score": 70.3,
+      "images": [
+        {
+          "url": "https://cdn.80.lv/api/upload/content/21/6af72e193d6b6.jpg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/33/6af72e62280d6.jpg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/40/6af72e20991b7.jpg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/ec/6af7308321065.jpg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/88/6af730a0bff99.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "djSZdthD_wc",
+        "url": "https://www.youtube.com/embed/djSZdthD_wc",
+        "thumbnail": "https://i.ytimg.com/vi/djSZdthD_wc/hqdefault.jpg",
+        "title": "Link",
+        "author": "80 Level",
+        "duration": 0,
+        "verifiedAt": "2026-11-14T02:09:17+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/djSZdthD_wc/hqdefault.jpg"
+      ],
+      "titleZh": "用手绘贴图重塑《时之笛》的林克",
+      "summaryZh": "毛里西奥·阿泰德借鉴《双城之战》的视觉风格重绘角色，并分享手绘贴图心得。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，毛里西奥·阿泰德借鉴《双城之战》的视觉风格重绘角色，并分享手绘贴图心得。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "重塑既有角色时，轮廓能维持辨识度，表面笔触则能改变角色所属的视觉世界。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 22.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "c5c9f8ed81a910cf",
+      "url": "https://www.core77.com/posts/145885/Polestars-New-Concept-Features-User-Configurable-Physical-Buttons",
+      "title": "Polestar's New Concept Features User-Configurable Physical Buttons",
+      "summary": "This week Polestar unveiled their new concept car, the Formula 2030 . It's their first concept under new-ish design chief Philipp Römers, who took over last year; Römers calls the 2030 \"a bold evolution of our already well-established design DNA\" rather than an entirely new design direction. One thing that is new, and jumped…",
+      "source": "Core77",
+      "category": "工业设计",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1856776_lead_400_145885_.png",
+      "publishedAt": "2026-11-13T15:00:00+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "score": 73.2,
+      "images": [
+        {
+          "url": "https://s3files.core77.com/blog/images/1856778_81_145885_IEqGLoBBt.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856783_81_145885_S_5PDB_Vv.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856779_81_145885_F6Aa8kqmb.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856782_81_145885_pJpttTt7g.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856784_81_145885_95vprjGUg.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856786_81_145885__dsncytG2.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856794_81_145885_vU5q2Urg6.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856788_81_145885_87EyL2VBl.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856787_81_145885_UncHiptzA.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856796_81_145885_X8DuqmMCD.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856795_81_145885_N3EEzQuiM.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856800_81_145885_hnYIgwLB4.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856801_81_145885_QaHA_44xd.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856802_81_145885_IobOOv6nD.png"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1856803_81_145885__AVDWz9Kr.png"
+        }
+      ],
+      "video": {
+        "provider": "file",
+        "id": "https://i.imgur.com/o5GA2MP.mp4",
+        "url": "https://i.imgur.com/o5GA2MP.mp4",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-11-14T02:09:17+00:00"
+      },
+      "extraVideos": [
+        {
+          "provider": "youtube",
+          "id": "Wa-FclxjUS8",
+          "url": "https://www.youtube.com/embed/Wa-FclxjUS8",
+          "thumbnail": "https://i.ytimg.com/vi/Wa-FclxjUS8/hqdefault.jpg",
+          "title": "By Design: Formula 2030 - A first look at what comes next | Polestar",
+          "author": "Polestar",
+          "duration": 0,
+          "verifiedAt": "2026-11-14T02:09:17+00:00"
+        }
+      ],
+      "videoGallery": [
+        "https://i.ytimg.com/vi/Wa-FclxjUS8/hqdefault.jpg"
+      ],
+      "titleZh": "极星概念车让驾驶者配置实体按键",
+      "summaryZh": "极星展示面向未来的概念车，驾驶者可为部分实体按键安排功能。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，极星展示面向未来的概念车，驾驶者可为部分实体按键安排功能。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "可配置实体键把高频功能留在触手可及的位置，驾驶中仍需考虑操作的一致性。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 25.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "9328a2a42752ada9",
+      "url": "https://www.stashmedia.tv/reframe-studio-get-comfortable-in-fursys-manta-chair/",
+      "title": "Reframe Studio Get Comfortable in Fursys Manta Chair",
+      "summary": "Reframe Studio in Seoul apply their talents for striking yet tasteful CG style to this Zen-like launch film for the Manta chair designed by German studio Jehs+Laub for South Korean furniture brand Fursys.",
+      "source": "Stash",
+      "category": "动态设计",
+      "image": "https://i.vimeocdn.com/video/2218547748-1b5b812237a1f1fb7f43a92121cd3618e3305b3e2777ff0be46c5befcadc3ee0-d_1280?region=us",
+      "publishedAt": "2026-11-13T14:22:40+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "score": 70.3,
+      "images": [
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Fursys-Manta-Chair-launch-film-by-Reframe-Studio-STASH-MAGAZINE7-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Fursys-Manta-Chair-launch-film-by-Reframe-Studio-STASH-MAGAZINE5-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Fursys-Manta-Chair-launch-film-by-Reframe-Studio-STASH-MAGAZINE3-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Fursys-Manta-Chair-launch-film-by-Reframe-Studio-STASH-MAGAZINE2-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Fursys-Manta-Chair-launch-film-by-Reframe-Studio-STASH-MAGAZINE6-2048x1152.jpg"
+        }
+      ],
+      "video": {
+        "provider": "vimeo",
+        "id": "1240694152",
+        "url": "https://player.vimeo.com/video/1240694152",
+        "thumbnail": "https://i.vimeocdn.com/video/2218547748-1b5b812237a1f1fb7f43a92121cd3618e3305b3e2777ff0be46c5befcadc3ee0-d_1280?region=us",
+        "title": "FURSYS  |  Manta",
+        "author": "reframe studio",
+        "duration": 60,
+        "verifiedAt": "2026-11-14T02:09:17+00:00"
+      },
+      "videoGallery": [
+        "https://i.vimeocdn.com/video/2218547748-1b5b812237a1f1fb7f43a92121cd3618e3305b3e2777ff0be46c5befcadc3ee0-d_1280?region=us"
+      ],
+      "titleZh": "以舒缓的三维动画呈现办公椅",
+      "summaryZh": "首尔制作团队为韩国办公家具品牌制作发布短片，用克制的三维画面呈现座椅。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，首尔制作团队为韩国办公家具品牌制作发布短片，用克制的三维画面呈现座椅。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "产品动画可以用节奏和镜头停留提示观众看哪里，给形体细节留出辨识时间。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 22.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "6c344cd62cbb7ef1",
+      "url": "https://www.designboom.com/architecture/arnaud-behzadi-doobies-paris-pavyllon-lyon/",
+      "title": "arnaud behzadi on designing beyond beauty, from paris’ doobie’s to pavyllon lyon",
+      "summary": "the french architect discusses how memory, emotion, and hospitality shape two new restaurants, from a parisian icon to a culinary school in",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-1.jpg",
+      "publishedAt": "2026-11-13T13:28:59+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "score": 66.2,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-15.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-1.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-412-1.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4131.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4133.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4134.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4135.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4136.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4137.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4138.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4139.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/Pavyllon_AT_006.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/Pavyllon_AT_008.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/Pavyllon_AT_002.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-3.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-2.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-411.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-412.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-413.jpg"
+        }
+      ],
+      "titleZh": "两家法国餐厅从记忆与待客方式出发",
+      "summaryZh": "建筑师阿尔诺·贝扎迪谈到巴黎餐厅与里昂烹饪学校相关餐厅的空间设计。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，建筑师阿尔诺·贝扎迪谈到巴黎餐厅与里昂烹饪学校相关餐厅的空间设计。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "从迎宾、落座和交流等场景出发，可以把抽象的待客理念落到空间安排上。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "2552b1e2ed35d583",
+      "url": "https://thedieline.com/ourcreative-gives-asdas-asquith-beers-seven-personalities-and-one-family-name/",
+      "title": "OurCreative Gives Asda’s Asquith Beers Seven Personalities and One Family Name",
+      "summary": "As UK brewers cut strength to save on duty, Asda’s Asquith 1965 range goes the other way, and OurCreative gives each of its seven higher strength beers and ciders a personality of its",
+      "source": "Dieline",
+      "category": "视觉设计",
+      "image": "https://thedieline.com/wp-content/uploads/2026/11/OurCreative-Asquith-Craft-beer-can-packaging-design.jpeg",
+      "publishedAt": "2026-11-13T13:22:14+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "score": 51.1,
+      "images": [
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/OurCreative-Asquith-Craft-beer-can-packaging-design.jpeg?w=2560&quality=70&ssl=1"
+        }
+      ],
+      "titleZh": "七种酒款共用一个系列名称",
+      "summaryZh": "设计团队为同一系列的七款啤酒与苹果酒分别安排视觉个性。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，设计团队为同一系列的七款啤酒与苹果酒分别安排视觉个性。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "系列识别可以由名称和共同规则承担，单品之间仍有空间通过图形区分。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.1,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "3324b7e4045d4db3",
+      "url": "https://www.archdaily.com/1188603/bachour-cafe-estudio-guto-requena",
+      "title": "Bachour Café / Estudio Guto Requena",
+      "summary": "The architectural project draws inspiration from French boulevards and the aesthetic richness of Brazilian design, exploring contrasts between opulence and warmth, tradition and innovation, craft and technology. The concept incorporates references to Art Nouveau — a movement that emerged in Paris during the Belle Époque at the…",
+      "source": "ArchDaily",
+      "category": "空间设计",
+      "image": "https://images.adsttc.com/media/images/6af3/b0e6/8074/f401/89de/e114/medium_jpg/cafe-bachour-estudio-guto-requena_2.jpg?1794355444",
+      "publishedAt": "2026-11-13T13:00:00+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "score": 66.3,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0e7/8074/f401/89de/e115/thumb_jpg/cafe-bachour-estudio-guto-requena_10.jpg?1794355445"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0eb/8074/f401/89de/e118/thumb_jpg/cafe-bachour-estudio-guto-requena_15.jpg?1794355460"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0ee/8074/f401/89de/e11a/thumb_jpg/cafe-bachour-estudio-guto-requena_4.jpg?1794355464"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0f4/c23f/1f01/895a/f108/thumb_jpg/cafe-bachour-estudio-guto-requena_9.jpg?1794355468"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0e6/8074/f401/89de/e114/medium_jpg/cafe-bachour-estudio-guto-requena_2.jpg?1794355444"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0ec/c23f/1f01/895a/f106/medium_jpg/cafe-bachour-estudio-guto-requena_3.jpg?1794355463"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0f2/c23f/1f01/895a/f107/medium_jpg/cafe-bachour-estudio-guto-requena_13.jpg?1794355469"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0e4/8074/f401/89de/e113/medium_jpg/cafe-bachour-estudio-guto-requena_6.jpg?1794355443"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0f2/8074/f401/89de/e11c/medium_jpg/cafe-bachour-estudio-guto-requena_7.jpg?1794355468"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0f6/8074/f401/89de/e11f/medium_jpg/cafe-bachour-estudio-guto-requena_8.jpg?1794355470"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0e9/8074/f401/89de/e116/medium_jpg/cafe-bachour-estudio-guto-requena_1.jpg?1794355459"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0f0/8074/f401/89de/e11b/medium_jpg/cafe-bachour-estudio-guto-requena_11.jpg?1794355466"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0ec/8074/f401/89de/e119/medium_jpg/cafe-bachour-estudio-guto-requena_12.jpg?1794355463"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0ea/8074/f401/89de/e117/medium_jpg/cafe-bachour-estudio-guto-requena_5.jpg?1794355460"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0da/c23f/1f01/895a/f105/medium_jpg/cafe-bachour-implantacao-com-anotaces-page-0001-2.jpg?1794355427"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0dc/8074/f401/89de/e112/medium_jpg/cafe-bachour-planta-baixa-com-anotaces-page-0001-3.jpg?1794355428"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af3/b0da/8074/f401/89de/e111/medium_jpg/cafe-bachour-cortes-com-anotaces-r01-page-0001-1.jpg?1794355428"
+        }
+      ],
+      "titleZh": "咖啡馆把法国街景与巴西设计放在一起",
+      "summaryZh": "巴舒尔咖啡馆的设计借鉴法国林荫大道与巴西设计，并在项目中结合工艺与技术。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，巴舒尔咖啡馆的设计借鉴法国林荫大道与巴西设计，并在项目中结合工艺与技术。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "不同文化来源可以通过共同的空间节奏协调，装饰细节则能保留各自的特征。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "6ca4f66d702992c4",
+      "url": "https://www.gcores.com/articles/222315",
+      "title": "沉迷《深空当铺》50小时后，我专访了游戏主创Bei Ning Pan",
+      "summary": "实不相瞒，上周我已经在最近正式发售的《深空当铺：可能是偷的》里沉迷了近50小时了，而且游戏时长还在增长中。 其实早在游戏Demo上线之际，我就已经开始了自己的当铺老板之旅。在这个赛博朋克题材的经营模拟游戏里头，玩家需要经营一间当铺：没有倒计时的紧迫感，也没有传统意义上的最终Boss——你可以在柜台前无尽地发愣、理货、算账，唯一不断上涨的，是光头的黑心房东漫天要价的店铺房租。…",
+      "source": "Gcores",
+      "category": "游戏设计",
+      "image": "https://image.gcores.com/3559a0018fd2a33f4505247def4f817e-2940-1912.png?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
+      "publishedAt": "2026-11-13T11:25:00+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "score": 57.5,
+      "images": [
+        {
+          "url": "https://image.gcores.com/766306db20d8fadd9e0c7d80a6174a80-2940-1912.png"
+        },
+        {
+          "url": "https://image.gcores.com/266dfe659ac1ded89a06fa3e54bd1936-2940-1912.png"
+        },
+        {
+          "url": "https://image.gcores.com/d399ceddf162362d41b8a31f09250838-2940-1912.png"
+        },
+        {
+          "url": "https://image.gcores.com/8f0ba50e522149ebfd559689a0e413fd-2940-1912.png"
+        },
+        {
+          "url": "https://image.gcores.com/a39ad2bbc262258bd4f4850c515a5dce-2940-1912.png"
+        },
+        {
+          "url": "https://image.gcores.com/df9b402cd54dc4c111806998c73de1f3-2940-1912.png"
+        }
+      ],
+      "titleZh": "《深空当铺》主创谈没有倒计时的经营设计",
+      "summaryZh": "机核文章采访游戏主创，介绍一款允许玩家慢慢理货、算账，同时以持续上涨的房租维持压力的经营游戏。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，机核文章采访游戏主创，介绍一款允许玩家慢慢理货、算账，同时以持续上涨的房租维持压力的经营游戏。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "把压力放在经营成本上，能给玩家自主安排短期动作的空间，同时保留长期取舍。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.5,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "baeed59db90b2cf1",
+      "url": "https://www.itsnicethat.com/features/uefa-womens-champions-league-queenzine-swedish-girls-gothenburg-collaboration-sponsored-content-131126",
+      "title": "UEFA Women’s Champions League zine collaborates with art duo Swedish Girls to bring fandom to the streets of Gothenburg",
+      "summary": "Queenzine is a fanzine that celebrates iconic figures in the UEFA Women’s Champions League and the fans that add fuel to their fire. To mark it’s most recent issue, physical copies of the mag sat in various cultural spots in Gothenburg, on custom stands made by one of Sweden’s most exciting art",
+      "source": "Its Nice That",
+      "category": "视觉设计",
+      "image": "https://admin.itsnicethat.com/images/JhB8HBh33WANTjt26IVQXZ4MjYs=/284867/width-1440%7Cformat-jpeg/Its_nice_that_x_Queenzie_x_Swedish_girls_029.png",
+      "publishedAt": "2026-11-13T11:00:00+00:00",
+      "date": "2026-11-13",
+      "firstSeen": "2026-11-14",
+      "score": 66.3,
+      "images": [
+        {
+          "url": "https://m.itsnicethat.com/original_images/Its_nice_that_x_Queenzie_x_Swedish_girls_029.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/queenzine_gothenburg_eng_final_dragged.png?class=w1080"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Spread_-01.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Spread_-02.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Spread_-03.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Its_nice_that_x_Queenzie_x_Swedish_girls_015.png?class=w1080"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Its_nice_that_x_Queenzie_x_Swedish_girls_018.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Its_nice_that_x_Queenzie_x_Swedish_girls_010_1.png?class=w1440"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Its_nice_that_x_Queenzie_x_Swedish_girls_023.png?class=w1080"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Its_nice_that_x_Queenzie_x_Swedish_girls_068_1.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Its_nice_that_x_Queenzie_x_Swedish_girls_070_1.png?class=w1440"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Spread_-01_u2bdNP4.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Spread_-02_lRmAA49.png?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Spread_-03_8FjyvAL.png?class=w1920"
+        }
+      ],
+      "titleZh": "女足球迷刊物走进哥德堡街头",
+      "summaryZh": "欧冠女足球迷刊物与瑞典创作组合合作，借助定制展架在哥德堡文化场所发放。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，欧冠女足球迷刊物与瑞典创作组合合作，借助定制展架在哥德堡文化场所发放。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "刊物的分发地点也是传播设计的一部分，让比赛内容在日常街区里被偶然发现。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
     {
       "id": "3bb5482d88376474",
       "url": "https://www.yankodesign.com/2026/11/13/daylight-machines-linear-clock-turns-24-hours-into-a-glowing-progress-bar/",
@@ -2529,6 +4133,45 @@
         "recency": 15.0,
         "media": 6.0,
         "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "6b0261f7c5e13175",
+      "url": "https://www.fastcompany.com/91638653/adobe-vp-of-design-believes-its-the-golden-age-of-design-no-really?campaign_date=11142026&partner=newsletter&position=1",
+      "title": "Adobe’s SVP of design believes it’s a golden age of design. Hear him out",
+      "summary": "Eric Snowden on designing creativity tools in the AI age, reaching the ‘freemium’ user, and why it’s actually a really exciting time to be a",
+      "source": "Fast Company UX",
+      "category": "人工智能设计",
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/11/p-1-91638653-eric-snowden-q-and-a.jpg",
+      "publishedAt": "2026-11-10T11:30:00+00:00",
+      "date": "2026-11-10",
+      "firstSeen": "2026-11-14",
+      "score": 45.1,
+      "images": [],
+      "titleZh": "奥多比设计负责人谈创作工具如何面向新用户",
+      "summaryZh": "埃里克·斯诺登讨论人工智能时代的创作工具，以及如何触及从免费功能入门的人。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，埃里克·斯诺登讨论人工智能时代的创作工具，以及如何触及从免费功能入门的人。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "团队可以关注第一次使用时用户能否理解编辑步骤和结果，入门体验会影响他们是否愿意继续探索。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 8.6,
+        "media": 3.0,
+        "completeness": 9.5,
         "source": 24.0
       }
     },
@@ -40626,6 +42269,37 @@
         "be54e0fcb5ca0b57"
       ],
       "updatedAt": "2026-11-13T18:55:24.932763+08:00"
+    },
+    {
+      "date": "2026-11-14",
+      "articleIds": [
+        "500849e3c601c859",
+        "14db66e01c64e731",
+        "a850271375ca982b",
+        "b7960a252bf9549f",
+        "5b563d4fcd130083",
+        "1c2d3755da792e9a",
+        "7aacd14cf52c1426",
+        "dddf16fdab497f51",
+        "6d98269f2503767f",
+        "4c712cd7acfffe4c",
+        "fe3851e54108eceb",
+        "8943539e304b0dfd",
+        "b116937bc10a611a",
+        "b603d99a475aed02",
+        "773fc281744e7b1b",
+        "fbb16d16052705da",
+        "1eb1fc2cb757fa7e",
+        "c5c9f8ed81a910cf",
+        "9328a2a42752ada9",
+        "6c344cd62cbb7ef1",
+        "2552b1e2ed35d583",
+        "3324b7e4045d4db3",
+        "6ca4f66d702992c4",
+        "baeed59db90b2cf1",
+        "6b0261f7c5e13175"
+      ],
+      "updatedAt": "2026-11-14T10:07:41.897389+08:00"
     }
   ],
   "rankingNote": "关注指数 100 分 = 时效 30 + 媒体 25 + 完整度 25 + 来源 20，依已核实字段计算，不是全网阅读量或点赞量。",
