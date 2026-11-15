@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T10:07:41.897389+08:00",
+  "updatedAt": "2026-11-15T09:15:17.191930+08:00",
   "sources": [
     {
       "name": "Dezeen",
@@ -8,7 +8,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-11-13T19:00:00+00:00"
+      "latestPublishedAt": "2026-11-14T18:00:00+00:00"
     },
     {
       "name": "designboom",
@@ -17,7 +17,7 @@
       "category": "空间设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-13T19:10:47+00:00"
+      "latestPublishedAt": "2026-11-14T21:35:59+00:00"
     },
     {
       "name": "Yanko Design",
@@ -26,7 +26,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 16,
-      "latestPublishedAt": "2026-11-14T01:30:20+00:00"
+      "latestPublishedAt": "2026-11-15T00:30:45+00:00"
     },
     {
       "name": "Smashing Magazine",
@@ -67,11 +67,11 @@
     {
       "name": "Creative Bloq",
       "label": "创意视界",
-      "url": "https://www.creativebloq.com/feeds/all",
       "category": "视觉设计",
-      "ok": true,
-      "count": 25,
-      "latestPublishedAt": "2026-11-13T16:20:50+00:00"
+      "url": "https://www.creativebloq.com/feeds/all",
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "name": "UX Collective",
@@ -103,65 +103,65 @@
     {
       "name": "Awwwards",
       "label": "网页设计奖",
-      "url": "https://www.awwwards.com/blog/feed/",
       "category": "用户体验设计",
-      "ok": true,
-      "count": 30,
-      "latestPublishedAt": "2026-08-31T14:39:00+00:00"
+      "url": "https://www.awwwards.com/blog/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "name": "Design Milk",
       "label": "设计牛奶",
-      "url": "https://design-milk.com/feed/",
       "category": "工业设计",
-      "ok": true,
-      "count": 12,
-      "latestPublishedAt": "2026-11-14T01:31:47+00:00"
+      "url": "https://design-milk.com/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "name": "Creative Boom",
       "label": "创意浪潮",
-      "url": "https://www.creativeboom.com/feed/",
       "category": "视觉设计",
-      "ok": true,
-      "count": 20,
-      "latestPublishedAt": "2026-11-12T07:00:00+00:00"
+      "url": "https://www.creativeboom.com/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "name": "Car Body Design",
       "label": "汽车车身设计",
-      "url": "https://www.carbodydesign.com/feed/",
       "category": "工业设计",
-      "ok": true,
-      "count": 10,
-      "latestPublishedAt": "2026-10-26T18:12:43+00:00"
+      "url": "https://www.carbodydesign.com/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
     },
     {
       "name": "Stash",
       "label": "动态影像精选",
-      "url": "https://www.stashmedia.tv/feed/",
       "category": "动态设计",
-      "ok": true,
-      "count": 6,
-      "latestPublishedAt": "2026-11-13T18:55:25+00:00"
+      "url": "https://www.stashmedia.tv/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
     },
     {
       "name": "Art of VFX",
       "label": "视觉特效艺术",
-      "url": "https://www.artofvfx.com/feed/",
       "category": "动态设计",
-      "ok": true,
-      "count": 20,
-      "latestPublishedAt": "2026-11-13T19:00:00+00:00"
+      "url": "https://www.artofvfx.com/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
     },
     {
       "name": "Blender",
       "label": "三维创作社区",
-      "url": "https://www.blender.org/feed/",
       "category": "动态设计",
-      "ok": true,
-      "count": 9,
-      "latestPublishedAt": "2026-11-10T17:58:03+00:00"
+      "url": "https://www.blender.org/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
     },
     {
       "name": "Hugging Face",
@@ -307,7 +307,7 @@
       "category": "建筑设计",
       "ok": true,
       "count": 24,
-      "latestPublishedAt": "2026-11-13T19:00:00+00:00"
+      "latestPublishedAt": "2026-11-14T17:00:00+00:00"
     },
     {
       "name": "Wallpaper",
@@ -316,7 +316,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-11-13T17:00:00+00:00"
+      "latestPublishedAt": "2026-11-14T11:00:00+00:00"
     },
     {
       "name": "Its Nice That",
@@ -424,7 +424,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 36,
-      "latestPublishedAt": "2026-11-13T22:00:05+00:00"
+      "latestPublishedAt": "2026-11-14T22:00:05+00:00"
     },
     {
       "name": "Figma",
@@ -670,7 +670,7 @@
       "category": "游戏设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-13T23:34:00+00:00"
+      "latestPublishedAt": "2026-11-14T18:00:00+00:00"
     },
     {
       "name": "Gcores",
@@ -678,11 +678,1745 @@
       "url": "https://www.gcores.com/rss",
       "category": "游戏设计",
       "ok": true,
-      "count": 17,
-      "latestPublishedAt": "2026-11-13T11:25:00+00:00"
+      "count": 13,
+      "latestPublishedAt": "2026-11-15T00:02:03+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "157c04afe389fb1c",
+      "url": "https://www.yankodesign.com/2026/11/14/mote-humidifier-concept-waters-a-tiny-garden-with-leftover-tank-water/",
+      "title": "mote Humidifier Concept Waters a Tiny Garden With Leftover Tank Water",
+      "summary": "mote Humidifier Concept Waters a Tiny Garden With Leftover Tank Water Emptying a humidifier usually sends the water you didn’t use straight down the drain. The mote gardening humidifier concept proposes giving it somewhere closer",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/11/mote-humidifier-concept-waters-a-tiny-garden-with-leftover-tank-water/mote-gardening-iot-humidifier-concept-03.jpg",
+      "publishedAt": "2026-11-14T23:30:46+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "score": 62.6,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/mote-humidifier-concept-waters-a-tiny-garden-with-leftover-tank-water/mote-gardening-iot-humidifier-concept-03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/mote-humidifier-concept-waters-a-tiny-garden-with-leftover-tank-water/mote-gardening-iot-humidifier-concept-02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/mote-humidifier-concept-waters-a-tiny-garden-with-leftover-tank-water/mote-gardening-iot-humidifier-concept-06.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/mote-humidifier-concept-waters-a-tiny-garden-with-leftover-tank-water/mote-gardening-iot-humidifier-concept-01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/mote-humidifier-concept-waters-a-tiny-garden-with-leftover-tank-water/mote-gardening-iot-humidifier-concept-04.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/mote-humidifier-concept-waters-a-tiny-garden-with-leftover-tank-water/mote-gardening-iot-humidifier-concept-07.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/mote-humidifier-concept-waters-a-tiny-garden-with-leftover-tank-water/mote-gardening-iot-humidifier-concept-08.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/mote-humidifier-concept-waters-a-tiny-garden-with-leftover-tank-water/mote-gardening-iot-humidifier-concept-05.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/mote-humidifier-concept-waters-a-tiny-garden-with-leftover-tank-water/mote-gardening-iot-humidifier-concept-09.jpg"
+        }
+      ],
+      "titleZh": "加湿器余水用来浇灌微型花园",
+      "summaryZh": "一款加湿器概念把通常会倒掉的水箱余水引入小型种植空间，为余水提出第二种用途。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，一款加湿器概念把通常会倒掉的水箱余水引入小型种植空间，为余水提出第二种用途。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "水箱维护与植物照料原本是两项操作，设计把它们放在同一个使用流程里。落地仍需考虑水箱清洁和植物的用水频率。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.6,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "68057da46700d9d6",
+      "url": "https://www.gcores.com/articles/222374",
+      "title": "《英雄联盟：曙光》正式宣布",
+      "summary": "拳头游戏的 Pabro 与 Meddler 于今日带来《英雄联盟：曙光》预告，更多详情将于明年1月揭晓。 据悉，《英雄联盟：曙光》 包括全面现代化升级的游戏客户端、焕然一新的召唤师峡谷地图与视觉表现、持续进化的游戏玩法，以及让玩家以全新方式体验自己喜爱的英雄等一系列精彩内容。预约现已正式开启。",
+      "source": "Gcores",
+      "category": "游戏设计",
+      "image": "https://image.gcores.com/2ea8c4d3aa9027029c41bcf4300cf4b9-690-387.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
+      "publishedAt": "2026-11-14T22:14:40+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "score": 62.8,
+      "images": [
+        {
+          "url": "https://image.gcores.com/2ea8c4d3aa9027029c41bcf4300cf4b9-690-387.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1600/quality,q_90/format,webp"
+        },
+        {
+          "url": "https://image.gcores.com/f9d8a9b3526d1a27c5da7e6a1eaeb644-1920-1080.jpg"
+        },
+        {
+          "url": "https://image.gcores.com/2897239c7af9598493ebae1e7e03d992-1920-1080.jpg"
+        },
+        {
+          "url": "https://image.gcores.com/9491b2daeec6e4a2d50b4ee0f328ce29-1920-1080.jpg"
+        },
+        {
+          "url": "https://image.gcores.com/f238a2c8d4182ab130a05e704c2c84b1-1920-1080.jpg"
+        },
+        {
+          "url": "https://image.gcores.com/8150aaf2538b6f30c0a2a7886b2d85d3-1920-1080.jpg"
+        },
+        {
+          "url": "https://image.gcores.com/600c4afe44a3b3f36b4b3d9d65b4b260-1920-1080.jpg"
+        }
+      ],
+      "titleZh": "《英雄联盟》预告新版客户端与峡谷地图",
+      "summaryZh": "拳头游戏预告《英雄联盟：曙光》，公布客户端现代化、地图与视觉更新的方向，并将于次年一月披露更多细节。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，拳头游戏预告《英雄联盟：曙光》，公布客户端现代化、地图与视觉更新的方向，并将于次年一月披露更多细节。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "客户端和地图分别影响进入对局与对局内的体验。能否保留玩家熟悉的操作线索，值得在细节公开后继续观察。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.8,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "08b8ac8eaeb058e7",
+      "url": "https://www.behance.net/gallery/257048263/R3-Robotics",
+      "title": "R3 Robotics",
+      "summary": "R3 Robotics builds robots that take EV batteries apart to recover the materials and components inside. We repositioned the company around recovering value and created an identity that behaves the same way: a custom wordmark with removed segments, modular graphics that separate and reassemble, and 3D exploded views that reveal…",
+      "source": "Behance",
+      "category": "视觉设计",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/69dc47257048263.Y3JvcCw4MDgsNjMyLDAsMA.png",
+      "publishedAt": "2026-11-14T22:00:05+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "score": 47.5,
+      "images": [],
+      "titleZh": "电池拆解公司的标志也能拆开重组",
+      "summaryZh": "电池回收机器人的品牌方案采用缺段字标、可拆装图形和三维爆炸图，将材料回收转化为识别语言。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，电池回收机器人的品牌方案采用缺段字标、可拆装图形和三维爆炸图，将材料回收转化为识别语言。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "字标和三维图表达同一种拆解动作，让企业的业务过程可以在不同传播尺度下被认出来。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 9.5,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "4c7c264fb3165d89",
+      "url": "https://www.yankodesign.com/2026/11/14/plisse-block-is-a-pleated-glass-sofa-that-refuses-to-blend-in/",
+      "title": "Plissè Block Is A Pleated Glass Sofa That Refuses to Blend In",
+      "summary": "Plissè Block Is A Pleated Glass Sofa That Refuses to Blend In A sofa can dominate a living room before anyone sits down. Give it a solid base, substantial arms, and a high back, and suddenly",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/11/plisse-block-is-a-pleated-glass-sofa-that-refuses-to-blend-in/plisse-block-0.jpg",
+      "publishedAt": "2026-11-14T21:45:42+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "score": 62.4,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/plisse-block-is-a-pleated-glass-sofa-that-refuses-to-blend-in/plisse-block-0.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/plisse-block-is-a-pleated-glass-sofa-that-refuses-to-blend-in/plisse-block-01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/plisse-block-is-a-pleated-glass-sofa-that-refuses-to-blend-in/plisse-block-02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/plisse-block-is-a-pleated-glass-sofa-that-refuses-to-blend-in/plisse-block-03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/plisse-block-is-a-pleated-glass-sofa-that-refuses-to-blend-in/plisse-block-04.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/plisse-block-is-a-pleated-glass-sofa-that-refuses-to-blend-in/plisse-block-05.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/plisse-block-is-a-pleated-glass-sofa-that-refuses-to-blend-in/plisse-block-06.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/plisse-block-is-a-pleated-glass-sofa-that-refuses-to-blend-in/plisse-block-07.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/plisse-block-is-a-pleated-glass-sofa-that-refuses-to-blend-in/plisse-block-08.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/plisse-block-is-a-pleated-glass-sofa-that-refuses-to-blend-in/plisse-block-09.jpg"
+        }
+      ],
+      "titleZh": "褶皱玻璃构成座椅的外形",
+      "summaryZh": "报道介绍以褶皱玻璃为形式特征的沙发设计，玻璃的起伏表面成为主要视觉元素。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，报道介绍以褶皱玻璃为形式特征的沙发设计，玻璃的起伏表面成为主要视觉元素。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "褶皱会改变光线穿过和反射材料的方式，家具在不同位置和观看角度下可呈现不同的轮廓感。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "33885c95315b3923",
+      "url": "https://www.designboom.com/design/gio-tirotto-domestic-chair-public-bench-italy-gulf-poets-vita-lenta/",
+      "title": "gio tirotto stretches domestic chair into public bench on italy’s gulf of poets",
+      "summary": "la lenta is a stainless steel and teak-veneered bench that merges domestic chair proportions with civic seating for installation along liguria’s san terenzo",
+      "source": "designboom",
+      "category": "工业设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/470569/2026-11-04/vita-lenta-and-gio-tirotto-stretch-a-domestic-chair-into-a-public-bench-on-italys-gulf-of-poets-2-6aebb06ea1697.jpg",
+      "publishedAt": "2026-11-14T21:35:59+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "score": 71.5,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/la-lenta-chair-public-bench-vita-lenta-gio-tirotto-designboom-1800-1.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470569/2026-11-04/vita-lenta-and-gio-tirotto-stretch-a-domestic-chair-into-a-public-bench-on-italys-gulf-of-poets-2-6aebb06ea1697.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470569/2026-11-04/vita-lenta-and-gio-tirotto-stretch-a-domestic-chair-into-a-public-bench-on-italys-gulf-of-poets-7-6aebb06ea17e3.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470569/2026-11-04/vita-lenta-and-gio-tirotto-stretch-a-domestic-chair-into-a-public-bench-on-italys-gulf-of-poets-10-6aebb06ea1898.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/la-lenta-chair-public-bench-vita-lenta-gio-tirotto-designboom-1800-2.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470569/2026-11-04/vita-lenta-and-gio-tirotto-stretch-a-domestic-chair-into-a-public-bench-on-italys-gulf-of-poets-3-6aebb06ea16e0.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470569/2026-11-04/vita-lenta-and-gio-tirotto-stretch-a-domestic-chair-into-a-public-bench-on-italys-gulf-of-poets-1-6aebb06ea160d.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470569/2026-11-04/vita-lenta-and-gio-tirotto-stretch-a-domestic-chair-into-a-public-bench-on-italys-gulf-of-poets-4-6aebb06ea1722.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/la-lenta-chair-public-bench-vita-lenta-gio-tirotto-designboom-1800-4.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/la-lenta-chair-public-bench-vita-lenta-gio-tirotto-designboom-10.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/la-lenta-chair-public-bench-vita-lenta-gio-tirotto-designboom-11.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/la-lenta-chair-public-bench-vita-lenta-gio-tirotto-designboom-12.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/la-lenta-chair-public-bench-vita-lenta-gio-tirotto-designboom-13.jpg"
+        }
+      ],
+      "titleZh": "把家用椅比例拉长成海滨公共长椅",
+      "summaryZh": "设计师将家用椅的比例延展到公共座椅，使用不锈钢与柚木饰面，设置于意大利海滨。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，设计师将家用椅的比例延展到公共座椅，使用不锈钢与柚木饰面，设置于意大利海滨。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "家庭家具的形态可以给街道座椅带来熟悉感，户外材料与维护方式则决定它能否长期服务公共场地。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "005c948046caa78b",
+      "url": "https://www.behance.net/gallery/257675379/Galerinhas",
+      "title": "Galerinhas",
+      "summary": "Personal project based on the bohemian life in the city of Belo Horizonte. - Projeto pessoal baseado na vida boêmia e nas galerias de bares de Belo Horizonte, produzido durante mentoria com a designer Paula",
+      "source": "Behance",
+      "category": "视觉设计",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/04ebdb257675379.Y3JvcCwzNDE2LDI2NzIsMjUzLDA.png",
+      "publishedAt": "2026-11-14T18:00:06+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "score": 47.4,
+      "images": [],
+      "titleZh": "以贝洛奥里藏特的酒吧街廊为题做个人创作",
+      "summaryZh": "这个个人项目取材于巴西贝洛奥里藏特的波希米亚生活与酒吧街廊，在设计指导过程中完成。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，这个个人项目取材于巴西贝洛奥里藏特的波希米亚生活与酒吧街廊，在设计指导过程中完成。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "围绕一座城市里的特定社交场所开展创作，能让城市题材落到更具体的生活经验。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 9.4,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "685ab06152145cb5",
+      "url": "https://www.dezeen.com/2026/11/14/arudeko-bianni-waste-wool-paper-material/",
+      "title": "Arudeko transforms discarded wool into paper-like material",
+      "summary": "Mexican studio Arudeko has developed Bianni, a paper-like material from colourful waste wool, which can be sculpted into everything from lampshades to room",
+      "source": "Dezeen",
+      "category": "工业设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/Bianni-Wool-Paper-by-Arudeko_dezeen_2364_col_10-1024x1024.jpg",
+      "publishedAt": "2026-11-14T18:00:00+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "score": 71.4,
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Bianni-Wool-Paper-by-Arudeko_dezeen_2364_col_9-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Bianni-Wool-Paper-by-Arudeko_dezeen_2364_col_10-1536x1536.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Bianni-Wool-Paper-by-Arudeko_dezeen_2364_col_0.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Bianni-Wool-Paper-by-Arudeko_dezeen_2364_col_1-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Bianni-Wool-Paper-by-Arudeko_dezeen_2364_col_7-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Bianni-Wool-Paper-by-Arudeko_dezeen_2364_col_3-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Bianni-Wool-Paper-by-Arudeko_dezeen_2364_col_6-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Bianni-Wool-Paper-by-Arudeko_dezeen_2364_col_5-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Bianni-Wool-Paper-by-Arudeko_dezeen_2364_col_4-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Bianni-Wool-Paper-by-Arudeko_dezeen_2364_col_8-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Bianni-Wool-Paper-by-Arudeko_dezeen_2364_col_2-scaled.jpg"
+        }
+      ],
+      "titleZh": "废弃彩色羊毛变成类纸材料",
+      "summaryZh": "墨西哥工作室以废弃羊毛开发可塑形的类纸材料，可用于灯罩和室内隔断等物件。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，墨西哥工作室以废弃羊毛开发可塑形的类纸材料，可用于灯罩和室内隔断等物件。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "可塑性让同一材料进入不同尺度的物件设计。设计者也可以把原料固有的颜色纳入表面表达。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "1986734b8191c5f2",
+      "url": "https://80.lv/articles/this-manga-style-action-fps-uses-radial-gravity-to-turn-walls-into-floors/",
+      "title": "This Manga-Style Action FPS Uses Radial Gravity to Turn Walls into Floors",
+      "summary": "Developer sembask explained how the Godot game's spherical world pulls players toward its",
+      "source": "80 Level",
+      "category": "游戏设计",
+      "image": "https://cdn.80.lv/api/upload/content/b9/6af6e8b7620ee.jpg",
+      "publishedAt": "2026-11-14T18:00:00+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "score": 62.3,
+      "images": [
+        {
+          "url": "https://cdn.80.lv/api/upload/content/b9/6af6e8b7620ee.jpg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/60/6af6e8babf4b8.jpg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/15/6af6e8cd1ea1c.jpg"
+        }
+      ],
+      "titleZh": "球形关卡用径向重力把墙面变成地面",
+      "summaryZh": "这款漫画风第一人称动作游戏让重力朝向球形世界内部，玩家的站立方向随位置改变。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，这款漫画风第一人称动作游戏让重力朝向球形世界内部，玩家的站立方向随位置改变。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "当地面方向随移动发生变化，关卡需要用轮廓和地标帮助玩家持续判断朝向。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 9.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "c8a6623fccf6f902",
+      "url": "https://www.archdaily.com/1187949/vanguard-house-ming-architects",
+      "title": "Vanguard House / Ming Architects",
+      "summary": "Vanguard House is a spacious residence with privacy and serenity at the forefront of its design. With concealed living spaces and the incorporation of water features at its core, it creates a light and relaxing atmosphere complemented by its use of",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6ae8/814a/bcbc/3500/01ae/ae64/medium_jpg/Ming_Architects_-_3_Moonbeam_View-4.jpg?1793622406",
+      "publishedAt": "2026-11-14T17:00:00+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-15",
+      "score": 71.4,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/8147/bcbc/3500/01ae/ae58/thumb_jpg/Ming_Architects_-_3_Moonbeam_View-7.jpg?1793622369"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/8148/bcbc/3500/01ae/ae5a/thumb_jpg/Ming_Architects_-_3_Moonbeam_View-15.jpg?1793622376"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/814a/bcbc/3500/01ae/ae67/thumb_jpg/Ming_Architects_-_3_Moonbeam_View-41.jpg?1793622455"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/814a/bcbc/3500/01ae/ae69/thumb_jpg/Ming_Architects_-_3_Moonbeam_View-34.jpg?1793622477"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/814a/bcbc/3500/01ae/ae64/medium_jpg/Ming_Architects_-_3_Moonbeam_View-4.jpg?1793622406"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/814a/bcbc/3500/01ae/ae6a/medium_jpg/Ming_Architects_-_3_Moonbeam_View-5.jpg?1793622430"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/814a/bcbc/3500/01ae/ae65/medium_jpg/Ming_Architects_-_3_Moonbeam_View-10.jpg?1793622452"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/8148/bcbc/3500/01ae/ae59/medium_jpg/Ming_Architects_-_3_Moonbeam_View-9.jpg?1793622380"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/8149/bcbc/3500/01ae/ae5b/medium_jpg/Ming_Architects_-_3_Moonbeam_View-16.jpg?1793622401"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/814a/bcbc/3500/01ae/ae5f/medium_jpg/Ming_Architects_-_3_Moonbeam_View-30.jpg?1793622430"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/8149/bcbc/3500/01ae/ae5d/medium_jpg/Ming_Architects_-_3_Moonbeam_View-25.jpg?1793622379"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/8149/bcbc/3500/01ae/ae5c/medium_jpg/Ming_Architects_-_3_Moonbeam_View-20.jpg?1793622379"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/814a/bcbc/3500/01ae/ae61/medium_jpg/Ming_Architects_-_3_Moonbeam_View-40.jpg?1793622404"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/814a/bcbc/3500/01ae/ae68/medium_jpg/Ming_Architects_-_3_Moonbeam_View-38.jpg?1793622428"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/814a/bcbc/3500/01ae/ae60/medium_jpg/Ming_Architects_-_3_Moonbeam_View-39.jpg?1793622379"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/814a/bcbc/3500/01ae/ae6b/medium_jpg/1st_Storey.jpg?1793622487"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6a5d/e7c9/895c/1800/0111/7b99/thumb_jpg/Ming_Architects_-_5_Jalan_Pasiran-16.jpg?1784539118"
+        }
+      ],
+      "titleZh": "住宅用隐蔽的起居空间与中央水景保留私密",
+      "summaryZh": "建筑团队把隐蔽的起居空间与位于住宅核心的水景纳入同一方案，重点处理私密和安静。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，建筑团队把隐蔽的起居空间与位于住宅核心的水景纳入同一方案，重点处理私密和安静。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "把部分景观引向建筑内部，可以提供稳定的视觉中心，同时减少起居空间向外暴露。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "641a71a141105137",
+      "url": "https://www.designboom.com/art/rune-bosse-living-lung-trees-life-support-ecological-collapse/",
+      "title": "rune bosse puts living trees on life support in a vision of ecological collapse",
+      "summary": "equipped with respirators and artificial lighting, rune bosse's 'tree lungs' imagines a future where nature itself may need life",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/rune-bosse-lung-trees-designboom-01.jpg",
+      "publishedAt": "2026-11-14T15:15:22+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 66.4,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/rune-bosse-lung-trees-designboom-1800.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/rune-bosse-lung-trees-designboom-01.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/rune-bosse-lung-trees-designboom-02.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/rune-bosse-lung-trees-designboom-03.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/rune-bosse-lung-trees-designboom-04.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/rune-bosse-lung-trees-designboom-05a.jpg"
+        }
+      ],
+      "titleZh": "以维生装置包围活树的生态装置",
+      "summaryZh": "艺术家用呼吸装置和人工灯光布置活树，构造一个植物需要外部维生的假想情境。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，艺术家用呼吸装置和人工灯光布置活树，构造一个植物需要外部维生的假想情境。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "装置借用医疗环境的视觉线索，把抽象的生态风险转化为观众能直接观察的空间关系。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "b0e79b3d1770a6c5",
+      "url": "https://www.archdaily.com/1009606/minthis-hills-woods-baggot",
+      "title": "Minthis Resort Development / Woods Bagot",
+      "summary": "Minthis is a resort-style development located in the hillside setting of Tsada Village in Paphos . With Cypriot developer Pafilia, Woods Bagot's London studio delivered master planning, architecture, interior design, and branding services to create a unique retreat-style experience, combining the best of local antiquity and…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/654e/6c41/08e4/4436/8242/6c3c/medium_jpg/minthis-hills-woods-baggot_1.jpg?1699638370",
+      "publishedAt": "2026-11-14T15:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 66.3,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c41/08e4/4436/8242/6c3b/thumb_jpg/minthis-hills-woods-baggot_2.jpg?1699638372"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c42/08e4/4436/8242/6c3e/thumb_jpg/minthis-hills-woods-baggot_4.jpg?1699638379"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c40/f96c/7611/058c/3cdf/thumb_jpg/minthis-hills-woods-baggot_3.jpg?1699638368"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c40/08e4/4436/8242/6c39/thumb_jpg/minthis-hills-woods-baggot_9.jpg?1699638361"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c41/08e4/4436/8242/6c3c/medium_jpg/minthis-hills-woods-baggot_1.jpg?1699638370"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c41/08e4/4436/8242/6c3d/medium_jpg/minthis-hills-woods-baggot_14.jpg?1699638445"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c40/f96c/7611/058c/3ce0/medium_jpg/minthis-hills-woods-baggot_7.jpg?1699638398"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c3d/f96c/7642/2a33/a535/medium_jpg/minthis-hills-woods-baggot_15.jpg?1699638371"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c42/f96c/7642/2a33/a539/medium_jpg/minthis-hills-woods-baggot_16.jpg?1699638375"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c41/f96c/7642/2a33/a538/medium_jpg/minthis-hills-woods-baggot_8.jpg?1699638423"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c41/f96c/7642/2a33/a537/medium_jpg/minthis-hills-woods-baggot_11.jpg?1699638397"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c43/f96c/7642/2a33/a53b/medium_jpg/minthis-hills-woods-baggot_13.jpg?1699638373"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c42/f96c/7642/2a33/a53a/medium_jpg/minthis-hills-woods-baggot_6.jpg?1699638399"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c40/f96c/7642/2a33/a536/medium_jpg/minthis-hills-woods-baggot_5.jpg?1699638376"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c41/08e4/4436/8242/6c3a/medium_jpg/minthis-hills-woods-baggot_12.jpg?1699638376"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c43/08e4/4436/8242/6c3f/medium_jpg/minthis-hills-woods-baggot_10.jpg?1699638376"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c46/08e4/4436/8242/6c40/medium_jpg/440518-minthis-n104-screenhd-1.jpg?1699638355"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/654e/6c46/f96c/7642/2a33/a53c/medium_jpg/440518-minthis-n105-screenhd-2.jpg?1699638355"
+        }
+      ],
+      "titleZh": "塞浦路斯坡地度假项目统筹规划与室内",
+      "summaryZh": "项目落在帕福斯一带的山坡村落，设计团队负责总体规划、建筑与室内。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，项目落在帕福斯一带的山坡村落，设计团队负责总体规划、建筑与室内。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "在坡地上同步考虑建筑和公共空间，可以尽早处理标高差及各设施之间的到达路线。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "854740cbd25fefe9",
+      "url": "https://80.lv/articles/vrchat-hairstyle-with-ponytails-that-turn-into-propellers/",
+      "title": "VRChat Hairstyle With Ponytails That Turn Into Propellers",
+      "summary": "You'll be able to purchase this one, along with even wilder",
+      "source": "80 Level",
+      "category": "游戏设计",
+      "image": null,
+      "publishedAt": "2026-11-14T14:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 48.2,
+      "images": [],
+      "titleZh": "虚拟角色的双马尾可以变成螺旋桨",
+      "summaryZh": "一款面向虚拟社交游戏的角色发型资产把双马尾做成可变形的螺旋桨造型。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，一款面向虚拟社交游戏的角色发型资产把双马尾做成可变形的螺旋桨造型。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "发型同时参与角色剪影和动作表演，变形前后需要保留足够明显的状态差别。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 0.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "bf878d6d5eb9b2d6",
+      "url": "https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/",
+      "title": "Japanese sauna by Daichi Inc makes \"people feel as though they are dissolving into the forest\"",
+      "summary": "Tree trunks puncture the slim timber platforms of this minimalist sauna in a Japanese woodland, designed by local architecture studio Daichi",
+      "source": "Dezeen",
+      "category": "建筑设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_sq-1024x1024.jpg",
+      "publishedAt": "2026-11-14T11:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 66.3,
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_hero-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_col_1-1536x1024.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure-drawings_dezeen_2364_site.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure-drawings_dezeen_2364_plan.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure-drawings_dezeen_2364_roof.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure-drawings_dezeen_2364_section.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_col_9.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_col_8-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_col_7-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_col_6-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_col_4.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_col_2.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_col_3.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/daichi-silent-river-tree-sauna-daichi-architecture-sauna-japan-public-leisure_dezeen_2364_col_0-scaled.jpg"
+        }
+      ],
+      "titleZh": "日本林地桑拿让树干穿过木平台",
+      "summaryZh": "日本建筑团队在林地搭建简洁的桑拿设施，树干穿过纤细的木平台。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，日本建筑团队在林地搭建简洁的桑拿设施，树干穿过纤细的木平台。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "让平台适应树的位置，可使从林地走入建筑的体验保持连续，也让既有树木成为空间尺度的参照。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "5df34dd3d0f032af",
+      "url": "https://www.archdaily.com/1187695/land-over-water-firm-architects",
+      "title": "LAND OVER WATER / FIRM architects",
+      "summary": "In Hoofddorp , the transformation of a 1990s office building into a contemporary workplace for APPM translates the Dutch landscape into an architectural language of water, clay, and vegetation, bringing together sustainability, spatial identity, and new ways of",
+      "source": "ArchDaily",
+      "category": "空间设计",
+      "image": "https://images.adsttc.com/media/images/6ae2/0a1c/3271/8400/01d0/f74c/medium_jpg/Giovanni_Nardi_Photography_5Y6A7006.jpg?1793198649",
+      "publishedAt": "2026-11-14T11:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 66.6,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1c/3271/8400/01d0/f74d/thumb_jpg/Giovanni_Nardi_Photography_5Y6A7074.jpg?1793198667"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1c/3271/8400/01d0/f750/thumb_jpg/Giovanni_Nardi_Photography_5Y6A7151.jpg?1793198808"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1c/3271/8400/01d0/f751/thumb_jpg/Giovanni_Nardi_Photography_5Y6A7168_cropped_2.jpg?1793198666"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1a/3271/8400/01d0/f747/thumb_jpg/Giovanni_Nardi_Photography_1G3A6647.jpg?1793198672"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1c/3271/8400/01d0/f74c/medium_jpg/Giovanni_Nardi_Photography_5Y6A7006.jpg?1793198649"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1c/3271/8400/01d0/f74b/medium_jpg/Giovanni_Nardi_Photography_1G3A6691.jpg?1793198672"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1c/3271/8400/01d0/f74f/medium_jpg/Giovanni_Nardi_Photography_5Y6A7107.jpg?1793198668"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1c/3271/8400/01d0/f74e/medium_jpg/Giovanni_Nardi_Photography_5Y6A7089.jpg?1793198667"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1c/3271/8400/01d0/f752/medium_jpg/Giovanni_Nardi_Photography_5Y6A7214.jpg?1793198711"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1a/3271/8400/01d0/f745/medium_jpg/Giovanni_Nardi_Photography_1G3A6622.jpg?1793198670"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1a/3271/8400/01d0/f746/medium_jpg/Giovanni_Nardi_Photography_1G3A6637.jpg?1793198672"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1a/3271/8400/01d0/f744/medium_jpg/Giovanni_Nardi_Photography_1G3A6617.jpg?1793198669"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1b/3271/8400/01d0/f748/medium_jpg/Giovanni_Nardi_Photography_1G3A6651.jpg?1793198672"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1c/3271/8400/01d0/f753/medium_jpg/Giovanni_Nardi_Photography_5Y6A7417.jpg?1793198757"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1b/3271/8400/01d0/f749/medium_jpg/Giovanni_Nardi_Photography_1G3A6664.jpg?1793198672"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1b/3271/8400/01d0/f74a/medium_jpg/Giovanni_Nardi_Photography_1G3A6665.jpg?1793198650"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae2/0a1c/3271/8400/01d0/f754/medium_jpg/APPM-1500x779-2.jpg?1793198763"
+        }
+      ],
+      "titleZh": "荷兰办公改造用水、黏土和植被表达地方景观",
+      "summaryZh": "一栋上世纪九十年代的办公楼改作现代工作场所，设计从荷兰景观取材，把水、黏土和植被纳入环境语言。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，一栋上世纪九十年代的办公楼改作现代工作场所，设计从荷兰景观取材，把水、黏土和植被纳入环境语言。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "把地方材料与环境特征融入办公改造，可让使用者从材料和空间体验中辨认项目所处的地域。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.6,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "5ed2359b5a0052a8",
+      "url": "https://www.wallpaper.com/entertaining/tom-martin-christmas-baubles",
+      "title": "The niche art of bauble-making, according to hospitality’s go-to baublier",
+      "summary": "We speak with baublier Tom Martin about his new ‘Pursuits’ collection inspired by the quiet pleasures of everyday life, hand-painted using a traditional",
+      "source": "Wallpaper",
+      "category": "工业设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/sgW74KiWMtjTVNMu5s8Qr8-1920-80.jpg",
+      "publishedAt": "2026-11-14T11:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 66.3,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2CoFX7aQR5mqufN5otJ7kc-1920-80.webp"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/G2fb7AyMBo6LbojtAxLekd-1920-80.webp"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2PMjY2Myif6wzykW44B9m8-1280-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/BqmePJi8Z4reVRTwr9ANg8-1280-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/psoUovQpwgowwVPzRZ6DVg-1920-80.webp"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3GdsCDfCw68HVKT9Cb4ujh-1920-80.webp"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/CDuiuGbHT9po2xLKNpzie8-1280-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/MfEWQWNYFMbz5fRFPjKoh8-1280-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/27XeySF3V6CDmWQtx8w6gj-1920-80.webp"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/nd8y3tKUUMgkAjrPSg45Nn-1920-80.webp"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uh5K4YrwhshTwwb4xQxwr-1920-80.webp"
+        }
+      ],
+      "titleZh": "将日常兴趣画成手绘节庆挂饰",
+      "summaryZh": "挂饰制作者汤姆·马丁介绍以日常小乐趣为题的新作，并采用传统手绘工艺制作。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，挂饰制作者汤姆·马丁介绍以日常小乐趣为题的新作，并采用传统手绘工艺制作。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "小型圆面上的图像需要考虑观看角度，主题的轮廓和用色会影响它在远处的辨识度。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "f3056a2be3f9357a",
+      "url": "https://www.behance.net/gallery/256715279/-Picture-books-Takara-All-Alone",
+      "title": "-Picture books- ?????????? Takara All Alone",
+      "summary": "A story about TAKARA, who was abandoned and all alone, meeting three mice and finding a place to call",
+      "source": "Behance",
+      "category": "视觉设计",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/89c875256715279.Y3JvcCwxNjI3LDEyNzMsMTIwLDA.jpg",
+      "publishedAt": "2026-11-14T10:00:05+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 42.3,
+      "images": [],
+      "titleZh": "绘本用小动物的相遇讲述归属",
+      "summaryZh": "绘本项目讲述孤身一人的主角遇见三只老鼠，并找到可以安身之处的故事。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，绘本项目讲述孤身一人的主角遇见三只老鼠，并找到可以安身之处的故事。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "这类故事可以借重复出现的角色与场景，让读者从画面中的距离变化体会关系的建立。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.3,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "c405a0f6eb371099",
+      "url": "https://www.dezeen.com/2026/11/14/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park/",
+      "title": "Mexico's Parque del Jaguar protects jaguars with 18-kilometre limestone wall",
+      "summary": "Colectivo C733 has created an 18-kilometre-long limestone wall that allows wildlife to pass through while protecting more than 1,000 hectares of forest at Parque del Jaguar in Tulum,",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park-sq_dezeen_2364_col_0-1024x1024.jpg",
+      "publishedAt": "2026-11-14T10:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 66.5,
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park-hero_dezeen_2364_col_2-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park_dezeen_2364_col_3-1536x1151.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park_dezeen_2364_col_0.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park_dezeen_2364_col_1.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park_dezeen_2364_col_15.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park_dezeen_2364_col_12.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park_dezeen_2364_col_9.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park_dezeen_2364_col_2.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park_dezeen_2364_col_6.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park_dezeen_2364_col_4.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park_dezeen_2364_col_5.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park_dezeen_2364_col_8.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park_dezeen_2364_col_7.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park_dezeen_2364_col_10-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/parque-del-jaguar-colectivo-c733-tulum-mexico-ecological-park_dezeen_2364_col_11.jpg"
+        }
+      ],
+      "titleZh": "图卢姆公园用石灰岩墙保留野生动物通行",
+      "summaryZh": "设计团队为公园修建十八公里长的石灰岩墙，在保护林地的同时保留野生动物通行路径。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，设计团队为公园修建十八公里长的石灰岩墙，在保护林地的同时保留野生动物通行路径。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "生态边界需要同时处理人类活动与动物迁移的需要，通行位置应结合动物的实际移动路线考虑。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "5915b311a1b8d47d",
+      "url": "https://www.designboom.com/architecture/neutral-tones-earthy-green-accents-renewed-1975-athens-penthouse-teron-studio/",
+      "title": "neutral tones and earthy green accents unify renewed 1975 athens penthouse",
+      "summary": "teron studio reorganizes a 77-sqm penthouse opposite pedion tou areos park, around daylight, city views and shades of",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/470576/2026-11-05/teron-studio-renovates-1970s-athens-penthouse-as-the-architects-own-home-1-6aec5ba1b810a.jpg",
+      "publishedAt": "2026-11-14T08:45:18+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 66.5,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/1975-athens-penthouse-apartment-renovation-teron-studio-designboom-1800-1.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470576/2026-11-05/teron-studio-renovates-1970s-athens-penthouse-as-the-architects-own-home-1-6aec5ba1b810a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470576/2026-11-05/teron-studio-renovates-1970s-athens-penthouse-as-the-architects-own-home-11-6aec5ba1b83d1.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470576/2026-11-05/teron-studio-renovates-1970s-athens-penthouse-as-the-architects-own-home-12-6aec5ba1b843e.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/1975-athens-penthouse-apartment-renovation-teron-studio-designboom-1800-2.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470576/2026-11-05/teron-studio-renovates-1970s-athens-penthouse-as-the-architects-own-home-8-6aec5ba1b8311.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470576/2026-11-05/teron-studio-renovates-1970s-athens-penthouse-as-the-architects-own-home-5-6aec5ba1b8249.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/1975-athens-penthouse-apartment-renovation-teron-studio-designboom-1800-3.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470576/2026-11-05/teron-studio-renovates-1970s-athens-penthouse-as-the-architects-own-home-9-6aec5ba1b8353.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470576/2026-11-05/teron-studio-renovates-1970s-athens-penthouse-as-the-architects-own-home-10-6aec5ba1b8391.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470576/2026-11-05/teron-studio-renovates-1970s-athens-penthouse-as-the-architects-own-home-6-6aec5ba1b8287.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470576/2026-11-05/teron-studio-renovates-1970s-athens-penthouse-as-the-architects-own-home-7-6aec5ba1b82d2.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470576/2026-11-05/teron-studio-renovates-1970s-athens-penthouse-as-the-architects-own-home-2-6aec5ba1b817e.jpg"
+        }
+      ],
+      "titleZh": "雅典顶层住宅围绕采光和城市视野重排",
+      "summaryZh": "设计团队重新组织一套七十七平方米的旧顶层公寓，以日光、城市视线与柔和绿色作为改造线索。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，设计团队重新组织一套七十七平方米的旧顶层公寓，以日光、城市视线与柔和绿色作为改造线索。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "以窗外视线和光照条件组织居住活动，可把有限面积优先留给使用频率较高的区域。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "034fa8a1fab77595",
+      "url": "https://www.wallpaper.com/architecture/office/khao-lak-office-boonserm-bangkok-project-studio-thailand",
+      "title": "This beachside office in Thailand, made of reclaimed elements, is our new favourite workspace",
+      "summary": "Boonserm Premthada designs a breezy Khao Lak office arranged across four separate buildings and connected by decks and",
+      "source": "Wallpaper",
+      "category": "建筑设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/wvkWbewqSrqKZjmrfNnP9P-1920-80.jpg",
+      "publishedAt": "2026-11-14T08:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 66.5,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ViiLt7mbuGQsvrAWz4rBcN-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ihMdiZiSDJcAbsTbcAsYAN-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/WaRFr8RaExqZQRDcij6AtM-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7HWoT5TjV2tpJgjGgJrmAP-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/N26hA58tEFgojT9ncgPqEP-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Tt5rVNAmD9BmXpqAenfTxM-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3NQ2nSXaUpL6CnPr7sLd9N-1920-80.jpg"
+        }
+      ],
+      "titleZh": "旧构件搭出由平台连接的泰国海滨办公室",
+      "summaryZh": "泰国设计师将办公室拆为四栋相互独立的建筑，以平台等构件连接，并在项目中使用回收构件。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，泰国设计师将办公室拆为四栋相互独立的建筑，以平台等构件连接，并在项目中使用回收构件。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "将体量拆开可为室外过渡空间留出位置，回收构件的实际尺寸也可成为确定空间尺度的依据。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "5260da36361bab3e",
+      "url": "https://www.wallpaper.com/design-interiors/jaime-hayon-football-table-rs-barcelona",
+      "title": "Jaime Hayon's sculptural football table rules the roost",
+      "summary": "Jaime Hayon and RS Barcelona create ‘the Ferrari of football tables', featuring motifs that are recurring across the Spanish designer's",
+      "source": "Wallpaper",
+      "category": "工业设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/soqDYtFtuqds5USFPNURxk-1920-80.png",
+      "publishedAt": "2026-11-14T07:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 54.5,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/fZxbpmZM3dkErjBxdWraWk-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6KhHxnVJofTQ7z52gzJFNk-1500-80.jpg"
+        }
+      ],
+      "titleZh": "把桌上足球做成带雕塑感的家具",
+      "summaryZh": "海梅·阿永与西班牙合作团队以桌上足球为对象，把设计师作品中反复出现的造型元素带入球桌。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，海梅·阿永与西班牙合作团队以桌上足球为对象，把设计师作品中反复出现的造型元素带入球桌。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "球桌的外观允许较多表达，真正操作时仍依赖球杆的握持、站位和对场地的清晰视线。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 6.0,
+        "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "5adb3a4f45b4f4dd",
+      "url": "https://www.behance.net/gallery/248940393/Bolulu-Hasan-Usta-Rebranding",
+      "title": "Bolulu Hasan Usta | Rebranding",
+      "summary": "Bolulu Hasan Usta is one of Turkey's most recognized dessert brands, known for its long-standing presence in traditional sweets, ice cream, and pastry culture. We worked on a full brand identity renewal for BHU, creating a more distinctive, contemporary, and scalable visual language while preserving the brand's familiar warmth…",
+      "source": "Behance",
+      "category": "视觉设计",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/0e8bf8248940393.Y3JvcCwyOTY2LDIzMjAsNDMzLDYzMQ.png",
+      "publishedAt": "2026-11-14T06:00:06+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 42.6,
+      "images": [],
+      "titleZh": "土耳其传统甜点品牌更新视觉形象",
+      "summaryZh": "设计团队为经营甜点、冰淇淋和糕点的品牌更新识别体系，希望新形象能适应不同应用并保留熟悉感。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，设计团队为经营甜点、冰淇淋和糕点的品牌更新识别体系，希望新形象能适应不同应用并保留熟悉感。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "更新历史品牌时，可以让新识别系统承担跨媒介应用的需求，同时用既有视觉线索帮助老顾客辨认。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.6,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "b567c5e1f4b35e6c",
+      "url": "https://www.archdaily.com/1186465/vandeuren-iii-iv-p-and-p-architectes",
+      "title": "Vandeuren III-IV / P&P Architectes + Atelier d'Architecture A4",
+      "summary": "Winner of the Be-Exemplary Award 2019, Vandeuren III and IV is part of an ambitious renovation strategy for social housing in Brussels. The project transforms 160 dwellings into 132 reconfigured units while integrating shared facilities and a reorganization of outdoor spaces. The intervention combines heritage preservation,…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbe9/medium_jpg/7-Courtyard_block_interior__Nicolas_Da_Silva_Lucas_.jpg?1791365243",
+      "publishedAt": "2026-11-14T06:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 66.5,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbeb/thumb_jpg/10-Courtyard_block_interior__Nicolas_Da_Silva_Lucas.jpg?1791365244"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104d/07c3/d100/017f/dbe2/thumb_jpg/2-Courtyard_block_interior__Nicolas_Da_Silva_Lucas.jpg?1791365239"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbf4/thumb_jpg/2-Common_area-homework_club_access__Nicolas_Da_Silva_Lucas.jpg?1791365359"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbf3/thumb_jpg/3-Common_area__Nicolas_Da_Silva_Lucas.jpg?1791365243"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbe9/medium_jpg/7-Courtyard_block_interior__Nicolas_Da_Silva_Lucas_.jpg?1791365243"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbf0/medium_jpg/18-10-Courtyard_block_interior__Nicolas_Da_Silva_Lucas.jpg?1791365330"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/1050/07c3/d100/017f/dbf7/medium_jpg/15-Interior_flat-rooftop_duplex_living_room__Nicolas_Da_Silva_Lucas.jpg?1791365226"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/1050/07c3/d100/017f/dbf8/medium_jpg/16-Interior_flat-rooftop_duplex_living_room__Nicolas_Da_Silva_Lucas.jpg?1791365277"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104e/07c3/d100/017f/dbe8/medium_jpg/5-Street_view__Nicolas_Da_Silva_Lucas.jpg?1791365249"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104e/07c3/d100/017f/dbe6/medium_jpg/12-Secondary_entrance__Nicolas_Da_Silva_Lucas.jpg?1791365245"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104d/07c3/d100/017f/dbe1/medium_jpg/1-Street_view__Nicolas_Da_Silva_Lucas.jpg?1791365236"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbea/medium_jpg/8-Courtyard_block_interior__Nicolas_Da_Silva_Lucas.jpg?1791365241"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbef/medium_jpg/17-Courtyard_block_interior__Nicolas_Da_Silva_Lucas.jpg?1791365245"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbed/medium_jpg/14-View_to_bike_local_and_concierge_s_lodge.jpg?1791365246"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbee/medium_jpg/16-View_to_the_main_entrance_porche.jpg?1791365288"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/1050/07c3/d100/017f/dbf5/medium_jpg/13-Interior_flat-duplex_stairs__Nicolas_Da_Silva_Lucas.jpg?1791365385"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbec/medium_jpg/13-View_form_the_main_entrance_porche.jpg?1791365243"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/1050/07c3/d100/017f/dbf6/medium_jpg/14-Interior_flat-bathroom__Nicolas_Da_Silva_Lucas.jpg?1791365411"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/1050/07c3/d100/017f/dbf9/medium_jpg/17-Interior_flat-rooftop_balcony_access__Nicolas_Da_Silva_Lucas.jpg?1791365437"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/1050/07c3/d100/017f/dbfa/medium_jpg/18-Interior_flat-rooftop_duplex_living_room__Nicolas_Da_Silva_Lucas.jpg?1791365333"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/1050/07c3/d100/017f/dbfc/medium_jpg/10-Interior_flat-living_room-balcony_access___Nicolas_Da_Silva_Lucas.jpg?1791365305"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbf2/medium_jpg/20-View_from_private_balcony__Nicolas_Da_Silva_Lucas.jpg?1791365246"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104c/07c3/d100/017f/dbe0/medium_jpg/3-Courtyard_block_interior-common_area__Nicolas_Da_Silva_Lucas.jpg?1791365246"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104e/07c3/d100/017f/dbe4/medium_jpg/6-Courtyard_block_interior__Nicolas_Da_Silva_Lucas.jpg?1791365241"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104d/07c3/d100/017f/dbe3/medium_jpg/4-Courtyard_block_interior__Nicolas_Da_Silva_Lucas.jpg?1791365241"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104e/07c3/d100/017f/dbe7/medium_jpg/3-Street_view__Nicolas_Da_Silva_Lucas.jpg?1791365255"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104f/07c3/d100/017f/dbf1/medium_jpg/19-Courtyard_facade__Nicolas_Da_Silva_Lucas.jpg?1791365245"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/104e/07c3/d100/017f/dbe5/medium_jpg/7-Street_view-main_access_to_the_courtyard__Nicolas_Da_Silva_Lucas.jpg?1791365241"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/1050/07c3/d100/017f/dbfd/medium_jpg/5-Common_area-bike_area__Nicolas_Da_Silva_Lucas.jpg?1791365241"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/ab42/a8ed/4116/8223/0157/medium_jpg/vandeuren-plan-gf-0000-vandeuren-plan-gf-30.jpg?1793370989"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/ab4c/a04f/d001/89cd/414b/medium_jpg/vandeuren-plan-gf-0005-vandeuren-plan-r-plus-1-32.jpg?1793371048"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/ab4c/a8ed/4116/8223/0158/medium_jpg/vandeuren-plan-gf-0004-vandeuren-plan-r-plus-2-31.jpg?1793371003"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/ab4c/a8ed/4101/8962/3477/medium_jpg/vandeuren-plan-gf-0003-vandeuren-plan-r-plus-3-30.jpg?1793371002"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/ab42/a04f/d075/46a0/ee0e/medium_jpg/vandeuren-plan-gf-0002-vandeuren-plan-r-plus-4-32.jpg?1793370993"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/ab42/a8ed/4101/8962/3476/medium_jpg/vandeuren-plan-gf-0001-vandeuren-plan-roof-31.jpg?1793370992"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/ac5a/a04f/d001/89cd/4155/medium_jpg/vandeuren-plan-facade-front-0004-vandeuren-plan-gf-34.jpg?1793371363"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/ac59/a04f/d075/46a0/ee10/medium_jpg/vandeuren-plan-facade-front-0003-vandeuren-plan-r-plus-1-33.jpg?1793371285"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/ac59/a8ed/4101/8962/3485/medium_jpg/vandeuren-plan-facade-front-0002-vandeuren-plan-r-plus-2-32.jpg?1793371304"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/ac5a/a8ed/4116/8223/015c/medium_jpg/vandeuren-plan-facade-front-0001-vandeuren-plan-r-plus-3-31.jpg?1793371303"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/ac59/a8ed/4116/8223/015b/medium_jpg/vandeuren-plan-facade-front-0000-vandeuren-plan-r-plus-4-30.jpg?1793371283"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/ac5a/a8ed/4101/8962/3486/medium_jpg/vandeuren-plan-facade-front-0006-vandeuren-plan-roof-36.jpg?1793371285"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/ac5a/a04f/d001/89cd/4156/medium_jpg/vandeuren-plan-facade-front-0007-vandeuren-plan-facade-front-37.jpg?1793371290"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/ac5c/a8ed/4101/8962/3487/medium_jpg/vandeuren-plan-facade-front-0005-vandeuren-plan-facade-rear-35.jpg?1793371292"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac6/1050/07c3/d100/017f/dbfe/medium_jpg/Planche_dessin_copie.jpg?1791365253"
+        }
+      ],
+      "titleZh": "布鲁塞尔社会住宅更新重新配置户型",
+      "summaryZh": "这项改造将原有一百六十套住宅重组为一百三十二套新配置单元，属于当地社会住宅更新计划的一部分。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，这项改造将原有一百六十套住宅重组为一百三十二套新配置单元，属于当地社会住宅更新计划的一部分。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "套数变化提示改造牵涉居住空间的重新分配，评估时也需关注不同家庭需求和可住性。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "5d05da4fc640eb27",
+      "url": "https://www.wallpaper.com/art/film/wim-wenders-from-inside-out-the-architecture-of-peter-zumthor-interview",
+      "title": "Take an early look as Wim Wenders sets his sights on Swiss architect Peter Zumthor in a new 3D film",
+      "summary": "Ahead of the release of his latest documentary, ‘From Inside Out: The Architecture of Peter Zumthor’, Wenders shares his insights and encounters with an architectural",
+      "source": "Wallpaper",
+      "category": "动态设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/qnSMMSYkfNWEp8aJyjtuuF-1920-80.jpg",
+      "publishedAt": "2026-11-14T06:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 64.6,
+      "images": [
+        {
+          "url": "https://img.youtube.com/vi/RRjN-kiT98k/maxresdefault.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/fRGyjNxbgEabHdZxgUseDG-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/oy5q58oUJguLhUyRcxCu6G-1920-80.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "RRjN-kiT98k",
+        "url": "https://www.youtube.com/embed/RRjN-kiT98k",
+        "thumbnail": "https://i.ytimg.com/vi/RRjN-kiT98k/hqdefault.jpg",
+        "title": "FROM INSIDE OUT - A FILM BY WIM WENDERS (2026) Official First Look Clip - HanWay Films",
+        "author": "HanWay Films",
+        "duration": 0,
+        "verifiedAt": "2026-11-15T05:03:33+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/RRjN-kiT98k/hqdefault.jpg"
+      ],
+      "titleZh": "文德斯以三维影像拍摄卒姆托的建筑",
+      "summaryZh": "导演维姆·文德斯在新纪录片推出前谈到对建筑师彼得·卒姆托的观察，影片采用三维影像。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，导演维姆·文德斯在新纪录片推出前谈到对建筑师彼得·卒姆托的观察，影片采用三维影像。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "立体影像能把前景和远景的相对位置纳入观看体验，建筑影片也可借镜头移动呈现接近与进入的顺序。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 16.0,
+        "completeness": 9.6,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "489e418fcab183cc",
+      "url": "https://www.wallpaper.com/architecture/brown-hart-gardens-studioiageli-london-uk",
+      "title": "At London's Brown Hart Gardens, an unusual public space is reborn",
+      "summary": "Brown Hart Gardens, an open space on top of a listed electricity substation, has been restored to its former glory, while being brought into the 21st century by a team including architects Studio",
+      "source": "Wallpaper",
+      "category": "空间设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/jaKyEcGwpiUrW8cUagoUUQ-1920-80.jpg",
+      "publishedAt": "2026-11-14T05:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 60.5,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/wsfhR7ZgHTczVjSR9xfd59-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/CfrXrNn2eShoxxGjv3gUf8-1708-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2Ya5egW7Kbiz2TySJPMR79-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UbGNue8ztBNmwFraTtRqX8-1920-80.jpg"
+        }
+      ],
+      "titleZh": "伦敦恢复变电站屋顶的公共花园",
+      "summaryZh": "布朗哈特花园坐落在受保护的变电设施上方，项目在修复既有空间的同时更新其公共使用。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，布朗哈特花园坐落在受保护的变电设施上方，项目在修复既有空间的同时更新其公共使用。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "把公共空间设置在基础设施上方，可让密集街区获得额外活动场地，入口的可辨认性也会影响使用。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 12.0,
+        "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "1d82db37e1bc303e",
+      "url": "https://www.archdaily.com/1187951/minou-on-apartment-renovation-crossarchitecture-mehrdad-makaremi",
+      "title": "Minou-On Apartment Renovation / CROSSARCHITECTURE / Mehrdad Makaremi",
+      "summary": "In Minou-On Apartment, a thirty-year-old duplex in Tehran gains a villa-like quality as a former terrace becomes a skylit, planted void. A timber system connects the home's two floors, working with the exposed concrete frame to reorganize rooms, circulation, and everyday",
+      "source": "ArchDaily",
+      "category": "空间设计",
+      "image": "https://images.adsttc.com/media/images/6ae8/8239/bcbc/3500/01ae/ae87/medium_jpg/01.jpg?1793622689",
+      "publishedAt": "2026-11-14T02:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 66.4,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/823a/bcbc/3500/01ae/ae8d/thumb_jpg/06.jpg?1793622787"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/8239/bcbc/3500/01ae/ae89/thumb_jpg/02.jpg?1793622777"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/823b/bcbc/3500/01ae/ae91/thumb_jpg/10.jpg?1793622798"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/823b/bcbc/3500/01ae/ae93/thumb_jpg/12.jpg?1793622641"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/8239/bcbc/3500/01ae/ae87/medium_jpg/01.jpg?1793622689"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/8239/bcbc/3500/01ae/ae8a/medium_jpg/03.jpg?1793622690"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/823a/bcbc/3500/01ae/ae8c/medium_jpg/05.jpg?1793622791"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/823a/bcbc/3500/01ae/ae8e/medium_jpg/07.jpg?1793622687"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/823b/bcbc/3500/01ae/ae8f/medium_jpg/08.jpg?1793622696"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/823b/bcbc/3500/01ae/ae90/medium_jpg/09.jpg?1793622697"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/823b/bcbc/3500/01ae/ae92/medium_jpg/11.jpg?1793622672"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/823b/bcbc/3500/01ae/ae94/medium_jpg/13.jpg?1793622855"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/823b/bcbc/3500/01ae/ae95/medium_jpg/01.jpg?1793622632"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/823b/bcbc/3500/01ae/ae98/medium_jpg/04_copy.jpg?1793622912"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/823b/bcbc/3500/01ae/ae99/medium_jpg/05_copy.jpg?1793622812"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/823b/bcbc/3500/01ae/ae9a/medium_jpg/06_copy.jpg?1793622968"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/823b/bcbc/3500/01ae/ae97/medium_jpg/03_copy.jpg?1793622755"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/823b/bcbc/3500/01ae/ae96/medium_jpg/02_copy.jpg?1793622699"
+        }
+      ],
+      "titleZh": "德黑兰复式公寓把旧露台变成种植挑空",
+      "summaryZh": "改造把原露台变成有天窗的植物挑空，并通过木构系统联系上下两层。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，改造把原露台变成有天窗的植物挑空，并通过木构系统联系上下两层。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "引入来自上方的光线，可使挑空兼有采光与识别楼层位置的作用，种植也能成为两层共享的景观。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
     {
       "id": "500849e3c601c859",
       "url": "https://www.yankodesign.com/2026/11/13/deck-acucena-turns-a-steep-forest-slope-into-a-poolside-retreat/",
@@ -841,6 +2575,85 @@
         "media": 18.0,
         "completeness": 9.2,
         "source": 15.0
+      }
+    },
+    {
+      "id": "bc46c216b51309bc",
+      "url": "https://www.designboom.com/design/discarded-traffic-signs-urban-tables-farmers-markets-new-york-city-juan-fernandez-gonzalez/",
+      "title": "discarded traffic signs fold into urban tables for farmers’ markets in new york city",
+      "summary": "architect juan fernández gonzález repurposes decommissioned aluminum road signs into folded standing tables that bolt directly onto standard U-channel",
+      "source": "designboom",
+      "category": "工业设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/470435/2026-11-11/juan-fernandez-gonzalez-folds-discarded-traffic-signs-into-urban-tables-1-6af414d0ce6d2.jpg",
+      "publishedAt": "2026-11-13T21:35:44+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-15",
+      "score": 66.3,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/juan-fernandez-gonzalez-traffic-sign-urban-tables-designboom-1800-1.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470435/2026-11-11/juan-fernandez-gonzalez-folds-discarded-traffic-signs-into-urban-tables-1-6af414d0ce6d2.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470435/2026-11-11/juan-fernandez-gonzalez-folds-discarded-traffic-signs-into-urban-tables-9-6af414d0ce90e.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470435/2026-11-11/juan-fernandez-gonzalez-folds-discarded-traffic-signs-into-urban-tables-10-6af414d0ce94a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470435/2026-11-11/juan-fernandez-gonzalez-folds-discarded-traffic-signs-into-urban-tables-2-6af414d0ce74a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470435/2026-11-11/juan-fernandez-gonzalez-folds-discarded-traffic-signs-into-urban-tables-4-6af414d0ce7d7.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470435/2026-11-11/juan-fernandez-gonzalez-folds-discarded-traffic-signs-into-urban-tables-7-6af414d0ce88e.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/juan-fernandez-gonzalez-traffic-sign-urban-tables-designboom-1800-2.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470435/2026-11-11/juan-fernandez-gonzalez-folds-discarded-traffic-signs-into-urban-tables-3-6af414d0ce795.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470435/2026-11-11/juan-fernandez-gonzalez-folds-discarded-traffic-signs-into-urban-tables-8-6af414d0ce8cc.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470435/2026-11-11/juan-fernandez-gonzalez-folds-discarded-traffic-signs-into-urban-tables-5-6af414d0ce816.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470435/2026-11-11/juan-fernandez-gonzalez-folds-discarded-traffic-signs-into-urban-tables-6-6af414d0ce852.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/juan-fernandez-gonzalez-traffic-sign-urban-tables-designboom-1800-3.jpg"
+        }
+      ],
+      "titleZh": "退役路牌折成农夫市集的立桌",
+      "summaryZh": "建筑师将淘汰的铝制交通标牌折成立桌，使其能固定在纽约常见的槽形立杆上。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，建筑师将淘汰的铝制交通标牌折成立桌，使其能固定在纽约常见的槽形立杆上。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "沿用通用立杆为再利用构件提供了安装接口，有利于在不同集市场地重复部署。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
       }
     },
     {
@@ -42300,6 +44113,38 @@
         "6b0261f7c5e13175"
       ],
       "updatedAt": "2026-11-14T10:07:41.897389+08:00"
+    },
+    {
+      "date": "2026-11-15",
+      "articleIds": [
+        "157c04afe389fb1c",
+        "68057da46700d9d6",
+        "08b8ac8eaeb058e7",
+        "4c7c264fb3165d89",
+        "33885c95315b3923",
+        "005c948046caa78b",
+        "685ab06152145cb5",
+        "1986734b8191c5f2",
+        "c8a6623fccf6f902",
+        "641a71a141105137",
+        "b0e79b3d1770a6c5",
+        "854740cbd25fefe9",
+        "bf878d6d5eb9b2d6",
+        "5ed2359b5a0052a8",
+        "5df34dd3d0f032af",
+        "f3056a2be3f9357a",
+        "c405a0f6eb371099",
+        "5915b311a1b8d47d",
+        "034fa8a1fab77595",
+        "5260da36361bab3e",
+        "5adb3a4f45b4f4dd",
+        "b567c5e1f4b35e6c",
+        "5d05da4fc640eb27",
+        "489e418fcab183cc",
+        "1d82db37e1bc303e",
+        "bc46c216b51309bc"
+      ],
+      "updatedAt": "2026-11-15T09:15:17.191930+08:00"
     }
   ],
   "rankingNote": "关注指数 100 分 = 时效 30 + 媒体 25 + 完整度 25 + 来源 20，依已核实字段计算，不是全网阅读量或点赞量。",
