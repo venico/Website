@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T09:15:17.191930+08:00",
+  "updatedAt": "2026-11-16T09:13:41.606536+08:00",
   "sources": [
     {
       "name": "Dezeen",
@@ -8,7 +8,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-11-14T18:00:00+00:00"
+      "latestPublishedAt": "2026-11-15T18:00:00+00:00"
     },
     {
       "name": "designboom",
@@ -17,7 +17,7 @@
       "category": "空间设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-14T21:35:59+00:00"
+      "latestPublishedAt": "2026-11-15T21:35:39+00:00"
     },
     {
       "name": "Yanko Design",
@@ -26,7 +26,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 16,
-      "latestPublishedAt": "2026-11-15T00:30:45+00:00"
+      "latestPublishedAt": "2026-11-16T00:30:11+00:00"
     },
     {
       "name": "Smashing Magazine",
@@ -67,11 +67,11 @@
     {
       "name": "Creative Bloq",
       "label": "创意视界",
-      "category": "视觉设计",
       "url": "https://www.creativebloq.com/feeds/all",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "category": "视觉设计",
+      "ok": true,
+      "count": 25,
+      "latestPublishedAt": "2026-11-15T16:00:00+00:00"
     },
     {
       "name": "UX Collective",
@@ -103,65 +103,65 @@
     {
       "name": "Awwwards",
       "label": "网页设计奖",
-      "category": "用户体验设计",
       "url": "https://www.awwwards.com/blog/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "category": "用户体验设计",
+      "ok": true,
+      "count": 30,
+      "latestPublishedAt": "2026-08-31T14:39:00+00:00"
     },
     {
       "name": "Design Milk",
       "label": "设计牛奶",
-      "category": "工业设计",
       "url": "https://design-milk.com/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "category": "工业设计",
+      "ok": true,
+      "count": 12,
+      "latestPublishedAt": "2026-11-14T02:23:44+00:00"
     },
     {
       "name": "Creative Boom",
       "label": "创意浪潮",
-      "category": "视觉设计",
       "url": "https://www.creativeboom.com/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "category": "视觉设计",
+      "ok": true,
+      "count": 20,
+      "latestPublishedAt": "2026-11-12T07:00:00+00:00"
     },
     {
       "name": "Car Body Design",
       "label": "汽车车身设计",
-      "category": "工业设计",
       "url": "https://www.carbodydesign.com/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+      "category": "工业设计",
+      "ok": true,
+      "count": 10,
+      "latestPublishedAt": "2026-10-26T18:12:43+00:00"
     },
     {
       "name": "Stash",
       "label": "动态影像精选",
-      "category": "动态设计",
       "url": "https://www.stashmedia.tv/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+      "category": "动态设计",
+      "ok": true,
+      "count": 6,
+      "latestPublishedAt": "2026-11-15T17:13:41+00:00"
     },
     {
       "name": "Art of VFX",
       "label": "视觉特效艺术",
-      "category": "动态设计",
       "url": "https://www.artofvfx.com/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+      "category": "动态设计",
+      "ok": true,
+      "count": 20,
+      "latestPublishedAt": "2026-11-14T16:00:00+00:00"
     },
     {
       "name": "Blender",
       "label": "三维创作社区",
-      "category": "动态设计",
       "url": "https://www.blender.org/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+      "category": "动态设计",
+      "ok": true,
+      "count": 9,
+      "latestPublishedAt": "2026-11-10T17:58:03+00:00"
     },
     {
       "name": "Hugging Face",
@@ -307,7 +307,7 @@
       "category": "建筑设计",
       "ok": true,
       "count": 24,
-      "latestPublishedAt": "2026-11-14T17:00:00+00:00"
+      "latestPublishedAt": "2026-11-15T17:00:00+00:00"
     },
     {
       "name": "Wallpaper",
@@ -316,7 +316,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-11-14T11:00:00+00:00"
+      "latestPublishedAt": "2026-11-15T21:00:00+00:00"
     },
     {
       "name": "Its Nice That",
@@ -424,7 +424,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 36,
-      "latestPublishedAt": "2026-11-14T22:00:05+00:00"
+      "latestPublishedAt": "2026-11-15T09:30:05+00:00"
     },
     {
       "name": "Figma",
@@ -678,11 +678,1766 @@
       "url": "https://www.gcores.com/rss",
       "category": "游戏设计",
       "ok": true,
-      "count": 13,
-      "latestPublishedAt": "2026-11-15T00:02:03+00:00"
+      "count": 11,
+      "latestPublishedAt": "2026-11-16T01:05:00+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "e3e6c58e79b4569c",
+      "url": "https://www.gcores.com/articles/222385",
+      "title": "《毁灭战士：黑暗时代|启示录》“屠戮模式”今日实装",
+      "summary": "《毁灭战士：黑暗时代|启示录》“屠戮模式”今日实装。本模式是全新的无尽战斗挑战，玩家将一路杀穿越来越难而又变幻莫测的恶魔狂潮，打出自己的最高分，在屠戮的过程中收集的骷髅，用来解锁奖励。每次到达检查点时，你都必须问自己：是想要见好就收，结算骷髅，还是为了可能得到更多奖励而冒险尝试？ 在屠戮模式中，不会存在完全相同的战局。你要在不同的竞技场中迎战越来越难的随机遭遇战和头目，随着战局逐渐深入，战斗的白热化程度还会不断飙升。 完成回合，赚取骷髅，解锁奖励，例如屠戮模式专属的毁灭战士皮肤、适用于所有模式的武器皮肤以及个人资料图标。你还可以解锁 Andrew Hulshult…",
+      "source": "Gcores",
+      "category": "游戏设计",
+      "image": "https://image.gcores.com/ced37111794d6988f453a8a294320c97-1280-720.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
+      "publishedAt": "2026-11-16T01:05:00+00:00",
+      "date": "2026-11-16",
+      "firstSeen": "2026-11-16",
+      "score": 53.5,
+      "images": [
+        {
+          "url": "https://image.gcores.com/ced37111794d6988f453a8a294320c97-1280-720.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1600/quality,q_90/format,webp"
+        },
+        {
+          "url": "https://image.gcores.com/782a4ea2ca57c016349317ccbbe02c85-1059-605.jpg"
+        },
+        {
+          "url": "https://image.gcores.com/bf14c14e4d3bf8a42b350c493e5b40cf-1280-720.jpg"
+        }
+      ],
+      "titleZh": "《毁灭战士》无尽模式在检查点让玩家选择结算或继续",
+      "summaryZh": "新模式用随机竞技场遭遇战和逐渐升级的难度组织循环，玩家可在检查点结算骷髅或继续冒险。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，新模式用随机竞技场遭遇战和逐渐升级的难度组织循环，玩家可在检查点结算骷髅或继续冒险。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "结算选择把战斗表现转化成风险判断，随机遭遇则要求玩家用同一套规则应对不同局面。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 9.0,
+        "completeness": 9.5,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "24702d3e25ed07b7",
+      "url": "https://www.designboom.com/architecture/red-corrugated-metal-pine-plywood-czech-village-house-extension-facha-architekti/",
+      "title": "red corrugated metal and pine plywood wrap czech village house’s extension",
+      "summary": "in nečín village, facha architekti renovates a converted pigsty and weekend cabin with a self-built timber extension that expands living spaces toward a stepped larch",
+      "source": "designboom",
+      "category": "建筑设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/449140/2026-11-10/house-with-a-red-addition-1-6af32bdbd44d4.jpg",
+      "publishedAt": "2026-11-15T21:35:39+00:00",
+      "date": "2026-11-16",
+      "firstSeen": "2026-11-16",
+      "score": 71.4,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/necin-czech-republic-house-red-addition-renovation-facha-architekti-designboom-1800-1.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/449140/2026-11-10/house-with-a-red-addition-1-6af32bdbd44d4.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/449140/2026-11-10/house-with-a-red-addition-2-6af32bdbd456c.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/449140/2026-11-10/house-with-a-red-addition-3-6af32bdbd45c3.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/449140/2026-11-10/house-with-a-red-addition-12-6af32bdbd48b8.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/necin-czech-republic-house-red-addition-renovation-facha-architekti-designboom-1800-2.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/449140/2026-11-10/house-with-a-red-addition-10-6af32bdbd47d6.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/449140/2026-11-10/house-with-a-red-addition-7-6af32bdbd46ed.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/necin-czech-republic-house-red-addition-renovation-facha-architekti-designboom-1800-3.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/449140/2026-11-10/house-with-a-red-addition-11-6af32bdbd4846.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/449140/2026-11-10/house-with-a-red-addition-6-6af32bdbd46a7.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/449140/2026-11-10/house-with-a-red-addition-5-6af32bdbd4661.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/449140/2026-11-10/house-with-a-red-addition-8-6af32bdbd4745.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/necin-czech-republic-house-red-addition-renovation-facha-architekti-designboom-10.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/necin-czech-republic-house-red-addition-renovation-facha-architekti-designboom-11.jpg"
+        }
+      ],
+      "titleZh": "捷克乡村旧屋用红色金属与木结构扩建",
+      "summaryZh": "建筑团队为由猪舍改造的周末住宅增建木结构空间，并把起居区延伸到分级布置的落叶松木平台。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，建筑团队为由猪舍改造的周末住宅增建木结构空间，并把起居区延伸到分级布置的落叶松木平台。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "扩建沿平台逐级联系室内与庭院，红色波纹金属则让新体量有清晰的外部识别。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "385202e5eef2deae",
+      "url": "https://www.wallpaper.com/transportation/the-sanrivatti-one-is-a-hypercar-built-for-one-complete-with-a-daring-driving-position",
+      "title": "The Sanrivatti ONE is a hypercar built for one, complete with a daring driving position",
+      "summary": "The Netherlands-based sports car company Sanrivatti has revealed more details of its V10-powered ONE, a hypercar shaped by flight and motorbike",
+      "source": "Wallpaper",
+      "category": "工业设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/R4Hx2K2EM26nbX5yHvLUnc-1920-80.jpg",
+      "publishedAt": "2026-11-15T21:00:00+00:00",
+      "date": "2026-11-16",
+      "firstSeen": "2026-11-16",
+      "score": 71.5,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/W5qsKTsnn3p6EPbdcfburn-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/8gV9v8L7c22NKAyCKp3434-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/MqsNtzHEkY2JnSGCUAqY38-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/mTX8bwBMn2AMbYnuvESjEC-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Hpn23ZASGsJeDoTtMCJXBC-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uU8bVhLgBvJmUdz9QZreEC-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/r7JFhFjDyMRFPkqkZ9jeFK-1920-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HoYeyJERAqC7KotB9mhnDP-1920-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/CRktSd6HfJ9c8XNgSMTTCP-1920-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HG4Wetfs7hvXZro7xyarCP-1920-80.png"
+        }
+      ],
+      "titleZh": "单座跑车方案从飞行器与摩托车取材",
+      "summaryZh": "荷兰跑车公司公布单座高性能跑车的更多设计细节，驾驶姿态吸收了航空和摩托车的设计线索。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，荷兰跑车公司公布单座高性能跑车的更多设计细节，驾驶姿态吸收了航空和摩托车的设计线索。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "只有一个座位时，驾驶者的姿态会更直接地影响车身包装，座舱布局也更容易围绕单一视点展开。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.6,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "a3a88c816f4a539c",
+      "url": "https://www.wallpaper.com/architecture/residential/studio-kap-re-shapes-an-old-stone-dog-kennel-into-a-contemporary-country-house",
+      "title": "Studio KAP re-shapes an old stone dog kennel into a contemporary country house",
+      "summary": "The Old Kennel is a transformative piece of rural design that turns the stone core of a traditional structure into the heart of a new modern house in",
+      "source": "Wallpaper",
+      "category": "建筑设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/8TupkuevLZzXVEipKdJsP4-1920-80.jpg",
+      "publishedAt": "2026-11-15T20:00:19+00:00",
+      "date": "2026-11-16",
+      "firstSeen": "2026-11-16",
+      "score": 71.4,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/BbDu2MK2NovnhiBiyJLXnD-1600-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UgFK3Qi58agPF5w4nXhpmD-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2eGKZPYZVTwvpSwwT3mqJM-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/n8wCcyfX9PAwTwHREFPQKM-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7kaT8yxdbkvtnXENMs7jwP-1600-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/KaeCEX8sxWCefwCwo4bmiZ-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/X9dFX9NxWmS54kLKbMzpiZ-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/KMhmLJnA5QirPQ3DUtMciZ-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/S4pvnJgr8YpNn2Snx4bvpf-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Nuxiik7R7LHJeu5DN2Wsff-1600-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/kZgT3zJRKuMAdFjsZo2Rpf-1600-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/fjMGdZHEsmoCnBFL4WA8vf-1600-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/naf6W6QQso7QHG5bcpVd2g-1600-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ufGcRGdps5tfTN5rcUX5EV-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/sSqE67vpvtp6KWkNAZAeXZ-1600-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/8dsSMRpJTMnGHu4kntNptc-1600-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/tEetmoqbcZuWgtBpWdxFmg-1600-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/LNWQzi9i3cPokEm5RVqVXJ-1920-80.jpg"
+        }
+      ],
+      "titleZh": "乡间住宅保留旧犬舍的石砌核心",
+      "summaryZh": "建筑团队把一座旧石砌犬舍的核心构造纳入新住宅，让传统结构在改造后仍可辨认。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，建筑团队把一座旧石砌犬舍的核心构造纳入新住宅，让传统结构在改造后仍可辨认。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "保留原有石砌部分为新住宅提供可阅读的时间层次，也给新旧材料的交接留下明确的位置。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "2d5fdd9540ce5fd0",
+      "url": "https://www.dezeen.com/2026/11/15/tant-a-temps-design-tang-architecture-cafe-laibei-1087-china/",
+      "title": "Tant A Temps Design \"restores the visual characteristics of Tang architecture\" in Chinese cafe",
+      "summary": "Tant A Temps Design aimed to revive the aesthetics of the Tang Dynasty when designing the interiors for cafe Laibei 1087, located in a historical building in Xi'an,",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/tant-a-temp-design-laibei-1087-interior-cafe-sq_dezeen_2364_col_0-1024x1024.jpg",
+      "publishedAt": "2026-11-15T18:00:00+00:00",
+      "date": "2026-11-16",
+      "firstSeen": "2026-11-16",
+      "score": 71.6,
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/tant-a-temps-design-laibei-1087-interior-cafe-hero_dezeen_2364_col_0-1536x1152.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/tant-a-temps-design-laibei-1087-interior-cafe-ancient-building-xian_dezeen_2364_col_0-1536x1152.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/U6KSU8086PKDZZM_69_F39_8_.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/U6KSU8086PKDZZM_69_F39_4_.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/U6KSU8086PKDZZM_69_F39_5_2.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/U6KSU8086PKDZZM_69_F39_6_2.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/U6KSU8086PKDZZM_69_F39_7_.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/U6KSU8086PKDZZM_69_F39_9_.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/tant-a-temps-design-laibei-1087-interior-cafe-original-column-wooden_dezeen_2364_col_0-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/tent-a-temps-design-laibei-1087-interior-cafe-green-golden-ancient_dezeen_2364_col_0-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/tant-a-temps-design-laibei-1087-interior-cafe-green-golden_dezeen_2364_col_0-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/tant-a-temps-design-laibei-1087-interior-cafe-workshop-experience-furniture_dezeen_2364_col_0-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/tant-a-temps-design-laibei-1087-interior-cafe-floor-ancient_dezeen_2364_col_0-1536x1152.jpg"
+        }
+      ],
+      "titleZh": "西安咖啡馆借鉴唐代建筑视觉线索",
+      "summaryZh": "设计团队在西安一处历史建筑内布置咖啡馆，把唐代建筑的视觉特征作为室内设计线索。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，设计团队在西安一处历史建筑内布置咖啡馆，把唐代建筑的视觉特征作为室内设计线索。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "历史引用通过当代店面的空间组织进入日常体验。评价这种做法，可以看引用是否与停留、通行和使用相配合。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.6,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "cf79e6d984e084d2",
+      "url": "https://www.archdaily.com/1187873/terrace-link-extension-yungchelus-chei-chang-architects",
+      "title": "Terrace Link Extension / YUNGCHEI.plus｜Chei Chang Architects",
+      "summary": "Terrace Link transforms the school command stand from an object of authority into a shared public landscape, reconnecting fragmented campus spaces through a continuous geometric ground. At Chingshuei Elementary School in Changhua County, the existing command stand occupied a central, elevated position within the",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6ae4/b9a6/bfbd/4c00/01ee/5a49/medium_jpg/TERRACE-LINK_12_Yuchen-Chao-Photography.jpg?1793374648",
+      "publishedAt": "2026-11-15T17:00:00+00:00",
+      "date": "2026-11-16",
+      "firstSeen": "2026-11-16",
+      "score": 71.5,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9a6/bfbd/4c00/01ee/5a4a/thumb_jpg/TERRACE-LINK_13_Yuchen-Chao-Photography.jpg?1793374648"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b998/bfbd/4c00/01ee/5a3f/thumb_jpg/TERRACE-LINK_02_Yuchen-Chao-Photography.jpg?1793374636"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9a1/bfbd/4c00/01ee/5a44/thumb_jpg/TERRACE-LINK_07_Yuchen-Chao-Photography.jpg?1793374644"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b99c/bfbd/4c00/01ee/5a42/thumb_jpg/TERRACE-LINK_05_Yuchen-Chao-Photography.jpg?1793374639"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9a6/bfbd/4c00/01ee/5a49/medium_jpg/TERRACE-LINK_12_Yuchen-Chao-Photography.jpg?1793374648"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b994/bfbd/4c00/01ee/5a3d/medium_jpg/TERRACE-LINK_01_Yuchen-Chao-Photography.jpg?1793374630"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b99b/bfbd/4c00/01ee/5a41/medium_jpg/TERRACE-LINK_04_Yuchen-Chao-Photography.jpg?1793374655"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b99a/bfbd/4c00/01ee/5a40/medium_jpg/TERRACE-LINK_03_Yuchen-Chao-Photography.jpg?1793374638"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9a3/bfbd/4c00/01ee/5a46/medium_jpg/TERRACE-LINK_09_Yuchen-Chao-Photography.jpg?1793374645"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9a2/bfbd/4c00/01ee/5a45/medium_jpg/TERRACE-LINK_08_Yuchen-Chao-Photography.jpg?1793374644"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b99e/bfbd/4c00/01ee/5a43/medium_jpg/TERRACE-LINK_06_Yuchen-Chao-Photography.jpg?1793374641"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9a8/bfbd/4c00/01ee/5a4e/medium_jpg/TERRACE-LINK_16_Chei-Chang.jpg?1793374655"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9a8/bfbd/4c00/01ee/5a4d/medium_jpg/TERRACE-LINK_15_Chei-Chang.jpg?1793374650"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9a4/bfbd/4c00/01ee/5a47/medium_jpg/TERRACE-LINK_10_Yuchen-Chao-Photography.jpg?1793374647"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9a8/bfbd/4c00/01ee/5a4f/medium_jpg/TERRACE-LINK_17_Chei-Chang.jpg?1793374669"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9ac/bfbd/4c00/01ee/5a55/medium_jpg/Terrack_Link_Archdaily3.jpg?1793374680"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9ad/bfbd/4c00/01ee/5a56/medium_jpg/Terrack_Link_Archdaily4.jpg?1793374681"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9ad/bfbd/4c00/01ee/5a57/medium_jpg/Terrack_Link_Archdaily5.jpg?1793374679"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9ae/bfbd/4c00/01ee/5a59/medium_jpg/Terrack_Link_Archdaily7.jpg?1793374681"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9ab/bfbd/4c00/01ee/5a52/medium_jpg/Terrack_Link_Archdaily8.jpg?1793374678"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9af/bfbd/4c00/01ee/5a5b/medium_jpg/Terrack_Link_Archdaily10.jpg?1793374663"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9ab/bfbd/4c00/01ee/5a53/medium_jpg/Terrack_Link_Archdaily.jpg?1793374680"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9ab/bfbd/4c00/01ee/5a54/medium_jpg/Terrack_Link_Archdaily2.jpg?1793374720"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9ae/bfbd/4c00/01ee/5a58/medium_jpg/Terrack_Link_Archdaily6.jpg?1793374680"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9ae/bfbd/4c00/01ee/5a5a/medium_jpg/Terrack_Link_Archdaily9.jpg?1793374681"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9af/bfbd/4c00/01ee/5a5d/medium_jpg/Terrack_Link_Archdaily11.jpg?1793374664"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/b9af/bfbd/4c00/01ee/5a5c/medium_jpg/Terrack_Link_Archdaily12.jpg?1793374664"
+        }
+      ],
+      "titleZh": "彰化小学把司令台接入连续地景",
+      "summaryZh": "校园改造用连续的几何地面串接原先分散的空间，让司令台所在区域成为可以共同使用的场地。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，校园改造用连续的几何地面串接原先分散的空间，让司令台所在区域成为可以共同使用的场地。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "将单向观看的设施融入地景，可给师生更多穿行和停留方式，也让校园活动有不同尺度的落点。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "bc658fc5cdbbdee2",
+      "url": "https://www.yankodesign.com/2026/11/15/gta-6s-cars-have-an-unbelievably-rich-automotive-design-history/",
+      "title": "GTA 6’s Cars Have An Unbelievably Rich Automotive Design History",
+      "summary": "GTA 6’s Cars Have An Unbelievably Rich Automotive Design History Frank Stephenson, the designer behind the Maserati MC12 and the McLaren P1, once summed up Grand Theft Auto’s car design philosophy as mashing two",
+      "source": "Yanko Design",
+      "category": "游戏设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/11/gta-6s-cars-have-an-unbelievably-rich-automotive-design-history/gta_6_car_design_history_0.jpeg",
+      "publishedAt": "2026-11-15T16:20:28+00:00",
+      "date": "2026-11-16",
+      "firstSeen": "2026-11-16",
+      "score": 69.3,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/gta-6s-cars-have-an-unbelievably-rich-automotive-design-history/gta_6_car_design_history_0.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/gta-6s-cars-have-an-unbelievably-rich-automotive-design-history/gta_6_car_design_history_2.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/gta-6s-cars-have-an-unbelievably-rich-automotive-design-history/gta_6_car_design_history_10.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/gta-6s-cars-have-an-unbelievably-rich-automotive-design-history/gta_6_car_design_history_3.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/gta-6s-cars-have-an-unbelievably-rich-automotive-design-history/gta_6_car_design_history_9.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/gta-6s-cars-have-an-unbelievably-rich-automotive-design-history/gta_6_car_design_history_5.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/gta-6s-cars-have-an-unbelievably-rich-automotive-design-history/gta_6_car_design_history_6.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/gta-6s-cars-have-an-unbelievably-rich-automotive-design-history/gta_6_car_design_history_11.jpeg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/rockstar-turned-a-real-ferrari-into-a-gta-vi-grotti-cheetah-that-you-can-buy-for-1-3-million/gta6_grotti_cheetah_2.jpeg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "mwA6UELsPZ0",
+        "url": "https://www.youtube.com/embed/mwA6UELsPZ0",
+        "thumbnail": "https://i.ytimg.com/vi/mwA6UELsPZ0/hqdefault.jpg",
+        "title": "How Rockstar Designed The Cars Of GTA 6",
+        "author": "Key by Cars & Bids",
+        "duration": 0,
+        "verifiedAt": "2026-11-16T01:15:09+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/mwA6UELsPZ0/hqdefault.jpg"
+      ],
+      "titleZh": "从真实车史读《侠盗猎车手》的虚构汽车",
+      "summaryZh": "文章从汽车设计史出发，讨论游戏如何借用和组合现实车型的视觉线索。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，文章从汽车设计史出发，讨论游戏如何借用和组合现实车型的视觉线索。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "虚构车辆借助熟悉的比例和造型建立类型认知，再用组合变化形成独立的游戏世界辨识度。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 25.0,
+        "completeness": 9.3,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "187a5ca8efb534df",
+      "url": "https://www.designboom.com/art/bird-plane-funny-weather-theo-triantafyllidis/",
+      "title": "it’s a bird, it’s a plane, it’s funny weather! by theo triantafyllidis",
+      "summary": "as extreme weather becomes harder to predict, this installation imagines a future in which the weather itself becomes the narrator of our",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/funny-weather-designboom-10.jpg",
+      "publishedAt": "2026-11-15T15:15:09+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "score": 66.2,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/funny-weather-designboom-1800.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/funny-weather-designboom-10.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/funny-weather-designboom-01.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/funny-weather-designboom-12.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/funny-weather-designboom-08.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/funny-weather-designboom-fullWidth-01.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/funny-weather-designboom-13.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/funny-weather-designboom-fullWidth-03.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/funny-weather-designboom-04.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/funny-weather-designboom-07.jpg"
+        }
+      ],
+      "titleZh": "让天气成为叙事者的装置",
+      "summaryZh": "艺术家以极端天气越来越难预测为背景，构想由天气本身讲述故事的装置。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，艺术家以极端天气越来越难预测为背景，构想由天气本身讲述故事的装置。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "把天气放到叙事中心，可让观众从自身对环境变化的感知出发理解作品。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "5637660e083c521a",
+      "url": "https://www.archdaily.com/1006617/agnews-k12-campus-lpa-design-studios",
+      "title": "Agnews K12 Campus / LPA",
+      "summary": "'S.M.A.R.T.' Campus Combines Three Schools on One Site - The Agnews campus seamlessly integrates separate elementary, middle, and high schools on a single 55-acre site, which was once home to a historic mental health facility. The three schools share a common architectural language while maintaining individual identities…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/64ff/0d1a/9e3f/b94d/c42f/8415/medium_jpg/agnews-k12-campus-lpa-design-studios_5.jpg?1694436659",
+      "publishedAt": "2026-11-15T15:00:00+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "score": 66.4,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0c9b/7109/e31c/5843/d4b3/thumb_jpg/agnews-k12-campus-lpa-design-studios_4.jpg?1694436523"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0ce0/7109/e31c/5843/d4b7/thumb_jpg/agnews-k12-campus-lpa-design-studios_12.jpg?1694436593"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0c22/9e3f/b94d/c42f/83fc/thumb_jpg/agnews-k12-campus-lpa-design-studios_6.jpg?1694436403"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0d56/9e3f/b94d/c42f/841c/thumb_jpg/agnews-k12-campus-lpa-design-studios_1.jpg?1694436729"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0d1a/9e3f/b94d/c42f/8415/medium_jpg/agnews-k12-campus-lpa-design-studios_5.jpg?1694436659"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0c98/7109/e31c/5843/d4b2/medium_jpg/agnews-k12-campus-lpa-design-studios_2.jpg?1694436519"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0bd3/9e3f/b94d/c42f/83fb/medium_jpg/agnews-k12-campus-lpa-design-studios_7.jpg?1694436325"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0d57/9e3f/b94d/c42f/841d/medium_jpg/agnews-k12-campus-lpa-design-studios_8.jpg?1694436714"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0db4/7109/e31d/e343/d4ad/medium_jpg/agnews-k12-campus-lpa-design-studios_13.jpg?1694436805"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0d6b/7109/e31c/5843/d4bd/medium_jpg/agnews-k12-campus-lpa-design-studios_3.jpg?1694436732"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0c7f/7109/e31c/5843/d4ae/medium_jpg/agnews-k12-campus-lpa-design-studios_14.jpg?1694436497"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0c6f/7109/e31c/5843/d4ad/medium_jpg/agnews-k12-campus-lpa-design-studios_15.jpg?1694436480"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0d45/9e3f/b94d/c42f/841b/medium_jpg/agnews-k12-campus-lpa-design-studios_9.jpg?1694436695"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0c3e/9e3f/b94d/c42f/83fd/medium_jpg/agnews-k12-campus-lpa-design-studios_10.jpg?1694436431"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0d1a/7109/e31c/5843/d4b9/medium_jpg/agnews-k12-campus-lpa-design-studios_11.jpg?1694436653"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/073e/9e3f/b94d/c42f/83c2/medium_jpg/agnews-7.jpg?1694435152"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/073a/9e3f/b94d/c42f/83c0/medium_jpg/agnews-site-planjpg-2.jpg?1694435149"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0752/9e3f/b94d/c42f/83c7/medium_jpg/agnews-elementary-school-floor-plan-5.jpg?1694435170"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0756/7109/e316/a0bc/836b/medium_jpg/agnews-middle-school-floor-plan-4.jpg?1694435177"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/073b/9e3f/b94d/c42f/83c1/medium_jpg/agnews-high-school-floor-plan-1.jpg?1694435158"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0743/9e3f/b94d/c42f/83c3/medium_jpg/agnews-section-3.jpg?1694435155"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/64ff/0729/7109/e314/7b6a/dd8c/medium_jpg/agnews-detail-6.jpg?1694435126"
+        }
+      ],
+      "titleZh": "三所不同学段学校共享一处校园选址",
+      "summaryZh": "校园把小学、初中和高中布置在同一地块，各学段仍有独立的学校空间。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，校园把小学、初中和高中布置在同一地块，各学段仍有独立的学校空间。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "集中建设要求同时考虑各年龄段的使用边界和场地资源共享，入口与流线的安排关系到两者能否并存。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "33b5ddcfe1a43a73",
+      "url": "https://www.yankodesign.com/2026/11/15/this-tiny-house-fits-three-double-beds-beneath-a-rooftop-retreat/",
+      "title": "This Tiny House Fits Three Double Beds Beneath a Rooftop Retreat",
+      "summary": "This Tiny House Fits Three Double Beds Beneath a Rooftop Retreat The Tow Côja saves one of its most appealing spaces for the roof. A terrace sits between two raised sections, giving this compact home",
+      "source": "Yanko Design",
+      "category": "建筑设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/11/tow-coja/tow_coja_yanko_design_01.jpg",
+      "publishedAt": "2026-11-15T14:20:37+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "score": 57.2,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/tow-coja/tow_coja_yanko_design_01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/tow-coja/tow_coja_yanko_design_02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/tow-coja/tow_coja_yanko_design_03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/tow-coja/tow_coja_yanko_design_04.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/tow-coja/tow_coja_yanko_design_05.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/tow-coja/tow_coja_yanko_design_06.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/tow-coja/tow_coja_yanko_design_07.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/tow-coja/tow_coja_yanko_design_08.jpg"
+        }
+      ],
+      "titleZh": "紧凑住宅把露台夹在两段抬高的屋面之间",
+      "summaryZh": "这套小住宅容纳三张双人床，设计把屋顶露台安排在两段抬高的体量之间。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，这套小住宅容纳三张双人床，设计把屋顶露台安排在两段抬高的体量之间。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "屋面可成为室内空间的延伸，抬高的部分也能为屋顶活动提供边界。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "29ff74d93dcd991d",
+      "url": "https://www.creativebloq.com/news/i-trusted-adobe-firefly-because-it-was-the-safe-ai-option-now-im-not-so-sure",
+      "title": "I trusted Adobe Firefly because it was the safe AI option, now I'm not so sure",
+      "summary": "Firefly is the safer AI image generator, but with OpenAI, ByteDance and Kling now in the mix, I'm questioning what that promise actually",
+      "source": "Creative Bloq",
+      "category": "人工智能设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/uUbpTvaqSDLvaVs2dTRkZJ-1920-80.jpg",
+      "publishedAt": "2026-11-15T14:00:00+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "score": 57.6,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uUbpTvaqSDLvaVs2dTRkZJ-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HuJ5Uy9hg8s3TTA4j9NNCR-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/gbNazLawEhWhxRSzqcxHYZ-1200-80.jpg"
+        }
+      ],
+      "titleZh": "生成图像工具接入外部模型后如何理解安全承诺",
+      "summaryZh": "作者以奥多比图像生成工具为例，讨论产品接入外部模型后，如何理解平台对安全性的表述。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，作者以奥多比图像生成工具为例，讨论产品接入外部模型后，如何理解平台对安全性的表述。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "对创作者而言，模型选择界面可以明确提示每种模型对应的训练数据说明和使用条件，方便根据作品用途判断。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 9.0,
+        "completeness": 9.6,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "0271f74c05d68695",
+      "url": "https://www.creativebloq.com/features/klas-benjaminsson-on-making-a-pixel-art-poster-on-a-real-amiga-1200",
+      "title": "\"The Amiga was my first school\": why this pixel artist went back to the computer that made him",
+      "summary": "Klas Benjaminsson, creator of the Masters of Pixel Art books, on making a new poster with a real Amiga 1200, why creative limitations matter and the retro software worth trying",
+      "source": "Creative Bloq",
+      "category": "视觉设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/DRSwEfBQrrAn7RGYzELr6W-1920-80.png",
+      "publishedAt": "2026-11-15T12:00:00+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "score": 66.5,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/DRSwEfBQrrAn7RGYzELr6W-1280-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/RcUdwG2JkznmK3bkgZaivS-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/oDzHj4QYdRwUz29m4kNMAg-1200-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/vCn5bsPf2wzCQw4kqRZwub-1200-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YXb4ZMgELdSPc5vGu8wV5m-1200-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/FkuZuKzFtAba6z4e2KMuU5-1200-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/iSqesuDPAbBJgTKYMzLigS-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/yKEyhPphfnEYMdYMQPMobS-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/kZw9TXTJ9FoS5VGnULhAhS-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ipADySqVGmUAnxuvFnG3dS-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/8Q8g28oet36HmLSh8oPidS-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/PZd8mfKwaPaWHVUdMdageS-1200-80.jpg"
+        }
+      ],
+      "titleZh": "像素艺术家回到旧电脑制作新海报",
+      "summaryZh": "像素艺术创作者克拉斯·本亚明松使用一台老式电脑制作新海报，并谈到创作限制的价值。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，像素艺术创作者克拉斯·本亚明松使用一台老式电脑制作新海报，并谈到创作限制的价值。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "旧设备的色彩和像素约束可成为构图条件，迫使创作者更主动地决定哪些轮廓值得留下。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "64880ff1459fc756",
+      "url": "https://www.dezeen.com/2026/11/15/reims-502-rosadoce/",
+      "title": "Reims 502 uses pink palette for \"non-referential\" commercial building in Mexico",
+      "summary": "A stepped facade fronts this pink commercial building in Mexico called Rosadoce, designed by local studio Reims 502 to suit various tenants over its",
+      "source": "Dezeen",
+      "category": "建筑设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_sq-1024x1024.jpg",
+      "publishedAt": "2026-11-15T11:00:00+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "score": 66.2,
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_hero-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_14-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_plans.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_section.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_16.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_13.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_12-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_11-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_0-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_1-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_2.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_3-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_4.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_5-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_6-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_7.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_8.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_9.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_10.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/rosadoce-reims-502-architecture-mexico-commercial-office_dezeen_2364_col_15.jpg"
+        }
+      ],
+      "titleZh": "墨西哥粉色商业楼以阶梯立面适应多租户用途",
+      "summaryZh": "当地工作室为面向不同租户的商业楼设计阶梯状的粉色立面。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，当地工作室为面向不同租户的商业楼设计阶梯状的粉色立面。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "明确的建筑识别可以独立于租户更替延续，立面同时需要给各单元留下可分辨的界面。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "f871f1eb4119847d",
+      "url": "https://www.dezeen.com/2026/11/15/netherlands-central-bank-renovation-mecanoo/",
+      "title": "Mecanoo transforms former gold vault into \"city’s living room\" in renovation of De Nederlandsche Bank in Amsterdam",
+      "summary": "Dutch firm Mecanoo has completed a major renovation of the Netherlands' central bank, which involved dismantling a 14-storey tower and opening up the former gold",
+      "source": "Dezeen",
+      "category": "建筑设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_sq_0-1024x1024.jpg",
+      "publishedAt": "2026-11-15T10:00:00+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "score": 66.5,
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_hero_0-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_19-1536x1152.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_0.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_20.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_17.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_18-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_16.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_3.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_2.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_1.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_4.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_5.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_6.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_7.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_8.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_10-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_11.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_12.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_13.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_14.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_9-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_col_15.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/plans-sections_dezeen_2364_col_6-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/plans-sections_dezeen_2364_col_00.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/plans-sections_dezeen_2364_col_01.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/plans-sections_dezeen_2364_col_02.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/plans-sections_dezeen_2364_col_03.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/plans-sections_dezeen_2364_col_4.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/plans-sections_dezeen_2364_col_5.jpg"
+        }
+      ],
+      "titleZh": "阿姆斯特丹旧央行金库向公众开放",
+      "summaryZh": "荷兰建筑团队完成央行大楼改造，工程包括拆除十四层塔楼并打开原金库区域。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，荷兰建筑团队完成央行大楼改造，工程包括拆除十四层塔楼并打开原金库区域。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "曾经强调安保与隔离的建筑可以借新的公共流线承担城市活动，其原有用途也可以通过保留的空间线索被看见。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "f38436f0d63d051d",
+      "url": "https://www.archdaily.com/1187742/heathside-house-manea-kella",
+      "title": "Heathside House / Manea Kella",
+      "summary": "London-based studio Manea Kella has transformed an Edwardian terrace in the Dartmouth Park Conservation Area, returning a neglected house to its original role as a single-family home while opening it up to light, craft, and contemporary",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb74/medium_jpg/Manea_Kella-Heathside_House-French_Tye-13-LOW-RES.jpg?1793271840",
+      "publishedAt": "2026-11-15T10:00:00+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "score": 66.4,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c0/3271/8400/01d0/fb67/thumb_jpg/Manea_Kella-Heathside_House-French_Tye-01-LOW-RES.jpg?1793271837"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c1/3271/8400/01d0/fb6a/thumb_jpg/Manea_Kella-Heathside_House-French_Tye-03-LOW-RES.jpg?1793271836"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb72/thumb_jpg/Manea_Kella-Heathside_House-French_Tye-11-LOW-RES.jpg?1793271921"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb75/thumb_jpg/Manea_Kella-Heathside_House-French_Tye-14-LOW-RES.jpg?1793272105"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb74/medium_jpg/Manea_Kella-Heathside_House-French_Tye-13-LOW-RES.jpg?1793271840"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb76/medium_jpg/Manea_Kella-Heathside_House-French_Tye-15-LOW-RES.jpg?1793271840"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c0/3271/8400/01d0/fb69/medium_jpg/Manea_Kella-Heathside_House-French_Tye-02-LOW-RES.jpg?1793271839"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c1/3271/8400/01d0/fb6b/medium_jpg/Manea_Kella-Heathside_House-French_Tye-04-LOW-RES.jpg?1793271842"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c1/3271/8400/01d0/fb6c/medium_jpg/Manea_Kella-Heathside_House-French_Tye-05-LOW-RES.jpg?1793271838"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c1/3271/8400/01d0/fb6d/medium_jpg/Manea_Kella-Heathside_House-French_Tye-06-LOW-RES.jpg?1793271836"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c1/3271/8400/01d0/fb6e/medium_jpg/Manea_Kella-Heathside_House-French_Tye-07-LOW-RES.jpg?1793271840"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c1/3271/8400/01d0/fb6f/medium_jpg/Manea_Kella-Heathside_House-French_Tye-08-LOW-RES.jpg?1793271840"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb70/medium_jpg/Manea_Kella-Heathside_House-French_Tye-09-LOW-RES.jpg?1793271837"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb71/medium_jpg/Manea_Kella-Heathside_House-French_Tye-10-LOW-RES.jpg?1793271840"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb73/medium_jpg/Manea_Kella-Heathside_House-French_Tye-12-LOW-RES.jpg?1793272015"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb77/medium_jpg/Manea_Kella-Heathside_House-French_Tye-16-LOW-RES.jpg?1793271923"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb78/medium_jpg/Manea_Kella-Heathside_House-French_Tye-17-LOW-RES.jpg?1793271825"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb79/medium_jpg/Manea_Kella-Heathside_House-French_Tye-18-LOW-RES.jpg?1793271922"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb7a/medium_jpg/Manea_Kella-Heathside_House-French_Tye-19-LOW-RES.jpg?1793271830"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb7b/medium_jpg/Manea_Kella-Heathside_House-French_Tye-20-LOW-RES.jpg?1793272015"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb7c/medium_jpg/Manea_Kella-Heathside_House-French_Tye-21-LOW-RES.jpg?1793271921"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb7d/medium_jpg/Manea_Kella-Heathside_House-French_Tye-22-LOW-RES.jpg?1793272012"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb7f/medium_jpg/groundfloor-plan-MK.jpg?1793272020"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb7e/medium_jpg/firstfloor-plan-MK.jpg?1793272110"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae3/27c2/3271/8400/01d0/fb80/medium_jpg/secondfloor-plan-MK.jpg?1793271928"
+        }
+      ],
+      "titleZh": "伦敦爱德华时代联排住宅恢复成独户",
+      "summaryZh": "改造把一栋长期疏于维护的联排建筑恢复为独户住宅，并重新处理采光与室内工艺。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，改造把一栋长期疏于维护的联排建筑恢复为独户住宅，并重新处理采光与室内工艺。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "恢复住宅用途时，开口、动线和细部工艺的调整可以让旧有尺度回应现在的生活习惯。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "ae832ff854e6111c",
+      "url": "https://www.behance.net/gallery/253892327/BAROQUE-BIOLOGY",
+      "title": "BAROQUE BIOLOGY",
+      "summary": "If you closely observe the genetics of any living being, you'll see everything is much more baroque than functional. Midway between perfecting and contaminating, aesthetics refuse to be domesticated. Biology, like creativity, is immensely messy, caught in the constant cycle of decay, regeneration and return. Baroque Biology is…",
+      "source": "Behance",
+      "category": "视觉设计",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/4b3f96253892327.Y3JvcCwxMjAwLDkzOCwwLDI5NA.jpg",
+      "publishedAt": "2026-11-15T09:30:05+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "score": 42.2,
+      "images": [],
+      "titleZh": "以巴洛克形式想象生物的繁复性",
+      "summaryZh": "作品把生命结构的繁复与巴洛克美学联系起来，以生物形态作为视觉思考的起点。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，作品把生命结构的繁复与巴洛克美学联系起来，以生物形态作为视觉思考的起点。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "把视觉类比用于创作，可以放大自然形态中不规则的层次和差异。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.2,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "062d818d0d707bb6",
+      "url": "https://www.designboom.com/art/two-luminous-eggs-hand-woven-metal-frame-old-submarine-shipyard-mast-estonia-inimruum-un-like/",
+      "title": "two luminous eggs nestle inside hand-woven metal frame on old shipyard mast in estonia",
+      "summary": "inimruum and un-like repurpose a former shipyard lighting mast for nest 2, pairing a hand-woven angle-iron framework with two internally illuminated rotomolded polyethylene",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/470353/2026-11-04/tallinns-playful-light-installation-series-on-old-shipyard-masts-grows-with-nest-2-1-6aeb37bd2e21b.jpg",
+      "publishedAt": "2026-11-15T08:45:57+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "score": 66.4,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/nest-2-luminous-eggs-hand-woven-metal-frame-estonia-inimruum-un-like-designboom-1800-1.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470353/2026-11-04/tallinns-playful-light-installation-series-on-old-shipyard-masts-grows-with-nest-2-1-6aeb37bd2e21b.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470353/2026-11-04/tallinns-playful-light-installation-series-on-old-shipyard-masts-grows-with-nest-2-12-6aeb37bd2e514.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470353/2026-11-04/tallinns-playful-light-installation-series-on-old-shipyard-masts-grows-with-nest-2-5-6aeb37bd2e35e.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/nest-2-luminous-eggs-hand-woven-metal-frame-estonia-inimruum-un-like-designboom-1800-2.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470353/2026-11-04/tallinns-playful-light-installation-series-on-old-shipyard-masts-grows-with-nest-2-7-6aeb37bd2e3da.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470353/2026-11-04/tallinns-playful-light-installation-series-on-old-shipyard-masts-grows-with-nest-2-6-6aeb37bd2e39c.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/nest-2-luminous-eggs-hand-woven-metal-frame-estonia-inimruum-un-like-designboom-1800-3.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470353/2026-11-04/tallinns-playful-light-installation-series-on-old-shipyard-masts-grows-with-nest-2-10-6aeb37bd2e49a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470353/2026-11-04/tallinns-playful-light-installation-series-on-old-shipyard-masts-grows-with-nest-2-9-6aeb37bd2e45d.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/nest-2-luminous-eggs-hand-woven-metal-frame-estonia-inimruum-un-like-designboom-10.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/nest-2-luminous-eggs-hand-woven-metal-frame-estonia-inimruum-un-like-designboom-11.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/nest-2-luminous-eggs-hand-woven-metal-frame-estonia-inimruum-un-like-designboom-12.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/nest-2-luminous-eggs-hand-woven-metal-frame-estonia-inimruum-un-like-designboom-13.jpg"
+        }
+      ],
+      "titleZh": "旧船厂灯杆上架起两枚发光的蛋",
+      "summaryZh": "爱沙尼亚的装置利用旧船厂灯杆，将两件内置照明的蛋形构件置于手工编织的金属架中。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，爱沙尼亚的装置利用旧船厂灯杆，将两件内置照明的蛋形构件置于手工编织的金属架中。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "原有灯杆继续承担高处装置的支撑作用，发光形式则改变了人们辨认这处旧设施的方式。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "e389b75924f5ab76",
+      "url": "https://www.dezeen.com/2026/11/15/kohler-gut-health-tracker-dekoda/",
+      "title": "Kohler's gut-health tracker clips onto the toilet bowl",
+      "summary": "American bathroom brand Kohler has created Dekoda, a health tracker specifically for the toilet, through its spin-off venture, Kohler",
+      "source": "Dezeen",
+      "category": "工业设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_sq-1024x1024.jpg",
+      "publishedAt": "2026-11-15T06:00:00+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "score": 66.2,
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_col_6-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_col_9-1536x1152.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_col_7.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_col_8.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_col_0.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_col_1.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_col_2.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_col_4.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_col_10-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_col_3.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_col_5.jpg"
+        }
+      ],
+      "titleZh": "马桶边缘成为健康追踪器的安装位置",
+      "summaryZh": "科勒旗下团队推出一款固定在马桶边缘的健康追踪器。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，科勒旗下团队推出一款固定在马桶边缘的健康追踪器。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "将设备固定在原有设施上，能减少额外的摆放空间，设计仍需考虑清洁、拆装与隐私提示。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "721d9b509f55cc2c",
+      "url": "https://www.archdaily.com/1188229/okidoki-matcha-bar",
+      "title": "OkiDoki Matcha Bar / Dobrochna Rajcic",
+      "summary": "Third Place. Set inside Wrocław's historic 1904 Feniks building (formerly the Barasch Brothers' Department Store) at 75 Szewska Street, Oki Doki is a minimalist matcha bar. The design weaves exposed architectural heritage with a bold Yves Klein blue mural, creating a contemporary urban sanctuary focused on \"togetherness in…",
+      "source": "ArchDaily",
+      "category": "空间设计",
+      "image": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e4e/medium_jpg/migdal_okidoki_6.jpg?1794132644",
+      "publishedAt": "2026-11-15T06:00:00+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "score": 66.5,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e49/thumb_jpg/migdal_okidoki_1.jpg?1794132867"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e4f/thumb_jpg/migdal_okidoki_7.jpg?1794132805"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e4d/thumb_jpg/migdal_okidoki_5.jpg?1794132586"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e53/thumb_jpg/migdal_okidoki_11.jpg?1794132420"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e4e/medium_jpg/migdal_okidoki_6.jpg?1794132644"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e50/medium_jpg/migdal_okidoki_8.jpg?1794132411"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e52/medium_jpg/migdal_okidoki_10.jpg?1794132420"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e4a/medium_jpg/migdal_okidoki_2.jpg?1794132527"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e4b/medium_jpg/migdal_okidoki_3.jpg?1794132699"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e4c/medium_jpg/migdal_okidoki_4.jpg?1794132754"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e51/medium_jpg/migdal_okidoki_9.jpg?1794132464"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e54/medium_jpg/migdal_okidoki_12.jpg?1794132475"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af0/4983/4ba6/4700/01d0/7e55/medium_jpg/okidoki_plan.jpg?1794132367"
+        }
+      ],
+      "titleZh": "历史百货大楼内布置极简抹茶吧",
+      "summaryZh": "抹茶吧设在弗罗茨瓦夫一栋建于一九〇四年的历史商业建筑中，室内保留外露的建筑遗存。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，抹茶吧设在弗罗茨瓦夫一栋建于一九〇四年的历史商业建筑中，室内保留外露的建筑遗存。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "新店的陈设与既有建筑面貌可以共同提示空间的历史和当前用途，减少对额外装饰叙事的依赖。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "4c903896e0cdb36f",
+      "url": "https://www.wallpaper.com/architecture/shu-brocade-culture-museum-archstudio-china",
+      "title": "China's famed 'City of Brocade' gets an undulating new icon",
+      "summary": "The Shu Brocade Culture Museum by ARCHSTUDIO brings an ancient craft tradition to the forefront in southwestern",
+      "source": "Wallpaper",
+      "category": "建筑设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/XET8oCtXe6vJeiPHiv56wN-1920-80.jpg",
+      "publishedAt": "2026-11-15T06:00:00+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "score": 66.3,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/LSMKQnU4xPYHgy8dGABzUN-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/z6ygCnoTDph9qcGaksrpdN-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/WPxXqv6PRSUiAEgGC7rPNN-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6QfHjEzPN9VSBqLMxCHpmN-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/KjSmJQUUcghuRyQq2pwi3P-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/LzN3GbS4QtsQaQAthjpZ3P-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/xAPMmaVvfZmNLDa3wqGF4P-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/32zqe5bqJSJJQ5F4kntG2P-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/H6WRhJcbfF4sPzqEFzNg2P-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4sUEZgTkuSpBzLTbh8jG3P-1920-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/LmmNMDknfztnARfLbfwE3P-1920-80.jpg"
+        }
+      ],
+      "titleZh": "蜀锦文化博物馆以起伏体量呈现传统工艺",
+      "summaryZh": "建筑团队为蜀锦文化设计博物馆，以起伏的建筑形态回应这一地方工艺主题。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，建筑团队为蜀锦文化设计博物馆，以起伏的建筑形态回应这一地方工艺主题。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "工艺类博物馆可借空间形式建立入口印象，也需要以展陈讲清材料、技法和工作过程。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "09ca54d34e0b6bee",
+      "url": "https://www.archdaily.com/1188533/wangshan-qingshui-water-treatment-plant-poa-architects",
+      "title": "Wangshan Qingshui Water Treatment Plant / POA Architects",
+      "summary": "Wangshan Qingshui Water Treatment Plant stands in Qianku, Cangnan County, Wenzhou , where housing, cultivated land and river channels meet. With architectural scheme design by POA Architects, the facility brings treatment basins, production buildings and connecting spaces into a legible above-ground",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6af5/6fae/8074/f401/89de/e7f3/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_17.jpg?1794469878",
+      "publishedAt": "2026-11-15T02:00:00+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "score": 66.5,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6f61/8074/f401/89de/e7ea/thumb_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_10.jpg?1794469747"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6f6a/8074/f401/89de/e7ed/thumb_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_12.jpg?1794469754"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6f42/8074/f401/89de/e7e5/thumb_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_2.jpg?1794469719"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6f89/8074/f401/89de/e7f1/thumb_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_15.jpg?1794469823"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6fae/8074/f401/89de/e7f3/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_17.jpg?1794469878"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6f55/8074/f401/89de/e7e6/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_1.jpg?1794469737"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6f74/8074/f401/89de/e7ee/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_6.jpg?1794469764"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6f8c/8074/f401/89de/e7f2/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_14.jpg?1794469843"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6fb5/8074/f401/89de/e7f5/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_19.jpg?1794469831"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6f5b/8074/f401/89de/e7e8/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_5.jpg?1794469773"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6f59/8074/f401/89de/e7e7/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_4.jpg?1794469766"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6f59/c23f/1f01/895a/f721/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_7.jpg?1794469807"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6f62/8074/f401/89de/e7eb/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_9.jpg?1794469748"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6f81/8074/f401/89de/e7ef/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_11.jpg?1794469808"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6fb3/8074/f401/89de/e7f4/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_18.jpg?1794469863"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6f84/8074/f401/89de/e7f0/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_16.jpg?1794469780"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/6f67/c23f/1f01/895a/f722/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_13.jpg?1794469754"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/70fd/8074/f401/89de/e7fc/medium_jpg/01-site-plan-25.jpg?1794470170"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/70e9/8074/f401/89de/e7f9/medium_jpg/02-ground-floor-plan-20.jpg?1794470162"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/70fa/8074/f401/89de/e7fa/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_20.jpg?1794470149"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/70fc/c23f/1f01/895a/f726/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_21.jpg?1794470154"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/70e4/8074/f401/89de/e7f7/medium_jpg/03-third-floor-plan-21.jpg?1794470122"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/70e6/8074/f401/89de/e7f8/medium_jpg/04-level-1-plan-22.jpg?1794470140"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/70e8/c23f/1f01/895a/f724/medium_jpg/05-level-2-plan-23.jpg?1794470155"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/70e3/8074/f401/89de/e7f6/medium_jpg/06-level-3-plan-24.jpg?1794470131"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/70fb/c23f/1f01/895a/f725/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_22.jpg?1794470220"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/7103/8074/f401/89de/e7fd/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_24.jpg?1794470184"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/70fc/8074/f401/89de/e7fb/medium_jpg/wangshan-qingshui-water-treatment-plant-poa-architects_23.jpg?1794470174"
+        }
+      ],
+      "titleZh": "温州钱库镇水处理厂布置在田地与河道之间",
+      "summaryZh": "这座水处理厂位于住宅、耕地和河道相接的位置，建筑方案将处理池等设施纳入同一个场地。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，这座水处理厂位于住宅、耕地和河道相接的位置，建筑方案将处理池等设施纳入同一个场地。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "基础设施的空间组织要兼顾生产流程和周边环境，场地边界的处理会影响其与村镇的关系。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.5,
+        "source": 24.0
+      }
+    },
     {
       "id": "157c04afe389fb1c",
       "url": "https://www.yankodesign.com/2026/11/14/mote-humidifier-concept-waters-a-tiny-garden-with-leftover-tank-water/",
@@ -754,7 +2509,7 @@
       "id": "68057da46700d9d6",
       "url": "https://www.gcores.com/articles/222374",
       "title": "《英雄联盟：曙光》正式宣布",
-      "summary": "拳头游戏的 Pabro 与 Meddler 于今日带来《英雄联盟：曙光》预告，更多详情将于明年1月揭晓。 据悉，《英雄联盟：曙光》 包括全面现代化升级的游戏客户端、焕然一新的召唤师峡谷地图与视觉表现、持续进化的游戏玩法，以及让玩家以全新方式体验自己喜爱的英雄等一系列精彩内容。预约现已正式开启。",
+      "summary": "在2026英雄联盟全球总决赛期间，游戏研发团队正式揭晓了《英雄联盟：曙光》。这是一项涵盖游戏多个层面、上线以来最大规模的全面更新，预计将于2027年正式上线。 <内嵌内容，请前往机核查看> 据悉，《英雄联盟：曙光》",
       "source": "Gcores",
       "category": "游戏设计",
       "image": "https://image.gcores.com/2ea8c4d3aa9027029c41bcf4300cf4b9-690-387.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
@@ -996,6 +2751,115 @@
         "recency": 20.0,
         "media": 18.0,
         "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "679d3b735a13d397",
+      "url": "https://www.archdaily.com/1187878/hustlr-pickleball-and-social-club-cys-architect-sdn-bhd",
+      "title": "HUSTLR Pickleball & Social Club / CYS Architect Sdn Bhd",
+      "summary": "An abandoned food court in Taman Taynton View, Cheras, has been transformed into Hustlr Pickleball & Social Club — a new sports and social destination that adapts an existing steel structure while introducing a distinctive identity and a new layer of community life. What can an underutilized building become when its potential…",
+      "source": "ArchDaily",
+      "category": "空间设计",
+      "image": "https://images.adsttc.com/media/images/6ae4/be68/bfbd/4c00/01ee/5ab3/medium_jpg/HUSLTR-1.jpg?1793375985",
+      "publishedAt": "2026-11-14T21:00:00+00:00",
+      "date": "2026-11-15",
+      "firstSeen": "2026-11-16",
+      "score": 66.4,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be6b/bfbd/4c00/01ee/5abe/thumb_jpg/HUSLTR-23.jpg?1793375992"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be6b/bfbd/4c00/01ee/5abd/thumb_jpg/HUSLTR-22.jpg?1793376220"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be6a/bfbd/4c00/01ee/5aba/thumb_jpg/HUSLTR-17.jpg?1793375907"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be69/bfbd/4c00/01ee/5ab8/thumb_jpg/HUSLTR-11.jpg?1793376039"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be68/bfbd/4c00/01ee/5ab3/medium_jpg/HUSLTR-1.jpg?1793375985"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be68/bfbd/4c00/01ee/5ab4/medium_jpg/HUSLTR-4.jpg?1793376001"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be68/bfbd/4c00/01ee/5ab5/medium_jpg/HUSLTR-6.jpg?1793376071"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be69/bfbd/4c00/01ee/5ab9/medium_jpg/HUSLTR-15.jpg?1793376205"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be6a/bfbd/4c00/01ee/5abb/medium_jpg/HUSLTR-18.jpg?1793376091"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be6b/bfbd/4c00/01ee/5abf/medium_jpg/HUSLTR-26.jpg?1793376062"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be6a/bfbd/4c00/01ee/5abc/medium_jpg/HUSLTR-20.jpg?1793375980"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be69/bfbd/4c00/01ee/5ab6/medium_jpg/HUSLTR-9.jpg?1793375909"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be69/bfbd/4c00/01ee/5ab7/medium_jpg/HUSLTR-10.jpg?1793375930"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be6b/bfbd/4c00/01ee/5ac0/medium_jpg/HUSLTR-29.jpg?1793375953"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be6b/bfbd/4c00/01ee/5ac1/medium_jpg/HUSLTR-30.jpg?1793375986"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be6b/bfbd/4c00/01ee/5ac2/medium_jpg/1.jpg?1793376212"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be6b/bfbd/4c00/01ee/5ac3/medium_jpg/2.jpg?1793375988"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be6b/bfbd/4c00/01ee/5ac4/medium_jpg/3.jpg?1793375938"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af1/ded7/934b/0301/8c76/458c/medium_jpg/5-16.jpg?1794236126"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be6c/bfbd/4c00/01ee/5ac7/medium_jpg/6.jpg?1793376227"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be6b/bfbd/4c00/01ee/5ac5/medium_jpg/4.jpg?1793375945"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae4/be6c/bfbd/4c00/01ee/5ac9/medium_jpg/Hustlr_Architectural_Sketch_01.jpg?1793376217"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af1/dea2/934b/0301/8c76/4582/medium_jpg/hustlr-architectural-sketch-02-17.jpg?1794236073"
+        }
+      ],
+      "titleZh": "闲置美食广场利用旧钢结构改成匹克球俱乐部",
+      "summaryZh": "改造利用闲置美食广场的既有钢结构，在吉隆坡蕉赖布置运动和社交空间。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，改造利用闲置美食广场的既有钢结构，在吉隆坡蕉赖布置运动和社交空间。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "保留原有大跨度结构能给球场布置提供条件，社交区和运动区的衔接也可延长场地的使用时段。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.4,
         "source": 24.0
       }
     },
@@ -1443,6 +3307,167 @@
       }
     },
     {
+      "id": "177c21a6f7b3154b",
+      "url": "https://www.creativebloq.com/features/how-adhoc-made-dispatch-feel-like-an-animated-tv-series",
+      "title": "How AdHoc made Dispatch feel like an animated TV series",
+      "summary": "How do you make a branching game feel like a TV show? AdHoc’s co-founders explain, from recording Aaron Paul’s cast in conversation to ditching Telltale’s",
+      "source": "Creative Bloq",
+      "category": "游戏设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/9i6TNVQBahppqh3xgL66nW-1920-80.jpg",
+      "publishedAt": "2026-11-14T14:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-16",
+      "score": 63.4,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/9i6TNVQBahppqh3xgL66nW-1600-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/8qu9sSAANdy7wjYfJ7gmrW-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/eGRC7St2FBBJnEFfCuMHzA-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Rdq4D5JoQxGDSc7pJNNwYH-1200-80.png"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/kA9PVXPdu5fy9NgXvyovqd-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/gicJovdqt25TSB64yiaSpd-1200-80.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZtPKeptNfCJsyKSDGDnrmd-1200-80.jpg"
+        }
+      ],
+      "titleZh": "《调度中心》团队谈分支游戏如何呈现动画剧集节奏",
+      "summaryZh": "工作室联合创办人介绍分支游戏制作过程，讨论如何让叙事产生动画电视剧般的观感。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，工作室联合创办人介绍分支游戏制作过程，讨论如何让叙事产生动画电视剧般的观感。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "分支交互带来额外的节奏节点，制作团队可用表演与剪辑让不同选择仍接得上场景的情绪。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 12.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "6c344cd62cbb7ef1",
+      "url": "https://www.designboom.com/architecture/arnaud-behzadi-doobies-paris-pavyllon-lyon/",
+      "title": "arnaud behzadi on designing beyond beauty, from paris’ doobie’s to pavyllon lyon",
+      "summary": "the french architect discusses how memory, emotion, and hospitality shape two new restaurants, from a parisian icon to a culinary school in",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-1.jpg",
+      "publishedAt": "2026-11-14T13:28:59+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-14",
+      "score": 71.2,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-15.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-1.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-412-1.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4131.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4133.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4134.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4135.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4136.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4137.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4138.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4139.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/Pavyllon_AT_006.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/Pavyllon_AT_008.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/Pavyllon_AT_002.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-3.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-2.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-411.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-412.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-413.jpg"
+        }
+      ],
+      "titleZh": "两家法国餐厅从记忆与待客方式出发",
+      "summaryZh": "建筑师阿尔诺·贝扎迪谈到巴黎餐厅与里昂烹饪学校相关餐厅的空间设计。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，建筑师阿尔诺·贝扎迪谈到巴黎餐厅与里昂烹饪学校相关餐厅的空间设计。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "从迎宾、落座和交流等场景出发，可以把抽象的待客理念落到空间安排上。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
       "id": "bf878d6d5eb9b2d6",
       "url": "https://www.dezeen.com/2026/11/14/daichi-inc-silent-river-tree-sauna/",
       "title": "Japanese sauna by Daichi Inc makes \"people feel as though they are dissolving into the forest\"",
@@ -1809,6 +3834,68 @@
         "recency": 15.0,
         "media": 18.0,
         "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "c4d64ea1a6a48aab",
+      "url": "https://www.creativebloq.com/news/the-gatto-trailer-is-dividing-opinion-over-pixars-new-painterly-style",
+      "title": "The Gatto trailer is dividing opinion over Pixar's new painterly style",
+      "summary": "Has the studio found its sweet spot for hybrid",
+      "source": "Creative Bloq",
+      "category": "动态设计",
+      "image": "https://cdn.mos.cms.futurecdn.net/zNfZMwxFk79A3w2aUmmnjn-1920-80.jpg",
+      "publishedAt": "2026-11-14T10:00:00+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-16",
+      "score": 61.4,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/zNfZMwxFk79A3w2aUmmnjn-1920-80.jpg"
+        },
+        {
+          "url": "https://img.youtube.com/vi/fq7Q-dtIZeM/maxresdefault.jpg"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/z5DinsvKG2tZtRSNX3csPj-1000-80.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "fq7Q-dtIZeM",
+        "url": "https://www.youtube.com/embed/fq7Q-dtIZeM",
+        "thumbnail": "https://i.ytimg.com/vi/fq7Q-dtIZeM/hqdefault.jpg",
+        "title": "Gatto | Official Trailer | In Theaters March 5, 2027",
+        "author": "Pixar",
+        "duration": 0,
+        "verifiedAt": "2026-11-16T01:15:09+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/fq7Q-dtIZeM/hqdefault.jpg"
+      ],
+      "titleZh": "皮克斯新片预告尝试绘画质感的动画风格",
+      "summaryZh": "报道围绕新片预告中的绘画感画面展开，记录这一混合视觉风格引发的不同意见。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，报道围绕新片预告中的绘画感画面展开，记录这一混合视觉风格引发的不同意见。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "绘画笔触变化可为动画带来更鲜明的视觉表达，同时也需要在连续运动中保持主体清晰。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 12.0,
+        "media": 16.0,
+        "completeness": 9.4,
         "source": 24.0
       }
     },
@@ -2320,6 +4407,103 @@
         "recency": 15.0,
         "media": 12.0,
         "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "d55fb7deda078a40",
+      "url": "https://design-milk.com/peralta-d-copper-supercar/",
+      "title": "The Peralta D Supercar Is Literally Sculpted From Copper",
+      "summary": "Designed by Fabrizio Giugiaro, the one-off grand tourer pairs hand-hammered copper bodywork with a sculptural",
+      "source": "Design Milk",
+      "category": "工业设计",
+      "image": "https://design-milk.com/images/2026/11/GFG-PeraltaD_04-e1794598783627-1500x1000.jpg",
+      "publishedAt": "2026-11-14T02:23:44+00:00",
+      "date": "2026-11-14",
+      "firstSeen": "2026-11-16",
+      "score": 63.2,
+      "images": [
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_04-e1794598783627.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_21.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_20.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_13.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_12.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_10.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_06.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_19.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_14.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_11.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_15.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_08.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_22.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_17.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_01-e1794599851729.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_18.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_03.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_07.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/GFG-PeraltaD_05.jpg"
+        }
+      ],
+      "titleZh": "单件跑车以手工锤制铜材塑造车身",
+      "summaryZh": "法布里齐奥·乔治亚罗设计的一辆单件旅行跑车将手工锤制的铜面板用于车身。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，法布里齐奥·乔治亚罗设计的一辆单件旅行跑车将手工锤制的铜面板用于车身。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "材料的反射与锤制工艺会让大面积曲面成为车身的主要识别特征。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 12.0,
+        "media": 18.0,
+        "completeness": 9.2,
         "source": 24.0
       }
     },
@@ -3661,7 +5845,7 @@
     {
       "id": "9328a2a42752ada9",
       "url": "https://www.stashmedia.tv/reframe-studio-get-comfortable-in-fursys-manta-chair/",
-      "title": "Reframe Studio Get Comfortable in Fursys Manta Chair",
+      "title": "Reframe Studio Gets Comfortable in Fursys Manta Chair",
       "summary": "Reframe Studio in Seoul apply their talents for striking yet tasteful CG style to this Zen-like launch film for the Manta chair designed by German studio Jehs+Laub for South Korean furniture brand Fursys.",
       "source": "Stash",
       "category": "动态设计",
@@ -3723,106 +5907,6 @@
         "recency": 15.0,
         "media": 22.0,
         "completeness": 9.3,
-        "source": 24.0
-      }
-    },
-    {
-      "id": "6c344cd62cbb7ef1",
-      "url": "https://www.designboom.com/architecture/arnaud-behzadi-doobies-paris-pavyllon-lyon/",
-      "title": "arnaud behzadi on designing beyond beauty, from paris’ doobie’s to pavyllon lyon",
-      "summary": "the french architect discusses how memory, emotion, and hospitality shape two new restaurants, from a parisian icon to a culinary school in",
-      "source": "designboom",
-      "category": "空间设计",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-1.jpg",
-      "publishedAt": "2026-11-13T13:28:59+00:00",
-      "date": "2026-11-13",
-      "firstSeen": "2026-11-14",
-      "score": 66.2,
-      "images": [
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-15.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-1.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-412-1.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4131.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4133.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4134.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4135.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4136.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4137.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4138.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4139.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/Pavyllon_AT_006.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/Pavyllon_AT_008.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/Pavyllon_AT_002.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-3.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-2.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-4.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-411.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-412.jpg"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/arnaud-behzadi-doobies-paris-pavyllon-lyon-designboom-413.jpg"
-        }
-      ],
-      "titleZh": "两家法国餐厅从记忆与待客方式出发",
-      "summaryZh": "建筑师阿尔诺·贝扎迪谈到巴黎餐厅与里昂烹饪学校相关餐厅的空间设计。",
-      "reading": {
-        "basis": "feed",
-        "sections": [
-          {
-            "heading": "内容整理",
-            "paragraphs": [
-              "据公开订阅摘要，建筑师阿尔诺·贝扎迪谈到巴黎餐厅与里昂烹饪学校相关餐厅的空间设计。"
-            ]
-          },
-          {
-            "heading": "设计解读",
-            "paragraphs": [
-              "从迎宾、落座和交流等场景出发，可以把抽象的待客理念落到空间安排上。"
-            ]
-          }
-        ]
-      },
-      "heat": {
-        "recency": 15.0,
-        "media": 18.0,
-        "completeness": 9.2,
         "source": 24.0
       }
     },
@@ -44086,6 +46170,7 @@
     {
       "date": "2026-11-14",
       "articleIds": [
+        "6c344cd62cbb7ef1",
         "500849e3c601c859",
         "14db66e01c64e731",
         "a850271375ca982b",
@@ -44105,7 +46190,6 @@
         "1eb1fc2cb757fa7e",
         "c5c9f8ed81a910cf",
         "9328a2a42752ada9",
-        "6c344cd62cbb7ef1",
         "2552b1e2ed35d583",
         "3324b7e4045d4db3",
         "6ca4f66d702992c4",
@@ -44145,6 +46229,37 @@
         "bc46c216b51309bc"
       ],
       "updatedAt": "2026-11-15T09:15:17.191930+08:00"
+    },
+    {
+      "date": "2026-11-16",
+      "articleIds": [
+        "e3e6c58e79b4569c",
+        "24702d3e25ed07b7",
+        "385202e5eef2deae",
+        "a3a88c816f4a539c",
+        "2d5fdd9540ce5fd0",
+        "cf79e6d984e084d2",
+        "bc658fc5cdbbdee2",
+        "187a5ca8efb534df",
+        "5637660e083c521a",
+        "33b5ddcfe1a43a73",
+        "29ff74d93dcd991d",
+        "0271f74c05d68695",
+        "64880ff1459fc756",
+        "f871f1eb4119847d",
+        "f38436f0d63d051d",
+        "ae832ff854e6111c",
+        "062d818d0d707bb6",
+        "e389b75924f5ab76",
+        "721d9b509f55cc2c",
+        "4c903896e0cdb36f",
+        "09ca54d34e0b6bee",
+        "679d3b735a13d397",
+        "177c21a6f7b3154b",
+        "c4d64ea1a6a48aab",
+        "d55fb7deda078a40"
+      ],
+      "updatedAt": "2026-11-16T09:13:41.606536+08:00"
     }
   ],
   "rankingNote": "关注指数 100 分 = 时效 30 + 媒体 25 + 完整度 25 + 来源 20，依已核实字段计算，不是全网阅读量或点赞量。",
