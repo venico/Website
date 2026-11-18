@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T08:56:17.920736+08:00",
+  "updatedAt": "2026-11-18T08:57:01.861126+08:00",
   "sources": [
     {
       "name": "Dezeen",
@@ -8,7 +8,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-11-16T21:29:48+00:00"
+      "latestPublishedAt": "2026-11-17T19:01:00+00:00"
     },
     {
       "name": "designboom",
@@ -17,7 +17,7 @@
       "category": "空间设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-17T00:55:55+00:00"
+      "latestPublishedAt": "2026-11-17T21:35:34+00:00"
     },
     {
       "name": "Yanko Design",
@@ -26,7 +26,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 16,
-      "latestPublishedAt": "2026-11-17T00:30:04+00:00"
+      "latestPublishedAt": "2026-11-18T00:30:24+00:00"
     },
     {
       "name": "Smashing Magazine",
@@ -35,7 +35,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 40,
-      "latestPublishedAt": "2026-11-12T10:00:00+00:00"
+      "latestPublishedAt": "2026-11-17T12:00:00+00:00"
     },
     {
       "name": "Nielsen Norman Group",
@@ -53,7 +53,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-16T15:18:59+00:00"
+      "latestPublishedAt": "2026-11-17T15:55:17+00:00"
     },
     {
       "name": "Core77",
@@ -61,8 +61,8 @@
       "url": "https://feeds.feedburner.com/core77/blog",
       "category": "工业设计",
       "ok": true,
-      "count": 15,
-      "latestPublishedAt": "2026-11-16T16:00:00+00:00"
+      "count": 14,
+      "latestPublishedAt": "2026-11-17T16:00:00+00:00"
     },
     {
       "name": "Creative Bloq",
@@ -71,7 +71,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 25,
-      "latestPublishedAt": "2026-11-17T00:00:00+00:00"
+      "latestPublishedAt": "2026-11-17T17:05:41+00:00"
     },
     {
       "name": "UX Collective",
@@ -80,7 +80,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-16T21:27:14+00:00"
+      "latestPublishedAt": "2026-11-17T23:26:24+00:00"
     },
     {
       "name": "UX Planet",
@@ -89,7 +89,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-16T20:32:11+00:00"
+      "latestPublishedAt": "2026-11-17T21:01:18+00:00"
     },
     {
       "name": "Codrops",
@@ -112,11 +112,11 @@
     {
       "name": "Design Milk",
       "label": "设计牛奶",
-      "category": "工业设计",
       "url": "https://design-milk.com/feed/",
-      "ok": false,
-      "count": 0,
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "category": "工业设计",
+      "ok": true,
+      "count": 12,
+      "latestPublishedAt": "2026-11-17T19:10:32+00:00"
     },
     {
       "name": "Creative Boom",
@@ -125,7 +125,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-11-16T07:00:00+00:00"
+      "latestPublishedAt": "2026-11-17T07:00:00+00:00"
     },
     {
       "name": "Car Body Design",
@@ -143,7 +143,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 6,
-      "latestPublishedAt": "2026-11-16T21:42:31+00:00"
+      "latestPublishedAt": "2026-11-17T21:15:34+00:00"
     },
     {
       "name": "Art of VFX",
@@ -152,7 +152,7 @@
       "category": "动态设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-11-16T19:00:00+00:00"
+      "latestPublishedAt": "2026-11-17T19:00:00+00:00"
     },
     {
       "name": "Blender",
@@ -307,7 +307,7 @@
       "category": "建筑设计",
       "ok": true,
       "count": 24,
-      "latestPublishedAt": "2026-11-16T19:00:00+00:00"
+      "latestPublishedAt": "2026-11-17T17:00:00+00:00"
     },
     {
       "name": "Wallpaper",
@@ -316,7 +316,7 @@
       "category": "工业设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-11-16T18:00:00+00:00"
+      "latestPublishedAt": "2026-11-18T00:01:00+00:00"
     },
     {
       "name": "Its Nice That",
@@ -325,7 +325,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-11-16T11:00:00+00:00"
+      "latestPublishedAt": "2026-11-17T09:00:00+00:00"
     },
     {
       "name": "Design Week",
@@ -346,11 +346,11 @@
     {
       "name": "PRINT",
       "label": "印刷与视觉设计杂志",
-      "url": "https://www.printmag.com/feed/",
       "category": "视觉设计",
-      "ok": true,
-      "count": 40,
-      "latestPublishedAt": "2026-11-16T20:54:45+00:00"
+      "url": "https://www.printmag.com/feed/",
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "name": "Domus",
@@ -424,7 +424,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 36,
-      "latestPublishedAt": "2026-11-16T23:30:05+00:00"
+      "latestPublishedAt": "2026-11-18T00:00:06+00:00"
     },
     {
       "name": "Figma",
@@ -519,11 +519,11 @@
     {
       "name": "Architectural Review",
       "label": "建筑评论",
-      "category": "建筑设计",
       "url": "https://www.architectural-review.com/feed",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP Error 403: Forbidden"
+      "category": "建筑设计",
+      "ok": true,
+      "count": 10,
+      "latestPublishedAt": "2026-11-17T11:19:48+00:00"
     },
     {
       "name": "Dieline",
@@ -532,7 +532,7 @@
       "category": "视觉设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-17T00:16:48+00:00"
+      "latestPublishedAt": "2026-11-17T18:35:54+00:00"
     },
     {
       "name": "Packaging of the World",
@@ -602,7 +602,7 @@
       "category": "用户体验设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-10-27T09:27:00+00:00"
+      "latestPublishedAt": "2026-11-17T09:56:00+00:00"
     },
     {
       "name": "UX Design Institute",
@@ -629,7 +629,7 @@
       "category": "人工智能设计",
       "ok": true,
       "count": 20,
-      "latestPublishedAt": "2026-11-16T14:00:00+00:00"
+      "latestPublishedAt": "2026-11-17T17:00:00+00:00"
     },
     {
       "name": "Adobe Developers Blog",
@@ -661,7 +661,7 @@
       "category": "游戏设计",
       "ok": true,
       "count": 50,
-      "latestPublishedAt": "2026-11-16T20:15:00+00:00"
+      "latestPublishedAt": "2026-11-17T21:21:17+00:00"
     },
     {
       "name": "80 Level",
@@ -670,7 +670,7 @@
       "category": "游戏设计",
       "ok": true,
       "count": 10,
-      "latestPublishedAt": "2026-11-16T23:24:00+00:00"
+      "latestPublishedAt": "2026-11-17T20:07:00+00:00"
     },
     {
       "name": "Gcores",
@@ -678,11 +678,3185 @@
       "url": "https://www.gcores.com/rss",
       "category": "游戏设计",
       "ok": true,
-      "count": 13,
-      "latestPublishedAt": "2026-11-17T00:45:00+00:00"
+      "count": 18,
+      "latestPublishedAt": "2026-11-18T00:55:00+00:00"
     }
   ],
   "articles": [
+    {
+      "id": "c7bfaeb5f640637a",
+      "url": "https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12",
+      "title": "What is a researcher’s worth?",
+      "summary": "Why the debate over research isn’t a technology story – and why effortless AI makes human friction our scarcest asset. Image created by author, with Midjourney. We’re no stranger to this question. For many years, research practitioners have talked with one another about how to “mature” teams so that they understand the value of…",
+      "source": "UX Collective",
+      "category": "人工智能设计",
+      "image": "https://cdn-images-1.medium.com/max/1024/0*0cFCJpNLtLhpGfGK",
+      "publishedAt": "2026-11-17T23:26:24+00:00",
+      "date": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "score": 47.4,
+      "titleZh": "人工智能加速工作之后，研究者的价值在哪里",
+      "summaryZh": "作者讨论生成式工具降低制作成本之后，研究工作中的人类判断和交流价值。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，作者讨论生成式工具降低制作成本之后，研究工作中的人类判断和交流价值。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "研究结果的使用仍需要理解情境，团队可以在收集信息后保留讨论分歧与验证解释的环节。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 9.4,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "a8b64ab3892d4fd5",
+      "url": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11",
+      "title": "Everyone knows sparkles mean AI. Use them to make design audits easier",
+      "summary": "How to decipher your PM’s AI-generated mockup without losing",
+      "source": "UX Collective",
+      "category": "用户体验设计",
+      "image": "https://cdn-images-1.medium.com/max/1556/1*4RrFm9IcXORwVXjgB-_zlA.png",
+      "publishedAt": "2026-11-17T23:25:21+00:00",
+      "date": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "score": 47.4,
+      "titleZh": "用闪光符号识别生成式界面草稿",
+      "summaryZh": "文章从常见的人工智能闪光符号入手，讨论如何审阅同事提交的生成式界面方案。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，文章从常见的人工智能闪光符号入手，讨论如何审阅同事提交的生成式界面方案。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "审阅可以沿着用户任务检查每个控件和状态，视觉上的完成感不能代替实际流程验证。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 9.4,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "d18443671daf0b7b",
+      "url": "https://www.yankodesign.com/2026/11/17/ponygo-is-a-minimalist-rocking-horse-for-the-ikea-era/",
+      "title": "PonyGo is a minimalist rocking horse for the IKEA era",
+      "summary": "PonyGo is a minimalist rocking horse for the IKEA era Rocking horses have one unspoken rule that nobody ever actually wrote down anywhere, you just absorb it by osmosis. The thing has to be",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/11/660095/ponygo_rocking_horse_1.jpg",
+      "publishedAt": "2026-11-17T23:00:21+00:00",
+      "date": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "score": 50.1,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/660095/ponygo_rocking_horse_1.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/660095/ponygo_rocking_horse_2.jpg"
+        }
+      ],
+      "titleZh": "极简摇马重新组织传统玩具外形",
+      "summaryZh": "设计案例以简洁的构件和轮廓重新表达摇马这一传统儿童玩具。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，设计案例以简洁的构件和轮廓重新表达摇马这一传统儿童玩具。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "轮廓简化之后，握持、支撑和摇摆边界需要通过结构本身保持清晰。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 6.0,
+        "completeness": 9.1,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "d9f5b85d239aec18",
+      "url": "https://www.designboom.com/art/jennifer-latour-imaginary-creatures-flowers-interview/",
+      "title": "‘I always run on feeling’: jennifer latour builds imaginary creatures from flowers",
+      "summary": "the artist draws on her background in special effects makeup to create imaginary botanical creatures in her photographic",
+      "source": "designboom",
+      "category": "视觉设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-01.jpg",
+      "publishedAt": "2026-11-17T21:35:34+00:00",
+      "date": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "score": 71.3,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-1800.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-01.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-05.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-06.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-02.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-03.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-04.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-07.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-08.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-large01.gif"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-09.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-10.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-11.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-12.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-13.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-14.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-15.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-16.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-17.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-18.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-19.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-20.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-21.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-22.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-23.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/jennifer-latour-imaginary-creatures-flowers-interview-designboom-24.jpg"
+        }
+      ],
+      "titleZh": "花朵在摄影中变成想象中的生物",
+      "summaryZh": "艺术家詹妮弗·拉图尔利用特效化妆背景，将植物组合成虚构生物并拍成照片。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，艺术家詹妮弗·拉图尔利用特效化妆背景，将植物组合成虚构生物并拍成照片。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "把花瓣、枝叶作为角色构件，可以借姿态和轮廓让静止植物呈现生物般的性格。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "28bbffc433b80cef",
+      "url": "https://www.stashmedia.tv/postoffice-amsterdam-give-the-gift-of-closeness-for-swiss-brands-united/",
+      "title": "Postoffice Amsterdam “Give the Gift of Closeness” for Swiss Brands United",
+      "summary": "You could go a lifetime never hearing about an axolotl, but this holiday we got a pair, the adventurous one last week from ETC for Netflix, and today the heart-warming version from Postoffice Amsterdam for Swiss Brands United.",
+      "source": "Stash",
+      "category": "动态设计",
+      "image": "https://i.vimeocdn.com/video/2226952752-ae5042cec0821d4feeea6659d2164a4f1dad09abd3a653876dc178131cf236cd-d_1280?region=us",
+      "publishedAt": "2026-11-17T21:15:34+00:00",
+      "date": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "score": 75.3,
+      "images": [
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Swiss-Brands-United-22Give-the-Gift-of-Closeness22-ad-by-Duncan-Christie-Postoffice-Amsterdam-STASH-MAGAZINE4-2048x1025.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Swiss-Brands-United-22Give-the-Gift-of-Closeness22-ad-by-Duncan-Christie-Postoffice-Amsterdam-STASH-MAGAZINE5-2048x1025.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Swiss-Brands-United-22Give-the-Gift-of-Closeness22-ad-by-Duncan-Christie-Postoffice-Amsterdam-STASH-MAGAZINE-2048x1025.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Swiss-Brands-United-22Give-the-Gift-of-Closeness22-ad-by-Duncan-Christie-Postoffice-Amsterdam-STASH-MAGAZINE3-2048x1025.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/Swiss-Brands-United-22Give-the-Gift-of-Closeness22-ad-by-Duncan-Christie-Postoffice-Amsterdam-STASH-MAGAZINE2-2048x1025.jpg"
+        }
+      ],
+      "video": {
+        "provider": "vimeo",
+        "id": "1247239612",
+        "url": "https://player.vimeo.com/video/1247239612",
+        "thumbnail": "https://i.vimeocdn.com/video/2226952752-ae5042cec0821d4feeea6659d2164a4f1dad09abd3a653876dc178131cf236cd-d_1280?region=us",
+        "title": "Swiss Brands United - Oscar",
+        "author": "Postoffice Amsterdam",
+        "duration": 90,
+        "verifiedAt": "2026-11-18T00:58:46+00:00"
+      },
+      "videoGallery": [
+        "https://i.vimeocdn.com/video/2226952752-ae5042cec0821d4feeea6659d2164a4f1dad09abd3a653876dc178131cf236cd-d_1280?region=us"
+      ],
+      "titleZh": "节日短片用两栖动物表达亲近感",
+      "summaryZh": "阿姆斯特丹制作团队在品牌节日短片中塑造蝾螈角色，以角色关系传递亲近的情感。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，阿姆斯特丹制作团队在品牌节日短片中塑造蝾螈角色，以角色关系传递亲近的情感。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "角色比例、眼神和动作停顿可以共同建立观众对非人类角色的情感理解。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 22.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "7c7bdf4d9b239be8",
+      "url": "https://80.lv/articles/how-beamng-drive-brought-its-soft-body-physics-to-ps5/",
+      "title": "How BeamNG.drive Brought Its Soft-Body Physics to PS5",
+      "summary": "The BeamNG team discusses keeping BeamNG.drive's soft-body physics unchanged on PS5, explains how they optimized memory and performance for the console, and talks about rebuilding the UI and controls for gamepad",
+      "source": "80 Level",
+      "category": "游戏设计",
+      "image": "https://i.ytimg.com/vi/hT1lWQPu1IE/hqdefault.jpg",
+      "publishedAt": "2026-11-17T20:07:00+00:00",
+      "date": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "score": 78.5,
+      "images": [
+        {
+          "url": "https://cdn.80.lv/api/upload/content/da/6afcb27c5070f.jpg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/2e/6afcb290e7b1c.jpg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/2b/6afcb29dc09b0.jpg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/28/6afcb2b787128.jpg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/e5/6afcb2e89d251.jpg"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/11/6afcb2fcc349c.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "hT1lWQPu1IE",
+        "url": "https://www.youtube.com/embed/hT1lWQPu1IE",
+        "thumbnail": "https://i.ytimg.com/vi/hT1lWQPu1IE/hqdefault.jpg",
+        "title": "BeamNG.drive - PS5 Release Trailer",
+        "author": "BeamNG",
+        "duration": 0,
+        "verifiedAt": "2026-11-18T00:58:46+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/hT1lWQPu1IE/hqdefault.jpg"
+      ],
+      "titleZh": "软体物理驾驶游戏谈主机适配",
+      "summaryZh": "开发团队介绍把软体物理系统带到主机时的内存与性能优化，以及重新制作界面的过程。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，开发团队介绍把软体物理系统带到主机时的内存与性能优化，以及重新制作界面的过程。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "保持物理行为一致时，性能预算与输入方式需要同步调整，才能让新平台保留原有操作反馈。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 25.0,
+        "completeness": 9.5,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "c2ea4e3fe3c31d7c",
+      "url": "https://www.yankodesign.com/2026/11/17/page-keeper-holds-books-open-without-tying-up-your-hands/",
+      "title": "Page Keeper Holds Books Open Without Tying Up Your Hands",
+      "summary": "Page Keeper Holds Books Open Without Tying Up Your Hands When you need to step away from the book you’re currently reading, you need a bookmark to keep your place (unless you have a",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/11/page-keeper-holds-books-open-without-tying-up-your-hands/page-keeper-08.jpg",
+      "publishedAt": "2026-11-17T19:50:38+00:00",
+      "date": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "score": 62.2,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/page-keeper-holds-books-open-without-tying-up-your-hands/page-keeper-08.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/page-keeper-holds-books-open-without-tying-up-your-hands/page-keeper-07.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/page-keeper-holds-books-open-without-tying-up-your-hands/page-keeper-01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/page-keeper-holds-books-open-without-tying-up-your-hands/page-keeper-09.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/page-keeper-holds-books-open-without-tying-up-your-hands/page-keeper-02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/page-keeper-holds-books-open-without-tying-up-your-hands/page-keeper-05.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/page-keeper-holds-books-open-without-tying-up-your-hands/page-keeper-010.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/page-keeper-holds-books-open-without-tying-up-your-hands/page-keeper-03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/page-keeper-holds-books-open-without-tying-up-your-hands/page-keeper-04.jpg"
+        }
+      ],
+      "titleZh": "阅读夹把书页固定在打开的位置",
+      "summaryZh": "产品利用固定结构保持书本展开，让读者在阅读间隙腾出双手。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，产品利用固定结构保持书本展开，让读者在阅读间隙腾出双手。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "夹持结构需要兼顾不同厚度的纸张和书脊，接触位置也会影响正文是否被遮挡。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "ae7356b05b1209a2",
+      "url": "https://www.designboom.com/technology/simulated-moon-dust-3d-printed-bricks-lunar-homes/",
+      "title": "researchers turn simulated moon dust into 3D-printed bricks for future lunar homes",
+      "summary": "a 3D printing method fuses simulated moon dust into bricks without adhesives, opening possibilities for construction with lunar",
+      "source": "designboom",
+      "category": "建筑设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/3D-printed-moon-dust-blocks-lunar-regolith-simulant-designboom-01.jpg",
+      "publishedAt": "2026-11-17T19:25:50+00:00",
+      "date": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "score": 71.4,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/3D-printed-moon-dust-blocks-lunar-regolith-simulant-designboom-1800.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/3D-printed-moon-dust-blocks-lunar-regolith-simulant-designboom-01.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/3D-printed-moon-dust-blocks-lunar-regolith-simulant-designboom-02.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/3D-printed-moon-dust-blocks-lunar-regolith-simulant-designboom-03.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/3D-printed-moon-dust-blocks-lunar-regolith-simulant-designboom-04.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/3D-printed-moon-dust-blocks-lunar-regolith-simulant-designboom-05.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/3D-printed-moon-dust-blocks-lunar-regolith-simulant-designboom-06a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/3D-printed-moon-dust-blocks-lunar-regolith-simulant-designboom-07.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/3D-printed-moon-dust-blocks-lunar-regolith-simulant-designboom-08a.jpg"
+        }
+      ],
+      "titleZh": "模拟月壤不用胶黏剂打印成砖",
+      "summaryZh": "研究者以模拟月壤开展三维打印实验，通过材料熔合形成砖块，探索未来月面建造方法。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，研究者以模拟月壤开展三维打印实验，通过材料熔合形成砖块，探索未来月面建造方法。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "这是面向特殊环境的材料研究，实际建造还需验证能源需求、结构耐久和环境适应性。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "fcbd06541bdef582",
+      "url": "https://design-milk.com/lindye-galloway-dana-point-home/",
+      "title": "Lindye Galloway Brings Intimacy to a 10,000-Square-Foot Home",
+      "summary": "In Dana Point, California, the interior designer uses natural materials, layered textures, and sculptural furnishings to create a warm, inviting family",
+      "source": "Design Milk",
+      "category": "空间设计",
+      "image": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-46.jpg",
+      "publishedAt": "2026-11-17T19:10:32+00:00",
+      "date": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "score": 71.3,
+      "images": [
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-46.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-1.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-4.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-6.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-9.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-11.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-13.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-22.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-32.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-33.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-36.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-37.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-44.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-45.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-47.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-49.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-51.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-56.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-58.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-62.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-64.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-67.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-68.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-72.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-84.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-85.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-91.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-95.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-103.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/dana-point-lindye-galloway-112.jpg"
+        }
+      ],
+      "titleZh": "大面积住宅以天然材料营造亲密尺度",
+      "summaryZh": "设计师在加利福尼亚一处大型住宅里组合天然材料、层次纹理和雕塑感家具。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，设计师在加利福尼亚一处大型住宅里组合天然材料、层次纹理和雕塑感家具。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "较大的室内可用家具组团和材质变化划出停留区域，让不同活动获得合适的空间尺度。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "b053db3aeb217dad",
+      "url": "https://thedieline.com/turner-duckworth-londons-makers-mark-update-celebrates-the-brands-wax-dipped-handmade-tradition/",
+      "title": "Turner Duckworth London’s Maker’s Mark Update Celebrates the Brand’s Wax-Dipped Handmade Tradition",
+      "summary": "The Maker's Mark visual identity gets a global refresh by Turner Duckworth London, that leans into the brand's tradition of hand-dipping bottles into red",
+      "source": "Dieline",
+      "category": "视觉设计",
+      "image": "https://thedieline.com/wp-content/uploads/2026/11/4.-Makers-Mark-bottle-dipping-1.jpg",
+      "publishedAt": "2026-11-17T18:35:54+00:00",
+      "date": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "score": 56.3,
+      "images": [
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/11/5.-Makers-Mark-bottle-dipping-2.jpg?w=2048&quality=70&ssl=1"
+        }
+      ],
+      "titleZh": "威士忌品牌用蜡封工艺更新全球形象",
+      "summaryZh": "设计团队更新品牌视觉识别，将手工浸蜡的红色瓶口传统作为表达重点。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，设计团队更新品牌视觉识别，将手工浸蜡的红色瓶口传统作为表达重点。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "已有制造工艺可成为贯穿包装与传播的视觉线索，帮助新识别延续消费者熟悉的特征。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 3.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "96ddf0326b37a8b4",
+      "url": "https://www.dezeen.com/2026/11/17/perron-kitchen-interior-renovation-quebec-canada/",
+      "title": "Perron shapes Quebec kitchen around tea collection",
+      "summary": "A dedicated space for preparing tea has been placed at the heart of this Canadian house's renovated kitchen, designed by local studio",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_sq1-1024x1024.jpg",
+      "publishedAt": "2026-11-17T18:00:00+00:00",
+      "date": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "score": 71.2,
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_hero1-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_7-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_18.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_19.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_17-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_15-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_11-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_12-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_13-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_3-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_16-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_4-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_5-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_2-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_6-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_10-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_9-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_1-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-teahouse_perron_dezeen_2364_col_0-scaled.jpg"
+        }
+      ],
+      "titleZh": "魁北克厨房以泡茶空间为中心",
+      "summaryZh": "加拿大住宅的厨房改造把专门准备茶饮的位置放在布局核心。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，加拿大住宅的厨房改造把专门准备茶饮的位置放在布局核心。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "围绕具体生活习惯布置厨房，可以使常用器具、储存和操作台之间形成更短的路径。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "223aebb8513457c2",
+      "url": "https://www.archdaily.com/1188795/cabeceiras-do-aricanduva-municipal-natural-park-natureza-urbana",
+      "title": "Cabeceiras do Aricanduva Municipal Natural Park / Natureza Urbana",
+      "summary": "Located in Cidade Tiradentes, in the eastern zone of São Paulo, the Nascentes Hub of the Cabeceiras do Aricanduva Municipal Natural Park spans an area of approximately 96,000 m², featuring remnants of the Atlantic Forest and the headwaters of the Aricanduva River basin. Developed by Natureza Urbana in partnership with the…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f393/medium_jpg/DSCF5823-Editar-copiar.jpg?1794806787",
+      "publishedAt": "2026-11-17T17:00:00+00:00",
+      "date": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "score": 71.4,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f395/thumb_jpg/DSCF5858-Editar-copiar.jpg?1794806786"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93c9/eabd/2a00/0192/f38a/thumb_jpg/DJI_20260424074013_0038_D.jpg?1794806788"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f398/thumb_jpg/DSCF6218.jpg?1794806820"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93c9/eabd/2a00/0192/f392/thumb_jpg/DSCF5519-Editar_copiar.jpg?1794806768"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f393/medium_jpg/DSCF5823-Editar-copiar.jpg?1794806787"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f394/medium_jpg/DSCF5844-Pano-Editar-copiar.jpg?1794806758"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f396/medium_jpg/DSCF6013-Editar.jpg?1794806789"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f397/medium_jpg/DSCF6106.jpg?1794806807"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f399/medium_jpg/DSCF6374.jpg?1794806786"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f39a/medium_jpg/DSCF6447.jpg?1794806804"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f39b/medium_jpg/DSCF6676-Editar.jpg?1794806840"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f39d/medium_jpg/DSCF7188-Editar.jpg?1794806859"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f39e/medium_jpg/DSCF7205.jpg?1794806877"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f39f/medium_jpg/DSCF7223.jpg?1794806809"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93c9/eabd/2a00/0192/f391/medium_jpg/DSCF5368-Pano-Editar.jpg?1794806754"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f39c/medium_jpg/DSCF6886.jpg?1794806791"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93c9/eabd/2a00/0192/f390/medium_jpg/DJI_20260424165303_0172_D.jpg?1794806750"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93c9/eabd/2a00/0192/f38f/medium_jpg/DJI_20260424161947_0162_D.jpg?1794806752"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93c9/eabd/2a00/0192/f38e/medium_jpg/DJI_20260424142456_0141_D.jpg?1794806752"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93c9/eabd/2a00/0192/f38c/medium_jpg/DJI_20260424141159_0118_D-Editar.jpg?1794806823"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93c9/eabd/2a00/0192/f38d/medium_jpg/DJI_20260424141834_0128_D.jpg?1794806753"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93c9/eabd/2a00/0192/f38b/medium_jpg/DJI_20260424095940_0074_D.jpg?1794806806"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f3a0/medium_jpg/DSCF7289-Panor_mica-HDR.jpg?1794806842"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93c9/eabd/2a00/0192/f388/medium_jpg/DSCF7331-Panor_mica-HDR.jpg?1794806758"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93c9/eabd/2a00/0192/f389/medium_jpg/DSCF7331-Panor_mica-HDR.jpg?1794806758"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f3a1/medium_jpg/88-A4-localizacao.jpg?1794806865"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f3a2/medium_jpg/088-IMP.jpg?1794806908"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f3a3/medium_jpg/088-PLANTA.jpg?1794806846"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f3a4/medium_jpg/088-CORTE-c.jpg?1794806887"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afa/93ca/eabd/2a00/0192/f3a5/medium_jpg/088-AXO.jpg?1794806922"
+        }
+      ],
+      "titleZh": "圣保罗自然公园在城市东部组织公共活动",
+      "summaryZh": "公园项目在城市东部的自然区域布置面向公众的设施，联系城市使用与自然环境。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，公园项目在城市东部的自然区域布置面向公众的设施，联系城市使用与自然环境。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "公共设施的落点和步行路线会影响访客对自然空间的接近方式，也需要兼顾生态维护。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "6113e79f27be98df",
+      "url": "https://www.designboom.com/architecture/1970s-athens-office-hybrid-home-gallery-central-exhibition-void-oblique-astral-weeks/",
+      "title": "1970s athens office converts into hybrid home-gallery around central exhibition void",
+      "summary": "oblique converts a 139-sqm office unit into astral weeks, a live-exhibition space organized around a raised perimeter service platform with sliding partitions and a column-free central gallery",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/460547/2025-03-22/astral-weeks-transformation-of-an-industrial-space-into-a-flat-exhibition-space-ceb1thens-139mc2b2-2022-23-4-67deab08d2c1f.jpg",
+      "publishedAt": "2026-11-17T16:55:56+00:00",
+      "date": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "score": 71.4,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/athens-oblique-1970s-office-astral-weeks-exhibition-home-designboom-1800-1.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/460547/2025-03-22/astral-weeks-transformation-of-an-industrial-space-into-a-flat-exhibition-space-ceb1thens-139mc2b2-2022-23-4-67deab08d2c1f.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/460547/2025-03-22/astral-weeks-transformation-of-an-industrial-space-into-a-flat-exhibition-space-ceb1thens-139mc2b2-2022-23-5-67deab08d2c5b.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/460547/2025-03-22/astral-weeks-transformation-of-an-industrial-space-into-a-flat-exhibition-space-ceb1thens-139mc2b2-2022-23-1-67deab08d2ae2.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/460547/2025-03-22/astral-weeks-transformation-of-an-industrial-space-into-a-flat-exhibition-space-ceb1thens-139mc2b2-2022-23-2-67deab08d2b89.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/460547/2025-03-22/astral-weeks-transformation-of-an-industrial-space-into-a-flat-exhibition-space-ceb1thens-139mc2b2-2022-23-3-67deab08d2bd4.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/athens-oblique-1970s-office-astral-weeks-exhibition-home-designboom-1800-2.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/460547/2025-03-22/astral-weeks-transformation-of-an-industrial-space-into-a-flat-exhibition-space-ceb1thens-139mc2b2-2022-23-7-67deab08d2d13.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/460547/2025-03-22/astral-weeks-transformation-of-an-industrial-space-into-a-flat-exhibition-space-ceb1thens-139mc2b2-2022-23-8-67deab08d2d52.gif"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/460547/2025-03-22/astral-weeks-transformation-of-an-industrial-space-into-a-flat-exhibition-space-ceb1thens-139mc2b2-2022-23-10-67deab08d2dc5.gif"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/athens-oblique-1970s-office-astral-weeks-exhibition-home-designboom-1800-3.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/460547/2025-03-22/astral-weeks-transformation-of-an-industrial-space-into-a-flat-exhibition-space-ceb1thens-139mc2b2-2022-23-6-67deab08d2cc9.gif"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/460547/2025-03-22/astral-weeks-transformation-of-an-industrial-space-into-a-flat-exhibition-space-ceb1thens-139mc2b2-2022-23-9-67deab08d2d8a.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/athens-oblique-1970s-office-astral-weeks-exhibition-home-designboom-10.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/athens-oblique-1970s-office-astral-weeks-exhibition-home-designboom-11.jpg"
+        }
+      ],
+      "titleZh": "雅典旧办公室变成住宅与展厅",
+      "summaryZh": "改造将一百三十九平方米办公室变为居住和展览混合空间，以周边抬高平台和滑动隔断围合中央展厅。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，改造将一百三十九平方米办公室变为居住和展览混合空间，以周边抬高平台和滑动隔断围合中央展厅。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "服务功能集中到周边后，中央空间可获得更自由的布展与活动方式。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "d2d324ea4e66787c",
+      "url": "https://www.core77.com/posts/145922/Recycled-Plastic-3D-Printed-Into-Public-Outdoor-Gym-Equipment",
+      "title": "Recycled Plastic, 3D-Printed Into Public Outdoor Gym Equipment",
+      "summary": "These outdoor Gym Elements are by The New Raw , a Rotterdam-based design/fabrication studio. They comprise an outdoor gym placed along the Yellow Carpet, a 5km walking and running loop weaving through Rotterdam. Gym Elements is a series of outdoor fitness objects conceived as permanent sculptural interventions within the public…",
+      "source": "Core77",
+      "category": "工业设计",
+      "image": "https://s3files.core77.com/blog/images/1857276_81_145922_okeBfJWoA.jpg",
+      "publishedAt": "2026-11-17T16:00:00+00:00",
+      "date": "2026-11-18",
+      "firstSeen": "2026-11-18",
+      "score": 71.3,
+      "images": [
+        {
+          "url": "https://s3files.core77.com/blog/images/1857276_81_145922_okeBfJWoA.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857277_81_145922_xuPF2G_gK.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857286_81_145922_lglShcGmW.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857282_81_145922_LU_QA3Mxm.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857284_81_145922_7YofxLrd8.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857288_81_145922_v2yQmD3HN.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857290_81_145922_UOCBLU_dy.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857289_81_145922_QKwZmug4j.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857291_81_145922_pmoLDsap7.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857296_81_145922_G7MlTTHhT.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857300_81_145922_v2oolJfGu.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857297_81_145922_HcR8o0Hm7.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857298_81_145922_B9qoxht0l.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857305_81_145922_ZAV69rLht.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857304_81_145922_aChVaqRqX.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857299_81_145922_wGRbtW8mR.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857309_81_145922_nlGxQhq2p.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857310_81_145922_BCJCoIKSG.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857311_81_145922_RzA06onTG.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857308_81_145922_TNPmwSUD5.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857313_81_145922_4WYZlnesu.jpg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857317_81_145922_uQxo62L3W.jpg"
+        }
+      ],
+      "titleZh": "再生塑料打印成公共户外健身器械",
+      "summaryZh": "鹿特丹工作室以再生塑料打印健身构件，将其设置在步行与跑步路线沿途。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，鹿特丹工作室以再生塑料打印健身构件，将其设置在步行与跑步路线沿途。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "把器械放入连续的公共运动路线，可以让短暂停留和完整锻炼共用同一套设施。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 20.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "d30ee1385505a031",
+      "url": "https://motionographer.com/news/woodwork-amsterdam-visual-valley-immersive-storytelling-label/",
+      "title": "Woodwork Amsterdam Launches Visual Valley, an Immersive Storytelling Label",
+      "summary": "The Amsterdam studio brings its immersive work for museums, venues and brands under a dedicated label, with narrative at the center of the",
+      "source": "Motionographer",
+      "category": "动态设计",
+      "image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/11/visual-valley-press-release-01-original.jpg?fit=700%2C467&ssl=1",
+      "publishedAt": "2026-11-17T15:46:29+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 51.4,
+      "images": [
+        {
+          "url": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/11/visual-valley-press-release-01-original.jpg?w=1920&ssl=1"
+        }
+      ],
+      "titleZh": "阿姆斯特丹工作室以叙事统筹沉浸体验",
+      "summaryZh": "制作团队将面向博物馆、场馆和品牌的沉浸项目汇集到专门厂牌，并把故事放在工作核心。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，制作团队将面向博物馆、场馆和品牌的沉浸项目汇集到专门厂牌，并把故事放在工作核心。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "沉浸空间中的内容顺序需要考虑观众自由移动，叙事线索可通过多个视点被逐步理解。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "cf022edd207bbbd0",
+      "url": "https://www.dezeen.com/2026/11/17/som-30-street-station-philadelphia-restoration/",
+      "title": "SOM completes first phase of Philadelphia train station restoration",
+      "summary": "SOM has completed the first phase of the renovation of the William H Gray III 30th Street Station in Philadelphia, USA \"breathing new life\" into the 1930s beaux arts main train",
+      "source": "Dezeen",
+      "category": "建筑设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/30-street-station-som-philadelphia_dezeen_2364_sq-1024x1024.jpg",
+      "publishedAt": "2026-11-17T15:08:12+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 57.2,
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/30-street-station-som-philadelphia_dezeen_2364_hero-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/30-street-station-som-philadelphia_dezeen_2364_col_1-1536x1015.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/30-street-station-som-philadelphia_dezeen_2364_col_2-1536x996.jpg"
+        }
+      ],
+      "titleZh": "费城火车站完成首阶段修复",
+      "summaryZh": "建筑团队完成费城一座上世纪三十年代铁路车站的第一阶段更新。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，建筑团队完成费城一座上世纪三十年代铁路车站的第一阶段更新。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "历史交通设施的修复同时面对日常客流和保护要求，施工阶段安排关系到持续使用。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 9.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "dca2058efb12eb7f",
+      "url": "https://www.archdaily.com/1188802/madre-culebra-cabin-taller-viga-maestra",
+      "title": "Madre Culebra Cabin / Taller Viga Maestra",
+      "summary": "In a clearing of the native forest of the Las Trancas Valley, at the foot of the Andes Mountains, the Madre Culebra Refuge is installed, seeking to occupy the territory with the least possible alteration. Surrounded by trees and facing the extreme conditions of the mountains, the house is conceived as a vertical, compact, and…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6afc/673f/eabd/2a00/0192/faf2/medium_jpg/07_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926448",
+      "publishedAt": "2026-11-17T15:00:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 66.2,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/6740/eabd/2a00/0192/fafb/thumb_jpg/16_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926687"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/6740/eabd/2a00/0192/faf8/thumb_jpg/13_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926644"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/6740/eabd/2a00/0192/faf7/thumb_jpg/12_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926829"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/673f/eabd/2a00/0192/faee/thumb_jpg/03_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926436"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/673f/eabd/2a00/0192/faf2/medium_jpg/07_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926448"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/673e/eabd/2a00/0192/faed/medium_jpg/02_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926443"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/673f/eabd/2a00/0192/faf0/medium_jpg/05_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926446"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/673f/eabd/2a00/0192/faf1/medium_jpg/06_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926447"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/6740/eabd/2a00/0192/faf4/medium_jpg/09_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926447"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/6740/eabd/2a00/0192/faf9/medium_jpg/14_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926547"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/6740/eabd/2a00/0192/fafa/medium_jpg/15_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926599"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/6740/eabd/2a00/0192/fafd/medium_jpg/18_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926452"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/6740/eabd/2a00/0192/fafe/medium_jpg/19_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926503"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/6740/eabd/2a00/0192/fb01/medium_jpg/22_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926452"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/6740/eabd/2a00/0192/fb02/medium_jpg/23_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926446"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/6740/eabd/2a00/0192/fb03/medium_jpg/24_Refugio_Madre_Culebra_Foto_Pablo_Blanco.jpg?1794926510"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/d048/8074/f464/a9f9/39d9/medium_jpg/p1-refugio-madre-culebra-result-30.jpg?1794953302"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/d04a/8074/f464/a9f9/39de/medium_jpg/p3-refugio-madre-culebra-result-32.jpg?1794953305"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/d04a/8074/f44b/74a0/5e94/medium_jpg/p2-refugio-madre-culebra-result-31.jpg?1794953326"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/d049/8074/f464/a9f9/39db/medium_jpg/p4-refugio-madre-culebra-result-33.jpg?1794953303"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/d04b/8074/f464/a9f9/39e0/medium_jpg/c3-refugio-madre-culebra-result-28.jpg?1794953309"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/d048/c23f/1f52/896d/79b6/medium_jpg/c1-refugio-madre-culebra-result-26.jpg?1794953300"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/d048/c23f/1f52/896d/79b5/medium_jpg/c2-refugio-madre-culebra-result-27.jpg?1794953315"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/d04a/c23f/1f52/896d/79b9/medium_jpg/a3-refugio-madre-culebra-result-22.jpg?1794953299"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/d048/8074/f464/a9f9/39da/medium_jpg/a1-refugio-madre-culebra-result-20.jpg?1794953320"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/d04a/c23f/1f52/896d/79b8/medium_jpg/a2-refugio-madre-culebra-result-21.jpg?1794953302"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/d04a/c23f/1f29/a086/dfe7/medium_jpg/a5-refugio-madre-culebra-result-24.jpg?1794953302"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/d04a/8074/f464/a9f9/39df/medium_jpg/a6-refugio-madre-culebra-result-25.jpg?1794953304"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/d04a/8074/f44d/d740/7c1d/medium_jpg/a4-refugio-madre-culebra-result-23.jpg?1794953297"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/d049/c23f/1f52/896d/79b7/medium_jpg/14-axonometria-2-refugio-madre-culebra-result-18.jpg?1794953316"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/d049/8074/f464/a9f9/39dc/medium_jpg/15-axonometrica-estructural-3-refugio-madre-culebra-result-19.jpg?1794953316"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/d04a/c23f/1f2a/1886/dfe6/medium_jpg/constructivo-refugio-madre-culebra-result-29.jpg?1794953317"
+        }
+      ],
+      "titleZh": "安第斯山麓林间小屋追求较小干预",
+      "summaryZh": "智利小屋位于原生树林的空地，设计以尽量减少对场地影响为出发点。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，智利小屋位于原生树林的空地，设计以尽量减少对场地影响为出发点。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "体量、基础与施工组织可以一起评估，以减少进入林地后带来的附加改动。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "87ac43863eda9f8c",
+      "url": "https://www.core77.com/posts/145919/A-Domestic-Robot-with-Novel-Mobility-Its-Suspended-from-Cables",
+      "title": "A Domestic Robot with Novel Mobility: It's Suspended from Cables",
+      "summary": "Designers of domestic robots must start with a big question: How does it get around? Does it have legs? Wheels? Does it fly? None of the above, figured North-Carolina-based engineer Nathaniel Nifong. His Stringman robot works like that Skycam system for sports arenas, where it's suspended from four motorized cables mounted .…",
+      "source": "Core77",
+      "category": "工业设计",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1857250_lead_400_145919_.jpg",
+      "publishedAt": "2026-11-17T14:00:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 64.4,
+      "images": [
+        {
+          "url": "https://s3files.core77.com/blog/images/1857253_81_145919_y2ayPKkIi.jpeg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857254_81_145919_J_cbzLUNM.jpeg"
+        },
+        {
+          "url": "https://s3files.core77.com/blog/images/1857252_81_145919_gqJKoSOkP.jpeg"
+        }
+      ],
+      "video": {
+        "provider": "file",
+        "id": "https://i.imgur.com/HKRME5u.mp4",
+        "url": "https://i.imgur.com/HKRME5u.mp4",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-11-18T00:58:46+00:00"
+      },
+      "titleZh": "家用机器人靠悬挂绳索移动",
+      "summaryZh": "工程师为家用机器人探索悬挂在绳索上的移动方式，替代常见的地面行走结构。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，工程师为家用机器人探索悬挂在绳索上的移动方式，替代常见的地面行走结构。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "这种方案把移动路径延伸到空中，落地时需要考虑锚点、覆盖范围以及对室内活动的影响。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 16.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "b160e13de84bb882",
+      "url": "https://80.lv/articles/this-free-blender-add-on-lets-you-generate-scatter-animate-fallen-leaves/",
+      "title": "This Free Blender Add-on Lets You Generate, Scatter & Animate Fallen Leaves",
+      "summary": "Guillaume Bissieres released a free Blender add-on that can help you create atmospheric fall scenes in no",
+      "source": "80 Level",
+      "category": "游戏设计",
+      "image": "https://cdn.80.lv/api/upload/content/af/6afc59082bc84.gif",
+      "publishedAt": "2026-11-17T13:48:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 54.2,
+      "images": [
+        {
+          "url": "https://cdn.80.lv/api/upload/content/af/6afc59082bc84.gif"
+        },
+        {
+          "url": "https://cdn.80.lv/api/upload/content/66/6afc596312d70.gif"
+        }
+      ],
+      "titleZh": "免费插件批量生成和动画化落叶",
+      "summaryZh": "开发者推出用于场景制作的落叶插件，支持生成、散布和运动。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，开发者推出用于场景制作的落叶插件，支持生成、散布和运动。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "可调的散布和运动规则可以帮助制作者在保持风格统一时，减少环境细节的重复劳动。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 6.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "cbb3fe209ecd3f1f",
+      "url": "https://80.lv/articles/free-ocarina-of-time-remake-style-ground-fog-in-godot/",
+      "title": "Free Ocarina Of Time Remake-Style Ground Fog In Godot",
+      "summary": "It's easy to use, cheap to run, and looks",
+      "source": "80 Level",
+      "category": "游戏设计",
+      "image": "https://i.ytimg.com/vi/2GxvYk9YeN4/hqdefault.jpg",
+      "publishedAt": "2026-11-17T13:11:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 58.2,
+      "images": [],
+      "video": {
+        "provider": "youtube",
+        "id": "2GxvYk9YeN4",
+        "url": "https://www.youtube.com/embed/2GxvYk9YeN4",
+        "thumbnail": "https://i.ytimg.com/vi/2GxvYk9YeN4/hqdefault.jpg",
+        "title": "Rendering Techniques - Zelda Style Cheap Ground Fog",
+        "author": "AtSaturn",
+        "duration": 0,
+        "verifiedAt": "2026-11-18T00:58:46+00:00"
+      },
+      "extraVideos": [
+        {
+          "provider": "youtube",
+          "id": "djSZdthD_wc",
+          "url": "https://www.youtube.com/embed/djSZdthD_wc",
+          "thumbnail": "https://i.ytimg.com/vi/djSZdthD_wc/hqdefault.jpg",
+          "title": "Link",
+          "author": "80 Level",
+          "duration": 0,
+          "verifiedAt": "2026-11-18T00:58:46+00:00"
+        }
+      ],
+      "videoGallery": [
+        "https://i.ytimg.com/vi/2GxvYk9YeN4/hqdefault.jpg",
+        "https://i.ytimg.com/vi/djSZdthD_wc/hqdefault.jpg"
+      ],
+      "titleZh": "在游戏引擎中实现贴地薄雾",
+      "summaryZh": "作者分享一套面向游戏引擎的地面雾效方案，强调较低的运行开销和使用便利。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，作者分享一套面向游戏引擎的地面雾效方案，强调较低的运行开销和使用便利。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "雾效可以加强场景层次，调节时仍需保证道路、障碍与交互物体可辨认。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 10.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "82759d5c7a8b6613",
+      "url": "https://www.artofvfx.com/how-framestore-used-virtual-production-for-project-hail-mary/",
+      "title": "How Framestore Used Virtual Production for Project Hail Mary",
+      "summary": "From immersive virtual environments to innovative camera technology, Framestore reveals how its extensive virtual production work helped directors Phil Lord and Christopher Miller bring the ambitious world of Project Hail Mary to life. What began as a six-week visualisation assignment evolved into a year-long collaboration at…",
+      "source": "Art of VFX",
+      "category": "动态设计",
+      "image": "https://i.ytimg.com/vi/g62roy_1p-c/hqdefault.jpg",
+      "publishedAt": "2026-11-17T13:00:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 58.2,
+      "images": [],
+      "video": {
+        "provider": "youtube",
+        "id": "g62roy_1p-c",
+        "url": "https://www.youtube.com/embed/g62roy_1p-c",
+        "thumbnail": "https://i.ytimg.com/vi/g62roy_1p-c/hqdefault.jpg",
+        "title": "Project Hail Mary Virtual Production Breakdown | Framestore",
+        "author": "Framestore",
+        "duration": 0,
+        "verifiedAt": "2026-11-18T00:58:46+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/g62roy_1p-c/hqdefault.jpg"
+      ],
+      "titleZh": "视效团队拆解太空电影的虚拟制作",
+      "summaryZh": "团队介绍虚拟环境与摄影技术如何参与太空题材电影的制作。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，团队介绍虚拟环境与摄影技术如何参与太空题材电影的制作。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "虚拟环境可以让拍摄团队更早看到空间关系，方便共同判断镜头位置和演员表演范围。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 10.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "a8ad82e80792f698",
+      "url": "https://www.archdaily.com/1188792/restoration-of-the-picote-engineers-houses-and-gardens-cannata-and-fernandes",
+      "title": "Restoration of the Picote Engineers' Houses and Gardens / Cannatà & Fernandes",
+      "summary": "The Picote engineers' houses, built between 1954 and 1957, were designed by the young architect Manuel Nunes de Almeida (1924-2014) within the Projects Office of the Hidroeléctrica do Douro (HED) company. They are situated at an intermediate level between the Pousada building and the housing complex for specialized",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6af7/0e2d/eabd/2a00/0192/e47a/medium_jpg/01_Casa_dos_Engenheiros_by_Jo_o_Ferrand_2.jpg?1794575937",
+      "publishedAt": "2026-11-17T13:00:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 66.3,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2d/eabd/2a00/0192/e47c/thumb_jpg/01_Casa_dos_Engenheiros_by_Jo_o_Ferrand_3.jpg?1794575955"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2f/eabd/2a00/0192/e485/thumb_jpg/14_Casa_dos_Engenheiros_by_Jo_o_Ferrand.jpg?1794575967"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2f/eabd/2a00/0192/e487/thumb_jpg/20_Casa_dos_Engenheiros_by_Jo_o_Ferrand.jpg?1794575963"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2e/eabd/2a00/0192/e481/thumb_jpg/04_Casa_dos_Engenheiros_by_Jo_o_Ferrand.jpg?1794575947"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2d/eabd/2a00/0192/e47a/medium_jpg/01_Casa_dos_Engenheiros_by_Jo_o_Ferrand_2.jpg?1794575937"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2d/eabd/2a00/0192/e47d/medium_jpg/01_Casa_dos_Engenheiros_by_Jo_o_Ferrand.jpg?1794575953"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2d/eabd/2a00/0192/e47b/medium_jpg/01_Casa_dos_Engenheiros_by_Jo_o_Ferrand_2.jpg?1794575937"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2e/eabd/2a00/0192/e47f/medium_jpg/02_Casa_dos_Engenheiros_by_Jo_o_Ferrand.jpg?1794575946"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2e/eabd/2a00/0192/e47e/medium_jpg/02_Casa_dos_Engenheiros_by_Jo_o_Ferrand_2.jpg?1794575942"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2e/eabd/2a00/0192/e480/medium_jpg/04_Casa_dos_Engenheiros_by_Jo_o_Ferrand_2.jpg?1794575972"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2e/eabd/2a00/0192/e482/medium_jpg/09_Casa_dos_Engenheiros_by_Jo_o_Ferrand_2.jpg?1794575959"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2f/eabd/2a00/0192/e483/medium_jpg/11_Casa_dos_Engenheiros_by_Jo_o_Ferrand.jpg?1794575973"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2f/eabd/2a00/0192/e484/medium_jpg/14_Casa_dos_Engenheiros_by_Jo_o_Ferrand_2.jpg?1794575945"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2f/eabd/2a00/0192/e486/medium_jpg/16_Casa_dos_Engenheiros_by_Jo_o_Ferrand.jpg?1794575969"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2f/eabd/2a00/0192/e488/medium_jpg/173_Casa_dos_Engenheiros_by_Alv_o_1957.jpg?1794576143"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2f/eabd/2a00/0192/e489/medium_jpg/01_Implanta__o.jpg?1794576049"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2f/eabd/2a00/0192/e48a/medium_jpg/02_Jardins.jpg?1794576022"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/99da/8074/f464/a9f9/3893/medium_jpg/restauro-de-vivendas-dos-engenheiros-de-picote-e-jardins-cannata-and-fernandes_16.jpg?1794939965"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/9aea/8074/f464/a9f9/389c/medium_jpg/38faf175-297a-417c-9635-2fdbef1baf86-1-201-a-16.jpg?1794939664"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/9a8f/c23f/1f52/896d/787f/medium_jpg/04-habita-es-pd13-16.jpg?1794939647"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/99dd/8074/f464/a9f9/3894/medium_jpg/restauro-de-vivendas-dos-engenheiros-de-picote-e-jardins-cannata-and-fernandes_17.jpg?1794940085"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6afc/9a56/8074/f464/a9f9/389a/medium_jpg/5557aa18-8ff9-40a7-b7c4-8576820789da-1-201-a-16.jpg?1794939499"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af7/0e2f/eabd/2a00/0192/e490/medium_jpg/08_Detalhe_Construtivo.jpg?1794576208"
+        }
+      ],
+      "titleZh": "葡萄牙工程师住宅及花园修复",
+      "summaryZh": "修复项目面向建于上世纪五十年代的工程师住宅与花园，重新关注原有建筑与景观关系。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，修复项目面向建于上世纪五十年代的工程师住宅与花园，重新关注原有建筑与景观关系。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "将花园与住宅一起维护，可以保留从入口、庭院到室内逐步变化的生活空间。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "eb116e5b9eb148be",
+      "url": "https://www.archdaily.com/1034577/anchorage-road-artist-studio-ballman-khapalova",
+      "title": "Anchorage Road Artist Studio / Ballman Khapalova",
+      "summary": "The Anchorage Road Artist Studio is a 680-square-foot painting studio and office for artist Natasha Sweeten. The goal was to create an economical and efficient building that opened up to north and south light for different tasks, in turn maximizing connection to the surrounding landscape and creating a private, protected space…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/68da/c5fe/dfc9/5e13/0554/444e/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_2.jpg?1759168053",
+      "publishedAt": "2026-11-17T12:00:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 66.2,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c606/9dfd/ad11/ca31/a542/thumb_jpg/anchorage-road-artist-studio-ballman-khapalova_14.jpg?1759168052"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c600/dfc9/5e13/0554/4450/thumb_jpg/anchorage-road-artist-studio-ballman-khapalova_4.jpg?1759168055"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c607/dfc9/5e13/0554/4457/thumb_jpg/anchorage-road-artist-studio-ballman-khapalova_12.jpg?1759168059"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c608/dfc9/5e13/0554/4458/thumb_jpg/anchorage-road-artist-studio-ballman-khapalova_20.jpg?1759168064"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c5fe/dfc9/5e13/0554/444e/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_2.jpg?1759168053"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c5fd/9dfd/ad11/ca31/a53a/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_1.jpg?1759168052"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c600/9dfd/ad11/ca31/a53b/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_3.jpg?1759168057"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c5ff/dfc9/5e13/0554/444f/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_6.jpg?1759168053"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c602/dfc9/5e13/0554/4452/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_11.jpg?1759168049"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c601/dfc9/5e13/0554/4451/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_9.jpg?1759168057"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c602/dfc9/5e13/0554/4453/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_8.jpg?1759168056"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c600/9dfd/ad11/ca31/a53c/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_5.jpg?1759168056"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c601/9dfd/ad11/ca31/a53d/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_7.jpg?1759168056"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c604/9dfd/ad11/ca31/a540/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_10.jpg?1759168116"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c608/9dfd/ad11/ca31/a545/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_18.jpg?1759168069"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c604/dfc9/5e13/0554/4454/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_15.jpg?1759168059"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c608/9dfd/ad11/ca31/a544/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_16.jpg?1759168070"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c604/dfc9/5e13/0554/4456/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_17.jpg?1759168066"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c604/9dfd/ad11/ca31/a53f/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_21.jpg?1759168060"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c606/9dfd/ad11/ca31/a541/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_23.jpg?1759168061"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c607/9dfd/ad11/ca31/a543/medium_jpg/anchorage-road-artist-studio-ballman-khapalova_22.jpg?1759168063"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c5f4/9dfd/ad11/ca31/a538/medium_jpg/110216-full-5301-7-110216-sc-v2com-1.jpg?1759167999"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/68da/c5f4/9dfd/ad11/ca31/a539/medium_jpg/110217-full-5301-7-110217-sc-v2com-2.jpg?1759168010"
+        }
+      ],
+      "titleZh": "小型工作室服务绘画与日常办公",
+      "summaryZh": "建筑团队为艺术家设计约六十三平方米的绘画工作室和办公空间。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，建筑团队为艺术家设计约六十三平方米的绘画工作室和办公空间。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "画作制作与行政工作对光线、储存和桌面的要求不同，紧凑项目可通过分区兼顾两者。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "24aebbfac4a4a48b",
+      "url": "https://www.designboom.com/art/ukrainian-artists-tree-of-life-mosaic-cop31/",
+      "title": "ukrainian artists reimagine historic tree of life mosaic with 5,000 reclaimed fragments",
+      "summary": "at COP31 in antalya, an interactive installation invites visitors to assemble a colorful artwork celebrating cultural memory, creativity and collective",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/ukrainian-artists-tree-of-life-mosaic-cop31-designboom-4.jpeg",
+      "publishedAt": "2026-11-17T11:50:47+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 66.3,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/ukrainian-artists-tree-of-life-mosaic-cop31-designboom-1.jpeg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/ukrainian-artists-tree-of-life-mosaic-cop31-designboom-4.jpeg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/ukrainian-artists-tree-of-life-mosaic-cop31-designboom-5.jpeg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/ukrainian-artists-tree-of-life-mosaic-cop31-designboom-14.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/ukrainian-artists-tree-of-life-mosaic-cop31-designboom-9.jpeg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/ukrainian-artists-tree-of-life-mosaic-cop31-designboom-16.jpeg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/ukrainian-artists-tree-of-life-mosaic-cop31-designboom-6.jpeg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/ukrainian-artists-tree-of-life-mosaic-cop31-designboom-19.jpeg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/ukrainian-artists-tree-of-life-mosaic-cop31-designboom-12.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/ukrainian-artists-tree-of-life-mosaic-cop31-designboom-13.jpeg"
+        }
+      ],
+      "titleZh": "五千块回收碎片重组生命树马赛克",
+      "summaryZh": "乌克兰艺术家用回收碎片重新解释历史马赛克，并邀请观众共同参与拼装。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，乌克兰艺术家用回收碎片重新解释历史马赛克，并邀请观众共同参与拼装。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "让观众参与构成图像，可以把文化记忆的传递变成实际行动，同时需要清晰的拼装引导。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "ed135704b6f4a2a7",
+      "url": "https://www.yankodesign.com/2026/11/17/clinks-bottle-opener-gets-a-curved-grip-without-custom-tooling/",
+      "title": "Clink’s Bottle Opener Gets a Curved Grip Without Custom Tooling",
+      "summary": "Clink’s Bottle Opener Gets a Curved Grip Without Custom Tooling There are things that we use for almost every day life that we don’t really think about their design. One of them are bottle",
+      "source": "Yanko Design",
+      "category": "工业设计",
+      "image": "https://www.yankodesign.com/images/design_news/2026/11/clinks-bottle-opener-gets-a-curved-grip-without-custom-tooling/clink-0.jpg",
+      "publishedAt": "2026-11-17T11:40:50+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 54.2,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/clinks-bottle-opener-gets-a-curved-grip-without-custom-tooling/clink-0.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/clinks-bottle-opener-gets-a-curved-grip-without-custom-tooling/clink-bottle-opener-02.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/clinks-bottle-opener-gets-a-curved-grip-without-custom-tooling/clink-bottle-opener-01.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/clinks-bottle-opener-gets-a-curved-grip-without-custom-tooling/clink-bottle-opener-03.jpg"
+        },
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2026/11/clinks-bottle-opener-gets-a-curved-grip-without-custom-tooling/clink-01.jpg"
+        }
+      ],
+      "titleZh": "开瓶器用曲面握持减少专用模具需求",
+      "summaryZh": "开瓶器方案探索以曲面提供握持感，并减少对定制成形模具的依赖。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，开瓶器方案探索以曲面提供握持感，并减少对定制成形模具的依赖。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "用通用制造工艺得到合适的接触面，能让小规模产品开发有更多可行路径。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 15.0,
+        "completeness": 9.2,
+        "source": 15.0
+      }
+    },
+    {
+      "id": "221fa579d2c1b35a",
+      "url": "https://www.dezeen.com/2026/11/17/ssdh-adaptation-warehouse-melbourne/",
+      "title": "SSdH \"renegotiates light\" in Melbourne warehouse transformation",
+      "summary": "A double-height glass atrium draws northern light into the open-plan interior of Tucker by Australian architecture practice",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_sq_0-1024x1024.jpg",
+      "publishedAt": "2026-11-17T11:30:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 66.2,
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_hero_01-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_0-1638x2048.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Tucker-SSdH-Drawings_dezeen_2364_col_0.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Tucker-SSdH-Drawings_dezeen_2364_col_5.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Tucker-SSdH-Drawings_dezeen_2364_col_3.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Tucker-SSdH-Drawings_dezeen_2364_col_4.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Tucker-SSdH-Drawings_dezeen_2364_col_1.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Tucker-SSdH-Drawings_dezeen_2364_col_2.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_1-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_2-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_3-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_4-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_5-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_6-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_7-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_8-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_9-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_11-1536x1129.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_19-1638x2048.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_23-1638x2048.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_25-1638x2048.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_10.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_12-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_13-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_14-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_15-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_16-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_17-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_18-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_20-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_21-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_22-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_24-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_26-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_27-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_28.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_29.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_30.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_31-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_32-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_33-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/SSdH-Tucker_dezeen_2364_col_34-scaled.jpg"
+        }
+      ],
+      "titleZh": "墨尔本仓库用通高玻璃中庭引入北光",
+      "summaryZh": "改造在仓库中加入双层高度的玻璃中庭，把北侧自然光带入开放室内。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，改造在仓库中加入双层高度的玻璃中庭，把北侧自然光带入开放室内。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "中庭兼有采光和空间定位作用，可帮助使用者理解原本进深较大的建筑。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "15e0a75c6e051e6b",
+      "url": "https://www.archdaily.com/1030123/north-boulder-library-workac",
+      "title": "North Boulder Library / WORKac",
+      "summary": "The Boulder Public Library issued an open Request for Proposal (RFP) in 2018 for a new branch library in North Boulder, a project the community had anticipated for over two decades. The RFP called for an \"iconic\" building, which many competitors interpreted as a visually striking design. However, WORKac www.work.ac - the…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6823/a1e0/5513/910e/326f/f811/medium_jpg/north-boulder-library-workac_6.jpg?1747165698",
+      "publishedAt": "2026-11-17T11:00:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 66.2,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1df/b24c/3801/a254/e08e/thumb_jpg/north-boulder-library-workac_7.jpg?1747165680"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1e0/b24c/3801/a254/e094/thumb_jpg/north-boulder-library-workac_10.jpg?1747165713"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1e0/b24c/3801/a254/e092/thumb_jpg/north-boulder-library-workac_8.jpg?1747165687"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1e0/5513/910e/326f/f812/thumb_jpg/north-boulder-library-workac_1.jpg?1747165686"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1e0/5513/910e/326f/f811/medium_jpg/north-boulder-library-workac_6.jpg?1747165698"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1e1/b24c/3801/a254/e098/medium_jpg/north-boulder-library-workac_4.jpg?1747165702"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1e1/5513/910e/326f/f815/medium_jpg/north-boulder-library-workac_5.jpg?1747165727"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1df/b24c/3801/a254/e08f/medium_jpg/north-boulder-library-workac_11.jpg?1747165696"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1e0/b24c/3801/a254/e093/medium_jpg/north-boulder-library-workac_9.jpg?1747165686"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1e1/b24c/3801/a254/e099/medium_jpg/north-boulder-library-workac_13.jpg?1747165723"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1e1/b24c/3801/a254/e096/medium_jpg/north-boulder-library-workac_15.jpg?1747165720"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1e1/b24c/3801/a254/e095/medium_jpg/north-boulder-library-workac_14.jpg?1747165687"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1e0/b24c/3801/a254/e091/medium_jpg/north-boulder-library-workac_16.jpg?1747165684"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1e1/5513/910e/326f/f816/medium_jpg/north-boulder-library-workac_17.jpg?1747165737"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1e1/b24c/3801/a254/e097/medium_jpg/north-boulder-library-workac_18.jpg?1747165686"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1e1/5513/910e/326f/f813/medium_jpg/north-boulder-library-workac_2.jpg?1747165703"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1e1/5513/910e/326f/f814/medium_jpg/north-boulder-library-workac_3.jpg?1747165705"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a1df/b24c/3801/a254/e090/medium_jpg/north-boulder-library-workac_12.jpg?1747165681"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a2d6/5513/910e/326f/f81a/medium_jpg/workac-north-boulder-library-dw-01-ground-floor-plan-with-legend-1.jpg?1747165924"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a2d6/5513/910e/326f/f817/medium_jpg/workac-north-boulder-library-dw-02-second-floor-plan-with-legend-3.jpg?1747165922"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a2d6/5513/910e/326f/f819/medium_jpg/workac-north-boulder-library-dw-03-section-5.jpg?1747165922"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a2d6/5513/910e/326f/f818/medium_jpg/workac-north-boulder-library-dw-04-cross-section-6.jpg?1747165921"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a2d6/b24c/3820/e63e/ec5c/medium_jpg/workac-north-boulder-library-dw-05-open-library-7.jpg?1747165937"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a2d6/b24c/3801/a254/e09a/medium_jpg/workac-north-boulder-library-dw-06-cross-section-8.jpg?1747165937"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a2d6/b24c/3820/e63e/ec5b/medium_jpg/workac-north-boulder-library-dw-07-north-elevation-9.jpg?1747165927"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a2d6/5513/910e/326f/f81b/medium_jpg/workac-north-boulder-library-dw-08-south-elevation-10.jpg?1747165935"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6823/a2d6/b24c/3820/293e/ec5c/medium_jpg/workac-north-boulder-library-dw-09-west-elevation-11.jpg?1747165924"
+        }
+      ],
+      "titleZh": "北博尔德图书馆从公开征集走向社区设施",
+      "summaryZh": "新图书馆项目源于公共图书馆对社区分馆的公开方案征集。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，新图书馆项目源于公共图书馆对社区分馆的公开方案征集。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "社区分馆的组织可以围绕不同年龄和停留时间安排，让借阅、自习与活动彼此协调。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "fe8c9629e4f449cb",
+      "url": "https://feeds.baymard.com/link/9825/17526172/health-and-beauty-ux-benchmark-2026",
+      "title": "Health & Beauty UX Benchmark: 6,000+ Performance Scores and 4,500+ Best Practice Examples",
+      "summary": "(Note: Unfortunately, e-mail and RSS don’t support advanced layouts and features. If the graphics in this article look strange, you may want to read the article in your web browser.) At Baymard, we’ve just released a new UX benchmark with 10 “Health & Beauty” UX case studies. This follows from our large-scale user testing of…",
+      "source": "Baymard Institute",
+      "category": "用户体验设计",
+      "image": "https://cdn.baymard.com/research/media_files/attachments/178566/original/research-media-file-c0a89ab5e06428099fbd204f6a4111fc.png",
+      "publishedAt": "2026-11-17T09:56:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 51.2,
+      "images": [
+        {
+          "url": "https://baymard-assets-cdn.imgix.net/research/media_files/attachments/178566/original/research-media-file-c0a89ab5e06428099fbd204f6a4111fc.png?auto=format&fit=max&q=50&w=1080"
+        }
+      ],
+      "titleZh": "健康美容电商基准整理购物体验案例",
+      "summaryZh": "研究机构发布健康与美容电商体验基准，汇集性能评分和实践案例。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，研究机构发布健康与美容电商体验基准，汇集性能评分和实践案例。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "跨站比较可以为设计评审提供参照，具体取舍仍要结合用户任务和商品信息需求。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 3.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "3b3ce663cd563201",
+      "url": "https://www.dezeen.com/2026/11/17/xinu-tokyo-esrawe-studio-cadena-concepts/",
+      "title": "Black timber elements traverse concrete fragrance store in Tokyo",
+      "summary": "Mexican design firms Esrawe Studio and Cadena Concepts fragmented the interior of this concrete building with angular black-timber displays for perfume brand",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts-sq_dezeen_2364_col_0-1024x1024.jpg",
+      "publishedAt": "2026-11-17T09:00:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 66.2,
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts-hero_dezeen_2364_col_1-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_8-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts-drawings_dezeen_2364_col_2.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts-drawings_dezeen_2364_col_4.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts-drawings_dezeen_2364_col_3.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts-drawings_dezeen_2364_col_0.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts-drawings_dezeen_2364_col_1.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_6-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_21-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_20-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_19-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_14-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_13-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_12-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_10-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_9.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_7.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_5-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_3-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_2-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_1-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_0.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/xinu-tokyo-esrawe-studio-cadena-concepts_dezeen_2364_col_11-scaled.jpg"
+        }
+      ],
+      "titleZh": "东京香氛店用黑色木构切分混凝土空间",
+      "summaryZh": "墨西哥设计团队在混凝土建筑内插入带棱角的黑色木构件，重新划分店内空间。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，墨西哥设计团队在混凝土建筑内插入带棱角的黑色木构件，重新划分店内空间。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "插入构件可以在保留原壳体的同时组织陈列、通行与停留。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "cbbfe8bf728d9270",
+      "url": "https://www.itsnicethat.com/articles/north-design-sainsbury-museum-and-art-centre-graphic-design-171126",
+      "title": "A 1970s architectural sketch and Otl Aicher inspire North Design’s new art centre brand mark",
+      "summary": "Drawing on Norman Foster’s original plans for The Sainsbury Museum and Art Centre, the studio shows the expressive potential of",
+      "source": "Its Nice That",
+      "category": "视觉设计",
+      "image": "https://admin.itsnicethat.com/images/h4hjlYoiBX1AnsWNTJ2EtOWUfA0=/284924/width-1440/North_Design_Sainsbury_Museum_and_Art_Centre_How_Do_We_Find_Love_1_zLq4nKe.jpg",
+      "publishedAt": "2026-11-17T09:00:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 66.3,
+      "images": [
+        {
+          "url": "https://m.itsnicethat.com/original_images/North_Design_Sainsbury_Museum_and_Art_Centre_How_Do_We_Find_Love_1_zLq4nKe.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/North_Design_Sainsbury_Museum_and_Art_Centre_How_Do_We_Find_Love_1.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/North_Design_Sainsbury_Museum_and_Art_Centre_tote_bag_2.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/North_Design_Sainsbury_Museum_and_Art_Centre_Art_Lives_Here_1.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Sainsbury_Museum_and_Art_Centre_entrance_with_graphics_mock-up.jpg?class=w1920"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Concept_sketch_of_the_then_Sainsbury_Centre_for_Visual_Arts_by_Norman_Fost.jpg?class=w1920"
+        }
+      ],
+      "titleZh": "艺术中心标志从旧建筑草图取材",
+      "summaryZh": "设计团队以建筑师的早期草图与现代主义设计为线索，更新艺术中心标志。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，设计团队以建筑师的早期草图与现代主义设计为线索，更新艺术中心标志。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "从建筑自身提取线条可让视觉识别与场馆产生联系，也方便形成不同尺寸的应用规则。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "91c9391a99e9e119",
+      "url": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+      "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+      "summary": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing…",
+      "source": "Smashing Magazine",
+      "category": "人工智能设计",
+      "image": null,
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 48.3,
+      "images": [],
+      "titleZh": "开发加速后，无障碍测试怎样跟上",
+      "summaryZh": "文章讨论生成式开发加快制作速度后，无障碍质量检查面临的节奏差距。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，文章讨论生成式开发加快制作速度后，无障碍质量检查面临的节奏差距。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "把检查融入组件与发布流程，可以让反馈及时进入下一轮修改，减少最终集中返工。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 0.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "18a23c09b8c1df35",
+      "url": "https://www.designboom.com/architecture/kato-taverna-roovice-1960s-tokyo-apartment-concrete-shell-50-sqm-renovation/",
+      "title": "kato taverna and ROOVICE strip 1960s tokyo apartment to concrete shell for 50-sqm renovation",
+      "summary": "the collaborative team organizes apartment’s living, sleeping, and wet zones with lauan plywood, a salvaged stainless-steel kitchen, and mortex",
+      "source": "designboom",
+      "category": "空间设计",
+      "image": "https://www.designboom.com/wp-content/dbsub/470571/2026-11-05/gakudai-apartment-by-kato-taverna-roovice-1-6aec3aa2ac1ba.jpg",
+      "publishedAt": "2026-11-17T07:15:22+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 73.2,
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/tokyo-gakudai-apartment-50-sqm-1960s-kato-taverna-roovice-designboom-1800-1.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470571/2026-11-05/gakudai-apartment-by-kato-taverna-roovice-1-6aec3aa2ac1ba.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470571/2026-11-05/gakudai-apartment-by-kato-taverna-roovice-2-6aec3aa2ac22d.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470571/2026-11-05/gakudai-apartment-by-kato-taverna-roovice-3-6aec3aa2ac273.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470571/2026-11-05/gakudai-apartment-by-kato-taverna-roovice-4-6aec3aa2ac2b3.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470571/2026-11-05/gakudai-apartment-by-kato-taverna-roovice-9-6aec3aa2ac411.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/tokyo-gakudai-apartment-50-sqm-1960s-kato-taverna-roovice-designboom-1800-2.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/470571/2026-11-05/gakudai-apartment-by-kato-taverna-roovice-10-6aec3aa2ac44e.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/tokyo-gakudai-apartment-50-sqm-1960s-kato-taverna-roovice-designboom-1800-3.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/tokyo-gakudai-apartment-50-sqm-1960s-kato-taverna-roovice-designboom-10.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/tokyo-gakudai-apartment-50-sqm-1960s-kato-taverna-roovice-designboom-14.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/tokyo-gakudai-apartment-50-sqm-1960s-kato-taverna-roovice-designboom-12.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/tokyo-gakudai-apartment-50-sqm-1960s-kato-taverna-roovice-designboom-13.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/tokyo-gakudai-apartment-50-sqm-1960s-kato-taverna-roovice-designboom-11.jpg"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/tokyo-gakudai-apartment-50-sqm-1960s-kato-taverna-roovice-designboom-15.jpg"
+        }
+      ],
+      "video": {
+        "provider": "youtube",
+        "id": "klsYFzMheiM",
+        "url": "https://www.youtube.com/embed/klsYFzMheiM",
+        "thumbnail": "https://i.ytimg.com/vi/klsYFzMheiM/hqdefault.jpg",
+        "title": "【ルームツアー】内装ごと引っ越せる!? 設計施工のプロの即興的建築な自邸",
+        "author": "ホビー不動産",
+        "duration": 0,
+        "verifiedAt": "2026-11-18T00:58:46+00:00"
+      },
+      "videoGallery": [
+        "https://i.ytimg.com/vi/klsYFzMheiM/hqdefault.jpg"
+      ],
+      "titleZh": "东京五十平方米公寓露出混凝土壳体",
+      "summaryZh": "改造剥离旧饰面，以胶合板和回收不锈钢构件组织居住、睡眠及湿区。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，改造剥离旧饰面，以胶合板和回收不锈钢构件组织居住、睡眠及湿区。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "在小面积空间里集中安排服务功能，可让主要活动区获得较完整的使用面。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 25.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "d58ce3a473bb1f2f",
+      "url": "https://www.creativeboom.com/inspiration/skull-caps-football-shirts-and-the-sweetness-of-male-friendship-in-nikolai-voelckers-photographs/",
+      "title": "Skull caps, football shirts and the sweetness of male friendship in Nikolai Voelcker's photographs",
+      "summary": "The Swiss photographer creates carefully staged, wonderfully surreal scenes of young men hanging out, finding beauty, tenderness and a little absurdity in the everyday rituals of friendship. There's",
+      "source": "Creative Boom",
+      "category": "视觉设计",
+      "image": "https://media.creativeboom.com/6ee62189-1070-49b5-8d3c-83ce7ff29283/conversions/84e1003f197898dbef4b46703848b7673ccc9e98-medium.webp",
+      "publishedAt": "2026-11-17T07:00:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 66.3,
+      "images": [
+        {
+          "url": "https://media.creativeboom.com/93e63a3a-a9c8-432e-8374-39f7203184b3/conversions/441357f0f5a0261d01a071cdecf78923843e4cbc-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/6ee62189-1070-49b5-8d3c-83ce7ff29283/conversions/84e1003f197898dbef4b46703848b7673ccc9e98-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/c945e46b-0334-440c-845c-19f22d3dc0e4/conversions/db418b357982f901f00ea6dcf8f3faa8d5d0de9f-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/cc2bca3e-ca29-466c-9053-3a7c5b0f61af/conversions/ea292fd6768c60928c230b533615cecd3be5552b-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/5d957ed5-8cd4-4f97-9a85-78bec8950830/conversions/0372ecdc1b78bba9bc28d72497ee5fa4088f6bc2-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/8b8469a4-3a63-4467-a1d4-543172adea3c/conversions/e0eb660a519d133ac684681cc6a787548d4bc3f6-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/51e69683-a5c0-4b86-9775-cf836834e38f/conversions/6e4078b831c8455f807d227557f215d240a7fefb-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/e268c438-975b-4fd3-b7ed-838ca719064f/conversions/4ac98c11b5088f167adb40a00da6ca0658b3e284-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/7da66762-cede-44a6-bc78-b5ebfb2b09a6/conversions/cf3720ab3a118206a434f1731ca37a122ce1a533-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/82f29ef0-2479-4163-b956-2cd31cb1b6c0/conversions/d526913e34acfc53240b1a71e4baf15c8ded10e7-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/8ff9f758-6653-4c2a-a216-41f8ed28c046/conversions/eb994d71fb8b7b0676a02a193c635111a9d699b3-large.webp"
+        }
+      ],
+      "titleZh": "摄影以精心安排的场景观察男性友谊",
+      "summaryZh": "摄影师通过带超现实感的青年相处场景，表现友谊中的温柔与日常关系。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，摄影师通过带超现实感的青年相处场景，表现友谊中的温柔与日常关系。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "人物站位、服装和物件可以帮助照片表达关系，观众仍能从熟悉的动作进入画面。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "079b7d2eb300e7f0",
+      "url": "https://www.creativeboom.com/inspiration/sheep-polka-dots-and-graphic-wanderings-inside-ines-launays-playful-world-of-illustration/",
+      "title": "Sheep, polka dots and graphic wanderings: inside Ines Launay's playful world of illustration",
+      "summary": "The French illustrator draws on everything from trail running and wooden toys to everyday encounters, piecing together charming, colourful compositions that celebrate the joy of making things.",
+      "source": "Creative Boom",
+      "category": "视觉设计",
+      "image": "https://media.creativeboom.com/ee1b9908-8317-4b38-a663-07ba378c6c00/conversions/0da3fe6d904f53d27725b7d2223bcd51e8466ebd-medium.webp",
+      "publishedAt": "2026-11-17T06:45:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 66.3,
+      "images": [
+        {
+          "url": "https://media.creativeboom.com/620d68af-c455-491e-bd14-c182025e8cd2/conversions/23c1d1e2ce79acaf020febade804b98045882c35-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/ee1b9908-8317-4b38-a663-07ba378c6c00/conversions/0da3fe6d904f53d27725b7d2223bcd51e8466ebd-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/10aadba3-1796-4c60-8a08-e2f3b599fbd9/conversions/18c7951c1097db7e902aaa7f37550ee7b7ef3d4f-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/58cf4dec-20b1-48ff-991b-ec68764fc42b/conversions/d54bb017d55aed6031fef968edadd786950401cf-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/c96e609e-3173-4a74-a0c7-8830f853ab2e/conversions/a16bc68879d44c2626e4266152629b089dae746c-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/765e8741-65c2-4e64-96a5-99a5742339d8/conversions/809fb5b325f42f5ac3ad2191e7c4e997a7fec1e7-large.webp"
+        }
+      ],
+      "titleZh": "插画把跑步与木玩具变成创作线索",
+      "summaryZh": "法国插画家从越野跑、木玩具和日常相遇中提取元素，组合成色彩鲜明的图像。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，法国插画家从越野跑、木玩具和日常相遇中提取元素，组合成色彩鲜明的图像。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "将不同生活经验转译为形状和配色，可以为系列作品提供持续变化的题材。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "7873ab1ebcdda639",
+      "url": "https://www.creativeboom.com/news/this-non-alcoholic-aperitif-packaging-was-made-with-real-plants-sunlight-and-embossed-glass/",
+      "title": "This non-alcoholic aperitif packaging was made with real plants, sunlight and embossed glass",
+      "summary": "Manchester agency Love has helped a no-alcohol brand move from bar shelves into people's homes. The zero-alcohol drinks market has come a long way. Nowadays, in all but the most traditional",
+      "source": "Creative Boom",
+      "category": "视觉设计",
+      "image": "https://media.creativeboom.com/8656258e-72e7-47a0-9f26-f477e98d187c/conversions/6e4a9bdaf0c46d9a0403be4e4f461a27291c41a0-medium.webp",
+      "publishedAt": "2026-11-17T06:30:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 73.3,
+      "images": [
+        {
+          "url": "https://media.creativeboom.com/a9582509-7215-4f87-8344-78c91899660e/conversions/a61042a61bf6527ae8e1cdd45e12f69d64c335a9-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/8656258e-72e7-47a0-9f26-f477e98d187c/conversions/6e4a9bdaf0c46d9a0403be4e4f461a27291c41a0-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/529287b4-4bd9-4da3-b1a8-3050e71b14d3/conversions/5c5a110201d30c2aceda34c5b849da30d8690cd3-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/b09d7ad5-dfe1-4c67-949f-e44dd1e067c8/conversions/341724748be60645dd9d9ebe7b5166239486c9d7-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/d80d5376-de73-43d5-b1ae-ec16e8707593/conversions/0d7abed2932cc104af91ede024c3fefb2293c6fe-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/3d774399-5013-4a1d-80b9-61ba144fd018/conversions/b2d6735b2ef8614914a8fac0b4df2fe075957d39-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/b4f527eb-8185-464f-b28d-940431fb84fa/conversions/9af0b440b3fd166e9bc52e208c07ea60d3d25d74-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/8085c563-9951-4b62-ac16-cf8aa2e24e85/conversions/5035d2037e1edc1475c66565354b596758168e2b-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/df762abb-ce45-44e0-90ed-74df7fdc0571/conversions/3129eed5700c5a197b762d7ee7092f255c57a1ff-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/48ae48c6-6b68-4d3e-9116-94b4098eae9b/conversions/4e5bf771930613ba41f1fae2666ed944007477a8-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/72dda5c0-64f8-4d6f-99b7-4a3185a50bce/conversions/478ff4c1cc5a0c199233d93993a2f6cb934d414d-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/9bce9640-45b0-4f63-a118-17bf2b77e679/conversions/06246c72d92d049eba02935c87da91947228bfeb-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/bc6a53d1-c988-4721-b5cb-a8d55a5a8f30/conversions/3d43faa9fb92182693a60ab811640e4986f630f3-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/37ddec71-3fb8-4cf8-86ab-7122aa86f4b1/conversions/1026c756f23229274ced9a9d66aad03ce19427ad-large.webp"
+        },
+        {
+          "url": "https://media.creativeboom.com/7195c89e-5060-46cc-b4f0-b49e2672a85d/conversions/7fd8a7c3557715c2c5de1c14ea11f8f95b5343d3-medium.webp"
+        }
+      ],
+      "video": {
+        "provider": "file",
+        "id": "https://media.creativeboom.com/3a7de5af-2e9d-4f9a-bc7d-f35402bcaa3b/3577c23b27ece7fc84be366db79af0eb73c0db7c.mp4",
+        "url": "https://media.creativeboom.com/3a7de5af-2e9d-4f9a-bc7d-f35402bcaa3b/3577c23b27ece7fc84be366db79af0eb73c0db7c.mp4",
+        "thumbnail": "",
+        "title": "",
+        "author": "",
+        "duration": 0,
+        "verifiedAt": "2026-11-18T00:58:46+00:00"
+      },
+      "titleZh": "无酒精开胃饮包装使用植物与阳光成像",
+      "summaryZh": "设计机构为无酒精饮品更新包装，结合真实植物、阳光形成的图像与压纹玻璃。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，设计机构为无酒精饮品更新包装，结合真实植物、阳光形成的图像与压纹玻璃。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "图像生成方式与瓶身触感共同表达植物原料，让包装在远看和近触时提供不同的信息。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 25.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "abe7f9c20924aba1",
+      "url": "https://www.dezeen.com/2026/11/17/isern-serra-designs-barcelona-pilates-studio-circl/",
+      "title": "Isern Serra designs bold colour-blocked interiors for Barcelona pilates studio",
+      "summary": "Spanish design practice Isern Serra has combined organic architectural forms and a vibrant colour palette for Circl, a pilates studio and matcha cafe located in Barcelona’s historic Eixample",
+      "source": "Dezeen",
+      "category": "空间设计",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_0-1024x1024.jpg",
+      "publishedAt": "2026-11-17T06:00:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 66.2,
+      "images": [
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_1-1536x864.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_1-1-1536x1152.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_48-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_49.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_2-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_2-1-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_4-1-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_6-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_4-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_5-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_7-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_46-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_44.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_43-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_9-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_42.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_45-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_16.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_17-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_15.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_14-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_13-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_12.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_11.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_10-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_8-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_18-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_41-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_28-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_27-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_32-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_40-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_24-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_37-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_22-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_20-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_19-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_25.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_26-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_31-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_36-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_21.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_39-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_38-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_30.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_29-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_34-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_35-scaled.jpg"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/Isern-Serra-colour-blocked-interior-Circl_dezeen_2364_col_33-1536x1152.jpg"
+        }
+      ],
+      "titleZh": "巴塞罗那普拉提空间组合有机形态与色块",
+      "summaryZh": "项目把普拉提工作室与抹茶咖啡馆结合，以曲面和鲜明颜色组织室内。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，项目把普拉提工作室与抹茶咖啡馆结合，以曲面和鲜明颜色组织室内。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "色彩分区可以提示活动转换，运动与社交区域也需通过通行和视线安排保持协调。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "aa05fe1d4e950497",
+      "url": "https://www.archdaily.com/1188510/vinzirast-am-land",
+      "title": "VinziRast am Land / gaupenraub+/-",
+      "summary": "Where a bankrupt luxury hotel once stood vacant, a pioneering model for inclusive living and working has taken root—one that answers poverty not with more poverty, but with quality, dignity, and genuine",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6af4/978d/eabd/2a00/0192/c69d/medium_jpg/VRaL_KK_9209_kurt-kuball.jpg?1794414530",
+      "publishedAt": "2026-11-17T06:00:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 66.3,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978d/eabd/2a00/0192/c6a5/thumb_jpg/VRaL_KK_DJI_0721_kurt-kuball.jpg?1794414567"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978d/eabd/2a00/0192/c69f/thumb_jpg/VRaL_KK_9587_kurt-kuball.jpg?1794414532"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978c/eabd/2a00/0192/c699/thumb_jpg/VRaL_KK_9066_kurt-kuball.jpg?1794414515"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978b/eabd/2a00/0192/c690/thumb_jpg/VRaL_KK_9602_kurt-kuball.jpg?1794414492"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978d/eabd/2a00/0192/c69d/medium_jpg/VRaL_KK_9209_kurt-kuball.jpg?1794414530"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978d/eabd/2a00/0192/c6a4/medium_jpg/VRaL_KK_DJI_0032_kurt-kuball.jpg?1794414548"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978c/eabd/2a00/0192/c694/medium_jpg/VRaL_KK_8332_kurt-kuball.jpg?1794414517"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978c/eabd/2a00/0192/c693/medium_jpg/VRaL_KK_8318_kurt-kuball.jpg?1794414542"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978d/eabd/2a00/0192/c69e/medium_jpg/VRaL_KK_9247_kurt-kuball.jpg?1794414546"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978c/eabd/2a00/0192/c696/medium_jpg/VRaL_KK_8994_kurt-kuball.jpg?1794414499"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978c/eabd/2a00/0192/c698/medium_jpg/VRaL_KK_9047_kurt-kuball.jpg?1794414499"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978c/eabd/2a00/0192/c69c/medium_jpg/VRaL_KK_9206_kurt-kuball.jpg?1794414514"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978c/eabd/2a00/0192/c697/medium_jpg/VRaL_KK_9027_kurt-kuball.jpg?1794414499"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978c/eabd/2a00/0192/c69b/medium_jpg/VRaL_KK_9157_kurt-kuball.jpg?1794414515"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978c/eabd/2a00/0192/c695/medium_jpg/VRaL_KK_8371_kurt-kuball.jpg?1794414497"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978c/eabd/2a00/0192/c69a/medium_jpg/VRaL_KK_9096_kurt-kuball.jpg?1794414516"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978d/eabd/2a00/0192/c6a1/medium_jpg/VRaL_KK_9684_kurt-kuball.jpg?1794414533"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978c/eabd/2a00/0192/c691/medium_jpg/VRaL_KK_9602_kurt-kuball.jpg?1794414507"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978d/eabd/2a00/0192/c6a0/medium_jpg/VRaL_KK_9640_kurt-kuball.jpg?1794414530"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978d/eabd/2a00/0192/c6a2/medium_jpg/VRaL_KK_9801_kurt-kuball.jpg?1794414550"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978d/eabd/2a00/0192/c6a3/medium_jpg/VRaL_KK_9861_kurt-kuball.jpg?1794414562"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978c/eabd/2a00/0192/c692/medium_jpg/VRaL_huehnerstall_gaupenraub.jpg?1794414525"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978d/eabd/2a00/0192/c6a9/medium_jpg/VRaL_GR-LP-500_gaupenraub.jpg?1794414584"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978d/eabd/2a00/0192/c6a8/medium_jpg/VRaL_GR-EG-100_gaupenraub.jpg?1794414595"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978d/eabd/2a00/0192/c6aa/medium_jpg/VRaL_SN-ANS-100_gaupenraub.jpg?1794414494"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978d/eabd/2a00/0192/c6a7/medium_jpg/VRaL_ANS-100_gaupenraub.jpg?1794414488"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af4/978d/eabd/2a00/0192/c6a6/medium_jpg/VRaL-organigramm_english__gaupenraub.jpg?1794414573"
+        }
+      ],
+      "titleZh": "闲置豪华酒店转为包容性生活与工作场所",
+      "summaryZh": "项目将空置酒店改造成提供生活和工作支持的设施，强调使用品质与尊严。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，项目将空置酒店改造成提供生活和工作支持的设施，强调使用品质与尊严。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "既有住宿建筑能为新用途提供基础，公共区域的共享方式则关系到使用者的独立与交流。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.3,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "6c45c01af93d0bdd",
+      "url": "https://www.archdaily.com/1188549/house-in-akashi-tato-architects",
+      "title": "House in Akashi / Tato Architects",
+      "summary": "In football, it is essential not to crowd together but to create room for yourself and your teammates to play. At the risk of a sports analogy, in this house too, what mattered most was how to create room — in other words, open",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6af5/a6b1/eabd/2a00/0192/d4b9/medium_jpg/aksr_010_DA.jpg?1794483916",
+      "publishedAt": "2026-11-17T02:00:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 66.2,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b1/eabd/2a00/0192/d4bb/thumb_jpg/aksr_013_DA.jpg?1794483947"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b2/eabd/2a00/0192/d4bf/thumb_jpg/aksr_018_DA.jpg?1794483971"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b2/eabd/2a00/0192/d4c4/thumb_jpg/aksr_038_DA.jpg?1794483915"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b2/eabd/2a00/0192/d4d0/thumb_jpg/aksr_057_DA.jpg?1794483930"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b1/eabd/2a00/0192/d4b9/medium_jpg/aksr_010_DA.jpg?1794483916"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b0/eabd/2a00/0192/d4b5/medium_jpg/aksr_003_DA.jpg?1794483907"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b0/eabd/2a00/0192/d4b6/medium_jpg/aksr_004_DA.jpg?1794483929"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b1/eabd/2a00/0192/d4b8/medium_jpg/aksr_009_DA.jpg?1794483914"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b0/eabd/2a00/0192/d4b7/medium_jpg/aksr_008_DA.jpg?1794483913"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b1/eabd/2a00/0192/d4bc/medium_jpg/aksr_014_DA.jpg?1794483934"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b2/eabd/2a00/0192/d4be/medium_jpg/aksr_017_DA.jpg?1794483954"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b2/eabd/2a00/0192/d4c0/medium_jpg/aksr_020_DA.jpg?1794483988"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b2/eabd/2a00/0192/d4c3/medium_jpg/aksr_034_DA.jpg?1794483980"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b2/eabd/2a00/0192/d4c2/medium_jpg/aksr_033_DA.jpg?1794483998"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b2/eabd/2a00/0192/d4c7/medium_jpg/aksr_044_DA.jpg?1794484004"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b2/eabd/2a00/0192/d4c9/medium_jpg/aksr_046_DA.jpg?1794484021"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b2/eabd/2a00/0192/d4cc/medium_jpg/aksr_052_DA.jpg?1794484055"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b2/eabd/2a00/0192/d4c1/medium_jpg/aksr_029_DA.jpg?1794483964"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b2/eabd/2a00/0192/d4cb/medium_jpg/aksr_051_DA.jpg?1794484064"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b2/eabd/2a00/0192/d4d1/medium_jpg/aksr_061_DA.jpg?1794484098"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b2/eabd/2a00/0192/d4d3/medium_jpg/House_in_Akashi_Plans-01.jpg?1794484044"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6af5/a6b2/eabd/2a00/0192/d4d2/medium_jpg/House-in-Akashi-Axonometric.jpg?1794484114"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ac5/115f/07c3/d100/017f/d95e/large_jpg/05_House_in_Mibu.jpg?1791299960"
+        }
+      ],
+      "titleZh": "明石住宅通过留出间距组织生活",
+      "summaryZh": "建筑师以为家人与活动留出空间为思路，探索住宅中各部分之间的关系。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，建筑师以为家人与活动留出空间为思路，探索住宅中各部分之间的关系。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "留白可以让活动有变化余地，空间组织也可借间距形成可共享和可独处的位置。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
     {
       "id": "1260fbde42e14be1",
       "url": "https://www.designboom.com/architecture/rounded-transitions-built-in-walnut-joinery-hong-kong-apartment-tk-tutti-collective/",
@@ -769,6 +3943,74 @@
       }
     },
     {
+      "id": "f54a904f5234a6b4",
+      "url": "https://www.stashmedia.tv/quorum-is-the-latest-buzz-from-colors-and-the-kids/",
+      "title": "“Quorum” is the Latest Buzz from Colors And The Kids",
+      "summary": "Few studios push harder on the limits of CG style than the team at Colors And The Kids in Berlin and this latest experimental piece, called Quorum (with music also produced in-house) is just the latest proof.",
+      "source": "Stash",
+      "category": "动态设计",
+      "image": "https://i.vimeocdn.com/video/2227155630-c39ae12279531f9fcc619dc24f0644e066a4c578c91f38a8e6964f98689231fa-d_1280?region=us",
+      "publishedAt": "2026-11-17T00:26:31+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 70.2,
+      "images": [
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/22Quorum22-CG-short-film-by-Colors-And-The-Kids-STASH-MAGAZINE-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/22Quorum22-CG-short-film-by-Colors-And-The-Kids-STASH-MAGAZINE2-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/22Quorum22-CG-short-film-by-Colors-And-The-Kids-STASH-MAGAZINE3-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/22Quorum22-CG-short-film-by-Colors-And-The-Kids-STASH-MAGAZINE4-2048x1152.jpg"
+        },
+        {
+          "url": "https://www.stashmedia.tv/wp-content/uploads/22Quorum22-CG-short-film-by-Colors-And-The-Kids-STASH-MAGAZINE5-2048x1152.jpg"
+        }
+      ],
+      "video": {
+        "provider": "vimeo",
+        "id": "1247356781",
+        "url": "https://player.vimeo.com/video/1247356781",
+        "thumbnail": "https://i.vimeocdn.com/video/2227155630-c39ae12279531f9fcc619dc24f0644e066a4c578c91f38a8e6964f98689231fa-d_1280?region=us",
+        "title": "CATK Quorum Short Film",
+        "author": "STASH",
+        "duration": 98,
+        "verifiedAt": "2026-11-18T00:58:46+00:00"
+      },
+      "videoGallery": [
+        "https://i.vimeocdn.com/video/2227155630-c39ae12279531f9fcc619dc24f0644e066a4c578c91f38a8e6964f98689231fa-d_1280?region=us"
+      ],
+      "titleZh": "柏林团队以实验短片探索三维风格",
+      "summaryZh": "创作团队发布实验作品，以计算机图形探索新的视觉造型和运动表达。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，创作团队发布实验作品，以计算机图形探索新的视觉造型和运动表达。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "实验短片能集中验证材料、形变与节奏的组合，为更长项目提供视觉依据。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 22.0,
+        "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
       "id": "c5c8c01209a8ee0b",
       "url": "https://thedieline.com/why-a-fast-growing-supplement-brand-ditched-the-badges-flags-and-gold-lids/",
       "title": "Why a Fast-Growing Supplement Brand Ditched the Badges, Flags, and Gold Lids",
@@ -850,6 +4092,112 @@
       "heat": {
         "recency": 20.0,
         "media": 3.0,
+        "completeness": 9.4,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "4688854f9bb14c96",
+      "url": "https://www.archdaily.com/1187950/haloplaza-hangzhou-vanke-mixed-use-complex-nikken-sekkei",
+      "title": "HaloPlaza Hangzhou Vanke Mixed-use Complex / Nikken Sekkei",
+      "summary": "By revitalizing a neglected canal, we created a fresh and vibrant urban environment and planned a continuous and open public space along the waterfront. Above this public space, multiple functions — including offices, retail, cultural, and serviced apartments — are vertically layered together with elevated open spaces. This…",
+      "source": "ArchDaily",
+      "category": "建筑设计",
+      "image": "https://images.adsttc.com/media/images/6ae8/81dc/bcbc/3500/01ae/ae70/medium_jpg/_Exterior_Facade1_ShenzhenGuyuArtCultureCommunication.jpg?1793622516",
+      "publishedAt": "2026-11-17T00:00:00+00:00",
+      "date": "2026-11-17",
+      "firstSeen": "2026-11-18",
+      "score": 66.4,
+      "images": [
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81de/bcbc/3500/01ae/ae79/thumb_jpg/Exterior_ShenzhenGuyuArtCultureCommunication_2880w.jpg?1793622546"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81dd/bcbc/3500/01ae/ae75/thumb_jpg/_Void_overview_ShenzhenGuyuArtCultureCommunication.jpg?1793622526"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81dc/bcbc/3500/01ae/ae6f/thumb_jpg/_Office_terrace_ShenzhenGuyuArtCultureCommunication.jpg?1793622516"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81de/bcbc/3500/01ae/ae77/thumb_jpg/Theater_canal_entrance__closeup__ShenzhenGuyuArtCultureCommunication.jpg?1793622539"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81dc/bcbc/3500/01ae/ae70/medium_jpg/_Exterior_Facade1_ShenzhenGuyuArtCultureCommunication.jpg?1793622516"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81dd/bcbc/3500/01ae/ae76/medium_jpg/Bird_s_eye_view_ShenzhenGuyuArtCultureCommunication.jpg?1793622521"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81dc/bcbc/3500/01ae/ae71/medium_jpg/_Rooftop_garden_ShenzhenGuyuArtCultureCommunication.jpg?1793622512"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81de/bcbc/3500/01ae/ae78/medium_jpg/Skylobby_ShenzhenGuyuArtCultureCommunication.jpg?1793622560"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81dc/bcbc/3500/01ae/ae73/medium_jpg/_Theater_movable_wall_ShenzhenGuyuArtCultureCommunication.jpg?1793622524"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81dd/bcbc/3500/01ae/ae74/medium_jpg/_Urban_void_ShenzhenGuyuArtCultureCommunication.jpg?1793622520"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81dc/bcbc/3500/01ae/ae72/medium_jpg/_Theater_front1_ShenzhenGuyuArtCultureCommunication.jpg?1793622519"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81de/bcbc/3500/01ae/ae83/medium_jpg/Open_Spaces_Inspire_Activity.jpg?1793622588"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81de/bcbc/3500/01ae/ae84/medium_jpg/Plan_Ground_floor.jpg?1793622618"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81de/bcbc/3500/01ae/ae7a/medium_jpg/Plan_Hotel.jpg?1793622569"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81de/bcbc/3500/01ae/ae7b/medium_jpg/Plan_Sevice_Apartment.jpg?1793622608"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81de/bcbc/3500/01ae/ae7d/medium_jpg/Section_South-North.jpg?1793622610"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81de/bcbc/3500/01ae/ae7c/medium_jpg/section_green-01.jpg?1793622564"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81de/bcbc/3500/01ae/ae7e/medium_jpg/Section_Theater_connected_to_external_space.jpg?1793622609"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81de/bcbc/3500/01ae/ae7f/medium_jpg/Theater_Section.jpg?1793622614"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81de/bcbc/3500/01ae/ae81/medium_jpg/Environmental_facility.jpg?1793622627"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81de/bcbc/3500/01ae/ae80/medium_jpg/3D_city_Stacked_building.jpg?1793622564"
+        },
+        {
+          "url": "https://images.adsttc.com/media/images/6ae8/81de/bcbc/3500/01ae/ae82/medium_jpg/Isometric_Drawing_Various_open_spaces.jpg?1793622546"
+        }
+      ],
+      "titleZh": "杭州综合体沿运河组织连续公共空间",
+      "summaryZh": "项目通过更新运河及其周边，在水岸布置连续开放的公共区域，并联系多种建筑功能。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，项目通过更新运河及其周边，在水岸布置连续开放的公共区域，并联系多种建筑功能。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "连贯的步行界面可以让不同功能共同面对水岸，也使公共活动获得更长的连续路径。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 15.0,
+        "media": 18.0,
         "completeness": 9.4,
         "source": 24.0
       }
@@ -2044,6 +5392,58 @@
         "recency": 15.0,
         "media": 19.0,
         "completeness": 9.2,
+        "source": 24.0
+      }
+    },
+    {
+      "id": "f8e41a92384561d5",
+      "url": "https://design-milk.com/arcadia-almeya-collection/",
+      "title": "Arcadia’s New Almeya Collection Marks A New Era of Flexible Design",
+      "summary": "The Almeya Collection offers a fluid seating experience that adapts to modern shifts in productivity and",
+      "source": "Design Milk",
+      "category": "工业设计",
+      "image": "https://design-milk.com/images/2026/11/15870_Arcadia_Almeya_Work-Lounge_1-v2-1500x1061.jpg",
+      "publishedAt": "2026-11-16T14:00:49+00:00",
+      "date": "2026-11-16",
+      "firstSeen": "2026-11-18",
+      "score": 57.0,
+      "images": [
+        {
+          "url": "https://design-milk.com/images/2026/11/15870_Arcadia_Almeya_Work-Lounge_1-v2.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/15870_Arcadia_Almeya_Modular_1.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/15870_Arcadia_Almeya_Benches_Portrait-v2.jpg"
+        },
+        {
+          "url": "https://design-milk.com/images/2026/11/15870_Arcadia_Almeya_Modular_2.jpg"
+        }
+      ],
+      "titleZh": "柔性座椅系列适应工作方式变化",
+      "summaryZh": "新座椅系列以灵活组合为方向，回应不同工作与交流场景。",
+      "reading": {
+        "basis": "feed",
+        "sections": [
+          {
+            "heading": "内容整理",
+            "paragraphs": [
+              "据公开订阅摘要，新座椅系列以灵活组合为方向，回应不同工作与交流场景。"
+            ]
+          },
+          {
+            "heading": "设计解读",
+            "paragraphs": [
+              "座椅系统的可调整性需要由尺寸、连接与搬动方式共同支持。"
+            ]
+          }
+        ]
+      },
+      "heat": {
+        "recency": 12.0,
+        "media": 12.0,
+        "completeness": 9.0,
         "source": 24.0
       }
     },
@@ -42801,6 +46201,53 @@
         "b9f8cf416f49561d"
       ],
       "updatedAt": "2026-11-17T08:56:17.920736+08:00"
+    },
+    {
+      "date": "2026-11-18",
+      "articleIds": [
+        "c7bfaeb5f640637a",
+        "a8b64ab3892d4fd5",
+        "d18443671daf0b7b",
+        "d9f5b85d239aec18",
+        "28bbffc433b80cef",
+        "7c7bdf4d9b239be8",
+        "c2ea4e3fe3c31d7c",
+        "ae7356b05b1209a2",
+        "fcbd06541bdef582",
+        "b053db3aeb217dad",
+        "96ddf0326b37a8b4",
+        "223aebb8513457c2",
+        "6113e79f27be98df",
+        "d2d324ea4e66787c",
+        "d30ee1385505a031",
+        "cf022edd207bbbd0",
+        "dca2058efb12eb7f",
+        "87ac43863eda9f8c",
+        "b160e13de84bb882",
+        "cbb3fe209ecd3f1f",
+        "a8ad82e80792f698",
+        "82759d5c7a8b6613",
+        "eb116e5b9eb148be",
+        "24aebbfac4a4a48b",
+        "ed135704b6f4a2a7",
+        "221fa579d2c1b35a",
+        "15e0a75c6e051e6b",
+        "fe8c9629e4f449cb",
+        "cbbfe8bf728d9270",
+        "3b3ce663cd563201",
+        "91c9391a99e9e119",
+        "18a23c09b8c1df35",
+        "d58ce3a473bb1f2f",
+        "079b7d2eb300e7f0",
+        "7873ab1ebcdda639",
+        "abe7f9c20924aba1",
+        "aa05fe1d4e950497",
+        "6c45c01af93d0bdd",
+        "f54a904f5234a6b4",
+        "4688854f9bb14c96",
+        "f8e41a92384561d5"
+      ],
+      "updatedAt": "2026-11-18T08:57:01.861126+08:00"
     }
   ],
   "rankingNote": "关注指数 100 分 = 时效 30 + 媒体 25 + 完整度 25 + 来源 20，依已核实字段计算，不是全网阅读量或点赞量。",
