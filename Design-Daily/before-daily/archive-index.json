@@ -1,33 +1,56 @@
 [
   {
-    "from": "2026-09-16",
-    "to": "2026-09-17",
+    "batch": "2026-09-16_2026-09-17",
+    "dates": [
+      "2026-09-16",
+      "2026-09-17"
+    ],
     "articles": 126,
-    "path": "reader-2026-09-16_2026-09-17.html"
+    "files": 1042,
+    "images": 1036,
+    "bytes": 336448612,
+    "sha256": "6dab3794defbeab02189eee7b31dddfd5c90bc227cf522cf9aab43d54b80eb86",
+    "tag": "archive-2026-09-16_2026-09-17",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-09-16_2026-09-17/2026-09-16_2026-09-17.zip",
+    "assetId": 766763299,
+    "verified": true
   },
   {
+    "batch": "2026-09-18_2026-09-21",
     "dates": [
       "2026-09-18",
       "2026-09-19",
       "2026-09-21"
     ],
-    "from": "2026-09-18",
-    "to": "2026-09-21",
     "articles": 110,
-    "path": "batches/2026-09-18_2026-09-21/index.html"
+    "files": 786,
+    "images": 782,
+    "bytes": 239554631,
+    "sha256": "6d77dc479ac1163fe600cd36e67b5a78413b2309fe4cc6d8b749d9abb8d21574",
+    "tag": "archive-2026-09-18_2026-09-21",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-09-18_2026-09-21/2026-09-18_2026-09-21.zip",
+    "assetId": 766734547,
+    "verified": true
   },
   {
+    "batch": "2026-09-22_2026-09-25",
     "dates": [
       "2026-09-22",
       "2026-09-24",
       "2026-09-25"
     ],
-    "from": "2026-09-22",
-    "to": "2026-09-25",
     "articles": 99,
-    "path": "batches/2026-09-22_2026-09-25/index.html"
+    "files": 687,
+    "images": 683,
+    "bytes": 245147792,
+    "sha256": "2190b986fa30f2a7d61ebacd4f89660e6db7f0f582bc764d90c45c800b7d4cbd",
+    "tag": "archive-2026-09-22_2026-09-25",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-09-22_2026-09-25/2026-09-22_2026-09-25.zip",
+    "assetId": 766736312,
+    "verified": true
   },
   {
+    "batch": "2026-09-26_2026-10-02",
     "dates": [
       "2026-09-26",
       "2026-09-27",
@@ -36,140 +59,204 @@
       "2026-09-30",
       "2026-10-02"
     ],
-    "from": "2026-09-26",
-    "to": "2026-10-02",
     "articles": 213,
-    "path": "batches/2026-09-26_2026-10-02/index.html",
-    "publicURL": "https://venico.github.io/Design-Daily-Archive/"
+    "files": 1280,
+    "images": 1276,
+    "bytes": 430022018,
+    "sha256": "a56763e78e44c30d134228ce300dd7d6710db5f2c67c62dc194b8724692bd854",
+    "tag": "archive-2026-09-26_2026-10-02",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-09-26_2026-10-02/2026-09-26_2026-10-02.zip",
+    "assetId": 766738022,
+    "verified": true
   },
   {
+    "batch": "2026-10-04_2026-10-05",
     "dates": [
       "2026-10-04",
       "2026-10-05"
     ],
-    "from": "2026-10-04",
-    "to": "2026-10-05",
     "articles": 38,
-    "path": "batches/2026-10-04_2026-10-05/index.html",
-    "publicURL": "https://venico.github.io/Design-Daily-Archive/batches/2026-10-04_2026-10-05/"
+    "files": 338,
+    "images": 334,
+    "bytes": 195018113,
+    "sha256": "7058648dba921c2efa19bc4a1747a8e0861c696569787892b3a9f69763dc5b71",
+    "tag": "archive-2026-10-04_2026-10-05",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-04_2026-10-05/2026-10-04_2026-10-05.zip",
+    "assetId": 766740796,
+    "verified": true
   },
   {
+    "batch": "2026-10-06_2026-10-06",
     "dates": [
       "2026-10-06"
     ],
-    "from": "2026-10-06",
-    "to": "2026-10-06",
     "articles": 48,
-    "path": "batches/2026-10-06_2026-10-06/index.html",
-    "publicURL": "https://venico.github.io/Design-Daily-Archive/batches/2026-10-06_2026-10-06/"
+    "files": 393,
+    "images": 389,
+    "bytes": 175681462,
+    "sha256": "6823cb03fa5824e8e0437cfb3c867baba69dea1ab1c180978192dc05987b309e",
+    "tag": "archive-2026-10-06_2026-10-06",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-06_2026-10-06/2026-10-06_2026-10-06.zip",
+    "assetId": 766743059,
+    "verified": true
   },
   {
+    "batch": "2026-10-07_2026-10-09",
     "dates": [
       "2026-10-07",
       "2026-10-08",
       "2026-10-09"
     ],
-    "from": "2026-10-07",
-    "to": "2026-10-09",
     "articles": 179,
-    "path": "batches/2026-10-07_2026-10-09/index.html",
-    "publicURL": "https://venico.github.io/Design-Daily-Archive-2/"
+    "files": 1240,
+    "images": 1236,
+    "bytes": 432037541,
+    "sha256": "7e4f511a009ac5881f0a6ce06d61de2414b1707309b7db9c02d3d2563f0bdbc6",
+    "tag": "archive-2026-10-07_2026-10-09",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-07_2026-10-09/2026-10-07_2026-10-09.zip",
+    "assetId": 766767498,
+    "verified": true
   },
   {
+    "batch": "2026-10-10_2026-10-12",
     "dates": [
       "2026-10-10",
       "2026-10-11",
       "2026-10-12"
     ],
-    "from": "2026-10-10",
-    "to": "2026-10-12",
     "articles": 140,
-    "path": "batches/2026-10-10_2026-10-12/index.html",
-    "publicURL": "https://venico.github.io/Design-Daily-Archive-2/batches/2026-10-10_2026-10-12/"
+    "files": 925,
+    "images": 921,
+    "bytes": 290689764,
+    "sha256": "2b6419270fbcded6e0f06258f94a04e316196d931f1b00bdecc44d6b44d2609a",
+    "tag": "archive-2026-10-10_2026-10-12",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-10_2026-10-12/2026-10-10_2026-10-12.zip",
+    "assetId": 766755048,
+    "verified": true
   },
   {
+    "batch": "2026-10-13_2026-10-14",
     "dates": [
       "2026-10-13",
       "2026-10-14"
     ],
-    "from": "2026-10-13",
-    "to": "2026-10-14",
     "articles": 160,
-    "path": "batches/2026-10-13_2026-10-14/index.html",
-    "publicURL": "https://venico.github.io/Design-Daily-Archive-3/"
+    "files": 1396,
+    "images": 1392,
+    "bytes": 533706414,
+    "sha256": "3827492e8cea57382757f43da3244dc97ec4e1620e2e7dbfad9b678d3074cea7",
+    "tag": "archive-2026-10-13_2026-10-14",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-13_2026-10-14/2026-10-13_2026-10-14.zip",
+    "assetId": 766757670,
+    "verified": true
   },
   {
+    "batch": "2026-10-15_2026-10-15",
     "dates": [
       "2026-10-15"
     ],
-    "from": "2026-10-15",
-    "to": "2026-10-15",
     "articles": 67,
-    "path": "batches/2026-10-15_2026-10-15/index.html",
-    "publicURL": "https://venico.github.io/Design-Daily-Archive-3/batches/2026-10-15_2026-10-15/"
+    "files": 480,
+    "images": 476,
+    "bytes": 194830846,
+    "sha256": "313526ef0f936c072fdd89f4e28fe72af755fd926a5800b7b5104d7d5ceec6f6",
+    "tag": "archive-2026-10-15_2026-10-15",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-15_2026-10-15/2026-10-15_2026-10-15.zip",
+    "assetId": 766762840,
+    "verified": true
   },
   {
+    "batch": "2026-10-16_2026-10-17",
     "dates": [
       "2026-10-16",
       "2026-10-17"
     ],
-    "from": "2026-10-16",
-    "to": "2026-10-17",
     "articles": 151,
-    "path": "batches/2026-10-16_2026-10-17/index.html",
-    "publicURL": "https://venico.github.io/Design-Daily-Archive-4/"
+    "files": 1052,
+    "images": 1048,
+    "bytes": 426850556,
+    "sha256": "5989fb8a010e6181f1e11e0dbf5bd3a4ef7e846f09e7bd06d80a609417a5c6b9",
+    "tag": "archive-2026-10-16_2026-10-17",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-16_2026-10-17/2026-10-16_2026-10-17.zip",
+    "assetId": 766764348,
+    "verified": true
   },
   {
+    "batch": "2026-10-18_2026-10-21",
     "dates": [
       "2026-10-18",
       "2026-10-19",
       "2026-10-20",
       "2026-10-21"
     ],
-    "from": "2026-10-18",
-    "to": "2026-10-21",
     "articles": 222,
-    "path": "batches/2026-10-18_2026-10-21/index.html",
-    "publicURL": "https://venico.github.io/Design-Daily-Archive-5/"
+    "files": 1560,
+    "images": 1556,
+    "bytes": 597142404,
+    "sha256": "0c6291ca4aad666f540535520c12fdb0374bdded0e57df4172a4f603967ce57c",
+    "tag": "archive-2026-10-18_2026-10-21",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-18_2026-10-21/2026-10-18_2026-10-21.zip",
+    "assetId": 766767054,
+    "verified": true
   },
   {
+    "batch": "2026-10-22_2026-10-22",
     "dates": [
       "2026-10-22"
     ],
-    "from": "2026-10-22",
-    "to": "2026-10-22",
     "articles": 92,
-    "path": "batches/2026-10-22_2026-10-22/index.html",
-    "publicURL": "https://venico.github.io/Design-Daily-Archive-5/batches/2026-10-22_2026-10-22/index.html"
+    "files": 857,
+    "images": 853,
+    "bytes": 319315251,
+    "sha256": "21752223de916f33875db33328dcc5488cda355a7d3eb416c7cb034b8a734019",
+    "tag": "archive-2026-10-22_2026-10-22",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-22_2026-10-22/2026-10-22_2026-10-22.zip",
+    "assetId": 766770417,
+    "verified": true
   },
   {
+    "batch": "2026-10-23_2026-10-23",
     "dates": [
       "2026-10-23"
     ],
-    "from": "2026-10-23",
-    "to": "2026-10-23",
     "articles": 91,
-    "path": "batches/2026-10-23_2026-10-23/index.html",
-    "publicURL": "https://venico.github.io/Design-Daily-Archive-6/batches/2026-10-23_2026-10-23/"
+    "files": 844,
+    "images": 840,
+    "bytes": 318872028,
+    "sha256": "d0110e4bf7e4411417ce99714020877ebc0e6a86cc5d635010d1012bb5531ba2",
+    "tag": "archive-2026-10-23_2026-10-23",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-23_2026-10-23/2026-10-23_2026-10-23.zip",
+    "assetId": 766774624,
+    "verified": true
   },
   {
+    "batch": "2026-10-24_2026-10-24",
     "dates": [
       "2026-10-24"
     ],
-    "from": "2026-10-24",
-    "to": "2026-10-24",
     "articles": 87,
-    "path": "batches/2026-10-24_2026-10-24/index.html",
-    "publicURL": "https://venico.github.io/Design-Daily-Archive-6/batches/2026-10-24_2026-10-24/"
+    "files": 1098,
+    "images": 1094,
+    "bytes": 489479978,
+    "sha256": "e852476df41bf10b298f5ad8916ed9015af8de40290695ca3963a9753f5fceeb",
+    "tag": "archive-2026-10-24_2026-10-24",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-24_2026-10-24/2026-10-24_2026-10-24.zip",
+    "assetId": 766776832,
+    "verified": true
   },
   {
+    "batch": "2026-10-25_2026-10-25",
     "dates": [
       "2026-10-25"
     ],
-    "from": "2026-10-25",
-    "to": "2026-10-25",
     "articles": 33,
-    "path": "batches/2026-10-25_2026-10-25/index.html",
-    "publicURL": "https://venico.github.io/Design-Daily-Archive-6/batches/2026-10-25_2026-10-25/"
+    "files": 405,
+    "images": 401,
+    "bytes": 164992948,
+    "sha256": "77e08e0a7283d5640e2fe353411ff3ad4b9555ef75223c438ef5033844ea3dfc",
+    "tag": "archive-2026-10-25_2026-10-25",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-25_2026-10-25/2026-10-25_2026-10-25.zip",
+    "assetId": 766780507,
+    "verified": true
   }
 ]
