@@ -273,5 +273,20 @@
     "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-26_2026-10-26/2026-10-26_2026-10-26.zip",
     "assetId": 781043928,
     "verified": true
+  },
+  {
+    "batch": "2026-10-27_2026-10-27",
+    "dates": [
+      "2026-10-27"
+    ],
+    "articles": 72,
+    "files": 932,
+    "images": 928,
+    "bytes": 425109282,
+    "sha256": "fddb9a4be870fda8d07a37262d85cbebd8af82eab8352e03b52350f7da4b3afd",
+    "tag": "archive-2026-10-27_2026-10-27",
+    "url": "https://github.com/venico/Design-Daily-Archive/releases/download/archive-2026-10-27_2026-10-27/2026-10-27_2026-10-27.zip",
+    "assetId": 785213570,
+    "verified": true
   }
 ]
